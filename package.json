@@ -1,6 +1,6 @@
 {
   "name": "@tyleretters/discography",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A canonical discography of the music of Tyler Etters in JSON.",
   "main": "dist/index.js",
   "repository": {

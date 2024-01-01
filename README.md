@@ -18,7 +18,8 @@ Built with Python 3.11.5. Imports:
 ## Usage Instructions
 
 - `npm i @tyleretters/discography`
-- `import discogrpahy from '@tyleretters/discography/dist/data.json'`
+- `import discography from '@tyleretters/discography/dist/data.json'`
+- `console.log(discography)`
 
 ## Development Instructions
 
