@@ -35,7 +35,7 @@ def make_slug(str):
   return str
 
 # load data
-with open("data.yml", "r") as yml_file:
+with open("./data.yml", "r") as yml_file:
   data = yaml.safe_load(yml_file)
 
 # enrich data

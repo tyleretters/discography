@@ -15,10 +15,19 @@ Built with Python 3.11.5. Imports:
 - hashlib
 - datetime
 
-## Instructions
+## Usage Instructions
+
+- `npm i @tyleretters/discography`
+- `import discogrpahy from '@tyleretters/discography/dist/data.json'`
+
+## Development Instructions
 
 - clone discography
 - `cd discography/src`
 - `chmod 700 convert.py`
 - `./convert.py`
 - `cat ../dist/data.json`
+
+## Publishing
+
+- `npm publish --access public`
