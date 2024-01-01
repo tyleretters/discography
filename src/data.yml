@@ -1,6 +1,6 @@
 - title: IN DARKNESS RADIANT
   project: STUXNET
-  date: 02023-12-22
+  released: 02023-12-22
   type: LP
   format: Digital
   role: Operator
@@ -41,7 +41,7 @@
 
 - title: FADE SCATTER REPLICATE
   project: STUXNET
-  date: 02023-03-20
+  released: 02023-03-20
   type: LP
   format: Digital
   role: Operator
@@ -78,7 +78,7 @@
 
 - title: EP2
   project: They Became What They Beheld
-  date: 02022-03-12
+  released: 02022-03-12
   type: EP
   format: Digital
   role: Principal Musician
@@ -105,7 +105,7 @@
 
 - title: Deep State Music
   project: Sidereal Lobby
-  date: 02021-09-04
+  released: 02021-09-04
   type: Triple LP
   format: Digital
   role: Band Member
@@ -127,7 +127,7 @@
 
 - title: FCV
   project: Sidereal Lobby
-  date: 02021-09-04
+  released: 02021-09-04
   type: Triple LP
   format: Digital
   role: Band Member
@@ -153,7 +153,7 @@
 
 - title: Beaches
   project: Sidereal Lobby
-  date: 02021-09-04
+  released: 02021-09-04
   type: Triple LP
   format: Digital
   role: Band Member
@@ -183,7 +183,7 @@
 
 - title: HUMAN INTERFERENCE TASK FORCE
   project: STUXNET
-  date: 02021-07-26
+  released: 02021-07-26
   type: LP
   format: Digital
   role: Operator
@@ -218,7 +218,7 @@
 
 - title: COUNTERSURVEILLANCE
   project: STUXNET
-  date: 02021-07-07
+  released: 02021-07-07
   type: LP
   format: Digital
   role: Operator
@@ -253,7 +253,7 @@
 
 - title: LONG LIVE THE LOST ONES
   project: STUXNET
-  date: 02021-05-01
+  released: 02021-05-01
   type: LP
   format: Digital
   role: Operator
@@ -307,7 +307,7 @@
 
 - title: TIME'S FIREWALL (demo)
   project: STUXNET
-  date: 02021-04-18
+  released: 02021-04-18
   type: Demo
   format: Digital
   role: Operator
@@ -330,7 +330,7 @@
 
 - title: MATRYOSHKA (demo)
   project: STUXNET
-  date: 02021-04-10
+  released: 02021-04-10
   type: Demo
   format: Digital
   role: Operator
@@ -377,7 +377,7 @@
 
 - title: CIPHER SUITE (demo)
   project: STUXNET
-  date: 02021-03-28
+  released: 02021-03-28
   type: Demo
   format: Digital
   role: Operator
@@ -443,7 +443,7 @@
 
 - title: CARRIER (demo)
   project: STUXNET
-  date: 02021-03-14
+  released: 02021-03-14
   type: Demo
   format: Digital
   role: Operator
@@ -482,7 +482,7 @@
 
 - title: The Arecibo Lamentations
   project: Northern Information
-  date: 02020-12-13
+  released: 02020-12-13
   type: LP
   format: Digital
   role: Principal Musician
@@ -539,7 +539,7 @@
 
 - title: EP1
   project: They Became What They Beheld
-  date: 02019-03-03
+  released: 02019-03-03
   type: EP
   format: Digital
   role: Principal Musician
@@ -576,7 +576,7 @@
 
 - title: reverence
   project: tyler etters & the northern information movement
-  date: 02017-12-22
+  released: 02017-12-22
   type: LP
   format: Digital
   role: Principal Musician
@@ -639,7 +639,7 @@
 
 - title: dispatches from the prime meridian
   project: tyler etters & the northern information movement
-  date: 02017-12-21
+  released: 02017-12-21
   type: LP
   format: Digital
   role: Principal Musician
@@ -694,7 +694,7 @@
 
 - title: the legacy of our lost cause
   project: tyler etters & the northern information movement
-  date: 02017-01-17
+  released: 02017-01-17
   type: LP
   format: Digital
   role: Principal Musician
@@ -748,7 +748,7 @@
 
 - title: and though the soft apocalypse may yet overtake
   project: tyler etters & the northern information movement
-  date: 02015-06-21
+  released: 02015-06-21
   type: LP
   format: Digital
   role: Principal Musician
@@ -822,7 +822,7 @@
 
 - title: zulu
   project: tyler etters & the northern information movement
-  date: 02015-03-29
+  released: 02015-03-29
   type: LP
   format: Digital
   role: Band Member
@@ -854,7 +854,7 @@
 
 - title: the phantoms of our lost cause
   project: tyler etters & the northern information movement
-  date: 02015-01-01
+  released: 02015-01-01
   type: LP
   format: Digital
   role: Principal Musician
@@ -927,7 +927,7 @@
 
 - title: senescence
   project: tyler etters & the northern information movement
-  date: 02013-09-23
+  released: 02013-09-23
   type: LP
   format: Digital
   role: Principal Musician
@@ -962,7 +962,7 @@
 
 - title: blue, the most celestial color
   project: tyler etters & the northern information movement
-  date: 2013
+  released: 02013-06-21
   type: LP
   format: Digital
   role: Principal Musician
@@ -1015,7 +1015,7 @@
 
 - title: the geometrie of our lost cause
   project: tyler etters & the northern information movement
-  date: 02013-01-01
+  released: 02013-01-01
   type: LP
   format: Cassette, Digital
   role: Principal Musician
@@ -1044,7 +1044,7 @@
 
 - title: Prolegomenon
   project: Connectedness Locus
-  date: 02012-10-15
+  released: 02012-10-15
   type: EP
   format: Digital
   role: Principal Musician
@@ -1069,7 +1069,7 @@
 
 - title: Terraforms
   project: Connectedness Locus
-  date: 02011-07-30
+  released: 02011-07-30
   type: LP
   format: CD, Digital
   role: Principal Musician
@@ -1112,7 +1112,7 @@
 
 - title: When the Paint Peels
   project: Connectedness Locus
-  date: 02010-02-18
+  released: 02010-02-18
   type: EP
   format: Digital
   role: Principal Musician
@@ -1129,7 +1129,7 @@
 
 - title: Serial Index of Unclaimed Memories, File 1
   project: Everything Comes in Cycles; Everything Fades in Shades
-  date: 02009-09-01
+  released: 02009-09-01
   type: LP
   format: Digital
   role: Band Member
@@ -1169,7 +1169,7 @@
 
 - title: Serial Index of Unclaimed Memories, File 2
   project: Everything Comes in Cycles; Everything Fades in Shades
-  date: 02009-09-01
+  released: 02009-09-01
   type: LP
   format: Digital
   role: Band Member
@@ -1209,7 +1209,7 @@
 
 - title: As Quippolous Codes Quietly Count
   project: Connectedness Locus
-  date: 02009-09-01
+  released: 02009-09-01
   type: LP
   format: CD, Digital
   role: Principal Musician
@@ -1264,7 +1264,7 @@
 
 - title: Gates E.P.
   project: Everything Comes in Cycles; Everything Fades in Shades
-  date: 02008-09-11
+  released: 02008-09-11
   type: EP
   format: CD, Digital
   role: Band Member
@@ -1295,7 +1295,7 @@
 
 - title: Suntelia Aeon
   project: Inocula
-  date: 02008-??-??
+  released: 02008-??-??
   type: LP
   format: CD, Digital
   role: Band Member
@@ -1350,7 +1350,7 @@
 
 - title: Organica Lensing
   project: Lucid End
-  date: 02007-??-??
+  released: 02007-??-??
   type: Single
   format: CD
   role: Principal Musician
@@ -1366,7 +1366,7 @@
 
 - title: The Killing Tree
   project: Lucid End
-  date: 02007-??-??
+  released: 02007-??-??
   type: Single
   format: CD-R
   role: Principal Musician
@@ -1382,7 +1382,7 @@
 
 - title: Time to Breathe; Time to Think
   project: Lucid End
-  date: 02007-??-??
+  released: 02007-??-??
   type: LP
   format: CD-R
   role: Principal Musician
@@ -1428,7 +1428,7 @@
 
 - title: Descent Into Dreams
   project: Ix
-  date: 02007-04-08
+  released: 02007-04-08
   type: LP
   format: CD
   role: Band Member
@@ -1483,7 +1483,7 @@
 
 - title: Yet These Memories Isolated Us
   project: Ix
-  date: 02006-??-??
+  released: 02006-??-??
   type: Single
   format: CD-R
   role: Band Member
@@ -1505,7 +1505,7 @@
 
 - title: Files
   project: Lucid End
-  date: 02006-??-??
+  released: 02006-??-??
   type: EP
   format: CD-R
   role: Principal Musician
@@ -1539,7 +1539,7 @@
 
 - title: Ix E.P.
   project: Ix
-  date: 02006-??-??
+  released: 02006-??-??
   type: EP
   format: CD-R
   role: Band Member
