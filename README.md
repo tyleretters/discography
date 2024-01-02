@@ -2,8 +2,6 @@
 
 - This repo builds a canonical discography of the music of Tyler Etters.
 - This discography is incomplete.
-- Edit the `src/data.yml` file then run `npm run build` to generate JSON.
-- `src/data.json` is a symlink to `dist/data.json` for now.
 - Release dates are in a modified "Long Now" format, prefixed with `0`. This also solves for some date/object/string/parsing/conversion issues.
 
 ## Requirements
