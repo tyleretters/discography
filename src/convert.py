@@ -6,21 +6,24 @@ convert the yml to json.
 see README.md for more information.
 '''
 
+import os
 import yaml
 import json
 import re
 import hashlib
 from datetime import datetime
 
-def make_id(str):
-  md5_hash = hashlib.md5()
-  md5_hash.update(str.encode("utf-8"))
-  return md5_hash.hexdigest()
-
 special_maps = {
   "ΑΙΓΑΙΙΣ": "AIGAIIS",
   "nausicaä": "nausicaa"
 }
+
+dir_path = os.path.dirname(os.path.realpath(__file__))
+
+def make_id(str):
+  md5_hash = hashlib.md5()
+  md5_hash.update(str.encode("utf-8"))
+  return md5_hash.hexdigest()
 
 def make_slug(str):
   if str in special_maps:
@@ -35,7 +38,7 @@ def make_slug(str):
   return str
 
 # load data
-with open("./data.yml", "r") as yml_file:
+with open(dir_path + "/data.yml", "r") as yml_file:
   data = yaml.safe_load(yml_file)
 
 # enrich data
@@ -60,5 +63,5 @@ for release in data:
       track["id"] = make_id(release["project"] + release["title"] + str(track["number"]) + track["title"] + track["length"])
 
 # write data
-with open("../dist/data.json", "w") as json_file:
+with open(dir_path + "/../dist/data.json", "w") as json_file:
   json.dump(data, json_file, indent=2)

@@ -162,7 +162,7 @@
     "id": "02cd98a73d97e2e915afc5da5d4eb7f3"
   },
   {
-    "title": "FCV",
+    "title": "FCIV",
     "project": "Sidereal Lobby",
     "released": "02021-09-04",
     "type": "Triple LP",
@@ -175,28 +175,28 @@
         "title": "Mental Dub (Lisbon)",
         "length": "00:04:18",
         "track_slug": "mental-dub-lisbon",
-        "id": "1571a6c372a8858410e2524488ad5c59"
+        "id": "3bf748959775ac0693551fafb0b0c5f4"
       },
       {
         "number": 2,
         "title": "Mental Dub (Des Moines)",
         "length": "00:04:10",
         "track_slug": "mental-dub-des-moines",
-        "id": "7d5dc890e378614d331ac496229c5018"
+        "id": "7beb9360e3ece1b46c64ccd5200a6d48"
       },
       {
         "number": 3,
         "title": "Mental Dub (Null Lake)",
         "length": "00:04:20",
         "track_slug": "mental-dub-null-lake",
-        "id": "4b3bd99c1714cb8d55166b7d184086c4"
+        "id": "787697adcb5356df5c68c444d3a8b49e"
       }
     ],
     "notes": "Dub is a refraction of alien consciousness\nFlash Crash was approaching. The folks running the event wanted dub in their interstitial program. I complied.\nIt began with Mental Dub, constructed entirely in Ableton Live with stock samples and soft synths. The other human loaded its stems into his Octatrack for further mutation, which became Des Moines. The first human further mutated Des Moines within Ableton to create Null Lake. The humans had little hesitation about mix or levels.\nOne (and only one) of the humans does have a bit of regret that Mental Dub Lisbon was 100% created by them and not the other. In other words, the other did not have any samples, or audio, or melody at all, but both humans concurred it was OK because it all took place in the Sidereal Lobby.\nMost of the above thoughts were originally transcribed via text-to-speech processing in a Taco Bell parking lot. The allure of Baja Blast is known to be irresistible to sidereal lobbyists.\n",
     "credits": "Laws & Etters, mmxxi\n",
-    "release_slug": "fcv",
+    "release_slug": "fciv",
     "project_slug": "sidereal-lobby",
-    "id": "85816db77f837fdb55aa5bd1ac983273"
+    "id": "059fb2cd3faa8fa9af2b1364c1190abe"
   },
   {
     "title": "Beaches",

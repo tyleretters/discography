@@ -1,19 +1,14 @@
 # Discography
 
-- This repo builds a canonical discography of the music of Tyler Etters in JSON.
-- Edit the `src/data.yml` file then run `convert.py` to generate JSON.
-- Release dates are in a modified "Long Now" format, prefixed with `0`. This also solves for some date/object/string/parsing/conversion issues.
+- This repo builds a canonical discography of the music of Tyler Etters.
 - This discography is incomplete.
+- Edit the `src/data.yml` file then run `npm run build` to generate JSON.
+- `src/data.json` is a symlink to `dist/data.json` for now.
+- Release dates are in a modified "Long Now" format, prefixed with `0`. This also solves for some date/object/string/parsing/conversion issues.
 
 ## Requirements
 
-Built with Python 3.11.5. Imports:
-
-- yaml
-- json
-- re
-- hashlib
-- datetime
+JSON script built with Python 3.11.5. See `src/convert.py` for required imports.
 
 ## Usage Instructions
 
@@ -24,11 +19,19 @@ Built with Python 3.11.5. Imports:
 ## Development Instructions
 
 - clone discography
-- `cd discography/src`
-- `chmod 700 convert.py`
-- `./convert.py`
-- `cat ../dist/data.json`
+- `cd discography`
+- `chmod 700 src/convert.py`
+- `npm run dev`
+
+## Build JSON
+
+- `npm run build`
+
+or
+
+- `./src/convert.py`
 
 ## Publishing
 
-- `npm publish --access public`
+- `npm run build`
+- `npm publish`
