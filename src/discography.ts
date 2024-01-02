@@ -1,4 +1,4 @@
-[
+export const discography = [
   {
     "title": "IN DARKNESS RADIANT",
     "project": "STUXNET",

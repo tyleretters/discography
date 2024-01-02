@@ -13,12 +13,14 @@ import re
 import hashlib
 from datetime import datetime
 
+dir_path = os.path.dirname(os.path.realpath(__file__))
+yml_path = dir_path + "/" + "discography.yml"
+ts_path = dir_path + "/" + "discography.ts"
+
 special_maps = {
   "ΑΙΓΑΙΙΣ": "AIGAIIS",
   "nausicaä": "nausicaa"
 }
-
-dir_path = os.path.dirname(os.path.realpath(__file__))
 
 def make_id(str):
   md5_hash = hashlib.md5()
@@ -38,7 +40,7 @@ def make_slug(str):
   return str
 
 # load data
-with open(dir_path + "/data.yml", "r") as yml_file:
+with open(yml_path, "r") as yml_file:
   data = yaml.safe_load(yml_file)
 
 # enrich data
@@ -62,6 +64,15 @@ for release in data:
       # generate an id (ARTIST + RELEASE + NUMBER + TITLE + LENGTH)
       track["id"] = make_id(release["project"] + release["title"] + str(track["number"]) + track["title"] + track["length"])
 
-# write data
-with open(dir_path + "/../dist/data.json", "w") as json_file:
+# write discography data
+with open(ts_path, "w") as json_file:
   json.dump(data, json_file, indent=2)
+
+# make it a js export
+with open(ts_path, "r") as file:
+  existing_contents = file.read()
+
+with open(ts_path, "w") as file:
+  new_string = "export const discography = "
+  file.write(new_string)
+  file.write(existing_contents)

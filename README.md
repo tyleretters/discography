@@ -13,8 +13,7 @@ JSON script built with Python 3.11.5. See `src/convert.py` for required imports.
 ## Usage Instructions
 
 - `npm i @tyleretters/discography`
-- `import discography from '@tyleretters/discography/dist/data.json'`
-- `console.log(discography)`
+- `import discography from '@tyleretters/discography'`
 
 ## Development Instructions
 
@@ -23,13 +22,9 @@ JSON script built with Python 3.11.5. See `src/convert.py` for required imports.
 - `chmod 700 src/convert.py`
 - `npm run dev`
 
-## Build JSON
+## Convert YML
 
-- `npm run build`
-
-or
-
-- `./src/convert.py`
+- `npm run convert`
 
 ## Publishing
 
