@@ -22,6 +22,8 @@ JSON script built with Python 3.11.5. See `src/convert.py` for required imports.
 
 ## Convert YML
 
+Whenever you update the `discography.yml` file, be sure to convert it to `discography.ts` with:
+
 - `npm run convert`
 
 ## Publishing
