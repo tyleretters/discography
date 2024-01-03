@@ -5,6 +5,8 @@
   format: Digital
   role: Operator
   label: Intertext
+  mp3: true
+  wav: false
   tracks:
   - number: 1
     title: Tiresias
@@ -46,6 +48,8 @@
   format: Digital
   role: Operator
   label: Intertext
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: Sources and Methods
@@ -83,6 +87,8 @@
   format: Digital
   role: Principal Musician
   label: Intertext
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: Things are different now
@@ -110,6 +116,8 @@
   format: Digital
   role: Band Member
   label: Map Corps
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: Deep State Music
@@ -132,6 +140,8 @@
   format: Digital
   role: Band Member
   label: Map Corps
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: Mental Dub (Lisbon)
@@ -158,6 +168,8 @@
   format: Digital
   role: Band Member
   label: Map Corps
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: conch
@@ -188,6 +200,8 @@
   format: Digital
   role: Operator
   label: Intertext
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: that it is a message at all
@@ -223,6 +237,8 @@
   format: Digital
   role: Operator
   label: Intertext
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: Dazzle Camouflage (MUA)
@@ -258,6 +274,8 @@
   format: Digital
   role: Operator
   label: Intertext
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: Our world was always fallen but there was always light.
@@ -312,6 +330,8 @@
   format: Digital
   role: Operator
   label: Intertext
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: Time's Firewall
@@ -335,6 +355,8 @@
   format: Digital
   role: Operator
   label: Intertext
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: The Payload Appeared Yesterday Due to a Zero Day Timezone Conversion Vulnerability
@@ -382,6 +404,8 @@
   format: Digital
   role: Operator
   label: Intertext
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: Trapdoor Function
@@ -448,6 +472,8 @@
   format: Digital
   role: Operator
   label: Intertext
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: plateau
@@ -487,6 +513,8 @@
   format: Digital
   role: Principal Musician
   label: Intertext
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: one is opposite six
@@ -544,6 +572,8 @@
   format: Digital
   role: Principal Musician
   label: Intertext
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: Everything is everywhere now
@@ -581,6 +611,8 @@
   format: Digital
   role: Principal Musician
   label: Endless Field Studios
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: the snail shell graveyard (w/ david)
@@ -644,6 +676,8 @@
   format: Digital
   role: Principal Musician
   label: Endless Field Studios
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: surveillance industrial complex
@@ -699,6 +733,8 @@
   format: Digital
   role: Principal Musician
   label: Endless Field Studios
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: arcadian nights
@@ -753,6 +789,8 @@
   format: Digital
   role: Principal Musician
   label: Endless Field Studios
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: and though the soft apocalypse may yet overtake
@@ -827,6 +865,8 @@
   format: Digital
   role: Band Member
   label: Endless Field Studios
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: OS1
@@ -859,6 +899,8 @@
   format: Digital
   role: Principal Musician
   label: Endless Field Studios
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: the secret symmetries of oakwood hills
@@ -932,6 +974,8 @@
   format: Digital
   role: Principal Musician
   label: Endless Field Studios
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: northern illinois
@@ -967,6 +1011,8 @@
   format: Digital
   role: Principal Musician
   label: Endless Field Studios
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: music for forests of childhood
@@ -1020,6 +1066,8 @@
   format: Cassette, Digital
   role: Principal Musician
   label: Endless Field Studios
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: immemorial
@@ -1049,6 +1097,8 @@
   format: Digital
   role: Principal Musician
   label: Endless Field Studios
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: Prolegomenon
@@ -1074,6 +1124,8 @@
   format: CD, Digital
   role: Principal Musician
   label: Endless Field Studios
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: Where Dreams Go to Be Forgotten
@@ -1117,6 +1169,8 @@
   format: Digital
   role: Principal Musician
   label: Endless Field Studios
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: When the Paint Peels
@@ -1134,6 +1188,8 @@
   format: Digital
   role: Band Member
   label: Endless Field Studios
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: Between Sunlight And Shadow
@@ -1174,6 +1230,8 @@
   format: Digital
   role: Band Member
   label: Endless Field Studios
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: Movement 802
@@ -1214,6 +1272,8 @@
   format: CD, Digital
   role: Principal Musician
   label: Endless Field Studios
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: Mindtraps & Caltrops
@@ -1269,6 +1329,8 @@
   format: CD, Digital
   role: Band Member
   label: Endless Field Studios
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: Running
@@ -1300,6 +1362,8 @@
   format: CD, Digital
   role: Band Member
   label: Karma Productions
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: Submerged
@@ -1355,6 +1419,8 @@
   format: CD
   role: Principal Musician
   label: Independent
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: Organica Lensing
@@ -1371,6 +1437,8 @@
   format: CD-R
   role: Principal Musician
   label: Independent
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: The Killing Tree
@@ -1387,6 +1455,8 @@
   format: CD-R
   role: Principal Musician
   label: Independent
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: Lie Down in Darkness
@@ -1433,6 +1503,8 @@
   format: CD
   role: Band Member
   label: Endless Field Studios
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: Doppleganger's Lattice
@@ -1488,6 +1560,8 @@
   format: CD-R
   role: Band Member
   label: Endless Field Studios
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: Yet These Memories Isoalted Us
@@ -1510,6 +1584,8 @@
   format: CD-R
   role: Principal Musician
   label: Independent
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: Somnium Scipionis
@@ -1544,6 +1620,8 @@
   format: CD-R
   role: Band Member
   label: Independent
+  mp3: false
+  wav: false
   tracks:
   - number: 1
     title: Approaching the Gates

@@ -53,6 +53,9 @@ for release in data:
   # generate a release slug
   release["release_slug"] = make_slug(release["title"])
 
+  # generate a cover
+  release["cover_slug"] = release["project_slug"] + "/" + release["release_slug"] + "/" + release["release_slug"] + ".jpg"
+
   # generate an id
   release["id"] = make_id(release["project"] + release["title"])
 
@@ -60,8 +63,13 @@ for release in data:
   if "tracks" in release:
     for track in release["tracks"]:
 
-      # generate a track slug
-      track["track_slug"] = release["project_slug"] + "/" + release["release_slug"] + "/" + make_slug(track["title"])
+      # generate a track slugs for available formats
+      track_slug = release["project_slug"] + "/" + release["release_slug"] + "/" + make_slug(track["title"])
+      if (release["mp3"]):
+        track["mp3_slug"] = track_slug + ".mp3"
+
+      if (release["wav"]):
+        track["wav_slug"] = track_slug + ".wav"
 
       # generate an id (ARTIST + RELEASE + NUMBER + TITLE + LENGTH)
       track["id"] = make_id(release["project"] + release["title"] + str(track["number"]) + track["title"] + track["length"])
