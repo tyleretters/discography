@@ -15,7 +15,7 @@ export declare const discography: {
     }[];
     notes: string;
     credits: string;
-    release_slug: string;
     project_slug: string;
+    release_slug: string;
     id: string;
 }[];

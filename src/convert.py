@@ -37,6 +37,8 @@ def make_slug(str):
   str = re.sub(r'[^a-zA-Z0-9\s-]', '', str)
   # replace spaces with hyphens
   str = re.sub(r'\s+', '-', str)
+  # replace multiple hyphens with single hyphen
+  str = re.sub(r'--+', '-', str)
   return str
 
 # load data
@@ -45,11 +47,11 @@ with open(yml_path, "r") as yml_file:
 
 # enrich data
 for release in data:
-  # generate a release slug
-  release["release_slug"] = make_slug(release["title"])
-
   # generate a project slug
   release["project_slug"] = make_slug(release["project"])
+
+  # generate a release slug
+  release["release_slug"] = make_slug(release["title"])
 
   # generate an id
   release["id"] = make_id(release["project"] + release["title"])
@@ -59,7 +61,7 @@ for release in data:
     for track in release["tracks"]:
 
       # generate a track slug
-      track["track_slug"] = make_slug(track["title"])
+      track["track_slug"] = release["project_slug"] + "/" + release["release_slug"] + "/" + make_slug(track["title"])
 
       # generate an id (ARTIST + RELEASE + NUMBER + TITLE + LENGTH)
       track["id"] = make_id(release["project"] + release["title"] + str(track["number"]) + track["title"] + track["length"])
