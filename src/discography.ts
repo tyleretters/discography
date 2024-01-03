@@ -15,6 +15,7 @@ export const discography = [
         "title": "Tiresias",
         "length": "00:01:49",
         "mp3_slug": "stuxnet/in-darkness-radiant/tiresias.mp3",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/tiresias.mp3",
         "id": "d8e190eb5c8a7c59a6bfe3a6cccd0b64"
       },
       {
@@ -22,6 +23,7 @@ export const discography = [
         "title": "In Darkness Radiant",
         "length": "00:01:54",
         "mp3_slug": "stuxnet/in-darkness-radiant/in-darkness-radiant.mp3",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/in-darkness-radiant.mp3",
         "id": "07431a76e3916159a229b4d77597dde1"
       },
       {
@@ -29,6 +31,7 @@ export const discography = [
         "title": "Temporary Autonomous Zone",
         "length": "00:04:16",
         "mp3_slug": "stuxnet/in-darkness-radiant/temporary-autonomous-zone.mp3",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/temporary-autonomous-zone.mp3",
         "id": "a8751056a8a9ebcbeec39a88b53ff2c8"
       },
       {
@@ -36,6 +39,7 @@ export const discography = [
         "title": "Hell Money",
         "length": "00:01:58",
         "mp3_slug": "stuxnet/in-darkness-radiant/hell-money.mp3",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/hell-money.mp3",
         "id": "166de9752fc6f68fabff27f1e4ec9164"
       },
       {
@@ -43,6 +47,7 @@ export const discography = [
         "title": "Subsea Fiber Faults in the APAC Region",
         "length": "00:05:43",
         "mp3_slug": "stuxnet/in-darkness-radiant/subsea-fiber-faults-in-the-apac-region.mp3",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/subsea-fiber-faults-in-the-apac-region.mp3",
         "id": "ddabb410b3b4e9692913d1aba064638f"
       },
       {
@@ -50,6 +55,7 @@ export const discography = [
         "title": "Safe Passage (Non-Functional)",
         "length": "00:02:51",
         "mp3_slug": "stuxnet/in-darkness-radiant/safe-passage-non-functional.mp3",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/safe-passage-non-functional.mp3",
         "id": "cb92de4cad418d150ca1a21b7544879c"
       }
     ],
@@ -57,7 +63,7 @@ export const discography = [
     "credits": "Pr\u00e9cis by Cory Salveson. Music by Tyler Etters.\nSelected samples: Bauenrfeind, Beast Wars, Elden Ring, Cornell Lab of Ornithology, The Amity Affliction, Predator, True Detective, Cory's field recordings from China.\nThe musician would like to express his deepest thanks to @zbs for their deft consultation on the final mix and unwavering devotion to sub-bass.\nAlbum art: screencap from \"Can't Get You Out of My Head\" by Adam Curtis.\n",
     "project_slug": "stuxnet",
     "release_slug": "in-darkness-radiant",
-    "cover_slug": "stuxnet/in-darkness-radiant/in-darkness-radiant.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/in-darkness-radiant.jpg",
     "id": "fb698f2114760946e4fd0fc2576199a9"
   },
   {
@@ -106,7 +112,7 @@ export const discography = [
     "credits": "Pr\u00e9cis by Cory Salveson. Music by Tyler Etters.\nSelected samples: Dark Souls III, Mission: Impossible 4 \u2014 Ghost Protocol, X-Files, Metal Gear Solid, Underoath, Fortnite \"Fracture\" Event, Black Hawk Down.\nInspired by a trip with my mother to Tijuana, Mexico, 2022.\nAlbum art: Midjourney prompt by John von Seggern.\nFor Timm.\n",
     "project_slug": "stuxnet",
     "release_slug": "fade-scatter-replicate",
-    "cover_slug": "stuxnet/fade-scatter-replicate/fade-scatter-replicate.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/fade-scatter-replicate/fade-scatter-replicate.jpg",
     "id": "f47f6e20ac3ac2097070539354fda463"
   },
   {
@@ -137,7 +143,7 @@ export const discography = [
     "credits": "Thanks to the person who sold me a faulty tape deck so I could not continue this project as intended because the original tape deck was in an airplane hanger because of the pandemic and everything stalled out for so long on both sides of the incident and then the project changed \u2014 like everything else did, that was closer to then and things are different now. Thanks to my dad for showing me Dancing Fantasy when I was a kid. Thanks to Sage for being infinitely patient and compassionate with me during the pandemic. Thanks to my two close friends who talked with me on the phone at length today, you know who you are. Thanks to Emily for finding this strange book and making me her audience of one. Thanks to the Adriance Memorial Library for first stocking the book and later stamping it with DISCARD. Thanks to Hippo Books who succeeded in diverting it from a landfill and otherwise help to fund library sustainability and provide meaningful solutions to the global problem of illiteracy.\nAbout text, icon, and name sourced from They Became What They Beheld written by Edmund Snow Carpenter, photographed by Ken Heyman, designed by Hess and/or Antupit, 1970.\nAudio sourced from Shostakovich's Symphony No. 5, Op. 47 performed by Leonard Bernstein, New York Philharmonic, 1980.\nAudio sourced from Dancing Fantasy's Op. Midnight Blvd. \"...double fantasy...a dream... ...within a dream...\" IC / Innovative Records, 1990.\nPhotographs from my trip to Petalying Jaya, Malaysia, 2017.\nEngineered by Tyler Etters, 2019 \u2014 2022.\n",
     "project_slug": "they-became-what-they-beheld",
     "release_slug": "ep2",
-    "cover_slug": "they-became-what-they-beheld/ep2/ep2.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/ep2/ep2.jpg",
     "id": "bc5996397e7215650926b7f7ccc90645"
   },
   {
@@ -162,7 +168,7 @@ export const discography = [
     "credits": "Laws & Etters, mmxxi\n",
     "project_slug": "sidereal-lobby",
     "release_slug": "deep-state-music",
-    "cover_slug": "sidereal-lobby/deep-state-music/deep-state-music.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/sidereal-lobby/deep-state-music/deep-state-music.jpg",
     "id": "02cd98a73d97e2e915afc5da5d4eb7f3"
   },
   {
@@ -199,7 +205,7 @@ export const discography = [
     "credits": "Laws & Etters, mmxxi\n",
     "project_slug": "sidereal-lobby",
     "release_slug": "fciv",
-    "cover_slug": "sidereal-lobby/fciv/fciv.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/sidereal-lobby/fciv/fciv.jpg",
     "id": "059fb2cd3faa8fa9af2b1364c1190abe"
   },
   {
@@ -242,7 +248,7 @@ export const discography = [
     "credits": "Laws & Etters, mmxxi\n",
     "project_slug": "sidereal-lobby",
     "release_slug": "beaches",
-    "cover_slug": "sidereal-lobby/beaches/beaches.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/sidereal-lobby/beaches/beaches.jpg",
     "id": "a1229abf8488160c3e3dbb02724a122b"
   },
   {
@@ -279,7 +285,7 @@ export const discography = [
     "credits": "The musician would like to express his deepest thanks to @license for their critical ear and honest heart.\n",
     "project_slug": "stuxnet",
     "release_slug": "human-interference-task-force",
-    "cover_slug": "stuxnet/human-interference-task-force/human-interference-task-force.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/human-interference-task-force/human-interference-task-force.jpg",
     "id": "70d383f39cd6c320f14ae8f8112ab125"
   },
   {
@@ -340,7 +346,7 @@ export const discography = [
     "credits": "COUNTERINTELLIGENCE was written, recorded, designed, and released on the STUXNET: NIGHTLY STREAMS // UNREMEMBERED DREAMS Twitch channel. While recording some of the gear blew a fuse. STUXNET is Tyler Etters.\nAlbum art: \"The Nobili-Pesavento self-replicator, with a daughter copy in the process of making a grand-daughter copy. The automaton uses the 32-state extended John von Neumann rules, based on his work on universal constructors and self-reproducing automata.\"\n",
     "project_slug": "stuxnet",
     "release_slug": "countersurveillance",
-    "cover_slug": "stuxnet/countersurveillance/countersurveillance.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/countersurveillance.jpg",
     "id": "7339ec77045dfcc729a608f84b2cefa6"
   },
   {
@@ -413,7 +419,7 @@ export const discography = [
     "credits": "Album title by Cory Salveson, encryption key by Matthew Marx, distress signals by Dan Derks, music by Tyler Etters.\nAlbum art: \"Kuwaiti oil wells set on fire by retreating Iraqi forces during Operation Desert Storm darken the sky with smoke, March 25, 1991. This image could have imperfections as it\u2019s either historical or reportage.\"\n",
     "project_slug": "stuxnet",
     "release_slug": "long-live-the-lost-ones",
-    "cover_slug": "stuxnet/long-live-the-lost-ones/long-live-the-lost-ones.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/long-live-the-lost-ones.jpg",
     "id": "7d8f67a125af6c412d1d5b08caa02412"
   },
   {
@@ -444,7 +450,7 @@ export const discography = [
     "credits": "STUXNET is Tyler Etters.\n",
     "project_slug": "stuxnet",
     "release_slug": "times-firewall-demo",
-    "cover_slug": "stuxnet/times-firewall-demo/times-firewall-demo.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/times-firewall-demo/times-firewall-demo.jpg",
     "id": "1b1c543e6914fcc678c4710c1ce600f4"
   },
   {
@@ -529,7 +535,7 @@ export const discography = [
     "credits": "STUXNET is Tyler Etters.\n",
     "project_slug": "stuxnet",
     "release_slug": "matryoshka-demo",
-    "cover_slug": "stuxnet/matryoshka-demo/matryoshka-demo.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/matryoshka-demo.jpg",
     "id": "008f7a37d4d2668958e8df4c2e2f1f77"
   },
   {
@@ -596,7 +602,7 @@ export const discography = [
     "credits": "STUXNET is Tyler Etters.\n",
     "project_slug": "stuxnet",
     "release_slug": "cipher-suite-demo",
-    "cover_slug": "stuxnet/cipher-suite-demo/cipher-suite-demo.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/cipher-suite-demo.jpg",
     "id": "2324c584cb2ca86fba128a8e05d8fdd2"
   },
   {
@@ -663,7 +669,7 @@ export const discography = [
     "credits": "STUXNET is Tyler Etters.\n",
     "project_slug": "stuxnet",
     "release_slug": "carrier-demo",
-    "cover_slug": "stuxnet/carrier-demo/carrier-demo.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/carrier-demo.jpg",
     "id": "e745f9e7855fd65dcdb2b682897def45"
   },
   {
@@ -736,7 +742,7 @@ export const discography = [
     "credits": "Thanks to Dan Derks, Brian Crabtree, Ryan Laws, Zack Scholl, Cory Salveson, Sage Etters, & Pasha Petrosyan.\nAugured, coded, patched, written, performed, lamented, and engineered by Tyler Etters in 2020.\n",
     "project_slug": "northern-information",
     "release_slug": "the-arecibo-lamentations",
-    "cover_slug": "northern-information/the-arecibo-lamentations/the-arecibo-lamentations.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/northern-information/the-arecibo-lamentations/the-arecibo-lamentations.jpg",
     "id": "c2ebebb75e1854e07a28c58b790d07b6"
   },
   {
@@ -767,7 +773,7 @@ export const discography = [
     "credits": "Thanks to Emily for finding this strange book and making me her audience of one. Thanks to the Adriance Memorial Library for first stocking the book and later stamping it with DISCARD. Thanks to Hippo Books who succeeded in diverting it from a landfill and otherwise help to fund library sustainability and provide meaningful solutions to the global problem of illiteracy.\nAbout text, icon, and name sourced from They Became What They Beheld written by Edmund Snow Carpenter, photographed by Ken Heyman, designed by Hess and/or Antupit, 1970.\nAudio sourced from Shostakovich's Symphony No. 5, Op. 47 performed by Leonard Bernstein, New York Philharmonic, 1980.\nPhotographs from my trip to Petalying Jaya, Malaysia, 2017.\nEngineered by Tyler Etters, 2019.\n",
     "project_slug": "they-became-what-they-beheld",
     "release_slug": "ep1",
-    "cover_slug": "they-became-what-they-beheld/ep1/ep1.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/ep1/ep1.jpg",
     "id": "427cc1165076ec9eaeb68f427ca0b04b"
   },
   {
@@ -852,7 +858,7 @@ export const discography = [
     "credits": "released the day after the winter solstice, when the light begins her steady march to summer.\nwritten and recorded by tyler etters from an indeterminate point in the past through december 2017. featuring guitar by david kvistad on the snail shell graveyard and field recordings by sage etters on unnamed seasons. painting of cornfields in illinois (1994) by lynda wallis (tyler etters\u2019s mom) with additional treatment by tyler etters.\n",
     "project_slug": "tyler-etters-and-the-northern-information-movement",
     "release_slug": "reverence",
-    "cover_slug": "tyler-etters-and-the-northern-information-movement/reverence/reverence.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/tyler-etters-and-the-northern-information-movement/reverence/reverence.jpg",
     "id": "ae5fd3fc099497038e2ce882fcd14959"
   },
   {
@@ -925,7 +931,7 @@ export const discography = [
     "credits": "released on the winter solstice, when both darkness and light hang in a wary balance.\nwritten and recorded by tyler etters from an indeterminate point in the past through december 2017. featuring pasha petrosyan on surveillance industrial complex, later heaven, and the path of many returns. numerous samples, videos, storyline components and album title by cory salveson. album cover polaroid of stone henge on the summer solstice (2017) by cory salveson with additional treatment by tyler etters.\n",
     "project_slug": "tyler-etters-and-the-northern-information-movement",
     "release_slug": "dispatches-from-the-prime-meridian",
-    "cover_slug": "tyler-etters-and-the-northern-information-movement/dispatches-from-the-prime-meridian/dispatches-from-the-prime-meridian.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/tyler-etters-and-the-northern-information-movement/dispatches-from-the-prime-meridian/dispatches-from-the-prime-meridian.jpg",
     "id": "de4441b30b9342ace629d27eb493e311"
   },
   {
@@ -998,7 +1004,7 @@ export const discography = [
     "credits": "written & recorded by tyler etters from an indeterminate point in the past through december 2016 at endless field studios. featuring adam j. moore on full steam, holy mountain hymn, and reaver, yggdsrasil, the thing at the end of the woods. featuring arthur zdrinc on holy mountain hymn. featuring cory salveson on videos, images, and storyline.\n",
     "project_slug": "tyler-etters-and-the-northern-information-movement",
     "release_slug": "the-legacy-of-our-lost-cause",
-    "cover_slug": "tyler-etters-and-the-northern-information-movement/the-legacy-of-our-lost-cause/the-legacy-of-our-lost-cause.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/tyler-etters-and-the-northern-information-movement/the-legacy-of-our-lost-cause/the-legacy-of-our-lost-cause.jpg",
     "id": "929ae24ecd6e72c6b4930203deeeaf44"
   },
   {
@@ -1101,7 +1107,7 @@ export const discography = [
     "credits": "written & recorded by tyler etters from january 2015 through june 2015 at endless field studios. featuring adam j. moore on palm beach and suburban gutter trash.\n",
     "project_slug": "tyler-etters-and-the-northern-information-movement",
     "release_slug": "and-though-the-soft-apocalypse-may-yet-overtake",
-    "cover_slug": "tyler-etters-and-the-northern-information-movement/and-though-the-soft-apocalypse-may-yet-overtake/and-though-the-soft-apocalypse-may-yet-overtake.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/tyler-etters-and-the-northern-information-movement/and-though-the-soft-apocalypse-may-yet-overtake/and-though-the-soft-apocalypse-may-yet-overtake.jpg",
     "id": "c3144c3c5ad6106cc1969496b91cd139"
   },
   {
@@ -1144,7 +1150,7 @@ export const discography = [
     "credits": "written & recorded by tyler etters and adam j. moore on march 28 2015 at endless field studios. album cover artwork by adam j. moore with additional treatment by tyler etters.\n",
     "project_slug": "tyler-etters-and-the-northern-information-movement",
     "release_slug": "zulu",
-    "cover_slug": "tyler-etters-and-the-northern-information-movement/zulu/zulu.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/tyler-etters-and-the-northern-information-movement/zulu/zulu.jpg",
     "id": "31d14eaf9cf018baea6350db6162ad7d"
   },
   {
@@ -1241,7 +1247,7 @@ export const discography = [
     "credits": "written & recorded by tyler etters from an indeterminate point in the past through december 2014 at endless field studios. featuring adam moore on samsara. album cover artwork by paul petrosyan with additional treatment by tyler etters.\n",
     "project_slug": "tyler-etters-and-the-northern-information-movement",
     "release_slug": "the-phantoms-of-our-lost-cause",
-    "cover_slug": "tyler-etters-and-the-northern-information-movement/the-phantoms-of-our-lost-cause/the-phantoms-of-our-lost-cause.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/tyler-etters-and-the-northern-information-movement/the-phantoms-of-our-lost-cause/the-phantoms-of-our-lost-cause.jpg",
     "id": "fcf1f2058a03d49b8f29619d31c619f9"
   },
   {
@@ -1278,7 +1284,7 @@ export const discography = [
     "credits": "written & recorded by tyler etters from june 2013 through september 2013 at endless field studios except for 'tears of the space cowboy' which was also written by kevin clark, dorian zdrinc and arthur zdrinc sometime back in 2011.\n",
     "project_slug": "tyler-etters-and-the-northern-information-movement",
     "release_slug": "senescence",
-    "cover_slug": "tyler-etters-and-the-northern-information-movement/senescence/senescence.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/tyler-etters-and-the-northern-information-movement/senescence/senescence.jpg",
     "id": "625b78aed26d0c5e3a26862346a1af79"
   },
   {
@@ -1345,7 +1351,7 @@ export const discography = [
     "credits": "written & recorded by tyler etters from december 2012 through june 2013 at endless field studios. featuring arthur zdrinc on rainbow table.\n",
     "project_slug": "tyler-etters-and-the-northern-information-movement",
     "release_slug": "blue-the-most-celestial-color",
-    "cover_slug": "tyler-etters-and-the-northern-information-movement/blue-the-most-celestial-color/blue-the-most-celestial-color.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/tyler-etters-and-the-northern-information-movement/blue-the-most-celestial-color/blue-the-most-celestial-color.jpg",
     "id": "177d13192fa7eeb12a853bc0d6f9bf51"
   },
   {
@@ -1376,7 +1382,7 @@ export const discography = [
     "credits": "written & recorded by tyler etters from october 2012 through december 2012 at endless field studios.\n",
     "project_slug": "tyler-etters-and-the-northern-information-movement",
     "release_slug": "the-geometrie-of-our-lost-cause",
-    "cover_slug": "tyler-etters-and-the-northern-information-movement/the-geometrie-of-our-lost-cause/the-geometrie-of-our-lost-cause.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/tyler-etters-and-the-northern-information-movement/the-geometrie-of-our-lost-cause/the-geometrie-of-our-lost-cause.jpg",
     "id": "5b94665084e9383666494dd2aeee2517"
   },
   {
@@ -1419,7 +1425,7 @@ export const discography = [
     "credits": "Connectedness Locus is Tyler Etters.\n",
     "project_slug": "connectedness-locus",
     "release_slug": "prolegomenon",
-    "cover_slug": "connectedness-locus/prolegomenon/prolegomenon.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/connectedness-locus/prolegomenon/prolegomenon.jpg",
     "id": "b81b68a8dbb48b92ef924c27b024503d"
   },
   {
@@ -1498,7 +1504,7 @@ export const discography = [
     "credits": "Connectedness Locus is Tyler Etters.\n",
     "project_slug": "connectedness-locus",
     "release_slug": "terraforms",
-    "cover_slug": "connectedness-locus/terraforms/terraforms.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/connectedness-locus/terraforms/terraforms.jpg",
     "id": "3fe45b5f7e852c3f57fc9e7d69df4942"
   },
   {
@@ -1523,7 +1529,7 @@ export const discography = [
     "credits": "Written & performed by Tyler Etters of Connectedness Locus. Produced & engineered by Isaac Pierce of The Block of Wood Recordings. Mastered by Arthur Zdrinc of Endless Field Studios.\n",
     "project_slug": "connectedness-locus",
     "release_slug": "when-the-paint-peels",
-    "cover_slug": "connectedness-locus/when-the-paint-peels/when-the-paint-peels.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/connectedness-locus/when-the-paint-peels/when-the-paint-peels.jpg",
     "id": "3e42cd3854a98c2ccdb67d6b00d094e2"
   },
   {
@@ -1596,7 +1602,7 @@ export const discography = [
     "credits": "Composed, produced, and engineered by Paul Petrosyan and Tyler Etters.\n",
     "project_slug": "everything-comes-in-cycles-everything-fades-in-shades",
     "release_slug": "serial-index-of-unclaimed-memories-file-1",
-    "cover_slug": "everything-comes-in-cycles-everything-fades-in-shades/serial-index-of-unclaimed-memories-file-1/serial-index-of-unclaimed-memories-file-1.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/everything-comes-in-cycles-everything-fades-in-shades/serial-index-of-unclaimed-memories-file-1/serial-index-of-unclaimed-memories-file-1.jpg",
     "id": "7c17f9032a82f7d5b72bba8077e90632"
   },
   {
@@ -1669,7 +1675,7 @@ export const discography = [
     "credits": "Composed, produced, and engineered by Paul Petrosyan and Tyler Etters.\n",
     "project_slug": "everything-comes-in-cycles-everything-fades-in-shades",
     "release_slug": "serial-index-of-unclaimed-memories-file-2",
-    "cover_slug": "everything-comes-in-cycles-everything-fades-in-shades/serial-index-of-unclaimed-memories-file-2/serial-index-of-unclaimed-memories-file-2.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/everything-comes-in-cycles-everything-fades-in-shades/serial-index-of-unclaimed-memories-file-2/serial-index-of-unclaimed-memories-file-2.jpg",
     "id": "1c9c6115a870ac474cd94dddc0784176"
   },
   {
@@ -1772,7 +1778,7 @@ export const discography = [
     "credits": "Connectedness Locus is Tyler Etters.\n",
     "project_slug": "connectedness-locus",
     "release_slug": "as-quippolous-codes-quietly-count",
-    "cover_slug": "connectedness-locus/as-quippolous-codes-quietly-count/as-quippolous-codes-quietly-count.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/connectedness-locus/as-quippolous-codes-quietly-count/as-quippolous-codes-quietly-count.jpg",
     "id": "5c035b2d74c9b91e8ee60dad6cb7ff48"
   },
   {
@@ -1827,7 +1833,7 @@ export const discography = [
     "credits": "Composed, produced, and engineered by Paul Petrosyan and Tyler Etters.\n",
     "project_slug": "everything-comes-in-cycles-everything-fades-in-shades",
     "release_slug": "gates-ep",
-    "cover_slug": "everything-comes-in-cycles-everything-fades-in-shades/gates-ep/gates-ep.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/everything-comes-in-cycles-everything-fades-in-shades/gates-ep/gates-ep.jpg",
     "id": "caf45dac76274be06727c7d56ac56c04"
   },
   {
@@ -1918,7 +1924,7 @@ export const discography = [
     "credits": "All music written and performed by Inocula.\nAaron Krause - Drums\nAJ Sugg - Vocals\nBrowneye - Guitar\nDaniel Massey - Guitar\nPaul Petrosyan - Bass\nTyler Etters - Keybards/Samples\n",
     "project_slug": "inocula",
     "release_slug": "suntelia-aeon",
-    "cover_slug": "inocula/suntelia-aeon/suntelia-aeon.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/inocula/suntelia-aeon/suntelia-aeon.jpg",
     "id": "490f035adcb234345071bf11451a0bba"
   },
   {
@@ -1943,7 +1949,7 @@ export const discography = [
     "credits": "Lucid End is Tyler Etters.\n",
     "project_slug": "lucid-end",
     "release_slug": "organica-lensing",
-    "cover_slug": "lucid-end/organica-lensing/organica-lensing.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/lucid-end/organica-lensing/organica-lensing.jpg",
     "id": "f40b8fab6a769b9fe83381804833ed09"
   },
   {
@@ -1968,7 +1974,7 @@ export const discography = [
     "credits": "Lucid End is Tyler Etters.\n",
     "project_slug": "lucid-end",
     "release_slug": "the-killing-tree",
-    "cover_slug": "lucid-end/the-killing-tree/the-killing-tree.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/lucid-end/the-killing-tree/the-killing-tree.jpg",
     "id": "613757a6f0f4979088bab8776e3f9def"
   },
   {
@@ -2053,7 +2059,7 @@ export const discography = [
     "credits": "Lucid End is Tyler Etters.\n",
     "project_slug": "lucid-end",
     "release_slug": "time-to-breathe-time-to-think",
-    "cover_slug": "lucid-end/time-to-breathe-time-to-think/time-to-breathe-time-to-think.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/lucid-end/time-to-breathe-time-to-think/time-to-breathe-time-to-think.jpg",
     "id": "1e1da4b27d7e7d24fc3b1f0002ae2770"
   },
   {
@@ -2156,7 +2162,7 @@ export const discography = [
     "credits": "Ix is Paul Petrosyan and Tyler Etters. All music written, performed, and engineered by Ix at Endless Field Studios.\n",
     "project_slug": "ix",
     "release_slug": "descent-into-dreams",
-    "cover_slug": "ix/descent-into-dreams/descent-into-dreams.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/ix/descent-into-dreams/descent-into-dreams.jpg",
     "id": "8f34ac41a602d8314011dbe313ca493b"
   },
   {
@@ -2193,7 +2199,7 @@ export const discography = [
     "credits": "Ix is Paul Petrosyan and Tyler Etters. All music written, performed, and engineered by Ix at Endless Field Studios.\n",
     "project_slug": "ix",
     "release_slug": "yet-these-memories-isolated-us",
-    "cover_slug": "ix/yet-these-memories-isolated-us/yet-these-memories-isolated-us.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/ix/yet-these-memories-isolated-us/yet-these-memories-isolated-us.jpg",
     "id": "ec265196f2f2313b847cea4a92ddddca"
   },
   {
@@ -2254,7 +2260,7 @@ export const discography = [
     "credits": "Lucid End is Tyler Etters.\n",
     "project_slug": "lucid-end",
     "release_slug": "files",
-    "cover_slug": "lucid-end/files/files.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/lucid-end/files/files.jpg",
     "id": "39b60215e9fe359406cf4267c7204996"
   },
   {
@@ -2321,7 +2327,7 @@ export const discography = [
     "credits": "Ix is Paul Petrosyan and Tyler Etters.\n",
     "project_slug": "ix",
     "release_slug": "ix-ep",
-    "cover_slug": "ix/ix-ep/ix-ep.jpg",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/ix/ix-ep/ix-ep.jpg",
     "id": "7b7481c3fb254d86c41ca3c27f8e0392"
   }
 ]

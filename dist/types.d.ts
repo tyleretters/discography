@@ -13,14 +13,14 @@ export interface Release {
     credits: string;
     release_slug: string;
     project_slug: string;
-    cover_slug: string;
+    cover_url: string;
     id: string;
 }
 export interface Track {
     number: number;
     title: string;
     length: string;
-    mp3_slug?: string;
-    wav_slug?: string;
+    mp3_url?: string;
+    wav_url?: string;
     id: string;
 }

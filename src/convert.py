@@ -13,6 +13,7 @@ import re
 import hashlib
 from datetime import datetime
 
+s3_bucket = "https://intertext.s3.us-west-1.amazonaws.com/"
 dir_path = os.path.dirname(os.path.realpath(__file__))
 yml_path = dir_path + "/" + "discography.yml"
 ts_path = dir_path + "/" + "discography.ts"
@@ -54,7 +55,7 @@ for release in data:
   release["release_slug"] = make_slug(release["title"])
 
   # generate a cover
-  release["cover_slug"] = release["project_slug"] + "/" + release["release_slug"] + "/" + release["release_slug"] + ".jpg"
+  release["cover_url"] =  s3_bucket + release["project_slug"] + "/" + release["release_slug"] + "/" + release["release_slug"] + ".jpg"
 
   # generate an id
   release["id"] = make_id(release["project"] + release["title"])
@@ -67,9 +68,11 @@ for release in data:
       track_slug = release["project_slug"] + "/" + release["release_slug"] + "/" + make_slug(track["title"])
       if (release["mp3"]):
         track["mp3_slug"] = track_slug + ".mp3"
+        track["mp3_url"] =  s3_bucket + track_slug + ".mp3"
 
       if (release["wav"]):
         track["wav_slug"] = track_slug + ".wav"
+        track["wav_url"] =  s3_bucket + track_slug + ".wav"
 
       # generate an id (ARTIST + RELEASE + NUMBER + TITLE + LENGTH)
       track["id"] = make_id(release["project"] + release["title"] + str(track["number"]) + track["title"] + track["length"])

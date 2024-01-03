@@ -13,13 +13,14 @@ export declare const discography: ({
         title: string;
         length: string;
         mp3_slug: string;
+        mp3_url: string;
         id: string;
     }[];
     notes: string;
     credits: string;
     project_slug: string;
     release_slug: string;
-    cover_slug: string;
+    cover_url: string;
     id: string;
 } | {
     title: string;
@@ -41,6 +42,6 @@ export declare const discography: ({
     credits: string;
     project_slug: string;
     release_slug: string;
-    cover_slug: string;
+    cover_url: string;
     id: string;
 })[];
