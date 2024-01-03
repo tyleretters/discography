@@ -12,7 +12,6 @@ export declare const discography: ({
         number: number;
         title: string;
         length: string;
-        mp3_slug: string;
         mp3_url: string;
         id: string;
     }[];

@@ -65,13 +65,13 @@ for release in data:
     for track in release["tracks"]:
 
       # generate a track slugs for available formats
-      track_slug = release["project_slug"] + "/" + release["release_slug"] + "/" + make_slug(track["title"])
+      # outcome example: project-title/release-title/01-track-title.mp3
+      slug = make_slug(str(track["number"]).zfill(2) + "-" + track["title"]) # zero pad track number
+      track_slug = release["project_slug"] + "/" + release["release_slug"] + "/" + slug
       if (release["mp3"]):
-        track["mp3_slug"] = track_slug + ".mp3"
         track["mp3_url"] =  s3_bucket + track_slug + ".mp3"
 
       if (release["wav"]):
-        track["wav_slug"] = track_slug + ".wav"
         track["wav_url"] =  s3_bucket + track_slug + ".wav"
 
       # generate an id (ARTIST + RELEASE + NUMBER + TITLE + LENGTH)

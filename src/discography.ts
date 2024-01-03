@@ -14,48 +14,42 @@ export const discography = [
         "number": 1,
         "title": "Tiresias",
         "length": "00:01:49",
-        "mp3_slug": "stuxnet/in-darkness-radiant/tiresias.mp3",
-        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/tiresias.mp3",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/01-tiresias.mp3",
         "id": "d8e190eb5c8a7c59a6bfe3a6cccd0b64"
       },
       {
         "number": 2,
         "title": "In Darkness Radiant",
         "length": "00:01:54",
-        "mp3_slug": "stuxnet/in-darkness-radiant/in-darkness-radiant.mp3",
-        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/in-darkness-radiant.mp3",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/02-in-darkness-radiant.mp3",
         "id": "07431a76e3916159a229b4d77597dde1"
       },
       {
         "number": 3,
         "title": "Temporary Autonomous Zone",
         "length": "00:04:16",
-        "mp3_slug": "stuxnet/in-darkness-radiant/temporary-autonomous-zone.mp3",
-        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/temporary-autonomous-zone.mp3",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/03-temporary-autonomous-zone.mp3",
         "id": "a8751056a8a9ebcbeec39a88b53ff2c8"
       },
       {
         "number": 4,
         "title": "Hell Money",
         "length": "00:01:58",
-        "mp3_slug": "stuxnet/in-darkness-radiant/hell-money.mp3",
-        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/hell-money.mp3",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/04-hell-money.mp3",
         "id": "166de9752fc6f68fabff27f1e4ec9164"
       },
       {
         "number": 5,
         "title": "Subsea Fiber Faults in the APAC Region",
         "length": "00:05:43",
-        "mp3_slug": "stuxnet/in-darkness-radiant/subsea-fiber-faults-in-the-apac-region.mp3",
-        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/subsea-fiber-faults-in-the-apac-region.mp3",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/05-subsea-fiber-faults-in-the-apac-region.mp3",
         "id": "ddabb410b3b4e9692913d1aba064638f"
       },
       {
         "number": 6,
         "title": "Safe Passage (Non-Functional)",
         "length": "00:02:51",
-        "mp3_slug": "stuxnet/in-darkness-radiant/safe-passage-non-functional.mp3",
-        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/safe-passage-non-functional.mp3",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/06-safe-passage-non-functional.mp3",
         "id": "cb92de4cad418d150ca1a21b7544879c"
       }
     ],
