@@ -42,6 +42,12 @@ def make_slug(str):
   str = re.sub(r'--+', '-', str)
   return str
 
+def make_html_paragraphs(str):
+  str = str.rstrip("\n")
+  str = "<p>" + str + "</p>"
+  str = str.replace("\n", "</p><p>")
+  return str
+
 # load data
 with open(yml_path, "r") as yml_file:
   data = yaml.safe_load(yml_file)
@@ -59,6 +65,10 @@ for release in data:
 
   # generate an id
   release["id"] = make_id(release["project"] + release["title"])
+
+  # turn \n into paragraphs
+  release["notes"] = make_html_paragraphs(release["notes"])
+  release["credits"] = make_html_paragraphs(release["credits"])
 
   # generate a slug for each track
   if "tracks" in release:
