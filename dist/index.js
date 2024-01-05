@@ -1780,7 +1780,7 @@ var discography = [
     {
         "title": "Gates E.P.",
         "project": "Everything Comes in Cycles; Everything Fades in Shades",
-        "released": "02008-09-11",
+        "released": "02008-11-11",
         "type": "EP",
         "format": "CD, Digital",
         "role": "Band Member",
