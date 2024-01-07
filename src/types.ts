@@ -9,6 +9,7 @@ export interface Release {
   mp3: boolean
   wav: boolean
   tracks: Array<Track>
+  streaming?: Array<Stream> 
   notes: string
   credits: string
   release_slug: string
@@ -23,5 +24,11 @@ export interface Track {
   length: string
   mp3_url?: string
   wav_url?: string
+  id: string
+}
+
+export interface Stream {
+  platform: string
+  url: string
   id: string
 }
