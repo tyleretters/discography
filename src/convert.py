@@ -87,6 +87,11 @@ for release in data:
       # generate an id (ARTIST + RELEASE + NUMBER + TITLE + LENGTH)
       track["id"] = make_id(release["project"] + release["title"] + str(track["number"]) + track["title"] + track["length"])
 
+  # generate an id for each stream
+  if "streams" in release:
+    for stream in release["streams"]:
+      stream["id"] = make_id(release["project"] + release["title"] + stream["platform"])
+
 # write discography data
 with open(ts_path, "w") as json_file:
   json.dump(data, json_file, indent=2)

@@ -26,7 +26,7 @@
   - number: 6
     title: Safe Passage (Non-Functional)
     length: 00:02:51
-  streaming:
+  streams:
   - platform: Bandcamp
     url: https://stuxnet.bandcamp.com/album/in-darkness-radiant
   - platform: Apple Music

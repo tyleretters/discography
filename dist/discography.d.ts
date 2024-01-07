@@ -15,9 +15,10 @@ export declare const discography: ({
         mp3_url: string;
         id: string;
     }[];
-    streaming: {
+    streams: {
         platform: string;
         url: string;
+        id: string;
     }[];
     notes: string;
     credits: string;
@@ -47,5 +48,5 @@ export declare const discography: ({
     release_slug: string;
     cover_url: string;
     id: string;
-    streaming?: undefined;
+    streams?: undefined;
 })[];

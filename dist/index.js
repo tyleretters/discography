@@ -5,7 +5,7 @@ var discography = [
         "title": "IN DARKNESS RADIANT",
         "project": "STUXNET",
         "released": "02023-12-22",
-        "type": "LP",
+        "type": "EP",
         "format": "Digital",
         "role": "Operator",
         "label": "Intertext",
@@ -55,34 +55,41 @@ var discography = [
                 "id": "cb92de4cad418d150ca1a21b7544879c"
             }
         ],
-        "streaming": [
+        "streams": [
             {
                 "platform": "Bandcamp",
-                "url": "https://stuxnet.bandcamp.com/album/in-darkness-radiant"
+                "url": "https://stuxnet.bandcamp.com/album/in-darkness-radiant",
+                "id": "b907e06e9aa17623a25203b188bfafa0"
             },
             {
                 "platform": "Apple Music",
-                "url": "https://music.apple.com/us/album/in-darkness-radiant-ep/1722729160"
+                "url": "https://music.apple.com/us/album/in-darkness-radiant-ep/1722729160",
+                "id": "86f7a1251ba0d56b0adb7667cafd3c3c"
             },
             {
                 "platform": "Deezer",
-                "url": "https://www.deezer.com/us/album/526747692"
+                "url": "https://www.deezer.com/us/album/526747692",
+                "id": "ff18043f7ee801fa8d2f9fff3e694d5c"
             },
             {
                 "platform": "iHeartRadio",
-                "url": "https://www.iheart.com/artist/stuxnet-610225/albums/in-darkness-radiant-248901298/"
+                "url": "https://www.iheart.com/artist/stuxnet-610225/albums/in-darkness-radiant-248901298/",
+                "id": "ed3dcc60590a106d377c6003aa304c45"
             },
             {
                 "platform": "Spotify",
-                "url": "https://open.spotify.com/album/2nLz2jO4YCQO37NVm3rM3C?si=h84wEpl0Sv6hMm3PfpSGyA"
+                "url": "https://open.spotify.com/album/2nLz2jO4YCQO37NVm3rM3C?si=h84wEpl0Sv6hMm3PfpSGyA",
+                "id": "0ef8a7425409283b4481668fdabe9f2f"
             },
             {
                 "platform": "Tidal",
-                "url": "https://listen.tidal.com/album/336500922"
+                "url": "https://listen.tidal.com/album/336500922",
+                "id": "318c4f0a067b88e3c9c441d2eeab84e6"
             },
             {
                 "platform": "YouTube",
-                "url": "https://www.youtube.com/playlist?list=OLAK5uy_lAR4Al3G7YV6_kgEC39C9naC23z91fwPo"
+                "url": "https://www.youtube.com/playlist?list=OLAK5uy_lAR4Al3G7YV6_kgEC39C9naC23z91fwPo",
+                "id": "ce5f8249f412ac28cfbfdad74cd2be69"
             }
         ],
         "notes": "<p>After a harrowing border crossing out of the Special Economic Zone, Coyote lies low. His world is hardened, Metal Gear, long drag of cigarette, pushing limits of body to transport mind. Licking his wounds, drinking warm Modelo, watching cargo ships queue up for port, he contemplates getting out of the game for good.</p><p>But when money runs out (like it always does) he's forced to accept an impossible gig: US/APAC. The cargo is a Tiresias figure, some aged clairvoyant who, having struck their staff at two copulating serpents, was then blinded, given the gift of prophecy (visions), and transformed into a woman for seven years.</p><p>Who seeks a strange country by illegal means that can only place them perpetually outside while also inside? Coyote knows: someone who has a message... or someone who is one. What is the message now? What does Tiresias only know while blind and femme?</p><p>Coyote's reference gear attempts to help his line of thought with encyclopedic minutiae: \"Like with other oracles, how Tiresias obtained their information varied: sometimes, they would receive visions; other times they would listen for the songs of birds, or ask for a description of visions and pictures appearing within the smoke of burnt offerings or entrails, and so interpret them. Pliny the Elder credits Tiresias with the invention of augury. Tiresias has a daughter, Manto, who is also a prophetess and priestess.\"</p><p>Simple machine that cannot breathe or ache. Coyote dictates futile corrections to his gear. This Oracle of Zones is a mother, alright. The twin Zones - both Special Economic and Temporary Autonomous - symbolize invitations by their respective hosts to become changed; to be shown wrong. High on artificial fumes in virtual caves, Tiresias (pregnant with Manto?) are illegal yet invited; necessary; load-bearing. She sees and listens, assembles, then tells. And she's coming now, changing Self to change the flow of things, money, talk, data. She dies but goes on. A programming program, in darkness radiant.</p><p>A seagull lands on the railing.</p><p>Zip-tied to its tibia is a white USB drive.</p><p>It is branded with a familiar hexagon.</p>",
@@ -96,7 +103,7 @@ var discography = [
         "title": "FADE SCATTER REPLICATE",
         "project": "STUXNET",
         "released": "02023-03-20",
-        "type": "LP",
+        "type": "EP",
         "format": "Digital",
         "role": "Operator",
         "label": "Intertext",
@@ -318,7 +325,7 @@ var discography = [
         "title": "COUNTERSURVEILLANCE",
         "project": "STUXNET",
         "released": "02021-07-07",
-        "type": "LP",
+        "type": "EP",
         "format": "Digital",
         "role": "Operator",
         "label": "Intertext",
@@ -1537,7 +1544,7 @@ var discography = [
         "title": "When the Paint Peels",
         "project": "Connectedness Locus",
         "released": "02010-02-18",
-        "type": "EP",
+        "type": "Single",
         "format": "Digital",
         "role": "Principal Musician",
         "label": "Endless Field Studios",
@@ -2232,7 +2239,7 @@ var discography = [
         "title": "Files",
         "project": "Lucid End",
         "released": "02006-??-??",
-        "type": "EP",
+        "type": "LP",
         "format": "CD-R",
         "role": "Principal Musician",
         "label": "Independent",
