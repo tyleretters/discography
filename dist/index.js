@@ -97,6 +97,7 @@ var discography = [
         "project_slug": "stuxnet",
         "release_slug": "in-darkness-radiant",
         "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/in-darkness-radiant.jpg",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/in-darkness-radiant-mp3.zip",
         "id": "fb698f2114760946e4fd0fc2576199a9"
     },
     {

@@ -25,6 +25,7 @@ export declare const discography: ({
     project_slug: string;
     release_slug: string;
     cover_url: string;
+    mp3_url: string;
     id: string;
 } | {
     title: string;
@@ -49,4 +50,5 @@ export declare const discography: ({
     cover_url: string;
     id: string;
     streams?: undefined;
+    mp3_url?: undefined;
 })[];

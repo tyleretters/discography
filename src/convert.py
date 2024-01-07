@@ -63,6 +63,16 @@ for release in data:
   # generate a cover
   release["cover_url"] =  s3_bucket + release["project_slug"] + "/" + release["release_slug"] + "/" + release["release_slug"] + ".jpg"
 
+  # generate an mp3 and wav download links
+  zip_slug = s3_bucket + release["project_slug"] + "/" + release["release_slug"] + "/" + release["release_slug"]
+
+  if (release["mp3"]):
+    release["mp3_url"] = zip_slug + "-mp3.zip"
+
+  # generate a wave download link
+  if (release["wav"]):
+    release["wav_url"] = zip_slug + "-wav.zip"
+
   # generate an id
   release["id"] = make_id(release["project"] + release["title"])
 

@@ -7,7 +7,9 @@ export interface Release {
   role: string
   label: string
   mp3: boolean
+  mp3_url?: string
   wav: boolean
+  wav_url?: string
   tracks: Array<Track>
   streams?: Array<Stream> 
   notes: string
