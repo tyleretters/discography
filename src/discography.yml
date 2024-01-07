@@ -1,7 +1,7 @@
 - title: IN DARKNESS RADIANT
   project: STUXNET
   released: 02023-12-22
-  type: LP
+  type: EP
   format: Digital
   role: Operator
   label: Intertext
@@ -59,7 +59,7 @@
 - title: FADE SCATTER REPLICATE
   project: STUXNET
   released: 02023-03-20
-  type: LP
+  type: EP
   format: Digital
   role: Operator
   label: Intertext
@@ -248,7 +248,7 @@
 - title: COUNTERSURVEILLANCE
   project: STUXNET
   released: 02021-07-07
-  type: LP
+  type: EP
   format: Digital
   role: Operator
   label: Intertext
@@ -1180,7 +1180,7 @@
 - title: When the Paint Peels
   project: Connectedness Locus
   released: 02010-02-18
-  type: EP
+  type: Single
   format: Digital
   role: Principal Musician
   label: Endless Field Studios
@@ -1595,7 +1595,7 @@
 - title: Files
   project: Lucid End
   released: 02006-??-??
-  type: EP
+  type: LP
   format: CD-R
   role: Principal Musician
   label: Independent
