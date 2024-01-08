@@ -890,6 +890,11 @@ var discography = [
         ],
         "notes": "<p>- - - - - - - - - -</p><p>chapter ix</p><p>- - - - - - - - - -</p><p>summer. morning. warmth and green. saturday. children meet at the end of the street to play. nature preserve. silent agreement. no games today. just be. creeks. white oaks. a crayfish somehow. power lines on the horizon. cumulus clouds and prairies forever. then one of them finds it beneath a domed castle of dark briar. the snail shell graveyard. calls to the others. huddled around the edge in silence. dozens of bone-white spirals encrusted in black mud. today they can only stare but the questions will come decades later: what force caused it to happen? was the ossuary exclusive to a single family? did some apex predator hunt each snail and return them to her voracious brood? did the snails all migrate together on their own volition? only to die in some great cataclysm? the annual prairie burn? the children know better than to take any shells. dusk. winter. the ice breaks. yelling for help. they scramble to get long branches. he is ok but his boot is claimed by the mud. summer again. they age. they don't play anymore. they hang out now. they go back the forest preserve past curfew. instead of running from imaginary monsters they run from the police. they still know all the hiding places and it is almost unfair. they keep aging. they lose touch. they sometimes remember. before it is over, each returns to the forest preserve in turn. always alone. always unknown by the others. not secret. just private. none of them can ever find it again.</p><p>- - - - - - - - - -</p><p>1. the snail shell graveyard (w/ david)</p><p>2. fiddler\u2019s green</p><p>3. yes, these paths were promised</p><p>4. cometary</p><p>5. unnamed seasons (w/ sage)</p><p>6. this is hallowed ground</p><p>7. hope on the western sky</p><p>8. in standstill destiny</p><p>9. fireflies & fields</p><p>10. beacons of light</p><p>11. where the grass is uncut by blades of men</p><p>- - - - - - - - - - </p>",
         "credits": "<p>released the day after the winter solstice, when the light begins her steady march to summer.</p><p>written and recorded by tyler etters from an indeterminate point in the past through december 2017. featuring guitar by david kvistad on the snail shell graveyard and field recordings by sage etters on unnamed seasons. painting of cornfields in illinois (1994) by lynda wallis (tyler etters\u2019s mom) with additional treatment by tyler etters.</p>",
+        "options": [
+            {
+                "notes": "monospace"
+            }
+        ],
         "project_slug": "tyler-etters-and-the-northern-information-movement",
         "release_slug": "reverence",
         "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/tyler-etters-and-the-northern-information-movement/reverence/reverence.jpg",
@@ -963,6 +968,11 @@ var discography = [
         ],
         "notes": "<p>- - - - - - - - - -</p><p>chapter viii</p><p>- - - - - - - - - -</p><p>winter - city - neon dusk - service economies - capitalist realism - the hinge upon which the world turns - unexpected password reset - borrowed anxiety medication - ritual scarification of the mind - ego death - a thousand faces - monomyth - megalith - emergency motorcycle repair - sargasso sea - aggregate browser histories - anonymous cookies - london bridge is falling down - traffic rerouted through eastern europe - all roads lead to rome - the empire never ended - golgothan solstice - eclipse - ellipsism - algorithm - the flash crash of 2010 - the jackpot - universal coordinated time - quick response code - boarding pass - light pollution - the people's republic of the great pacific garbage patch - skeleton music - voodoo technology - hypothetical histories - satellites - orbital sovereignty - metalaws - the singularity already happened - death is the only way out of the information age - metadata reincarnation - the second unix epoch - as above so below - as below so beyond - at dusk there is no wind</p><p>- - - - - - - - - -</p><p>1. surveillance industrial complex</p><p>2. twilight in shape</p><p>3. a cyan destiny</p><p>4. some more dreams from the hive</p><p>5. apophenia</p><p>6. later heaven</p><p>7. future shock</p><p>8. olympus mons</p><p>9. the path of many returns</p><p>- - - - - - - - - - </p>",
         "credits": "<p>released on the winter solstice, when both darkness and light hang in a wary balance.</p><p>written and recorded by tyler etters from an indeterminate point in the past through december 2017. featuring pasha petrosyan on surveillance industrial complex, later heaven, and the path of many returns. numerous samples, videos, storyline components and album title by cory salveson. album cover polaroid of stone henge on the summer solstice (2017) by cory salveson with additional treatment by tyler etters.</p>",
+        "options": [
+            {
+                "notes": "monospace"
+            }
+        ],
         "project_slug": "tyler-etters-and-the-northern-information-movement",
         "release_slug": "dispatches-from-the-prime-meridian",
         "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/tyler-etters-and-the-northern-information-movement/dispatches-from-the-prime-meridian/dispatches-from-the-prime-meridian.jpg",
@@ -1036,6 +1046,11 @@ var discography = [
         ],
         "notes": "<p>- - - - - - - - - -</p><p>chapter vii</p><p>- - - - - - - - - -</p><p>we built the forest acropolis in a single day. that night we reveled at our achievement. we drank wine and played flutes and made merry. drunk and giddy with the possibility of the future, we fell asleep long after the sun rose. when we finally awoke, kudzu had inexplicably grown over everything. the columns began to crumble. confused, we cut it down and repaired what we could. the next day, the vines were back. again we cut them down, but again they grew back. our leaders proclaimed the land cursed. no one could remember why we built here in the first place anyway. so we left to build a new acropolis by the sea. some of our children remained. they climbed the vines and went on adventures in the woods, heirs of a ghost kingdom.</p><p>- - - - - - - - - -</p><p>1. arcadian nights</p><p>2. leaving home</p><p>3. the emptiness will always follow you</p><p>4. shanzhai (gueriila fortress)</p><p>5. full steam</p><p>6. holy mountain hymn</p><p>7. reaver, yggdrasil, the thing at the end of the woods</p><p>8. bridges of terabithia</p><p>9. unscarred land</p><p>- - - - - - - - - - </p>",
         "credits": "<p>written & recorded by tyler etters from an indeterminate point in the past through december 2016 at endless field studios. featuring adam j. moore on full steam, holy mountain hymn, and reaver, yggdsrasil, the thing at the end of the woods. featuring arthur zdrinc on holy mountain hymn. featuring cory salveson on videos, images, and storyline.</p>",
+        "options": [
+            {
+                "notes": "monospace"
+            }
+        ],
         "project_slug": "tyler-etters-and-the-northern-information-movement",
         "release_slug": "the-legacy-of-our-lost-cause",
         "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/tyler-etters-and-the-northern-information-movement/the-legacy-of-our-lost-cause/the-legacy-of-our-lost-cause.jpg",
@@ -1139,6 +1154,11 @@ var discography = [
         ],
         "notes": "<p>- - - - - - - - - -</p><p>chapter vi</p><p>- - - - - - - - - -</p><p>i have been having dreams about the apocalypse lately. firefighters swarming like ants on a smoldering sears tower, lake michigan simply exploding, the laws of physics deteriorating, heat death, psychological collapses. ever since i was a little boy the topic of eschatology intrigued me. i have always found the the snafus and close calls to be especially interesting: y2k, 12-21-2012, the return of nibiru... these overly hyped events stir up the fears and emotions of certain circles and then awkwardly fizzle out. contrast these to real-world atrocities, cold wars, personal and familial crises, and you realize the apocalypse is happening everyday for someone. ours is an age of false prophets and fear mongering. we make the apocalypse real in our minds. between the actual and perceived doomsdays there is enough to keep anyone worried and anxious for the rest of their lives. this album is about living in a world where anything can happen, where the soft apocalypse may yet overtake at any momemnt. it is a collage; a story; a sonic journey of found sounds and field recordings. it's rawer and rougher than anything i've released before. from anonymous protests in chicago to some particularly terrifying flood sirens, from emergency broadcasts to gin-drunk conversations with old timers about the wars of the 20th century. the singularity already happened. it is not yet over. be kind and generous, always. create something beautiful today and we'll be just fine.</p><p>- - - - - - - - - -</p><p>1. and though the soft apocalypse may yet overtake</p><p>2. unreliable narrator</p><p>3. entropy</p><p>4. palm beach</p><p>5. owl</p><p>6. boodle man</p><p>7. steady progress (deeper into the dark tangent)</p><p>8. in this spiraling darkness</p><p>9. heat death</p><p>10. armageddon rager</p><p>11. suburban gutter trash</p><p>12. flood sirens</p><p>13. requiem, tunnels between worlds</p><p>14. and then the crickets came</p><p>- - - - - - - - - - </p>",
         "credits": "<p>written & recorded by tyler etters from january 2015 through june 2015 at endless field studios. featuring adam j. moore on palm beach and suburban gutter trash.</p>",
+        "options": [
+            {
+                "notes": "monospace"
+            }
+        ],
         "project_slug": "tyler-etters-and-the-northern-information-movement",
         "release_slug": "and-though-the-soft-apocalypse-may-yet-overtake",
         "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/tyler-etters-and-the-northern-information-movement/and-though-the-soft-apocalypse-may-yet-overtake/and-though-the-soft-apocalypse-may-yet-overtake.jpg",
@@ -1182,6 +1202,11 @@ var discography = [
         ],
         "notes": "<p>- - - - - - - - - -</p><p>chapter v</p><p>- - - - - - - - - -</p><p>1. OS1</p><p>2. OS2</p><p>3. OS3</p><p>4. OS4</p><p>- - - - - - - - - -</p>",
         "credits": "<p>written & recorded by tyler etters and adam j. moore on march 28 2015 at endless field studios. album cover artwork by adam j. moore with additional treatment by tyler etters.</p>",
+        "options": [
+            {
+                "notes": "monospace"
+            }
+        ],
         "project_slug": "tyler-etters-and-the-northern-information-movement",
         "release_slug": "zulu",
         "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/tyler-etters-and-the-northern-information-movement/zulu/zulu.jpg",
@@ -1277,8 +1302,13 @@ var discography = [
                 "id": "1160e90e2541dcf7cc311f1892a3c963"
             }
         ],
-        "notes": "<p>- - - - - - - - - -</p><p>chapter iv</p><p>- - - - - - - - - -</p><p>these are the phantoms of our lost cause. this album is my shroud of ghosts, the remnants, the lingering possibilities from timelines tangential. but make no mistake, dear listener: this is no album of b-sides. writing 'the geometrie of our lost cause' was something of a creative renaissance for me. more wavs, samples, beats and guitar drones filled my drives than i knew what to do with (and certainly more than would be appropriate for 'immemorial'). much of that remaining phantasmal material is now presented here. but there are songs from other times, too. 'there is no death, only reorganization' dates back to the 'terraforms' age; 'the secret symmetries of oakwood hills' was almost released on 'blue, the most celestial color'; 'nausica\u00e4' holds the seeds of 'northern illinois'; the 'mainframe' movement in 'getageese' emerged from the 'serial index of unclaimed memories' sessions. once all of this music was sourced, exhumed, and resampled i loaded it up into my rig and rehearsed the album as though i were performing live. later, one of those hazey sessions would be promoted to the final mix in a largely unedited form. and thus begins the second trilogy...</p><p>- - - - - - - - - -</p><p>1. the secret symmetries of oakwood hills</p><p>2. there is no death, only reorganization</p><p>3. second chance</p><p>4. ch((e)i)m(er)ical</p><p>5. forest (R1-07348-0017.jpg)</p><p>6. 2am, rte 53, northbound</p><p>7. jacurutu</p><p>8. radio haces arrib{a} tu cowboy espacio</p><p>9. getageese</p><p>i. we're going to getageese</p><p>ii. mainframe (salvaged from failing ecicefis computer)</p><p>iii. getageese is gone</p><p>10. samsara (w/ adam)</p><p>11. the sound of her wings</p><p>12. infinite return of the same</p><p>13. nausica\u00e4</p><p>- - - - - - - - - - </p>",
+        "notes": "<p>- - - - - - - - - -</p><p>chapter iv</p><p>- - - - - - - - - -</p><p>these are the phantoms of our lost cause. this album is my shroud of ghosts, the remnants, the lingering possibilities from timelines tangential. but make no mistake, dear listener: this is no album of b-sides. writing 'the geometrie of our lost cause' was something of a creative renaissance for me. more wavs, samples, beats and guitar drones filled my drives than i knew what to do with (and certainly more than would be appropriate for 'immemorial'). much of that remaining phantasmal material is now presented here. but there are songs from other times, too. 'there is no death, only reorganization' dates back to the 'terraforms' age; 'the secret symmetries of oakwood hills' was almost released on 'blue, the most celestial color'; 'nausica\u00e4' holds the seeds of 'northern illinois'; the 'mainframe' movement in 'getageese' emerged from the 'serial index of unclaimed memories' sessions. once all of this music was sourced, exhumed, and resampled i loaded it up into my rig and rehearsed the album as though i were performing live. later, one of those hazey sessions would be promoted to the final mix in a largely unedited form. and thus begins the second trilogy...</p><p>- - - - - - - - - -</p><p>1. the secret symmetries of oakwood hills</p><p>2. there is no death, only reorganization</p><p>3. second chance</p><p>4. ch((e)i)m(er)ical</p><p>5. forest (R1-07348-0017.jpg)</p><p>6. 2am, rte 53, northbound</p><p>7. jacurutu</p><p>8. radio haces arrib{a} tu cowboy espacio</p><p>9. getageese</p><p>  i. we're going to getageese</p><p>  ii. mainframe (salvaged from failing ecicefis computer)</p><p>  iii. getageese is gone</p><p>10. samsara (w/ adam)</p><p>11. the sound of her wings</p><p>12. infinite return of the same</p><p>13. nausica\u00e4</p><p>- - - - - - - - - - </p>",
         "credits": "<p>written & recorded by tyler etters from an indeterminate point in the past through december 2014 at endless field studios. featuring adam moore on samsara. album cover artwork by paul petrosyan with additional treatment by tyler etters.</p>",
+        "options": [
+            {
+                "notes": "monospace"
+            }
+        ],
         "project_slug": "tyler-etters-and-the-northern-information-movement",
         "release_slug": "the-phantoms-of-our-lost-cause",
         "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/tyler-etters-and-the-northern-information-movement/the-phantoms-of-our-lost-cause/the-phantoms-of-our-lost-cause.jpg",
@@ -1314,8 +1344,13 @@ var discography = [
                 "id": "1062f9765aaed497888b4036af0fc485"
             }
         ],
-        "notes": "<p>- - - - - - - - - -</p><p>chapter iii</p><p>- - - - - - - - - -</p><p>there was a time before these experiences shaped us. do you remember? years before we scaled all those unforgiving mountain ranges, before the codes were counted, and before the firmament fell. melting. wavering. corporeal. now our minds are increasingly augmented by technology and time's passage becomes difficult for our hearts to feel. do you remember! before your phone vibrated in your pocket every fifteen minutes to remind you of minutia that is neither here nor there? do you remember! before we lived in fear of the police ticketing us for being at the park after sunset? do you remember!!! here i am again. alone late at night and drowning in drones. i have finished the last songs, bounced them to cassette to engineer some lo-fi glory, and i now present them to you, dear listener, in the utmost humility - for i walked away from too many projects and i have turned down too many friends to fold now.</p><p>- - - - - - - - - -</p><p>1. northern illinois</p><p>i. wastes of the north</p><p>ii. procession of the hauntologists</p><p>iii. deed of the drones</p><p>iv. tears of the space cowboy (w/ kevin, dorian & arthur)</p><p>v. song of the cicada</p><p>2. we failed</p><p>3. january 1st, 1970 + zero gmt</p><p>- - - - - - - - - - </p>",
+        "notes": "<p>- - - - - - - - - -</p><p>chapter iii</p><p>- - - - - - - - - -</p><p>there was a time before these experiences shaped us. do you remember? years before we scaled all those unforgiving mountain ranges, before the codes were counted, and before the firmament fell. melting. wavering. corporeal. now our minds are increasingly augmented by technology and time's passage becomes difficult for our hearts to feel. do you remember! before your phone vibrated in your pocket every fifteen minutes to remind you of minutia that is neither here nor there? do you remember! before we lived in fear of the police ticketing us for being at the park after sunset? do you remember!!! here i am again. alone late at night and drowning in drones. i have finished the last songs, bounced them to cassette to engineer some lo-fi glory, and i now present them to you, dear listener, in the utmost humility - for i walked away from too many projects and i have turned down too many friends to fold now.</p><p>- - - - - - - - - -</p><p>1. northern illinois</p><p>  i. wastes of the north</p><p>  ii. procession of the hauntologists</p><p>  iii. deed of the drones</p><p>  iv. tears of the space cowboy (w/ kevin, dorian & arthur)</p><p>  v. song of the cicada</p><p>2. we failed</p><p>3. january 1st, 1970 + zero gmt</p><p>- - - - - - - - - - </p>",
         "credits": "<p>written & recorded by tyler etters from june 2013 through september 2013 at endless field studios except for 'tears of the space cowboy' which was also written by kevin clark, dorian zdrinc and arthur zdrinc sometime back in 2011.</p>",
+        "options": [
+            {
+                "notes": "monospace"
+            }
+        ],
         "project_slug": "tyler-etters-and-the-northern-information-movement",
         "release_slug": "senescence",
         "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/tyler-etters-and-the-northern-information-movement/senescence/senescence.jpg",
@@ -1381,8 +1416,13 @@ var discography = [
                 "id": "242b05fcfc8f25e3ed56615e1be314a2"
             }
         ],
-        "notes": "<p>- - - - - - - - - -</p><p>chapter ii</p><p>- - - - - - - - - -</p><p>you are in medias res - i know your time is brief so here is what you need to know: i have just released a new album entitled 'blue, the most celestial color'. you can listen and download it above.</p><p>- - - - - - - - - -</p><p>1. music for forests of childhood</p><p>2. rainbow table</p><p>i. textbook sql injection</p><p>ii. don quixote</p><p>iii. icebreaker / rave</p><p>3. \u0391\u0399\u0393\u0391\u0399\u0399\u03a3</p><p>4. zombie poison</p><p>5. intermission</p><p>6. the cicada must sing (sleepy brit)</p><p>7. four mile crib</p><p>8. ICD-10 Z73.0</p><p>- - - - - - - - - -</p>",
+        "notes": "<p>- - - - - - - - - -</p><p>chapter ii</p><p>- - - - - - - - - -</p><p>you are in medias res - i know your time is brief so here is what you need to know: i have just released a new album entitled 'blue, the most celestial color'. you can listen and download it above.</p><p>- - - - - - - - - -</p><p>1. music for forests of childhood</p><p>2. rainbow table</p><p>  i. textbook sql injection</p><p>  ii. don quixote</p><p>  iii. icebreaker / rave</p><p>3. \u0391\u0399\u0393\u0391\u0399\u0399\u03a3</p><p>4. zombie poison</p><p>5. intermission</p><p>6. the cicada must sing (sleepy brit)</p><p>7. four mile crib</p><p>8. ICD-10 Z73.0</p><p>- - - - - - - - - -</p>",
         "credits": "<p>written & recorded by tyler etters from december 2012 through june 2013 at endless field studios. featuring arthur zdrinc on rainbow table.</p>",
+        "options": [
+            {
+                "notes": "monospace"
+            }
+        ],
         "project_slug": "tyler-etters-and-the-northern-information-movement",
         "release_slug": "blue-the-most-celestial-color",
         "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/tyler-etters-and-the-northern-information-movement/blue-the-most-celestial-color/blue-the-most-celestial-color.jpg",
@@ -1412,8 +1452,13 @@ var discography = [
                 "id": "cc4bdc3448778ebd3a2bd2cd9fe1800d"
             }
         ],
-        "notes": "<p>- - - - - - - - - -</p><p>chapter i</p><p>- - - - - - - - - -</p><p>1. immemorial</p><p>i. the forgotten distance</p><p>ii. time slopes</p><p>iii. by the train tracks (w/ arthur)</p><p>iv. hazey power plant, 1001 drones (for paul)</p><p>v. at another working gate</p><p>2. generative</p><p>- - - - - - - - - -</p>",
+        "notes": "<p>- - - - - - - - - -</p><p>chapter i</p><p>- - - - - - - - - -</p><p>1. immemorial</p><p>  i. the forgotten distance</p><p>  ii. time slopes</p><p>  iii. by the train tracks (w/ arthur)</p><p>  iv. hazey power plant, 1001 drones (for paul)</p><p>  v. at another working gate</p><p>2. generative</p><p>- - - - - - - - - -</p>",
         "credits": "<p>written & recorded by tyler etters from october 2012 through december 2012 at endless field studios.</p>",
+        "options": [
+            {
+                "notes": "monospace"
+            }
+        ],
         "project_slug": "tyler-etters-and-the-northern-information-movement",
         "release_slug": "the-geometrie-of-our-lost-cause",
         "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/tyler-etters-and-the-northern-information-movement/the-geometrie-of-our-lost-cause/the-geometrie-of-our-lost-cause.jpg",

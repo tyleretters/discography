@@ -14,6 +14,7 @@ export interface Release {
   streams?: Array<Stream> 
   notes: string
   credits: string
+  options?: Array<Record<string, any>>
   release_slug: string
   project_slug: string
   cover_url: string

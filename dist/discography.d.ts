@@ -27,6 +27,7 @@ export declare const discography: ({
     cover_url: string;
     mp3_url: string;
     id: string;
+    options?: undefined;
 } | {
     title: string;
     project: string;
@@ -45,6 +46,34 @@ export declare const discography: ({
     }[];
     notes: string;
     credits: string;
+    project_slug: string;
+    release_slug: string;
+    cover_url: string;
+    id: string;
+    streams?: undefined;
+    mp3_url?: undefined;
+    options?: undefined;
+} | {
+    title: string;
+    project: string;
+    released: string;
+    type: string;
+    format: string;
+    role: string;
+    label: string;
+    mp3: boolean;
+    wav: boolean;
+    tracks: {
+        number: number;
+        title: string;
+        length: string;
+        id: string;
+    }[];
+    notes: string;
+    credits: string;
+    options: {
+        notes: string;
+    }[];
     project_slug: string;
     release_slug: string;
     cover_url: string;

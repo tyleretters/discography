@@ -683,6 +683,8 @@
   credits: |
     released the day after the winter solstice, when the light begins her steady march to summer.
     written and recorded by tyler etters from an indeterminate point in the past through december 2017. featuring guitar by david kvistad on the snail shell graveyard and field recordings by sage etters on unnamed seasons. painting of cornfields in illinois (1994) by lynda wallis (tyler etters’s mom) with additional treatment by tyler etters.
+  options:
+    - notes: monospace
 
 - title: dispatches from the prime meridian
   project: tyler etters & the northern information movement
@@ -740,6 +742,8 @@
   credits: |
     released on the winter solstice, when both darkness and light hang in a wary balance.
     written and recorded by tyler etters from an indeterminate point in the past through december 2017. featuring pasha petrosyan on surveillance industrial complex, later heaven, and the path of many returns. numerous samples, videos, storyline components and album title by cory salveson. album cover polaroid of stone henge on the summer solstice (2017) by cory salveson with additional treatment by tyler etters.
+  options:
+    - notes: monospace
 
 - title: the legacy of our lost cause
   project: tyler etters & the northern information movement
@@ -796,6 +800,8 @@
     - - - - - - - - - - 
   credits: |
     written & recorded by tyler etters from an indeterminate point in the past through december 2016 at endless field studios. featuring adam j. moore on full steam, holy mountain hymn, and reaver, yggdsrasil, the thing at the end of the woods. featuring arthur zdrinc on holy mountain hymn. featuring cory salveson on videos, images, and storyline.
+  options:
+    - notes: monospace
 
 - title: and though the soft apocalypse may yet overtake
   project: tyler etters & the northern information movement
@@ -872,6 +878,8 @@
     - - - - - - - - - - 
   credits: |
     written & recorded by tyler etters from january 2015 through june 2015 at endless field studios. featuring adam j. moore on palm beach and suburban gutter trash.
+  options:
+    - notes: monospace
 
 - title: zulu
   project: tyler etters & the northern information movement
@@ -906,6 +914,8 @@
     - - - - - - - - - -
   credits: |
     written & recorded by tyler etters and adam j. moore on march 28 2015 at endless field studios. album cover artwork by adam j. moore with additional treatment by tyler etters.
+  options:
+    - notes: monospace
 
 - title: the phantoms of our lost cause
   project: tyler etters & the northern information movement
@@ -971,9 +981,9 @@
     7. jacurutu
     8. radio haces arrib{a} tu cowboy espacio
     9. getageese
-    i. we're going to getageese
-    ii. mainframe (salvaged from failing ecicefis computer)
-    iii. getageese is gone
+      i. we're going to getageese
+      ii. mainframe (salvaged from failing ecicefis computer)
+      iii. getageese is gone
     10. samsara (w/ adam)
     11. the sound of her wings
     12. infinite return of the same
@@ -981,6 +991,8 @@
     - - - - - - - - - - 
   credits: |
     written & recorded by tyler etters from an indeterminate point in the past through december 2014 at endless field studios. featuring adam moore on samsara. album cover artwork by paul petrosyan with additional treatment by tyler etters.
+  options:
+    - notes: monospace
 
 - title: senescence
   project: tyler etters & the northern information movement
@@ -1008,16 +1020,18 @@
     there was a time before these experiences shaped us. do you remember? years before we scaled all those unforgiving mountain ranges, before the codes were counted, and before the firmament fell. melting. wavering. corporeal. now our minds are increasingly augmented by technology and time's passage becomes difficult for our hearts to feel. do you remember! before your phone vibrated in your pocket every fifteen minutes to remind you of minutia that is neither here nor there? do you remember! before we lived in fear of the police ticketing us for being at the park after sunset? do you remember!!! here i am again. alone late at night and drowning in drones. i have finished the last songs, bounced them to cassette to engineer some lo-fi glory, and i now present them to you, dear listener, in the utmost humility - for i walked away from too many projects and i have turned down too many friends to fold now.
     - - - - - - - - - -
     1. northern illinois
-    i. wastes of the north
-    ii. procession of the hauntologists
-    iii. deed of the drones
-    iv. tears of the space cowboy (w/ kevin, dorian & arthur)
-    v. song of the cicada
+      i. wastes of the north
+      ii. procession of the hauntologists
+      iii. deed of the drones
+      iv. tears of the space cowboy (w/ kevin, dorian & arthur)
+      v. song of the cicada
     2. we failed
     3. january 1st, 1970 + zero gmt
     - - - - - - - - - - 
   credits: |
     written & recorded by tyler etters from june 2013 through september 2013 at endless field studios except for 'tears of the space cowboy' which was also written by kevin clark, dorian zdrinc and arthur zdrinc sometime back in 2011.
+  options:
+    - notes: monospace
 
 - title: blue, the most celestial color
   project: tyler etters & the northern information movement
@@ -1061,9 +1075,9 @@
     - - - - - - - - - -
     1. music for forests of childhood
     2. rainbow table
-    i. textbook sql injection
-    ii. don quixote
-    iii. icebreaker / rave
+      i. textbook sql injection
+      ii. don quixote
+      iii. icebreaker / rave
     3. ΑΙΓΑΙΙΣ
     4. zombie poison
     5. intermission
@@ -1073,6 +1087,8 @@
     - - - - - - - - - -
   credits: |
     written & recorded by tyler etters from december 2012 through june 2013 at endless field studios. featuring arthur zdrinc on rainbow table.
+  options:
+    - notes: monospace
 
 - title: the geometrie of our lost cause
   project: tyler etters & the northern information movement
@@ -1095,15 +1111,17 @@
     chapter i
     - - - - - - - - - -
     1. immemorial
-    i. the forgotten distance
-    ii. time slopes
-    iii. by the train tracks (w/ arthur)
-    iv. hazey power plant, 1001 drones (for paul)
-    v. at another working gate
+      i. the forgotten distance
+      ii. time slopes
+      iii. by the train tracks (w/ arthur)
+      iv. hazey power plant, 1001 drones (for paul)
+      v. at another working gate
     2. generative
     - - - - - - - - - -
   credits: |
     written & recorded by tyler etters from october 2012 through december 2012 at endless field studios.
+  options:
+    - notes: monospace
 
 - title: Prolegomenon
   project: Connectedness Locus
