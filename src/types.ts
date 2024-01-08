@@ -12,9 +12,9 @@ export interface Release {
   wav_url?: string
   tracks: Array<Track>
   streams?: Array<Stream> 
+  monospaceNotes?: boolean
   notes: string
   credits: string
-  options?: Array<Record<string, any>>
   release_slug: string
   project_slug: string
   cover_url: string

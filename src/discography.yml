@@ -662,6 +662,7 @@
   - number: 11
     title: where the grass is uncut by blades of men
     length: 00:02:59
+  monospaceNotes: true
   notes: |
     - - - - - - - - - -
     chapter ix
@@ -683,8 +684,6 @@
   credits: |
     released the day after the winter solstice, when the light begins her steady march to summer.
     written and recorded by tyler etters from an indeterminate point in the past through december 2017. featuring guitar by david kvistad on the snail shell graveyard and field recordings by sage etters on unnamed seasons. painting of cornfields in illinois (1994) by lynda wallis (tyler etters’s mom) with additional treatment by tyler etters.
-  options:
-    - notes: monospace
 
 - title: dispatches from the prime meridian
   project: tyler etters & the northern information movement
@@ -723,6 +722,7 @@
   - number: 9
     title: the path of many returns
     length: 00:06:40
+  monospaceNotes: true  
   notes: |
     - - - - - - - - - -
     chapter viii
@@ -742,8 +742,6 @@
   credits: |
     released on the winter solstice, when both darkness and light hang in a wary balance.
     written and recorded by tyler etters from an indeterminate point in the past through december 2017. featuring pasha petrosyan on surveillance industrial complex, later heaven, and the path of many returns. numerous samples, videos, storyline components and album title by cory salveson. album cover polaroid of stone henge on the summer solstice (2017) by cory salveson with additional treatment by tyler etters.
-  options:
-    - notes: monospace
 
 - title: the legacy of our lost cause
   project: tyler etters & the northern information movement
@@ -782,6 +780,7 @@
   - number: 9
     title: unscarred land
     length: 00:05:03
+  monospaceNotes: true
   notes: |
     - - - - - - - - - -
     chapter vii
@@ -800,8 +799,6 @@
     - - - - - - - - - - 
   credits: |
     written & recorded by tyler etters from an indeterminate point in the past through december 2016 at endless field studios. featuring adam j. moore on full steam, holy mountain hymn, and reaver, yggdsrasil, the thing at the end of the woods. featuring arthur zdrinc on holy mountain hymn. featuring cory salveson on videos, images, and storyline.
-  options:
-    - notes: monospace
 
 - title: and though the soft apocalypse may yet overtake
   project: tyler etters & the northern information movement
@@ -855,6 +852,7 @@
   - number: 14
     title: and then the crickets came
     length: 00:02:31
+  monospaceNotes: true
   notes: |
     - - - - - - - - - -
     chapter vi
@@ -878,8 +876,6 @@
     - - - - - - - - - - 
   credits: |
     written & recorded by tyler etters from january 2015 through june 2015 at endless field studios. featuring adam j. moore on palm beach and suburban gutter trash.
-  options:
-    - notes: monospace
 
 - title: zulu
   project: tyler etters & the northern information movement
@@ -903,6 +899,7 @@
   - number: 4
     title: OS4
     length: 01:24
+  monospaceNotes: true
   notes: |
     - - - - - - - - - -
     chapter v
@@ -914,8 +911,6 @@
     - - - - - - - - - -
   credits: |
     written & recorded by tyler etters and adam j. moore on march 28 2015 at endless field studios. album cover artwork by adam j. moore with additional treatment by tyler etters.
-  options:
-    - notes: monospace
 
 - title: the phantoms of our lost cause
   project: tyler etters & the northern information movement
@@ -966,6 +961,7 @@
   - number: 13
     title: nausicaä
     length: 00:05:35
+  monospaceNotes: true
   notes: |
     - - - - - - - - - -
     chapter iv
@@ -991,8 +987,6 @@
     - - - - - - - - - - 
   credits: |
     written & recorded by tyler etters from an indeterminate point in the past through december 2014 at endless field studios. featuring adam moore on samsara. album cover artwork by paul petrosyan with additional treatment by tyler etters.
-  options:
-    - notes: monospace
 
 - title: senescence
   project: tyler etters & the northern information movement
@@ -1013,6 +1007,7 @@
   - number: 3
     title: january 1st, 1970 + zero gmt
     length: 00:06:13
+  monospaceNotes: true
   notes: |
     - - - - - - - - - -
     chapter iii
@@ -1030,8 +1025,6 @@
     - - - - - - - - - - 
   credits: |
     written & recorded by tyler etters from june 2013 through september 2013 at endless field studios except for 'tears of the space cowboy' which was also written by kevin clark, dorian zdrinc and arthur zdrinc sometime back in 2011.
-  options:
-    - notes: monospace
 
 - title: blue, the most celestial color
   project: tyler etters & the northern information movement
@@ -1067,6 +1060,7 @@
   - number: 8
     title: ICD-10 Z73.0
     length: 00:04:12
+  monospaceNotes: true
   notes: |
     - - - - - - - - - -
     chapter ii
@@ -1087,8 +1081,6 @@
     - - - - - - - - - -
   credits: |
     written & recorded by tyler etters from december 2012 through june 2013 at endless field studios. featuring arthur zdrinc on rainbow table.
-  options:
-    - notes: monospace
 
 - title: the geometrie of our lost cause
   project: tyler etters & the northern information movement
@@ -1106,6 +1098,7 @@
   - number: 2
     title: generative
     length: 00:15:00
+  monospaceNotes: true
   notes: |
     - - - - - - - - - -
     chapter i
@@ -1120,8 +1113,6 @@
     - - - - - - - - - -
   credits: |
     written & recorded by tyler etters from october 2012 through december 2012 at endless field studios.
-  options:
-    - notes: monospace
 
 - title: Prolegomenon
   project: Connectedness Locus

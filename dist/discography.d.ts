@@ -27,7 +27,7 @@ export declare const discography: ({
     cover_url: string;
     mp3_url: string;
     id: string;
-    options?: undefined;
+    monospaceNotes?: undefined;
 } | {
     title: string;
     project: string;
@@ -52,7 +52,7 @@ export declare const discography: ({
     id: string;
     streams?: undefined;
     mp3_url?: undefined;
-    options?: undefined;
+    monospaceNotes?: undefined;
 } | {
     title: string;
     project: string;
@@ -69,11 +69,9 @@ export declare const discography: ({
         length: string;
         id: string;
     }[];
+    monospaceNotes: boolean;
     notes: string;
     credits: string;
-    options: {
-        notes: string;
-    }[];
     project_slug: string;
     release_slug: string;
     cover_url: string;
