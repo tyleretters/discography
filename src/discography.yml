@@ -446,6 +446,7 @@
   - number: 8
     title: Something You Are
     length: 00:05:40
+  monospaceNotes: true
   notes: |
     % ssh-keygen -t ed25519
     Generating public/private ed25519 key pair.
@@ -662,7 +663,6 @@
   - number: 11
     title: where the grass is uncut by blades of men
     length: 00:02:59
-  monospaceNotes: true
   notes: |
     - - - - - - - - - -
     chapter ix
@@ -722,7 +722,6 @@
   - number: 9
     title: the path of many returns
     length: 00:06:40
-  monospaceNotes: true  
   notes: |
     - - - - - - - - - -
     chapter viii
@@ -780,7 +779,6 @@
   - number: 9
     title: unscarred land
     length: 00:05:03
-  monospaceNotes: true
   notes: |
     - - - - - - - - - -
     chapter vii
@@ -852,7 +850,6 @@
   - number: 14
     title: and then the crickets came
     length: 00:02:31
-  monospaceNotes: true
   notes: |
     - - - - - - - - - -
     chapter vi
@@ -899,7 +896,6 @@
   - number: 4
     title: OS4
     length: 01:24
-  monospaceNotes: true
   notes: |
     - - - - - - - - - -
     chapter v
@@ -961,7 +957,6 @@
   - number: 13
     title: nausicaä
     length: 00:05:35
-  monospaceNotes: true
   notes: |
     - - - - - - - - - -
     chapter iv
@@ -1007,7 +1002,6 @@
   - number: 3
     title: january 1st, 1970 + zero gmt
     length: 00:06:13
-  monospaceNotes: true
   notes: |
     - - - - - - - - - -
     chapter iii
@@ -1060,7 +1054,6 @@
   - number: 8
     title: ICD-10 Z73.0
     length: 00:04:12
-  monospaceNotes: true
   notes: |
     - - - - - - - - - -
     chapter ii
@@ -1098,7 +1091,6 @@
   - number: 2
     title: generative
     length: 00:15:00
-  monospaceNotes: true
   notes: |
     - - - - - - - - - -
     chapter i
