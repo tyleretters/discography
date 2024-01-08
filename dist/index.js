@@ -585,7 +585,7 @@ var discography = [
             },
             {
                 "number": 3,
-                "title": "A White USB Drive With \"HEXAGON\" iStock Logo \\#1135496271",
+                "title": "A White USB Drive With \"HEXAGON\" iStock Logo &num;1135496271",
                 "length": "00:03:09",
                 "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/03-a-white-usb-drive-with-hexagon-istock-logo-1135496271.mp3",
                 "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/03-a-white-usb-drive-with-hexagon-istock-logo-1135496271.wav",

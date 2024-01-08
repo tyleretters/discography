@@ -18,9 +18,14 @@ dir_path = os.path.dirname(os.path.realpath(__file__))
 yml_path = dir_path + "/" + "discography.yml"
 ts_path = dir_path + "/" + "discography.ts"
 
-special_maps = {
+special_slug_maps = {
   "ΑΙΓΑΙΙΣ": "AIGAIIS",
   "nausicaä": "nausicaa"
+}
+
+# there are some encoding issues with the # character
+special_title_maps = {
+  'A White USB Drive With "HEXAGON" iStock Logo \#1135496271': 'A White USB Drive With "HEXAGON" iStock Logo &num;1135496271'
 }
 
 def make_id(str):
@@ -29,8 +34,8 @@ def make_id(str):
   return md5_hash.hexdigest()
 
 def make_slug(str):
-  if str in special_maps:
-    str = special_maps[str]
+  if str in special_slug_maps:
+    str = special_slug_maps[str]
   str = str.lower()
   # convert & to and
   str = re.sub(r'&', 'and', str)
@@ -40,6 +45,11 @@ def make_slug(str):
   str = re.sub(r'\s+', '-', str)
   # replace multiple hyphens with single hyphen
   str = re.sub(r'--+', '-', str)
+  return str
+
+def make_track_title(str):
+  if str in special_title_maps:
+    return special_title_maps[str]
   return str
 
 def make_html_paragraphs(str):
@@ -103,6 +113,9 @@ for release in data:
 
       # generate an id (ARTIST + RELEASE + NUMBER + TITLE + LENGTH)
       track["id"] = make_id(release["project"] + release["title"] + str(track["number"]) + track["title"] + track["length"])
+
+      # generate a track title
+      track["title"] = make_track_title(track["title"])
 
   # generate an id for each stream
   if "streams" in release:
