@@ -6,7 +6,7 @@
   role: Operator
   label: Intertext
   mp3: true
-  wav: false
+  wav: true
   tracks:
   - number: 1
     title: Tiresias
@@ -63,8 +63,8 @@
   format: Digital
   role: Operator
   label: Intertext
-  mp3: false
-  wav: false
+  mp3: true
+  wav: true
   tracks:
   - number: 1
     title: Sources and Methods
@@ -215,8 +215,8 @@
   format: Digital
   role: Operator
   label: Intertext
-  mp3: false
-  wav: false
+  mp3: true
+  wav: true
   tracks:
   - number: 1
     title: that it is a message at all
@@ -252,8 +252,8 @@
   format: Digital
   role: Operator
   label: Intertext
-  mp3: false
-  wav: false
+  mp3: true
+  wav: true
   tracks:
   - number: 1
     title: Dazzle Camouflage (MUA)
@@ -289,8 +289,8 @@
   format: Digital
   role: Operator
   label: Intertext
-  mp3: false
-  wav: false
+  mp3: true
+  wav: true
   tracks:
   - number: 1
     title: Our world was always fallen but there was always light.
@@ -345,8 +345,8 @@
   format: Digital
   role: Operator
   label: Intertext
-  mp3: false
-  wav: false
+  mp3: true
+  wav: true
   tracks:
   - number: 1
     title: Time's Firewall
@@ -370,8 +370,8 @@
   format: Digital
   role: Operator
   label: Intertext
-  mp3: false
-  wav: false
+  mp3: true
+  wav: true
   tracks:
   - number: 1
     title: The Payload Appeared Yesterday Due to a Zero Day Timezone Conversion Vulnerability
@@ -419,8 +419,8 @@
   format: Digital
   role: Operator
   label: Intertext
-  mp3: false
-  wav: false
+  mp3: true
+  wav: true
   tracks:
   - number: 1
     title: Trapdoor Function
@@ -488,8 +488,8 @@
   format: Digital
   role: Operator
   label: Intertext
-  mp3: false
-  wav: false
+  mp3: true
+  wav: true
   tracks:
   - number: 1
     title: plateau

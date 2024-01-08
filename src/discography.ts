@@ -8,13 +8,14 @@ export const discography = [
     "role": "Operator",
     "label": "Intertext",
     "mp3": true,
-    "wav": false,
+    "wav": true,
     "tracks": [
       {
         "number": 1,
         "title": "Tiresias",
         "length": "00:01:49",
         "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/01-tiresias.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/01-tiresias.wav",
         "id": "d8e190eb5c8a7c59a6bfe3a6cccd0b64"
       },
       {
@@ -22,6 +23,7 @@ export const discography = [
         "title": "In Darkness Radiant",
         "length": "00:01:54",
         "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/02-in-darkness-radiant.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/02-in-darkness-radiant.wav",
         "id": "07431a76e3916159a229b4d77597dde1"
       },
       {
@@ -29,6 +31,7 @@ export const discography = [
         "title": "Temporary Autonomous Zone",
         "length": "00:04:16",
         "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/03-temporary-autonomous-zone.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/03-temporary-autonomous-zone.wav",
         "id": "a8751056a8a9ebcbeec39a88b53ff2c8"
       },
       {
@@ -36,6 +39,7 @@ export const discography = [
         "title": "Hell Money",
         "length": "00:01:58",
         "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/04-hell-money.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/04-hell-money.wav",
         "id": "166de9752fc6f68fabff27f1e4ec9164"
       },
       {
@@ -43,6 +47,7 @@ export const discography = [
         "title": "Subsea Fiber Faults in the APAC Region",
         "length": "00:05:43",
         "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/05-subsea-fiber-faults-in-the-apac-region.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/05-subsea-fiber-faults-in-the-apac-region.wav",
         "id": "ddabb410b3b4e9692913d1aba064638f"
       },
       {
@@ -50,6 +55,7 @@ export const discography = [
         "title": "Safe Passage (Non-Functional)",
         "length": "00:02:51",
         "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/06-safe-passage-non-functional.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/06-safe-passage-non-functional.wav",
         "id": "cb92de4cad418d150ca1a21b7544879c"
       }
     ],
@@ -96,6 +102,7 @@ export const discography = [
     "release_slug": "in-darkness-radiant",
     "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/in-darkness-radiant.jpg",
     "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/in-darkness-radiant-mp3.zip",
+    "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/in-darkness-radiant-wav.zip",
     "id": "fb698f2114760946e4fd0fc2576199a9"
   },
   {
@@ -106,37 +113,47 @@ export const discography = [
     "format": "Digital",
     "role": "Operator",
     "label": "Intertext",
-    "mp3": false,
-    "wav": false,
+    "mp3": true,
+    "wav": true,
     "tracks": [
       {
         "number": 1,
         "title": "Sources and Methods",
         "length": "00:03:44",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/fade-scatter-replicate/01-sources-and-methods.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/fade-scatter-replicate/01-sources-and-methods.wav",
         "id": "376c3e78f3eff2fb422e21e6dd855274"
       },
       {
         "number": 2,
         "title": "Coyote",
         "length": "00:05:52",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/fade-scatter-replicate/02-coyote.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/fade-scatter-replicate/02-coyote.wav",
         "id": "958eab7cc3c22f4f4215bc80974c153f"
       },
       {
         "number": 3,
         "title": "Special Economic Zone",
         "length": "00:03:44",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/fade-scatter-replicate/03-special-economic-zone.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/fade-scatter-replicate/03-special-economic-zone.wav",
         "id": "b04e1d4a0065e8a519e97017876f4f0f"
       },
       {
         "number": 4,
         "title": "Border Crossing",
         "length": "00:03:28",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/fade-scatter-replicate/04-border-crossing.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/fade-scatter-replicate/04-border-crossing.wav",
         "id": "a61940bf64f3315a6b294642e1acaa8d"
       },
       {
         "number": 5,
         "title": "In Infinite Fogs",
         "length": "00:05:52",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/fade-scatter-replicate/05-in-infinite-fogs.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/fade-scatter-replicate/05-in-infinite-fogs.wav",
         "id": "3425ce3d019d9a2b4486a5b677580273"
       }
     ],
@@ -145,6 +162,8 @@ export const discography = [
     "project_slug": "stuxnet",
     "release_slug": "fade-scatter-replicate",
     "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/fade-scatter-replicate/fade-scatter-replicate.jpg",
+    "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/fade-scatter-replicate/fade-scatter-replicate-mp3.zip",
+    "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/fade-scatter-replicate/fade-scatter-replicate-wav.zip",
     "id": "f47f6e20ac3ac2097070539354fda463"
   },
   {
@@ -291,25 +310,31 @@ export const discography = [
     "format": "Digital",
     "role": "Operator",
     "label": "Intertext",
-    "mp3": false,
-    "wav": false,
+    "mp3": true,
+    "wav": true,
     "tracks": [
       {
         "number": 1,
         "title": "that it is a message at all",
         "length": "00:04:36",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/human-interference-task-force/01-that-it-is-a-message-at-all.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/human-interference-task-force/01-that-it-is-a-message-at-all.wav",
         "id": "e5b79e65e20eef11a6fdcfd49f045f10"
       },
       {
         "number": 2,
         "title": "that dangerous material is stored in a given location",
         "length": "00:32:21",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/human-interference-task-force/02-that-dangerous-material-is-stored-in-a-given-location.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/human-interference-task-force/02-that-dangerous-material-is-stored-in-a-given-location.wav",
         "id": "dd3c27ef99659033aaab2252f565fda5"
       },
       {
         "number": 3,
         "title": "information about the type of dangerous substances",
         "length": "00:19:16",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/human-interference-task-force/03-information-about-the-type-of-dangerous-substances.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/human-interference-task-force/03-information-about-the-type-of-dangerous-substances.wav",
         "id": "4bdbc9918ce2a3623da3380ad3b44386"
       }
     ],
@@ -318,6 +343,8 @@ export const discography = [
     "project_slug": "stuxnet",
     "release_slug": "human-interference-task-force",
     "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/human-interference-task-force/human-interference-task-force.jpg",
+    "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/human-interference-task-force/human-interference-task-force-mp3.zip",
+    "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/human-interference-task-force/human-interference-task-force-wav.zip",
     "id": "70d383f39cd6c320f14ae8f8112ab125"
   },
   {
@@ -328,49 +355,63 @@ export const discography = [
     "format": "Digital",
     "role": "Operator",
     "label": "Intertext",
-    "mp3": false,
-    "wav": false,
+    "mp3": true,
+    "wav": true,
     "tracks": [
       {
         "number": 1,
         "title": "Dazzle Camouflage (MUA)",
         "length": "00:05:16",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/01-dazzle-camouflage-mua.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/01-dazzle-camouflage-mua.wav",
         "id": "b3e55e82d01163b32e55719915098c3a"
       },
       {
         "number": 2,
         "title": "Countersurveillance",
         "length": "00:04:09",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/02-countersurveillance.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/02-countersurveillance.wav",
         "id": "6dc975e67926eeec29161acbf020d1e6"
       },
       {
         "number": 3,
         "title": "A Territory of History, Without Self",
         "length": "00:03:33",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/03-a-territory-of-history-without-self.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/03-a-territory-of-history-without-self.wav",
         "id": "443d85726b3da2bbcf3f1e73cb75247c"
       },
       {
         "number": 4,
         "title": "Pyrocumulus Days, Entropy Nights",
         "length": "00:02:18",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/04-pyrocumulus-days-entropy-nights.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/04-pyrocumulus-days-entropy-nights.wav",
         "id": "2bbf6bb6019421586f7c422490fb877f"
       },
       {
         "number": 5,
         "title": "What's Your Wifi Password?",
         "length": "00:02:18",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/05-whats-your-wifi-password.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/05-whats-your-wifi-password.wav",
         "id": "2bcbc1e1c036d5aececc7994b3c16ea8"
       },
       {
         "number": 6,
         "title": "I'm On Blockchain",
         "length": "00:03:02",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/06-im-on-blockchain.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/06-im-on-blockchain.wav",
         "id": "f28af783b6bf7c71feaf8681bd925b6a"
       },
       {
         "number": 7,
         "title": "Maybe",
         "length": "00:04:35",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/07-maybe.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/07-maybe.wav",
         "id": "d9b1078aadc31f8feb907ca5aa3e74bd"
       }
     ],
@@ -379,6 +420,8 @@ export const discography = [
     "project_slug": "stuxnet",
     "release_slug": "countersurveillance",
     "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/countersurveillance.jpg",
+    "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/countersurveillance-mp3.zip",
+    "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/countersurveillance-wav.zip",
     "id": "7339ec77045dfcc729a608f84b2cefa6"
   },
   {
@@ -389,61 +432,79 @@ export const discography = [
     "format": "Digital",
     "role": "Operator",
     "label": "Intertext",
-    "mp3": false,
-    "wav": false,
+    "mp3": true,
+    "wav": true,
     "tracks": [
       {
         "number": 1,
         "title": "Our world was always fallen but there was always light.",
         "length": "00:03:48",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/01-our-world-was-always-fallen-but-there-was-always-light.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/01-our-world-was-always-fallen-but-there-was-always-light.wav",
         "id": "179b9982672f8f79ea013a5a0643c9bd"
       },
       {
         "number": 2,
         "title": "Damaged music is a metaphor for this world.",
         "length": "00:04:35",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/02-damaged-music-is-a-metaphor-for-this-world.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/02-damaged-music-is-a-metaphor-for-this-world.wav",
         "id": "08207b02a760518f1294c1ea693691bf"
       },
       {
         "number": 3,
         "title": "Music was always celebratory, but there was always sorrow.",
         "length": "00:02:50",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/03-music-was-always-celebratory-but-there-was-always-sorrow.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/03-music-was-always-celebratory-but-there-was-always-sorrow.wav",
         "id": "2c538db0c9926c8ea43af7a422aaf9a2"
       },
       {
         "number": 4,
         "title": "For liberation lies in that which is shattered.",
         "length": "00:01:15",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/04-for-liberation-lies-in-that-which-is-shattered.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/04-for-liberation-lies-in-that-which-is-shattered.wav",
         "id": "d5a9025184b1983352b1f8ae2ddd7d91"
       },
       {
         "number": 5,
         "title": "Designed to merge, engineered to transcend.",
         "length": "00:02:18",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/05-designed-to-merge-engineered-to-transcend.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/05-designed-to-merge-engineered-to-transcend.wav",
         "id": "fcd2e06c4631a2a63539dacf1b577e1b"
       },
       {
         "number": 6,
         "title": "Liberation follows that which is broken.",
         "length": "00:07:56",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/06-liberation-follows-that-which-is-broken.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/06-liberation-follows-that-which-is-broken.wav",
         "id": "0cdc699f61cd1b25eb74c95f1c0c7be9"
       },
       {
         "number": 7,
         "title": "Something you catch.",
         "length": "00:07:30",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/07-something-you-catch.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/07-something-you-catch.wav",
         "id": "bde572f3a3de478e7d74607798ff41c7"
       },
       {
         "number": 8,
         "title": "As you're scanning for distress calls.",
         "length": "00:03:53",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/08-as-youre-scanning-for-distress-calls.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/08-as-youre-scanning-for-distress-calls.wav",
         "id": "e7888378b887c15138b8e9be615ec012"
       },
       {
         "number": 9,
         "title": "Long live the lost ones.",
         "length": "00:05:12",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/09-long-live-the-lost-ones.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/09-long-live-the-lost-ones.wav",
         "id": "30f9acd6b2a5762977f27468d900eecd"
       }
     ],
@@ -452,6 +513,8 @@ export const discography = [
     "project_slug": "stuxnet",
     "release_slug": "long-live-the-lost-ones",
     "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/long-live-the-lost-ones.jpg",
+    "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/long-live-the-lost-ones-mp3.zip",
+    "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/long-live-the-lost-ones-wav.zip",
     "id": "7d8f67a125af6c412d1d5b08caa02412"
   },
   {
@@ -462,19 +525,23 @@ export const discography = [
     "format": "Digital",
     "role": "Operator",
     "label": "Intertext",
-    "mp3": false,
-    "wav": false,
+    "mp3": true,
+    "wav": true,
     "tracks": [
       {
         "number": 1,
         "title": "Time's Firewall",
         "length": "00:08:07",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/times-firewall-demo/01-times-firewall.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/times-firewall-demo/01-times-firewall.wav",
         "id": "4eae4205c51602b354c0523f04545abe"
       },
       {
         "number": 2,
         "title": "Fractal's Edge",
         "length": "00:11:02",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/times-firewall-demo/02-fractals-edge.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/times-firewall-demo/02-fractals-edge.wav",
         "id": "23d10f8f4768e913d7c0fe955cc16b04"
       }
     ],
@@ -483,6 +550,8 @@ export const discography = [
     "project_slug": "stuxnet",
     "release_slug": "times-firewall-demo",
     "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/times-firewall-demo/times-firewall-demo.jpg",
+    "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/times-firewall-demo/times-firewall-demo-mp3.zip",
+    "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/times-firewall-demo/times-firewall-demo-wav.zip",
     "id": "1b1c543e6914fcc678c4710c1ce600f4"
   },
   {
@@ -493,73 +562,95 @@ export const discography = [
     "format": "Digital",
     "role": "Operator",
     "label": "Intertext",
-    "mp3": false,
-    "wav": false,
+    "mp3": true,
+    "wav": true,
     "tracks": [
       {
         "number": 1,
         "title": "The Payload Appeared Yesterday Due to a Zero Day Timezone Conversion Vulnerability",
         "length": "00:01:28",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/01-the-payload-appeared-yesterday-due-to-a-zero-day-timezone-conversion-vulnerability.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/01-the-payload-appeared-yesterday-due-to-a-zero-day-timezone-conversion-vulnerability.wav",
         "id": "faf5ef30c09d21d6a7accc7a9c8eba23"
       },
       {
         "number": 2,
         "title": "Supply Chain Attack Surface",
         "length": "00:02:14",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/02-supply-chain-attack-surface.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/02-supply-chain-attack-surface.wav",
         "id": "4e2e4b2e0b229bfd729e2c30c6af0c68"
       },
       {
         "number": 3,
         "title": "A White USB Drive With \"HEXAGON\" iStock Logo \\#1135496271",
         "length": "00:03:09",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/03-a-white-usb-drive-with-hexagon-istock-logo-1135496271.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/03-a-white-usb-drive-with-hexagon-istock-logo-1135496271.wav",
         "id": "0c64e4dd5d5bb830ed5975cc200e7793"
       },
       {
         "number": 4,
         "title": "At Least One Reseller of Microsoft Cloud Services Was Compromised",
         "length": "00:02:44",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/04-at-least-one-reseller-of-microsoft-cloud-services-was-compromised.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/04-at-least-one-reseller-of-microsoft-cloud-services-was-compromised.wav",
         "id": "5ca900f7ab02c2b0fbd0e77190c4beec"
       },
       {
         "number": 5,
         "title": "Matryoshka Shell 1 - Ransomware Was Discovered on the Executive\u2019s Peloton",
         "length": "00:02:13",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/05-matryoshka-shell-1-ransomware-was-discovered-on-the-executives-peloton.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/05-matryoshka-shell-1-ransomware-was-discovered-on-the-executives-peloton.wav",
         "id": "28065b49def591062fa9288476a564f4"
       },
       {
         "number": 6,
         "title": "Matryoshka Shell 2 - IoT Botnet DDoS",
         "length": "00:02:06",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/06-matryoshka-shell-2-iot-botnet-ddos.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/06-matryoshka-shell-2-iot-botnet-ddos.wav",
         "id": "4e00289da643efb2a0e135cf0c675429"
       },
       {
         "number": 7,
         "title": "Matryoshka Shell 3 - Distributed Cryptocurrency Mining Operation",
         "length": "00:01:22",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/07-matryoshka-shell-3-distributed-cryptocurrency-mining-operation.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/07-matryoshka-shell-3-distributed-cryptocurrency-mining-operation.wav",
         "id": "8c381f7d6ba406bf4d09b39f4b97edd2"
       },
       {
         "number": 8,
         "title": "Matryoshka Shell 4 - International Date Line",
         "length": "00:02:46",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/08-matryoshka-shell-4-international-date-line.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/08-matryoshka-shell-4-international-date-line.wav",
         "id": "29f3e0a0cb584e1f38a1c8e12c3dd50a"
       },
       {
         "number": 9,
         "title": "Matryoshka Shell 5 - \u7dcf\u4f1a\u5c4b (deepfake.S)",
         "length": "00:03:21",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/09-matryoshka-shell-5-deepfakes.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/09-matryoshka-shell-5-deepfakes.wav",
         "id": "6638a8ff34056ccfa84889decbf9e763"
       },
       {
         "number": 10,
         "title": "Matryoshka Shell 6 - Schanuel's Conjecture (Evidence of Non-Human Origin)",
         "length": "00:02:29",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/10-matryoshka-shell-6-schanuels-conjecture-evidence-of-non-human-origin.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/10-matryoshka-shell-6-schanuels-conjecture-evidence-of-non-human-origin.wav",
         "id": "0b394848373ec96e857293c460a07895"
       },
       {
         "number": 11,
         "title": "The Media Confused the Matter With Container Ships",
         "length": "00:02:13",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/11-the-media-confused-the-matter-with-container-ships.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/11-the-media-confused-the-matter-with-container-ships.wav",
         "id": "b9202085559832f47a042d7eabca7243"
       }
     ],
@@ -568,6 +659,8 @@ export const discography = [
     "project_slug": "stuxnet",
     "release_slug": "matryoshka-demo",
     "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/matryoshka-demo.jpg",
+    "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/matryoshka-demo-mp3.zip",
+    "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/matryoshka-demo-wav.zip",
     "id": "008f7a37d4d2668958e8df4c2e2f1f77"
   },
   {
@@ -578,55 +671,71 @@ export const discography = [
     "format": "Digital",
     "role": "Operator",
     "label": "Intertext",
-    "mp3": false,
-    "wav": false,
+    "mp3": true,
+    "wav": true,
     "tracks": [
       {
         "number": 1,
         "title": "Trapdoor Function",
         "length": "00:02:11",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/01-trapdoor-function.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/01-trapdoor-function.wav",
         "id": "c3560e910e213cf54e99ffcc624460d1"
       },
       {
         "number": 2,
         "title": "Asymmetric Encrypted Transport",
         "length": "00:01:21",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/02-asymmetric-encrypted-transport.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/02-asymmetric-encrypted-transport.wav",
         "id": "2349bb6f2e75db320e6c89fc2857c70c"
       },
       {
         "number": 3,
         "title": "Forced Disclosure of Encryption Keys",
         "length": "00:02:31",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/03-forced-disclosure-of-encryption-keys.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/03-forced-disclosure-of-encryption-keys.wav",
         "id": "2c255249ce2e536690e2b79824aa693d"
       },
       {
         "number": 4,
         "title": "Chinese Remainder Theorem",
         "length": "00:02:11",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/04-chinese-remainder-theorem.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/04-chinese-remainder-theorem.wav",
         "id": "567e1a5978db9ffd4f2e0be22bea39b7"
       },
       {
         "number": 5,
         "title": "Hash Collision",
         "length": "00:04:52",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/05-hash-collision.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/05-hash-collision.wav",
         "id": "9079406ca53ef6f354fa6bcdc112e66c"
       },
       {
         "number": 6,
         "title": "Something You Have",
         "length": "00:10:05",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/06-something-you-have.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/06-something-you-have.wav",
         "id": "25da8b21911fc20cb1b0dc2cb7f56d4b"
       },
       {
         "number": 7,
         "title": "Something You Know",
         "length": "00:03:25",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/07-something-you-know.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/07-something-you-know.wav",
         "id": "461384034f3ea6d780e9f82f352f8dea"
       },
       {
         "number": 8,
         "title": "Something You Are",
         "length": "00:05:40",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/08-something-you-are.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/08-something-you-are.wav",
         "id": "c791ffc28c2b9337919f730df6899e77"
       }
     ],
@@ -636,6 +745,8 @@ export const discography = [
     "project_slug": "stuxnet",
     "release_slug": "cipher-suite-demo",
     "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/cipher-suite-demo.jpg",
+    "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/cipher-suite-demo-mp3.zip",
+    "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/cipher-suite-demo-wav.zip",
     "id": "2324c584cb2ca86fba128a8e05d8fdd2"
   },
   {
@@ -646,55 +757,71 @@ export const discography = [
     "format": "Digital",
     "role": "Operator",
     "label": "Intertext",
-    "mp3": false,
-    "wav": false,
+    "mp3": true,
+    "wav": true,
     "tracks": [
       {
         "number": 1,
         "title": "plateau",
         "length": "00:09:04",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/01-plateau.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/01-plateau.wav",
         "id": "a53fcc99b810157b4435a23a37ddeecd"
       },
       {
         "number": 2,
         "title": "angel",
         "length": "00:05:11",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/02-angel.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/02-angel.wav",
         "id": "c5839f7dbaf891f6e11d8f2f31cb9755"
       },
       {
         "number": 3,
         "title": "mod3046",
         "length": "00:03:38",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/03-mod3046.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/03-mod3046.wav",
         "id": "13c37dcb5935d2b6abdac26510ca08d4"
       },
       {
         "number": 4,
         "title": "rave",
         "length": "00:01:46",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/04-rave.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/04-rave.wav",
         "id": "8c096eb17603847f5e7d699d67eaae27"
       },
       {
         "number": 5,
         "title": "fcore",
         "length": "00:02:39",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/05-fcore.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/05-fcore.wav",
         "id": "43d53188bf27c7626f98edb294f866aa"
       },
       {
         "number": 6,
         "title": "lecture",
         "length": "00:10:17",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/06-lecture.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/06-lecture.wav",
         "id": "7791b846ae7842b295d72daa55cfb95e"
       },
       {
         "number": 7,
         "title": "abeyance",
         "length": "00:06:07",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/07-abeyance.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/07-abeyance.wav",
         "id": "6c05d836e163b77bb4dd35bc0105fe8e"
       },
       {
         "number": 8,
         "title": "registry",
         "length": "00:01:26",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/08-registry.mp3",
+        "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/08-registry.wav",
         "id": "245d5a39e4a966bd7a7368253beaf668"
       }
     ],
@@ -703,6 +830,8 @@ export const discography = [
     "project_slug": "stuxnet",
     "release_slug": "carrier-demo",
     "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/carrier-demo.jpg",
+    "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/carrier-demo-mp3.zip",
+    "wav_url": "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/carrier-demo-wav.zip",
     "id": "e745f9e7855fd65dcdb2b682897def45"
   },
   {
