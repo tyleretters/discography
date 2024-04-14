@@ -1,5 +1,36 @@
 export var discography = [
     {
+        "title": "EP3",
+        "project": "They Became What They Beheld",
+        "released": "02023-04-14",
+        "type": "EP",
+        "format": "Digital",
+        "role": "Principal Musician",
+        "label": "Intertext",
+        "mp3": false,
+        "wav": false,
+        "tracks": [
+            {
+                "number": 1,
+                "title": "This changes things",
+                "length": "00:11:07",
+                "id": "d54a0b6c9e28ad784eea3340367834a1"
+            },
+            {
+                "number": 2,
+                "title": "Nothing is real anymore",
+                "length": "00:11:07",
+                "id": "578fa08628bc3fa4431215233e22cb40"
+            }
+        ],
+        "notes": "<p>But this is already the point of view required\u2014given a change of perspective\u2014for examining the primitive socius, the territorial machine for declining alliances and filiations. This machine is segmentary because, through its double apparatus of tribe and lineage, it cuts up segments of varying lengths: genealogical filiative units of major, minor, and minimal lineages, with their hierarchy, their respective chiefs, their elders who guard the stocks and organize marriages; territorial tribal units of primary, secondary, and tertiary sections, also having their dominant roles and their alliances. \"The point of separation between the tribal sections becomes the point of divergence in the clan structure of the lineages associated with each section. For, as we have seen, clans and their lineages are not distinct corporate groups, but are embodied in local communities, through which they function structurally.\"10 The two systems intersect, each segment being associated with the flows and the chains, with the stocked flows and the passing flows, with selections from the flows and detachments from the chains (certain production projects are executed in the framework of the tribal system, others in the framework of the lineage system). The variability and relativity of the segments are responsible for all sorts of penetrations between the inalienable elements of filiation and the mobile elements of alliance. This is explained by the fact that the length of each segment\u2014or even its existence as such\u2014is determined only by its opposition to other segments in a series of interrelated stages. The segmentary machine mixes rivalries, conflicts, and ruptures throughout the variations of filiation and the fluctuations of alliance. The whole system evolves between two poles: that of fusion through opposition to other groups, and that of scission through the constant formation of new lineages aspiring to independence, with capitalization of alliances and filiation. From one pole to the other, all the misfirings and failures in a system that is constantly reborn of its own disharmonies. What does Jeanne Favret mean when she shows, along with other ethnologists, that \"the persistence of a segmentary organization requires paradoxically that its mechanisms be ineffectual enough so that fear remains the motor of the whole\"? And what is this fear? It would appear that social formations experienced a morbid and mournful foreboding of things to come, although what comes to them always comes from without, rushing in through their opening. Perhaps it is even for this reason that it arrives from without; they suffocate its inner potentiality, at the cost of the dysfunctions that constitute an integral part of the functioning of their system.</p><p>\u2014 Deleuze & Guattari, 1972</p>",
+        "credits": "<p>Thanks to the person who sold me a faulty tape deck so I could not continue this project as intended because the original tape deck was in an airplane hanger because of the pandemic and everything stalled out for so long on both sides of the incident and then the project changed \u2014 like everything else did, that was closer to then and things are different now. Thanks to my dad for showing me Dancing Fantasy when I was a kid. Thanks to Sage for being infinitely patient and compassionate with me during the pandemic. Thanks to my two close friends who talked with me on the phone at length today, you know who you are. Thanks to Emily for finding this strange book and making me her audience of one. Thanks to the Adriance Memorial Library for first stocking the book and later stamping it with DISCARD. Thanks to Hippo Books who succeeded in diverting it from a landfill and otherwise help to fund library sustainability and provide meaningful solutions to the global problem of illiteracy.</p><p>About text, icon, and name sourced from They Became What They Beheld written by Edmund Snow Carpenter, photographed by Ken Heyman, designed by Hess and/or Antupit, 1970.</p><p>Audio sourced from Giovanni Gabrieli's Sanctus: VI. Hosanna in excelsis broadcast by KUSC 91.5 and recorded by iPhone, 2020.</p><p>Photographs from my trip to Petalying Jaya, Malaysia, 2017.</p><p>Engineered by Tyler Etters, 2020 \u2014 2024.</p>",
+        "project_slug": "they-became-what-they-beheld",
+        "release_slug": "ep3",
+        "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/ep3/ep3.jpg",
+        "id": "c7ee4757925b9b0c620503f1728b8921"
+    },
+    {
         "title": "IN DARKNESS RADIANT",
         "project": "STUXNET",
         "released": "02023-12-22",
