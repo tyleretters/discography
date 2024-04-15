@@ -4,7 +4,7 @@ var discography = [
     {
         "title": "EP3",
         "project": "They Became What They Beheld",
-        "released": "02023-04-14",
+        "released": "02024-04-14",
         "type": "EP",
         "format": "Digital",
         "role": "Principal Musician",
