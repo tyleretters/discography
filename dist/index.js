@@ -5,7 +5,7 @@ var discography = [
         "title": "Respect for the Medium",
         "project": "They Became What They Beheld",
         "released": "02024-04-22",
-        "type": "EP",
+        "type": "Single",
         "format": "Digital",
         "role": "Principal Musician",
         "label": "Intertext",
