@@ -21,14 +21,11 @@ JSON script built with Python 3.11.5. See `src/convert.py` for required imports.
 - `chmod 700 src/convert.py`
 - `npm run dev`
 
-## Convert YML
+## Publishing
 
 Whenever you update the `discography.yml` file, be sure to convert it to `discography.ts` with:
 
 - `npm run convert`
-
-## Publishing
-
-- bump version number package.json
+- manually bump version number package.json only
 - `npm run build`
 - `npm publish`
