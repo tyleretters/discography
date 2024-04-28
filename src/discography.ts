@@ -1,5 +1,30 @@
 export const discography = [
   {
+    "title": "Rocket Summer",
+    "project": "They Became What They Beheld",
+    "released": "02024-04-28",
+    "type": "Single",
+    "format": "Digital",
+    "role": "Principal Musician",
+    "label": "Intertext",
+    "mp3": false,
+    "wav": false,
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Rocket Summer",
+        "length": "00:30:42",
+        "id": "6c7af5ffec304e9076e093ccc60c37a1"
+      }
+    ],
+    "notes": "<p>One minute it was Ohio winter, with doors closed, windows locked, the panes blind with frost, icicles fringing every roof, children skiing on slopes, housewives lumbering like great black bears in their furs along the icy streets.</p><p>And then a long wave of warmth crossed the small town. A flooding sea of hot air; it seemed as if someone had left a bakery door open. The heat pulsed among the cottages and bushes and children. The icicles dropped, shattering, to melt. The doors flew open. The windows flew up. The children worked off their wool clothes. The housewives shed their bear disguises. The snow dissolved and showed last summer's ancient green lawns.</p><p>*Rocket summer.* The words passed among the people in the open, airing houses. *Rocket summer.* The warm desert air changing the frost patterns on the windows, erasing the art work. The skis and sleds suddenly useless. The snow, falling from the cold sky upon the town, turned to a hot rain before it touched the ground.</p><p>*Rocket summer.* People leaned from their dripping porches and watched the reddening sky.</p><p>The rocket lay on the launching field, blowing out pink clouds of fire and oven heat. The rocket stood in the cold winter morning, making summer with every breath of its mighty exhausts. The rocket made climates, and summer lay for a brief moment upon the land ...</p><p>\u2014 Ray Bradbury, 1950</p>",
+    "credits": "<p>Thanks to ... a ... tape deck ... original airplane hanger ... everything stalled out for so long ... changed ... else did, that was closer to now ... my dad ... when I was a kid ... Sage ... close ... Emily for finding this strange book ... her audience ... Memorial Library for ... to Hippo ... from a landfill ... library ...</p><p>Audio sourced from Giovanni Gabrieli's Sanctus: VI. Hosanna in excelsis broadcast by KUSC 91.5 and recorded by iPhone, 2020.</p><p>Photograph & video loops of an actual space rocket launch over my apartment, 2024.</p><p>Engineered by Tyler Etters, 2020 \u2014 2024.</p>",
+    "project_slug": "they-became-what-they-beheld",
+    "release_slug": "rocket-summer",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/rocket-summer/rocket-summer.jpg",
+    "id": "1302633a2ff9e89c6f96bde5092ce75a"
+  },
+  {
     "title": "Respect for the Medium",
     "project": "They Became What They Beheld",
     "released": "02024-04-22",
@@ -17,7 +42,7 @@ export const discography = [
         "id": "27c621894ea4988cfeff6e3dfa3406b9"
       }
     ],
-    "notes": "<p>The fundamental audio loop is more Gabrieli.</p><p>The DV tape loop is from Fireflies & Fields, a deeply personal series shot straight out of camera. Summer, 2009. Just after sunset. \"Night Mode\" enabled camera on a tripod facing south-south-east. Fairfield Road a bit to my back and right. A solid two-minute hike across the prairie to touch the first oaks in the shot. Macro lens on. Optical zoom maxed. Digital zoom zero. The key: auto-focus enabled to force the beacons into a duel until dawn. The loop is 21.17 seconds long and employs neither dissolve nor crossfade. It is same hard cut over and over until the song ends. Approximately 19% of the shot is lost because I wanted to crop it from 720x480 to 1920x1040 for the final export. Once you see the Taraxacum mote ascending you will never unsee it.</p><p>The artwork is also from Fireflies & Fields, also straight out of camera.</p><p>These sorts of things are important to me.</p><p>Respect for the medium.</p>",
+    "notes": "<p>The fundamental audio loop is more Gabrieli.</p><p>The DV tape loop is from Fireflies & Fields, a deeply personal series shot straight out of camera. Summer, 2009. Just after sunset. \"Night Mode\" enabled camera on a tripod facing south-south-east. Fairfield Road a bit to my back and right. A solid two-minute hike across the prairie to touch the first oaks in the shot. Macro lens on. Optical zoom maxed. Digital zoom zero. The key: auto-focus enabled to force the beacons into a duel until dawn. The loop you see employs neither dissolve nor crossfade. It is the same hard cut over and over until the song ends. After originally releasing a zoomed and cropped version at 1920x1080, I have decided to delete and repost at 720x480. Once you see the Taraxacum mote ascending you will never unsee it.</p><p>The artwork is also from Fireflies & Fields, also straight out of camera.</p><p>These sorts of things are important to me.</p><p>Respect for the medium.</p>",
     "credits": "<p>Thanks to ... who sold me a ... tape deck so I could not continue this ... original tape deck ... airplane hanger ... the pandemic and everything stalled out for so long ... of the incident ... then ... project changed ... else did, that was closer to ... different now. Thanks to my dad for showing... when I was a kid. Thanks to Sage for ... two close friends who talked ... Thanks to Emily for finding this strange book ... her audience of one. Thanks to the Adriance Memorial Library for ... to Hippo Books who succeeded in diverting it from a landfill ... library sustainability and ... global problem ...</p><p>About text, icon, and name sourced from They Became What They Beheld written by Edmund Snow Carpenter, photographed by Ken Heyman, designed by Hess and/or Antupit, 1970.</p><p>Audio sourced from Giovanni Gabrieli's Sanctus: VI. Hosanna in excelsis broadcast by KUSC 91.5 and recorded by iPhone, 2020.</p><p>Photographs from my trip to Petalying Jaya, Malaysia, 2017.</p><p>Photographs & video loops from my personal series Fireflies & Fields, 2009.</p><p>Engineered by Tyler Etters, 2009 \u2014 2024.</p>",
     "project_slug": "they-became-what-they-beheld",
     "release_slug": "respect-for-the-medium",
