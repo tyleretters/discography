@@ -27,5 +27,6 @@ Whenever you update the `discography.yml` file, be sure to convert it to `discog
 
 - `npm run convert`
 - manually bump version number package.json only
+- `npm update`
 - `npm run build`
 - `npm publish`
