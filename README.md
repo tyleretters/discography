@@ -3,7 +3,6 @@
 - Update `discography.yml`
 - `npm run convert`
 - `npm version patch`
-- `npm update`
 - `npm run build`
 - `npm publish --otp=<via_1password>`
 
