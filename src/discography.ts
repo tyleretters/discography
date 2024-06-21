@@ -1,5 +1,30 @@
 export const discography = [
   {
+    "title": "Distance",
+    "project": "They Became What They Beheld",
+    "released": "02024-06-16",
+    "type": "Album",
+    "format": "Digital",
+    "role": "Principal Musician",
+    "label": "Intertext",
+    "mp3": false,
+    "wav": false,
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Distance",
+        "length": "00:19:28",
+        "id": "a65d8ff9653b95518c38beb1e7d94a18"
+      }
+    ],
+    "notes": "<p>To honor the memory of someone you loved and lost is by becoming great and doing well and good in their honor/memory - live as you would know them to be proud of.</p><p>\u2014 MTM, 2024</p>",
+    "credits": "<p>Thanks to dad, Timm, Biff, Papa, Pat, Bud, Don, Harold, both Gregs, Ed, Pat, John, Jack, Joe, Eric, Russ, Mike, Michael, Phil, Gary, Paul, Brian, Larry, Glenn, Wayne and every other man who took me in as one of his own seed, generally looked out for me, or made certain to be cleaning his guns the night his daughter brought me home.</p><p>Photograph of Rawson Bridge Rd., Oakwood Hills, 2010.</p><p>Engineered by Tyler Etters, 2024.</p>",
+    "project_slug": "they-became-what-they-beheld",
+    "release_slug": "distance",
+    "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/distance/distance.jpg",
+    "id": "8b3b872e9e763cdd2b0f1160d4d92c3e"
+  },
+  {
     "title": "Radio Free Albemuth",
     "project": "They Became What They Beheld",
     "released": "02024-05-26",
@@ -36,7 +61,7 @@ export const discography = [
       }
     ],
     "notes": "<p>On February 20, 1974, while recovering from the effects of sodium pentothal administered for the extraction of an impacted wisdom tooth, [Philip K.] Dick received a home delivery of Darvon from a young woman. When he opened the door, he was struck by the dark-haired girl's beauty, and was especially drawn to her golden necklace. He asked her about its curious fish-shaped design. As she was leaving, she replied: \"This is a sign used by the early Christians.\" Dick called the symbol the \"vesicle pisces\". This name seems to have been based on his conflation of two related symbols, the Christian ichthys symbol (two intersecting arcs delineating a fish in profile), which the woman was wearing, and the vesica piscis.</p><p>Dick recounted that as the sun glinted off the gold pendant, the reflection caused the generation of a \"pink beam\" of light that mesmerized him. He came to believe the beam imparted wisdom and clairvoyance, and also believed it to be intelligent. On one occasion, he was startled by a separate recurrence of the pink beam, which imparted the information that his infant son was ill. The Dicks rushed the child to the hospital, where the illness was confirmed by professional diagnosis.</p><p>\u2014 Wikipedia, 2024</p><p>The seven movements of this symphonic suite need to be heard in their entirety; it is a mistake to isolate movements from the whole, for the work owes much to the strongly contrasted moods suggested by the character of each planet.</p><p>\u2014 The Decca Record Company, Ltd., 1962 </p>",
-    "credits": "<p>Thanks to ... a ... tape deck ... original ... everything stalled out ... changed ... that was closer to ... my dad ... I was a kid ... this strange ... audience ... Memorial ... landfill ... library ...</p><p>Audio sourced from Holst's The Planets performed by Herbert Von Karajan, Vienna Philharmonic, 1962.</p><p>Video sourced from The Eames Office's Powers of Ten, 1968 \u2014 1977.</p><p>Track titles sourced from Philip K. Dick's VALIS and surrounding mythos, circa 1976 \u2014 1985.Photograph from the Skylark bar in Pilsen, 2017.</p><p>Engineered by Tyler Etters, 2024.</p>",
+    "credits": "<p>Thanks to ... a ... tape deck ... original ... everything stalled out ... changed ... that was closer to ... my dad ... I was a kid ... this strange ... audience ... Memorial ... landfill ... library ...</p><p>Audio sourced from Holst's The Planets performed by Herbert Von Karajan, Vienna Philharmonic, 1962.</p><p>Video sourced from The Eames Office's Powers of Ten, 1968 \u2014 1977.</p><p>Track titles sourced from Philip K. Dick's VALIS and surrounding mythos, circa 1976 \u2014 1985.</p><p>Photograph from the Skylark bar in Pilsen, 2017.</p><p>Engineered by Tyler Etters, 2024.</p>",
     "project_slug": "they-became-what-they-beheld",
     "release_slug": "radio-free-albemuth",
     "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/radio-free-albemuth/radio-free-albemuth.jpg",

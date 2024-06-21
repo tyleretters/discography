@@ -1,4 +1,13 @@
-# Discography
+# Publishing
+
+- Update `discography.yml`
+- `npm run convert`
+- `npm version patch`
+- `npm update`
+- `npm run build`
+- `npm publish --otp=<via_1password>`
+
+## About
 
 - This repo builds a canonical discography of the music of Tyler Etters.
 - This discography is incomplete.
@@ -20,13 +29,3 @@ JSON script built with Python 3.11.5. See `src/convert.py` for required imports.
 - `cd discography`
 - `chmod 700 src/convert.py`
 - `npm run dev`
-
-## Publishing
-
-Whenever you update the `discography.yml` file, be sure to convert it to `discography.ts` with:
-
-- `npm run convert`
-- manually bump version number package.json only
-- `npm update`
-- `npm run build`
-- `npm publish --otp=<via_1password>`
