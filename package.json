@@ -5,9 +5,8 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "dev": "tsc -w",
     "convert": "./src/convert.py",
-    "build": "./src/convert.py && tsc && rollup -c && rm ./src/discography.ts"
+    "build": "./src/convert.py && tsc && rollup -c"
   },
   "repository": {
     "type": "git",

@@ -5,24 +5,17 @@
 - Release dates are in a modified "Long Now" format, prefixed with `0`. This also solves for some date/object/string/parsing/conversion issues.
 - EPs are defined as being less than or equal to 29 minutes 59 seconds.
 
-## Publishing Instructions
+## Updating & Publishing
 
-- Update `discography.yml`
+- Update `./src/discography.yml`
 - `npm run convert` (convert yml to ts)
 - `npm run build` (build dist ready js)
 - `git add . && git commit -m "++" && git push origin main`
-- qa on github
+- QA: [https://github.com/tyleretters/discography](https://github.com/tyleretters/discography)
 - `npm version patch`
 - `npm publish --otp=<via_1password>`
 
-## Usage Instructions
+## Downstream Implementations
 
 - `npm i @tyleretters/discography`
 - `import discography from '@tyleretters/discography'`
-
-## Development Instructions
-
-- clone discography
-- `cd discography`
-- `chmod 700 src/convert.py`
-- `npm run dev`
