@@ -10,8 +10,9 @@
 - Update `discography.yml`
 - `npm run convert` (convert yml to ts)
 - `npm run build` (build dist ready js)
-- `npm version patch`
+- `git add . && git commit -m "++" && git push origin main`
 - qa on github
+- `npm version patch`
 - `npm publish --otp=<via_1password>`
 
 ## Usage Instructions

@@ -7,14 +7,14 @@
   "scripts": {
     "dev": "tsc -w",
     "convert": "./src/convert.py",
-    "build": "./src/convert.py && tsc && rollup -c"
+    "build": "./src/convert.py && tsc && rollup -c && rm ./src/discography.ts"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tyleretters/discography.git"
   },
   "author": "Tyler Etters",
-  "dependencies": {
+  "devDependencies": {
     "@types/node": "^20.10.6",
     "rollup": "^4.9.2",
     "rollup-plugin-typescript2": "^0.36.0",
