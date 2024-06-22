@@ -6,7 +6,7 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "convert": "./src/convert.py",
-    "build": "./src/convert.py && tsc && rollup -c"
+    "build": "./src/convert.py && tsc && rollup -c && cp ./src/discography.yml ./dist/discography.yml"
   },
   "repository": {
     "type": "git",
