@@ -1,5 +1,1189 @@
 export var discography = [
     {
+        "title": "List of Stars in Cancer",
+        "project": "They Became What They Beheld",
+        "released": "02024-07-10",
+        "type": "Album",
+        "format": "Digital",
+        "role": "Principal Musician",
+        "label": "Intertext",
+        "mp3": false,
+        "wav": false,
+        "tracks": [
+            {
+                "number": 1,
+                "title": "Beta Cancri",
+                "length": "00:00:36",
+                "id": "10f386239aa42c4656a5d96a6ef98fc9"
+            },
+            {
+                "number": 2,
+                "title": "Delta Cancri",
+                "length": "00:00:36",
+                "id": "819a09373a09a4c804d5fc9b09f043db"
+            },
+            {
+                "number": 3,
+                "title": "Iota Cancri A",
+                "length": "00:00:36",
+                "id": "a59cbf4e387abdf379c9a96743138bba"
+            },
+            {
+                "number": 4,
+                "title": "Alpha Cancri",
+                "length": "00:00:36",
+                "id": "c6895adfa84d406546d9204b75d04df3"
+            },
+            {
+                "number": 5,
+                "title": "Gamma Cancri",
+                "length": "00:00:36",
+                "id": "83bd3824bb8fc55f0ef690e9f986a6de"
+            },
+            {
+                "number": 6,
+                "title": "Zeta Cancri",
+                "length": "00:00:36",
+                "id": "7715f2e3506418b1d9ef9098d15bf570"
+            },
+            {
+                "number": 7,
+                "title": "HD 71115",
+                "length": "00:00:36",
+                "id": "e1dde5def3ba5d771d0cdf5d5ecc586d"
+            },
+            {
+                "number": 8,
+                "title": "8 Cancri",
+                "length": "00:00:36",
+                "id": "6b052ef368bfb8b00527a45fde6e9bec"
+            },
+            {
+                "number": 9,
+                "title": "Chi Cancri",
+                "length": "00:00:36",
+                "id": "ad9551cb14e5400fe72dca09038bf435"
+            },
+            {
+                "number": 10,
+                "title": "Xi Cancri",
+                "length": "00:00:36",
+                "id": "b22757a074bd26b612631281ddf6bcbe"
+            },
+            {
+                "number": 11,
+                "title": "Omicron1 Cancri",
+                "length": "00:00:36",
+                "id": "516e728b79630fa32499e3c31abd8f55"
+            },
+            {
+                "number": 12,
+                "title": "Rho2 Cancri",
+                "length": "00:00:36",
+                "id": "c45121647f642abf45a81f4b6e87a8c6"
+            },
+            {
+                "number": 13,
+                "title": "Sigma3 Cancri",
+                "length": "00:00:36",
+                "id": "90b508a35afc1fa6f6ebff92ef7e5eab"
+            },
+            {
+                "number": 14,
+                "title": "Kappa Cancri",
+                "length": "00:00:36",
+                "id": "a34b08406f3a5ac50b0346590656fe55"
+            },
+            {
+                "number": 15,
+                "title": "Mu2 Cancri",
+                "length": "00:00:36",
+                "id": "7847d6dd26e5f5fc2c83a8426e872177"
+            },
+            {
+                "number": 16,
+                "title": "Theta Cancri",
+                "length": "00:00:36",
+                "id": "d2b18ce614d3b4afef9eac3388f20318"
+            },
+            {
+                "number": 17,
+                "title": "Eta Cancri",
+                "length": "00:00:36",
+                "id": "baa6b39b09dd5822634d96a49fe48ec0"
+            },
+            {
+                "number": 18,
+                "title": "82 Cancri",
+                "length": "00:00:36",
+                "id": "10c611016ae52e491c9b5cda75e4049b"
+            },
+            {
+                "number": 19,
+                "title": "57 Cancri",
+                "length": "00:00:36",
+                "id": "b44957996442d013eff5723d822a1e27"
+            },
+            {
+                "number": 20,
+                "title": "Tau Cancri",
+                "length": "00:00:36",
+                "id": "5f4239a8765684be95575e3a5f2be52b"
+            },
+            {
+                "number": 21,
+                "title": "60 Cancri",
+                "length": "00:00:36",
+                "id": "ed1751fe6d98612e1cdb2ca8fcebca1c"
+            },
+            {
+                "number": 22,
+                "title": "Sigma2 Cancri",
+                "length": "00:00:36",
+                "id": "18f2da2d3f39cfccae8c8c138f09f3ed"
+            },
+            {
+                "number": 23,
+                "title": "Nu Cancri",
+                "length": "00:00:36",
+                "id": "3caf0e1021a64ded12c7b28beecd3237"
+            },
+            {
+                "number": 24,
+                "title": "27 Cancri",
+                "length": "00:00:36",
+                "id": "aad7b09117c59a7d7ed7d9ea4b47453d"
+            },
+            {
+                "number": 25,
+                "title": "Phi1 Cancri",
+                "length": "00:00:36",
+                "id": "67727a1e0d3248f0d714429006a323d9"
+            },
+            {
+                "number": 26,
+                "title": "3 Cancri",
+                "length": "00:00:36",
+                "id": "f05e86ede50ef8611142b03718b6cf38"
+            },
+            {
+                "number": 27,
+                "title": "15 Cancri",
+                "length": "00:00:36",
+                "id": "d397064427edda2dade36dc3b7ecf258"
+            },
+            {
+                "number": 28,
+                "title": "45 Cancri",
+                "length": "00:00:36",
+                "id": "b880259f24e4e71e889f8019d62d50a7"
+            },
+            {
+                "number": 29,
+                "title": "49 Cancri",
+                "length": "00:00:36",
+                "id": "ee3003021ca89da536634a218abb74e3"
+            },
+            {
+                "number": 30,
+                "title": "Sigma1 Cancri",
+                "length": "00:00:36",
+                "id": "0c946ae07a2b0cfabeecaf7e339e147e"
+            },
+            {
+                "number": 31,
+                "title": "Omicron2 Cancri",
+                "length": "00:00:36",
+                "id": "03cc88c6c8a0079c837c619a56302e58"
+            },
+            {
+                "number": 32,
+                "title": "Upsilon1 Cancri",
+                "length": "00:00:36",
+                "id": "1e5b7974d09f7b6dabc24aed194523b5"
+            },
+            {
+                "number": 33,
+                "title": "Psi2 Cancri",
+                "length": "00:00:36",
+                "id": "f355c30d843c685ac1c1d061c652ae71"
+            },
+            {
+                "number": 34,
+                "title": "1 Cancri",
+                "length": "00:00:36",
+                "id": "b1ded51cec7729d4d93588ebf6199d42"
+            },
+            {
+                "number": 35,
+                "title": "HD 69994",
+                "length": "00:00:36",
+                "id": "1e0b0b2a5561fc5802a8cb9f12a00489"
+            },
+            {
+                "number": 36,
+                "title": "HD 77445",
+                "length": "00:00:36",
+                "id": "d033cae90c5f8da6de8e7e3a028be282"
+            },
+            {
+                "number": 37,
+                "title": "Omega1 Cancri",
+                "length": "00:00:36",
+                "id": "12b85e5683fdcfffd1ee55aafab17951"
+            },
+            {
+                "number": 38,
+                "title": "50 Cancri",
+                "length": "00:00:36",
+                "id": "1f27f6816ed351a035a917c250805211"
+            },
+            {
+                "number": 39,
+                "title": "66 Cancri",
+                "length": "00:00:36",
+                "id": "a7e662cd06ecdb74f4560ddabb458e45"
+            },
+            {
+                "number": 40,
+                "title": "HD 72945",
+                "length": "00:00:36",
+                "id": "fff8b8d90b80fe4e3a7c8a83a0e60f33"
+            },
+            {
+                "number": 41,
+                "title": "Lambda Cancri",
+                "length": "00:00:36",
+                "id": "a4fb48dd1a07366ebb385b67b06f2b30"
+            },
+            {
+                "number": 42,
+                "title": "36 Cancri",
+                "length": "00:00:36",
+                "id": "4befa72d83ffcdb9217fc38d76aa623c"
+            },
+            {
+                "number": 43,
+                "title": "20 Cancri",
+                "length": "00:00:36",
+                "id": "9e6173fcf3239e2001d115f5cb68cbac"
+            },
+            {
+                "number": 44,
+                "title": "29 Cancri",
+                "length": "00:00:36",
+                "id": "65792339f43f268fae3372b68e6d1ec7"
+            },
+            {
+                "number": 45,
+                "title": "75 Cancri",
+                "length": "00:00:36",
+                "id": "f68366beda0b9c5547babbc339c61502"
+            },
+            {
+                "number": 46,
+                "title": "1 LMi",
+                "length": "00:00:36",
+                "id": "069fd8b5a465d12db60ed4d8f9753587"
+            },
+            {
+                "number": 47,
+                "title": "55 Cancri",
+                "length": "00:00:36",
+                "id": "516213b02e9a71a4874240117c22c5ce"
+            },
+            {
+                "number": 48,
+                "title": "Mu1 Cancri",
+                "length": "00:00:36",
+                "id": "edd78a209b499c9b5f27252cc97a2a0c"
+            },
+            {
+                "number": 49,
+                "title": "5 Cancri",
+                "length": "00:00:36",
+                "id": "e5cfcb0f55999a729c84d94e485e0d19"
+            },
+            {
+                "number": 50,
+                "title": "HD 68461",
+                "length": "00:00:36",
+                "id": "bda9cac84a32562359713b49542101ee"
+            },
+            {
+                "number": 51,
+                "title": "HD 72617",
+                "length": "00:00:36",
+                "id": "a13076e7be6206bc9c352b43cd95592e"
+            },
+            {
+                "number": 52,
+                "title": "79 Cancri",
+                "length": "00:00:36",
+                "id": "b7f57bff56d7d7e3dbca500b437b6449"
+            },
+            {
+                "number": 53,
+                "title": "RS Cancri",
+                "length": "00:00:36",
+                "id": "a55dc5696b6f92ee70da6837efe1cdfc"
+            },
+            {
+                "number": 54,
+                "title": "HD 65257",
+                "length": "00:00:36",
+                "id": "7a63dc19b4058a285adfc78d18a76a32"
+            },
+            {
+                "number": 55,
+                "title": "HD 65522",
+                "length": "00:00:36",
+                "id": "1a38d7ccbce77c87d6ada29be05bcc6d"
+            },
+            {
+                "number": 56,
+                "title": "28 Cancri",
+                "length": "00:00:36",
+                "id": "b8d696391fd7c29a3e34cff1fb30bc54"
+            },
+            {
+                "number": 57,
+                "title": "67 Cancri",
+                "length": "00:00:36",
+                "id": "4a85651af3ff753d5b1e2cc0af43ff10"
+            },
+            {
+                "number": 58,
+                "title": "HD 68099",
+                "length": "00:00:36",
+                "id": "241adac4ddc0471e72ce0a17e1fc55cf"
+            },
+            {
+                "number": 59,
+                "title": "21 Cancri",
+                "length": "00:00:36",
+                "id": "0edf9b58911c2529dcc49b557a4544e8"
+            },
+            {
+                "number": 60,
+                "title": "25 Cancri",
+                "length": "00:00:36",
+                "id": "976484ebe83de682026d2fdae7ffc9bb"
+            },
+            {
+                "number": 61,
+                "title": "46 Cancri",
+                "length": "00:00:36",
+                "id": "bf313140533fd38f151ca6c1610336fe"
+            },
+            {
+                "number": 62,
+                "title": "Phi2 Cancri A",
+                "length": "00:00:36",
+                "id": "5cb2fb58f341cddbc3926d73deda6376"
+            },
+            {
+                "number": 63,
+                "title": "HD 80546",
+                "length": "00:00:36",
+                "id": "02e8b32f8d71958e6d73c091447ccc31"
+            },
+            {
+                "number": 64,
+                "title": "HD 76508",
+                "length": "00:00:36",
+                "id": "817af3488455e5e41adda5cf64db7190"
+            },
+            {
+                "number": 65,
+                "title": "Phi2 Cancri B",
+                "length": "00:00:36",
+                "id": "181392406aa309406b820563f0de6f79"
+            },
+            {
+                "number": 66,
+                "title": "HD 76629",
+                "length": "00:00:36",
+                "id": "5af38b64ba207ec2db370fa1807dc891"
+            },
+            {
+                "number": 67,
+                "title": "HD 66552",
+                "length": "00:00:36",
+                "id": "21eab48c0da2ab67fed1095afc15ab09"
+            },
+            {
+                "number": 68,
+                "title": "HD 66684",
+                "length": "00:00:36",
+                "id": "de13659301aeb58f10e240e8c489b37b"
+            },
+            {
+                "number": 69,
+                "title": "4 LMi",
+                "length": "00:00:36",
+                "id": "d1dbba8c31d18f5793c874a57ac5b73f"
+            },
+            {
+                "number": 70,
+                "title": "HD 67959",
+                "length": "00:00:36",
+                "id": "79f878172b9f37058acf4115eb93111b"
+            },
+            {
+                "number": 71,
+                "title": "12 Cancri",
+                "length": "00:00:36",
+                "id": "50724062a559d541d323f62c9e1292e7"
+            },
+            {
+                "number": 72,
+                "title": "53 Cancri",
+                "length": "00:00:36",
+                "id": "4e4613b70cf64f22c4c72ada5ab896ba"
+            },
+            {
+                "number": 73,
+                "title": "61 Cancri",
+                "length": "00:00:36",
+                "id": "f92a8adb5ee98e7a88c755d8c1e22a45"
+            },
+            {
+                "number": 74,
+                "title": "HD 72505",
+                "length": "00:00:36",
+                "id": "d2ba396b508c63e90790b5cad9a78c1e"
+            },
+            {
+                "number": 75,
+                "title": "HD 69478",
+                "length": "00:00:36",
+                "id": "33d88ce895389c606276bf25a2a752fe"
+            },
+            {
+                "number": 76,
+                "title": "Epsilon Cancri",
+                "length": "00:00:36",
+                "id": "5f48d73cc7bb4c96dd242ff5862dd749"
+            },
+            {
+                "number": 77,
+                "title": "HD 65735",
+                "length": "00:00:36",
+                "id": "22d6e6b02469a3a18567e6698eb10a12"
+            },
+            {
+                "number": 78,
+                "title": "FZ Cancri",
+                "length": "00:00:36",
+                "id": "509ec9da9b1e5e5a0e51aadee881f855"
+            },
+            {
+                "number": 79,
+                "title": "4 Cancri",
+                "length": "00:00:36",
+                "id": "3ae5530af49bca9c49682d01843200d4"
+            },
+            {
+                "number": 80,
+                "title": "HD 72943",
+                "length": "00:00:36",
+                "id": "3408510501537009ed6449fbd967b016"
+            },
+            {
+                "number": 81,
+                "title": "HD 65757",
+                "length": "00:00:36",
+                "id": "eb07b3a050074f5155adf398b0d8c442"
+            },
+            {
+                "number": 82,
+                "title": "Upsilon2 Cancri",
+                "length": "00:00:36",
+                "id": "9e56f2391363ca5c879f59674225ea5c"
+            },
+            {
+                "number": 83,
+                "title": "54 Cancri",
+                "length": "00:00:36",
+                "id": "0eeb58a36f426a4a8ce29f3e2797315b"
+            },
+            {
+                "number": 84,
+                "title": "HD 68776",
+                "length": "00:00:36",
+                "id": "a4c9176dfee754ca5d36c6ec64fc80d4"
+            },
+            {
+                "number": 85,
+                "title": "39 Cancri",
+                "length": "00:00:36",
+                "id": "65fbe942901042f0ec74d91999ed5c77"
+            },
+            {
+                "number": 86,
+                "title": "HD 78175",
+                "length": "00:00:36",
+                "id": "fcd20c2106b2e43b5892ad457ed23e18"
+            },
+            {
+                "number": 87,
+                "title": "X Cancri",
+                "length": "00:00:36",
+                "id": "dc1346b88ebce58852e646a5ce2cb2d5"
+            },
+            {
+                "number": 88,
+                "title": "HD 80064",
+                "length": "00:00:36",
+                "id": "89b02ca6efd7c7ff3a89d88871789464"
+            },
+            {
+                "number": 89,
+                "title": "HD 75469",
+                "length": "00:00:36",
+                "id": "bb2ba887e950d52f977b60c1b037667a"
+            },
+            {
+                "number": 90,
+                "title": "HD 69629",
+                "length": "00:00:36",
+                "id": "890fc8cce1b465071112e31abf466664"
+            },
+            {
+                "number": 91,
+                "title": "HD 73710",
+                "length": "00:00:36",
+                "id": "be8eedc49ecae38e1faf1f1bbe07e0b4"
+            },
+            {
+                "number": 92,
+                "title": "Psi1 Cancri",
+                "length": "00:00:36",
+                "id": "721a436b78c80df26d8c60c0efd8bade"
+            },
+            {
+                "number": 93,
+                "title": "HD 73599",
+                "length": "00:00:36",
+                "id": "6bfaebfab7af25b79aa069b1b7a5a0f4"
+            },
+            {
+                "number": 94,
+                "title": "HD 77660",
+                "length": "00:00:36",
+                "id": "9a0a913da610dcbe63f6cf61374d1730"
+            },
+            {
+                "number": 95,
+                "title": "HD 67542",
+                "length": "00:00:36",
+                "id": "f6ace911ac4f46afc6c7d857eb72f401"
+            },
+            {
+                "number": 96,
+                "title": "HD 68703",
+                "length": "00:00:36",
+                "id": "a47d186fc363a4fbb8ec8769e19f31c8"
+            },
+            {
+                "number": 97,
+                "title": "HD 78234",
+                "length": "00:00:36",
+                "id": "3acc9c7853462289eb85cf733386162e"
+            },
+            {
+                "number": 98,
+                "title": "34 Cancri",
+                "length": "00:00:36",
+                "id": "99f166c132e08cb456836da023c76895"
+            },
+            {
+                "number": 99,
+                "title": "HD 78661",
+                "length": "00:00:36",
+                "id": "05120b840161685165513d214da72574"
+            },
+            {
+                "number": 100,
+                "title": "HD 79248",
+                "length": "00:00:36",
+                "id": "d0845fa682ebf6dad405399486a46538"
+            },
+            {
+                "number": 101,
+                "title": "HD 76908",
+                "length": "00:00:36",
+                "id": "dad3f993867298f54da161501e35c9b4"
+            },
+            {
+                "number": 102,
+                "title": "81 Cancri",
+                "length": "00:00:36",
+                "id": "e8087b8a8c221ff015dd9f60952b0e4f"
+            },
+            {
+                "number": 103,
+                "title": "HD 72115",
+                "length": "00:00:36",
+                "id": "3f682996cd0d52b30fcaa9c46fbaf3bf"
+            },
+            {
+                "number": 104,
+                "title": "24 Cancri A",
+                "length": "00:00:36",
+                "id": "d5c3a1516204c3dd55c27296ea077709"
+            },
+            {
+                "number": 105,
+                "title": "37 Cancri",
+                "length": "00:00:36",
+                "id": "c58ef55be758bc0004e119178cc220ee"
+            },
+            {
+                "number": 106,
+                "title": "35 Cancri",
+                "length": "00:00:36",
+                "id": "f7298c89c9d7ebd52ea7e44038d2cb24"
+            },
+            {
+                "number": 107,
+                "title": "Iota Cancri B",
+                "length": "00:00:36",
+                "id": "f37a651752fa087bc131e59dcf698a93"
+            },
+            {
+                "number": 108,
+                "title": "40 Cancri",
+                "length": "00:00:36",
+                "id": "91924a596cbfcedc2b03265fbe35a4a7"
+            },
+            {
+                "number": 109,
+                "title": "83 Cancri",
+                "length": "00:00:36",
+                "id": "4e5f55a598944a003b5225318054b5c3"
+            },
+            {
+                "number": 110,
+                "title": "38 Cancri",
+                "length": "00:00:36",
+                "id": "47916301033dbfdf3f5175f7a63b4346"
+            },
+            {
+                "number": 111,
+                "title": "70 Cancri",
+                "length": "00:00:36",
+                "id": "ca7dbb433c7a16c372f454e19c34198a"
+            },
+            {
+                "number": 112,
+                "title": "2 LMi",
+                "length": "00:00:36",
+                "id": "9b09ef727ef5cab5e9ac0df3c035e414"
+            },
+            {
+                "number": 113,
+                "title": "3 LMi",
+                "length": "00:00:36",
+                "id": "df2124330a72d4abc9fce8e992d7b3b1"
+            },
+            {
+                "number": 114,
+                "title": "EP Cancri",
+                "length": "00:00:36",
+                "id": "604302ef37d8ad8ce0295180751e1134"
+            },
+            {
+                "number": 115,
+                "title": "42 Cancri",
+                "length": "00:00:36",
+                "id": "54537c3ecc962648db0c3822ba397801"
+            },
+            {
+                "number": 116,
+                "title": "7 Cancri",
+                "length": "00:00:36",
+                "id": "b9e717580de5bde3eeb6c9a8149c3d7d"
+            },
+            {
+                "number": 117,
+                "title": "80 Cancri",
+                "length": "00:00:36",
+                "id": "c4b58fcc9e8d92d906e4f510bad5726f"
+            },
+            {
+                "number": 118,
+                "title": "11 Cancri",
+                "length": "00:00:36",
+                "id": "fbb3f8bebdfe6f1ff5a415ada84d79ca"
+            },
+            {
+                "number": 119,
+                "title": "78 Cancri",
+                "length": "00:00:36",
+                "id": "a5c03813ab48fe5ab9a1270aa67f1fc8"
+            },
+            {
+                "number": 120,
+                "title": "VZ Cancri",
+                "length": "00:00:36",
+                "id": "68122f27c9825082d7b9614dd685e4fb"
+            },
+            {
+                "number": 121,
+                "title": "ADS 7284",
+                "length": "00:00:36",
+                "id": "eacdf439da701397dc0b49b0576beae8"
+            },
+            {
+                "number": 122,
+                "title": "52 Cancri",
+                "length": "00:00:36",
+                "id": "d8f6dacb86b4252703441515ad1e7d66"
+            },
+            {
+                "number": 123,
+                "title": "68 Cancri",
+                "length": "00:00:36",
+                "id": "272adc5cb9e0b2ade4622208d374e8eb"
+            },
+            {
+                "number": 124,
+                "title": "V Cancri",
+                "length": "00:00:36",
+                "id": "06badec2a4683604660d5110eeebda01"
+            },
+            {
+                "number": 125,
+                "title": "T Cancri",
+                "length": "00:00:36",
+                "id": "ed6bcda86f6b19495b150c4513dff619"
+            },
+            {
+                "number": 126,
+                "title": "BU Cancri",
+                "length": "00:00:36",
+                "id": "6b4284b8c4a9625e2125805dd5331c51"
+            },
+            {
+                "number": 127,
+                "title": "BN Cancri",
+                "length": "00:00:36",
+                "id": "bd10fcc409d9e570bb7d44f63cf86888"
+            },
+            {
+                "number": 128,
+                "title": "HD 72490",
+                "length": "00:00:36",
+                "id": "33d203b01e34b915365f26787b79c6cc"
+            },
+            {
+                "number": 129,
+                "title": "24 Cancri B",
+                "length": "00:00:36",
+                "id": "dde866149ff447525a8efd027e1d41d8"
+            },
+            {
+                "number": 130,
+                "title": "BY Cancri",
+                "length": "00:00:36",
+                "id": "00d8d801b025d0a4ddfa2ebd35c21d28"
+            },
+            {
+                "number": 131,
+                "title": "HD 74028",
+                "length": "00:00:36",
+                "id": "4f23d3bb78074c28f28f9ee6cb43d447"
+            },
+            {
+                "number": 132,
+                "title": "44 Cancri",
+                "length": "00:00:36",
+                "id": "b762a5b421d2b5c78b5aa387954f8738"
+            },
+            {
+                "number": 133,
+                "title": "HD 79498",
+                "length": "00:00:36",
+                "id": "7182e8ca117f683fc0ac1098995e40a0"
+            },
+            {
+                "number": 134,
+                "title": "71 Cancri",
+                "length": "00:00:36",
+                "id": "79c288826353c5cfa6a9bd84cb7a60cf"
+            },
+            {
+                "number": 135,
+                "title": "CY Cancri",
+                "length": "00:00:36",
+                "id": "57301bdc4b6b817f21b3b84382d4c205"
+            },
+            {
+                "number": 136,
+                "title": "BQ Cancri",
+                "length": "00:00:36",
+                "id": "dcf28bac9f2e7dc8338b9650b489ffa3"
+            },
+            {
+                "number": 137,
+                "title": "HD 73534",
+                "length": "00:00:36",
+                "id": "9c71d4139f2c69e5ffeb61edd5203643"
+            },
+            {
+                "number": 138,
+                "title": "BR Cancri",
+                "length": "00:00:36",
+                "id": "25dac6b951a566824923d387801df99f"
+            },
+            {
+                "number": 139,
+                "title": "S Cancri",
+                "length": "00:00:36",
+                "id": "2dd8008cc96aa9aaf08025136d0f9f2f"
+            },
+            {
+                "number": 140,
+                "title": "BW Cancri",
+                "length": "00:00:36",
+                "id": "e260e78b11388fa3bd091b8c8ac45f1e"
+            },
+            {
+                "number": 141,
+                "title": "TW Cancri",
+                "length": "00:00:36",
+                "id": "d2afe3ded8b07dd34c1ef589ac1dd7da"
+            },
+            {
+                "number": 142,
+                "title": "U Cancri",
+                "length": "00:00:36",
+                "id": "186bc3aaf6d0607ed806c50d1b76fb40"
+            },
+            {
+                "number": 143,
+                "title": "BS Cancri",
+                "length": "00:00:36",
+                "id": "41bfc1946c4d0b900134e44da83d5dac"
+            },
+            {
+                "number": 144,
+                "title": "R Cancri",
+                "length": "00:00:36",
+                "id": "1639dc7dd3070cdde53d24838024f77e"
+            },
+            {
+                "number": 145,
+                "title": "BV Cancri",
+                "length": "00:00:36",
+                "id": "ec9fe95337d8f701503145d6c370cbea"
+            },
+            {
+                "number": 146,
+                "title": "RZ Cancri",
+                "length": "00:00:36",
+                "id": "9992f33f43c2dff36c8f9d35ab1f7023"
+            },
+            {
+                "number": 147,
+                "title": "HD 74721",
+                "length": "00:00:36",
+                "id": "0404b78f3ef40211f8c541c82550dc2c"
+            },
+            {
+                "number": 148,
+                "title": "HD 77065",
+                "length": "00:00:36",
+                "id": "624a70200b98db253f49eb1c8d04a30f"
+            },
+            {
+                "number": 149,
+                "title": "UU Cancri",
+                "length": "00:00:36",
+                "id": "79d461deeb362d7c3bf46b7f9e7b56d2"
+            },
+            {
+                "number": 150,
+                "title": "HIP 41378",
+                "length": "00:00:36",
+                "id": "93adb80f1575f9aad4ea6983987db4a7"
+            },
+            {
+                "number": 151,
+                "title": "RX Cancri",
+                "length": "00:00:36",
+                "id": "7640d160e73916bb6123876ea5fb1810"
+            },
+            {
+                "number": 152,
+                "title": "HD 80653",
+                "length": "00:00:36",
+                "id": "29c1108c76c7fd0a7b00a9db9e6244ca"
+            },
+            {
+                "number": 153,
+                "title": "WY Cancri",
+                "length": "00:00:36",
+                "id": "7bbd4755f51dfe8404a0c72259df83fb"
+            },
+            {
+                "number": 154,
+                "title": "TX Cancri",
+                "length": "00:00:36",
+                "id": "47b62a3a62b929f6b852db0567a5dbaf"
+            },
+            {
+                "number": 155,
+                "title": "RU Cancri",
+                "length": "00:00:36",
+                "id": "9c6d98e8ff92cdbf3457e56f4aaed228"
+            },
+            {
+                "number": 156,
+                "title": "TU Cancri",
+                "length": "00:00:36",
+                "id": "00901ecda23438ce052643b227fa5323"
+            },
+            {
+                "number": 157,
+                "title": "SY Cancri",
+                "length": "00:00:36",
+                "id": "ee99c8638e19347e2bb153f6f17cee96"
+            },
+            {
+                "number": 158,
+                "title": "EX Cancri",
+                "length": "00:00:36",
+                "id": "5df1f995a975dbae9fe8d328d9089bc3"
+            },
+            {
+                "number": 159,
+                "title": "TT Cancri",
+                "length": "00:00:36",
+                "id": "3857a6a8f59d0a2f7feaf2d849b5a0d3"
+            },
+            {
+                "number": 160,
+                "title": "ES Cancri",
+                "length": "00:00:36",
+                "id": "dc84523dd7413af0dc328a3e23abe9ea"
+            },
+            {
+                "number": 161,
+                "title": "HAT-P-31",
+                "length": "00:00:36",
+                "id": "c87e22f971ab08016114b5ef710f1c68"
+            },
+            {
+                "number": 162,
+                "title": "CU Cancri",
+                "length": "00:00:36",
+                "id": "dffd99ba924902a01978b533e74827b1"
+            },
+            {
+                "number": 163,
+                "title": "WASP-65",
+                "length": "00:00:36",
+                "id": "7666f89180c5310edc6eebdddaebe835"
+            },
+            {
+                "number": 164,
+                "title": "SS Cancri",
+                "length": "00:00:36",
+                "id": "4d96bfbac6c51729cd1ecfe4dcde994a"
+            },
+            {
+                "number": 165,
+                "title": "EW Cancri",
+                "length": "00:00:36",
+                "id": "f0da3430272dfcadcb9e06cdc343df8e"
+            },
+            {
+                "number": 166,
+                "title": "HV Cancri",
+                "length": "00:00:36",
+                "id": "8dccc4c465a039be7a99f6af986380c0"
+            },
+            {
+                "number": 167,
+                "title": "EV Cancri",
+                "length": "00:00:36",
+                "id": "953548f031aaf69274bfc147c89bc7f8"
+            },
+            {
+                "number": 168,
+                "title": "AD Cancri",
+                "length": "00:00:36",
+                "id": "a9929b67b74cd2e53a1481503eb0810c"
+            },
+            {
+                "number": 169,
+                "title": "Gliese 299",
+                "length": "00:00:36",
+                "id": "b6df5309201ab821b92c1d17552ded6f"
+            },
+            {
+                "number": 170,
+                "title": "HAT-P-43",
+                "length": "00:00:36",
+                "id": "fffb9055f44ff878f18180471f0296e0"
+            },
+            {
+                "number": 171,
+                "title": "AH Cancri",
+                "length": "00:00:36",
+                "id": "7fb34d829d22db00566d82fa9d00a2b5"
+            },
+            {
+                "number": 172,
+                "title": "HU Cancri",
+                "length": "00:00:36",
+                "id": "0bb4bbc6a15a8833f2c221def4c96412"
+            },
+            {
+                "number": 173,
+                "title": "AC Cancri",
+                "length": "00:00:36",
+                "id": "e9829d7830e768ca66608f5d1281e13a"
+            },
+            {
+                "number": 174,
+                "title": "AC Cancri G 9-38",
+                "length": "00:00:36",
+                "id": "32dcdddace8168d65d33319dab792633"
+            },
+            {
+                "number": 175,
+                "title": "YBP 1194",
+                "length": "00:00:36",
+                "id": "3f021d66248d1b31cd2ab3f2d47cb8e8"
+            },
+            {
+                "number": 176,
+                "title": "DX Cancri",
+                "length": "00:00:36",
+                "id": "27d699315032abcea2bf41afe1447343"
+            },
+            {
+                "number": 177,
+                "title": "AT Cancri",
+                "length": "00:00:36",
+                "id": "0f6eaec5ec72dc5ce351d5dbfc95f318"
+            },
+            {
+                "number": 178,
+                "title": "LHS 2090",
+                "length": "00:00:36",
+                "id": "5bd463ceb96013f99ac66ab18e116695"
+            },
+            {
+                "number": 179,
+                "title": "YZ Cancri",
+                "length": "00:00:36",
+                "id": "b4cd6f587cd7a9f401836dcdcc51c453"
+            },
+            {
+                "number": 180,
+                "title": "EG Cancri",
+                "length": "00:00:36",
+                "id": "9d97fd5a5ad91a16dcd847c1c07875ac"
+            },
+            {
+                "number": 181,
+                "title": "DW Cancri",
+                "length": "00:00:36",
+                "id": "668578e87631ab56b96350789c1100a5"
+            },
+            {
+                "number": 182,
+                "title": "AZ Cancri",
+                "length": "00:00:36",
+                "id": "ee2df9af767f3bf0c7986eea880bf7f7"
+            },
+            {
+                "number": 183,
+                "title": "GY Cancri",
+                "length": "00:00:36",
+                "id": "32af67c10ee0fe78aef6b8ed1a29eb87"
+            },
+            {
+                "number": 184,
+                "title": "AR Cancri",
+                "length": "00:00:36",
+                "id": "a487a7d0c6bace8dd0756efc2ad94930"
+            },
+            {
+                "number": 185,
+                "title": "RX J0806.3+1527",
+                "length": "00:00:36",
+                "id": "1e4f923232b2b1a275ed93551d37048d"
+            },
+            {
+                "number": 186,
+                "title": "AK Cancri",
+                "length": "00:00:36",
+                "id": "950c0ea18467fafcd7dd558f9a9ba7f0"
+            },
+            {
+                "number": 187,
+                "title": "CC Cancri",
+                "length": "00:00:36",
+                "id": "400e3c2df11568aec633dc27828bdad4"
+            },
+            {
+                "number": 188,
+                "title": "PSR B0823+26",
+                "length": "00:00:36",
+                "id": "fe9f31dfe5a26d0c1f6b0e1904e6afaa"
+            }
+        ],
+        "streams": [
+            {
+                "platform": "Amazon",
+                "url": "https://www.amazon.com/music/player/albums/B0D8V39RMN",
+                "id": "fd4a8dbb1e0b44860c5e6c970f390307"
+            },
+            {
+                "platform": "Apple Music",
+                "url": "https://music.apple.com/us/album/list-of-stars-in-cancer-stream-version/1755897818",
+                "id": "de8730b413589091866ffdd382bf8a97"
+            },
+            {
+                "platform": "Bandcamp",
+                "url": "https://theybecamewhattheybeheld.bandcamp.com/album/list-of-stars-in-cancer",
+                "id": "523a6312d952a44b10444c432223a425"
+            },
+            {
+                "platform": "Deezer",
+                "url": "https://www.deezer.com/us/album/611710552",
+                "id": "afc350233144f83d535f29f2156995ba"
+            },
+            {
+                "platform": "iHeartRadio",
+                "url": "https://www.iheart.com/artist/they-became-what-they-beheld-42962881/albums/list-of-stars-in-cancer-stream-277679332/",
+                "id": "eb817cc704d3361f11f528edcae3673b"
+            },
+            {
+                "platform": "Spotify",
+                "url": "https://open.spotify.com/album/5gSOw9RxtadvemdqcV7YV2",
+                "id": "8035af969c201ba4b27d8763f104f66b"
+            },
+            {
+                "platform": "YouTube",
+                "url": "https://www.youtube.com/watch?v=mx_rRm2eaYE&list=OLAK5uy_nl3yolGwKAHk2b9epn1NE96rtsWKbv6OM",
+                "id": "8bd05357832d6232749a9559d5c723de"
+            }
+        ],
+        "notes": "<p>An infinite salve. The 188 charted stars are presented in order of magnitude descending. Listen on infinite shuffle because Cancer looks very different from elsewhere in the Milky Way.</p>",
+        "credits": "<p>For mom.</p><p>Audio sourced from my childhood Kouvalias, the Land of Shadow, and Respighi's Feste Romane performed by Eugene Ormandy, Philadelphia Orchestra, 1946.</p><p>Photograph from a trip with my mother to Tijuana, Mexico, 2022.</p><p>Engineered by Tyler Etters, 2004 \u2014 2024.</p>",
+        "project_slug": "they-became-what-they-beheld",
+        "release_slug": "list-of-stars-in-cancer",
+        "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/list-of-stars-in-cancer.jpg",
+        "id": "e6f44232319b0dd9626e08ed278042dd"
+    },
+    {
         "title": "Distance",
         "project": "They Became What They Beheld",
         "released": "02024-06-16",
@@ -15,6 +1199,43 @@ export var discography = [
                 "title": "Distance",
                 "length": "00:19:28",
                 "id": "a65d8ff9653b95518c38beb1e7d94a18"
+            }
+        ],
+        "streams": [
+            {
+                "platform": "Amazon",
+                "url": "https://amazon.com/music/player/albums/B0D7QVWXFC",
+                "id": "72bb19d3a5b0435ea364e862ff6da34d"
+            },
+            {
+                "platform": "Apple Music",
+                "url": "https://music.apple.com/us/album/distance-ep/1753530892",
+                "id": "474fd54d4b37d169fb706000ed7e1bd1"
+            },
+            {
+                "platform": "Bandcamp",
+                "url": "https://theybecamewhattheybeheld.bandcamp.com/album/distance",
+                "id": "bcdb1bc1f82ceda6c5b00472800f44bc"
+            },
+            {
+                "platform": "Deezer",
+                "url": "https://www.deezer.com/us/album/605603872",
+                "id": "8f1ce892586f1c7ee3c3a362017aaccd"
+            },
+            {
+                "platform": "iHeartRadio",
+                "url": "https://www.iheart.com/artist/they-became-what-they-beheld-42962881/albums/distance-275648536/",
+                "id": "3085f1ba6592fa107e80b83594b72c01"
+            },
+            {
+                "platform": "Spotify",
+                "url": "https://open.spotify.com/album/6kZHS99KJvGJCZR5lhLCkz",
+                "id": "7fa74a2862ec1fcac96d1a145ccfcf47"
+            },
+            {
+                "platform": "YouTube",
+                "url": "https://www.youtube.com/watch?v=3EX4qPIVT1o&list=OLAK5uy_nX4ypSQVt9eBRsVBQ0gnV9eYQrplE-E7A",
+                "id": "63c1354c98a3e17f8a0a22da43355424"
             }
         ],
         "notes": "<p>To honor the memory of someone you loved and lost is by becoming great and doing well and good in their honor/memory - live as you would know them to be proud of.</p><p>\u2014 MTM, 2024</p>",
@@ -60,6 +1281,43 @@ export var discography = [
                 "id": "961d0265109b2d11af8039f9400dd8c1"
             }
         ],
+        "streams": [
+            {
+                "platform": "Amazon",
+                "url": "https://www.amazon.com/music/player/albums/B0D582L48R",
+                "id": "e0c5e48dca8c1be8586de6fe0f1cdba8"
+            },
+            {
+                "platform": "Apple Music",
+                "url": "https://music.apple.com/us/album/radio-free-albemuth/1748745705",
+                "id": "ac6ab5b3e57b6fc4078e0611dfc76a03"
+            },
+            {
+                "platform": "Bandcamp",
+                "url": "https://theybecamewhattheybeheld.bandcamp.com/album/radio-free-albemuth",
+                "id": "c5dac65ae3053c89e65aae95eb897780"
+            },
+            {
+                "platform": "Deezer",
+                "url": "https://www.deezer.com/us/artist/263724261",
+                "id": "feceffc114b10bd08d6e3cc4ed0bbaab"
+            },
+            {
+                "platform": "iHeartRadio",
+                "url": "https://www.iheart.com/artist/they-became-what-they-beheld-42962881/albums/radio-free-albemuth-271534643/",
+                "id": "e07c0c4367f3cf8bbd2c96cd4a5c89af"
+            },
+            {
+                "platform": "Spotify",
+                "url": "https://open.spotify.com/album/2Omhz8B5g1VbSfqSpUkZOt",
+                "id": "fb767405ce042f40b7301b8379509e11"
+            },
+            {
+                "platform": "YouTube",
+                "url": "https://www.youtube.com/watch?v=ZECpF-IEDUw&list=OLAK5uy_nGDIZERWQdqVM4FwqC_5L8jJmAuLzvgfk",
+                "id": "20e830edb4b105f6288c01fdddd59d4d"
+            }
+        ],
         "notes": "<p>On February 20, 1974, while recovering from the effects of sodium pentothal administered for the extraction of an impacted wisdom tooth, [Philip K.] Dick received a home delivery of Darvon from a young woman. When he opened the door, he was struck by the dark-haired girl's beauty, and was especially drawn to her golden necklace. He asked her about its curious fish-shaped design. As she was leaving, she replied: \"This is a sign used by the early Christians.\" Dick called the symbol the \"vesicle pisces\". This name seems to have been based on his conflation of two related symbols, the Christian ichthys symbol (two intersecting arcs delineating a fish in profile), which the woman was wearing, and the vesica piscis.</p><p>Dick recounted that as the sun glinted off the gold pendant, the reflection caused the generation of a \"pink beam\" of light that mesmerized him. He came to believe the beam imparted wisdom and clairvoyance, and also believed it to be intelligent. On one occasion, he was startled by a separate recurrence of the pink beam, which imparted the information that his infant son was ill. The Dicks rushed the child to the hospital, where the illness was confirmed by professional diagnosis.</p><p>\u2014 Wikipedia, 2024</p><p>The seven movements of this symphonic suite need to be heard in their entirety; it is a mistake to isolate movements from the whole, for the work owes much to the strongly contrasted moods suggested by the character of each planet.</p><p>\u2014 The Decca Record Company, Ltd., 1962 </p>",
         "credits": "<p>Thanks to ... a ... tape deck ... original ... everything stalled out ... changed ... that was closer to ... my dad ... I was a kid ... this strange ... audience ... Memorial ... landfill ... library ...</p><p>Audio sourced from Holst's The Planets performed by Herbert Von Karajan, Vienna Philharmonic, 1962.</p><p>Video sourced from The Eames Office's Powers of Ten, 1968 \u2014 1977.</p><p>Track titles sourced from Philip K. Dick's VALIS and surrounding mythos, circa 1976 \u2014 1985.</p><p>Photograph from the Skylark bar in Pilsen, 2017.</p><p>Engineered by Tyler Etters, 2024.</p>",
         "project_slug": "they-became-what-they-beheld",
@@ -85,6 +1343,43 @@ export var discography = [
                 "id": "6c7af5ffec304e9076e093ccc60c37a1"
             }
         ],
+        "streams": [
+            {
+                "platform": "Amazon",
+                "url": "https://www.amazon.com/music/player/albums/B0D2YDHM73",
+                "id": "32d6c25bb98a74d175ed6d72052635f2"
+            },
+            {
+                "platform": "Apple Music",
+                "url": "https://music.apple.com/us/album/rocket-summer/1743863550",
+                "id": "ada4b669da578f4e827d4ff47da296c9"
+            },
+            {
+                "platform": "Bandcamp",
+                "url": "https://theybecamewhattheybeheld.bandcamp.com/album/rocket-summer",
+                "id": "820e3fc9de089c841ceae784a1d5c842"
+            },
+            {
+                "platform": "Deezer",
+                "url": "https://www.deezer.com/us/album/580743841",
+                "id": "76e1cd89fa998b195987e62370d62952"
+            },
+            {
+                "platform": "iHeartRadio",
+                "url": "https://www.iheart.com/artist/they-became-what-they-beheld-42962881/albums/rocket-summer-267427350/",
+                "id": "34e64d67d3028e82a310809655f26f69"
+            },
+            {
+                "platform": "Spotify",
+                "url": "https://open.spotify.com/album/0WTccZ6LBUKA1KYCmcxmHT",
+                "id": "b2dae17154ff7d93fc7862e54f5011e5"
+            },
+            {
+                "platform": "YouTube",
+                "url": "https://www.youtube.com/watch?v=nSTuod8i3oA&list=OLAK5uy_kYF1JbWuZ2J1APNNm_0f0yNF2WLbbtVQ4",
+                "id": "3b1782e61187222f47cacb39475d0c5b"
+            }
+        ],
         "notes": "<p>One minute it was Ohio winter, with doors closed, windows locked, the panes blind with frost, icicles fringing every roof, children skiing on slopes, housewives lumbering like great black bears in their furs along the icy streets.</p><p>And then a long wave of warmth crossed the small town. A flooding sea of hot air; it seemed as if someone had left a bakery door open. The heat pulsed among the cottages and bushes and children. The icicles dropped, shattering, to melt. The doors flew open. The windows flew up. The children worked off their wool clothes. The housewives shed their bear disguises. The snow dissolved and showed last summer's ancient green lawns.</p><p>*Rocket summer.* The words passed among the people in the open, airing houses. *Rocket summer.* The warm desert air changing the frost patterns on the windows, erasing the art work. The skis and sleds suddenly useless. The snow, falling from the cold sky upon the town, turned to a hot rain before it touched the ground.</p><p>*Rocket summer.* People leaned from their dripping porches and watched the reddening sky.</p><p>The rocket lay on the launching field, blowing out pink clouds of fire and oven heat. The rocket stood in the cold winter morning, making summer with every breath of its mighty exhausts. The rocket made climates, and summer lay for a brief moment upon the land ...</p><p>\u2014 Ray Bradbury, 1950</p>",
         "credits": "<p>Thanks to ... a ... tape deck ... original airplane hanger ... everything stalled out for so long ... changed ... else did, that was closer to now ... my dad ... when I was a kid ... Sage ... close ... Emily for finding this strange book ... her audience ... Memorial Library for ... to Hippo ... from a landfill ... library ...</p><p>Audio sourced from Giovanni Gabrieli's Sanctus: VI. Hosanna in excelsis broadcast by KUSC 91.5 and recorded by iPhone, 2020.</p><p>Photograph & video loops of an actual space rocket launch over my apartment, 2024.</p><p>Engineered by Tyler Etters, 2020 \u2014 2024.</p>",
         "project_slug": "they-became-what-they-beheld",
@@ -108,6 +1403,38 @@ export var discography = [
                 "title": "Respect for the Medium",
                 "length": "00:22:49",
                 "id": "27c621894ea4988cfeff6e3dfa3406b9"
+            }
+        ],
+        "streams": [
+            {
+                "platform": "Amazon",
+                "url": "https://www.amazon.com/music/player/albums/B0D2R7XXG2",
+                "id": "bab7d733c8b33b0fae1ecbe95311ee31"
+            },
+            {
+                "platform": "Apple Music",
+                "url": "https://music.apple.com/us/album/respect-for-the-medium-ep/1743492407",
+                "id": "e6ee17a57529a4cd42b858e5cd680aac"
+            },
+            {
+                "platform": "Bandcamp",
+                "url": "https://theybecamewhattheybeheld.bandcamp.com/album/respect-for-the-medium",
+                "id": "a18cd58d714af6ab7c110b5706a2a565"
+            },
+            {
+                "platform": "Deezer",
+                "url": "https://www.deezer.com/us/album/579132271",
+                "id": "6f60a882a8d4816de99a4530a0cc625a"
+            },
+            {
+                "platform": "Spotify",
+                "url": "https://open.spotify.com/album/053SZ0lB7HETAPog1o0xeQ",
+                "id": "d067715cd01734b69e9d72c04ca76884"
+            },
+            {
+                "platform": "YouTube",
+                "url": "https://www.youtube.com/watch?v=yUp-YjxL6AU&list=OLAK5uy_nckMbTHgRNV4JC2NQAdyJfyeKje0Y2Eds",
+                "id": "6616620bc487b2d5825853dbe9838799"
             }
         ],
         "notes": "<p>The fundamental audio loop is more Gabrieli.</p><p>The DV tape loop is from Fireflies & Fields, a deeply personal series shot straight out of camera. Summer, 2009. Just after sunset. \"Night Mode\" enabled camera on a tripod facing south-south-east. Fairfield Road a bit to my back and right. A solid two-minute hike across the prairie to touch the first oaks in the shot. Macro lens on. Optical zoom maxed. Digital zoom zero. The key: auto-focus enabled to force the beacons into a duel until dawn. The loop you see employs neither dissolve nor crossfade. It is the same hard cut over and over until the song ends. After originally releasing a zoomed and cropped version at 1920x1080, I have decided to delete and repost at 720x480. Once you see the Taraxacum mote ascending you will never unsee it.</p><p>The artwork is also from Fireflies & Fields, also straight out of camera.</p><p>These sorts of things are important to me.</p><p>Respect for the medium.</p>",
@@ -141,7 +1468,44 @@ export var discography = [
                 "id": "578fa08628bc3fa4431215233e22cb40"
             }
         ],
-        "notes": "<p>But this is already the point of view required\u2014given a change of perspective\u2014for examining the primitive socius, the territorial machine for declining alliances and filiations. This machine is segmentary because, through its double apparatus of tribe and lineage, it cuts up segments of varying lengths: genealogical filiative units of major, minor, and minimal lineages, with their hierarchy, their respective chiefs, their elders who guard the stocks and organize marriages; territorial tribal units of primary, secondary, and tertiary sections, also having their dominant roles and their alliances. \"The point of separation between the tribal sections becomes the point of divergence in the clan structure of the lineages associated with each section. For, as we have seen, clans and their lineages are not distinct corporate groups, but are embodied in local communities, through which they function structurally.\"10 The two systems intersect, each segment being associated with the flows and the chains, with the stocked flows and the passing flows, with selections from the flows and detachments from the chains (certain production projects are executed in the framework of the tribal system, others in the framework of the lineage system). The variability and relativity of the segments are responsible for all sorts of penetrations between the inalienable elements of filiation and the mobile elements of alliance. This is explained by the fact that the length of each segment\u2014or even its existence as such\u2014is determined only by its opposition to other segments in a series of interrelated stages. The segmentary machine mixes rivalries, conflicts, and ruptures throughout the variations of filiation and the fluctuations of alliance. The whole system evolves between two poles: that of fusion through opposition to other groups, and that of scission through the constant formation of new lineages aspiring to independence, with capitalization of alliances and filiation. From one pole to the other, all the misfirings and failures in a system that is constantly reborn of its own disharmonies. What does Jeanne Favret mean when she shows, along with other ethnologists, that \"the persistence of a segmentary organization requires paradoxically that its mechanisms be ineffectual enough so that fear remains the motor of the whole\"? And what is this fear? It would appear that social formations experienced a morbid and mournful foreboding of things to come, although what comes to them always comes from without, rushing in through their opening. Perhaps it is even for this reason that it arrives from without; they suffocate its inner potentiality, at the cost of the dysfunctions that constitute an integral part of the functioning of their system.</p><p>\u2014 Deleuze & Guattari, 1972</p>",
+        "streams": [
+            {
+                "platform": "Amazon",
+                "url": "https://www.amazon.com/music/player/albums/B0D8V3XPZT",
+                "id": "cf3c2211420d2346ff1213f1bef1ad97"
+            },
+            {
+                "platform": "Apple Music",
+                "url": "https://music.apple.com/us/album/ep3-ep/1755926045",
+                "id": "7d9872cfc48d46b1e4b8dad850040030"
+            },
+            {
+                "platform": "Bandcamp",
+                "url": "https://theybecamewhattheybeheld.bandcamp.com/album/ep3",
+                "id": "557ba60c5fddefd87ec5371b7fa2ef26"
+            },
+            {
+                "platform": "Deezer",
+                "url": "https://www.deezer.com/us/album/611752672",
+                "id": "2f34d564772a0842306595f9bcf1920a"
+            },
+            {
+                "platform": "iHeartRadio",
+                "url": "https://www.iheart.com/artist/they-became-what-they-beheld-42962881/albums/ep3-277684409/",
+                "id": "47c05b4df6a2bb4e85be00ccb156e291"
+            },
+            {
+                "platform": "Spotify",
+                "url": "https://open.spotify.com/album/04oITCytM0DX8HSvqDYQ8f",
+                "id": "5a487a2944ee5c06e4be247e8dffafc5"
+            },
+            {
+                "platform": "YouTube",
+                "url": "https://www.youtube.com/watch?v=Yy0PeHycft0&list=OLAK5uy_lkimFANLq9tP4Ji4rcM9OQDKXgu8s68F4",
+                "id": "02b1fae5ff540d0c793073b9d6609930"
+            }
+        ],
+        "notes": "<p>But this is already the point of view required\u2014given a change of perspective\u2014for examining the primitive socius, the territorial machine for declining alliances and filiations. This machine is segmentary because, through its double apparatus of tribe and lineage, it cuts up segments of varying lengths: genealogical filiative units of major, minor, and minimal lineages, with their hierarchy, their respective chiefs, their elders who guard the stocks and organize marriages; territorial tribal units of primary, secondary, and tertiary sections, also having their dominant roles and their alliances. \"The point of separation between the tribal sections becomes the point of divergence in the clan structure of the lineages associated with each section. For, as we have seen, clans and their lineages are not distinct corporate groups, but are embodied in local communities, through which they function structurally.\" The two systems intersect, each segment being associated with the flows and the chains, with the stocked flows and the passing flows, with selections from the flows and detachments from the chains (certain production projects are executed in the framework of the tribal system, others in the framework of the lineage system). The variability and relativity of the segments are responsible for all sorts of penetrations between the inalienable elements of filiation and the mobile elements of alliance. This is explained by the fact that the length of each segment\u2014or even its existence as such\u2014is determined only by its opposition to other segments in a series of interrelated stages. The segmentary machine mixes rivalries, conflicts, and ruptures throughout the variations of filiation and the fluctuations of alliance. The whole system evolves between two poles: that of fusion through opposition to other groups, and that of scission through the constant formation of new lineages aspiring to independence, with capitalization of alliances and filiation. From one pole to the other, all the misfirings and failures in a system that is constantly reborn of its own disharmonies. What does Jeanne Favret mean when she shows, along with other ethnologists, that \"the persistence of a segmentary organization requires paradoxically that its mechanisms be ineffectual enough so that fear remains the motor of the whole\"? And what is this fear? It would appear that social formations experienced a morbid and mournful foreboding of things to come, although what comes to them always comes from without, rushing in through their opening. Perhaps it is even for this reason that it arrives from without; they suffocate its inner potentiality, at the cost of the dysfunctions that constitute an integral part of the functioning of their system.</p><p>\u2014 Deleuze & Guattari, 1972</p>",
         "credits": "<p>Thanks to the person who sold me a faulty tape deck so I could not continue this project as intended because the original tape deck was in an airplane hanger because of the pandemic and everything stalled out for so long on both sides of the incident and then the project changed \u2014 like everything else did, that was closer to then and things are different now. Thanks to my dad for showing me Dancing Fantasy when I was a kid. Thanks to Sage for being infinitely patient and compassionate with me during the pandemic. Thanks to my two close friends who talked with me on the phone at length today, you know who you are. Thanks to Emily for finding this strange book and making me her audience of one. Thanks to the Adriance Memorial Library for first stocking the book and later stamping it with DISCARD. Thanks to Hippo Books who succeeded in diverting it from a landfill and otherwise help to fund library sustainability and provide meaningful solutions to the global problem of illiteracy.</p><p>About text, icon, and name sourced from They Became What They Beheld written by Edmund Snow Carpenter, photographed by Ken Heyman, designed by Hess and/or Antupit, 1970.</p><p>Audio sourced from Giovanni Gabrieli's Sanctus: VI. Hosanna in excelsis broadcast by KUSC 91.5 and recorded by iPhone, 2020.</p><p>Photographs from my trip to Petalying Jaya, Malaysia, 2017.</p><p>Engineered by Tyler Etters, 2020 \u2014 2024.</p>",
         "project_slug": "they-became-what-they-beheld",
         "release_slug": "ep3",
@@ -233,11 +1597,6 @@ export var discography = [
                 "platform": "Spotify",
                 "url": "https://open.spotify.com/album/2nLz2jO4YCQO37NVm3rM3C?si=h84wEpl0Sv6hMm3PfpSGyA",
                 "id": "0ef8a7425409283b4481668fdabe9f2f"
-            },
-            {
-                "platform": "Tidal",
-                "url": "https://listen.tidal.com/album/336500922",
-                "id": "318c4f0a067b88e3c9c441d2eeab84e6"
             },
             {
                 "platform": "YouTube",
@@ -337,6 +1696,43 @@ export var discography = [
                 "title": "That was closer to then",
                 "length": "00:13:32",
                 "id": "783052eebb0b68c10fbed5264de8721d"
+            }
+        ],
+        "streams": [
+            {
+                "platform": "Amazon",
+                "url": "https://www.amazon.com/music/player/albums/B0D8V27MGB",
+                "id": "24686b2b7ce4ca799f261f9615abc2a3"
+            },
+            {
+                "platform": "Apple Music",
+                "url": "https://music.apple.com/us/album/ep2-ep/1755926185",
+                "id": "f9140b8b30c1ae37b2b9360565e0bd2c"
+            },
+            {
+                "platform": "Bandcamp",
+                "url": "https://theybecamewhattheybeheld.bandcamp.com/album/ep2",
+                "id": "c9a380c175069bb42c080e255d18ca1e"
+            },
+            {
+                "platform": "Deezer",
+                "url": "https://www.deezer.com/us/album/611753282",
+                "id": "19171c86a2014f33e0dbb7af0ec47722"
+            },
+            {
+                "platform": "iHeartRadio",
+                "url": "https://www.iheart.com/artist/they-became-what-they-beheld-42962881/albums/ep2-277684400/",
+                "id": "5e100da3eb646e22cdcc1309d3df468e"
+            },
+            {
+                "platform": "Spotify",
+                "url": "https://open.spotify.com/album/4cCMZUBtMPrCGNv1H37jaP",
+                "id": "6da22f69063836de75b0302cd27e2f2a"
+            },
+            {
+                "platform": "YouTube",
+                "url": "https://www.youtube.com/watch?v=frMqtZ9c4u0&list=OLAK5uy_lpd0VhMA9BCkt-7sKKgQOxzR5yx28n7Lg",
+                "id": "5cab695ab4c93708cd49eeecfd8b2346"
             }
         ],
         "notes": "<p>Within the philosophies of time, three oppositional schools compete: Eternalism describes the phenomenon of time like a strip of film - the past and the future do exist, are real, but the present is merely a human concept. The growing block theory, maybe the most intuitive of the three, states that the present continually creates the past, but the future is unwritten. Presentism on the other hand argues that the only thing irrefutable is the present and that the past and the future are both unreal. By applying these three concepts to music, we may end up with a number of strategies to rethink what we consider as given.</p><p>I would like to propose that there has been has been a slow shift in how music was perceived. Improvised music, prior to notation, can be considered as presentistic, manifesting itself only in the present, it\u2019s only traces of existence written in memory. With interpretation and notation, the perception shifts more to a growing block. The mind got a hold of the past, but the future still remained a very unstable realm - once the hand made a mistake with an instrument or the voice was interrupted to catch a breath. Obviously the advent of the recording introduced an absolute future and with it the concept of eternalism in music. Furthermore the introduction of the loop, applied in its most extreme way within techno, embeds the listener in a coherent body of past and future, even with a view of the timeline - first on the record, later on the waveform. A car, racing on the Autobahn, free to move in both directions. Of course, one could argue that the state of ecstasy in which techno is consumed compresses time into a perfect present, the psychological present, which is defined as 2-3 seconds with the equivalent of 1 bar by 120 bpm\u2026</p><p>But staying for the moment with the first thought, we can ask the questions: is the loop the defining property of techno? What happens if we remove the certainty of the next kick, eroding the temporal and structural integrity of the genre? Presentism is a project based on one temporal randomised pulse, denying our ability to foresee the next kick and obscuring the possibility to form loops. Yet it upholds timbres and instrument references common to the genre. The aleatoric function acts like an agent of presentism in an eternalist domain. Like improvisation, it has the ability to remove a stable future and at the same time blur the memory by forming insignificant patterns. Intensification usually benefits from a balance between control and the prospect of collapse. The temporal shuffle of techno is the attempted surrender of control of the past and future to the present.</p><p>\u2014 JAT, 2020</p>",
@@ -1049,6 +2445,43 @@ export var discography = [
                 "id": "19f67fefb3a7720a8875b563311e187d"
             }
         ],
+        "streams": [
+            {
+                "platform": "Amazon",
+                "url": "https://www.amazon.com/music/player/albums/B08XMB77BZ",
+                "id": "85deed540241397d55fbd496c7e858fc"
+            },
+            {
+                "platform": "Apple Music",
+                "url": "https://music.apple.com/us/album/the-arecibo-lamentations/1545199026",
+                "id": "9dc49b222eaa8598b74a244f9a5c69e7"
+            },
+            {
+                "platform": "Bandcamp",
+                "url": "https://northerninformation.bandcamp.com/album/the-arecibo-lamentations",
+                "id": "a93c969bd41c310724e3dd26cf46c480"
+            },
+            {
+                "platform": "Deezer",
+                "url": "https://www.deezer.com/us/album/611728042",
+                "id": "ed9fb310405b4f3331aab06fb03d3fe7"
+            },
+            {
+                "platform": "iHeartRadio",
+                "url": "https://www.iheart.com/artist/northern-information-43479567/albums/the-arecibo-lamentations-277686047/",
+                "id": "91e90c627bea6f2bb65eeeb92644375a"
+            },
+            {
+                "platform": "Spotify",
+                "url": "https://open.spotify.com/album/3VV1dbNwOz5zZ7YN3RuLjU",
+                "id": "9a85926e0e4d4cd8fbed5e55c3527e8a"
+            },
+            {
+                "platform": "YouTube",
+                "url": "https://www.youtube.com/watch?v=i0ynniBYrto&list=OLAK5uy_k7d0iRfvZ1cFoSfkHX1rTncaTvt44sTKo",
+                "id": "c509c1e1f45a954dcf248b2b09b7255f"
+            }
+        ],
         "notes": "<p>-13,800,000,000: the universe forms.</p><p>-4,500,000,000: the moon forms.</p><p>-66,000,000: the Chicxulub impactor kills 75% of everything.</p><p>01945: the first nuclear device is detonated at the Trinity Site.</p><p>01960: construction of the Arecibo Observatory begins.</p><p>01963: construction of the Arecibo Observatory ends.</p><p>01974: the Arecibo message is broadcast.</p><p>01985: Carl Sagan's novel, Contact, is published.</p><p>02020: the Arecibo Observatory collapses.</p><p>03000: the 10,000 Year Clock chimes thrice.</p><p>+26,974: the Arecibo message arrives at M13.</p><p>+10^14: star formation ceases.</p><p>+10^40: black holes dominate the universe.</p><p>+10^100: if protons decay, the universe suffers heat death.</p><p>*All above dates and events are inaccurate.</p><p>Any proceeds from the sale of this album will be donated to the Arecibo Observatory: www.naic.edu/ao/donations</p>",
         "credits": "<p>Thanks to Dan Derks, Brian Crabtree, Ryan Laws, Zack Scholl, Cory Salveson, Sage Etters, & Pasha Petrosyan.</p><p>Augured, coded, patched, written, performed, lamented, and engineered by Tyler Etters in 2020.</p>",
         "project_slug": "northern-information",
@@ -1078,6 +2511,43 @@ export var discography = [
                 "title": "Back when things made sense",
                 "length": "00:06:21",
                 "id": "da62d9c2b17d61f7dbbb2cb8714ea63e"
+            }
+        ],
+        "streams": [
+            {
+                "platform": "Amazon",
+                "url": "https://www.amazon.com/music/player/albums/B0D8V2M7BW",
+                "id": "01e2635b216b1f47827ce168176241cd"
+            },
+            {
+                "platform": "Apple Music",
+                "url": "https://music.apple.com/us/album/ep1-single/1755907154",
+                "id": "4b77b4a1f5d7df371e94e6903d3c6e7b"
+            },
+            {
+                "platform": "Bandcamp",
+                "url": "https://theybecamewhattheybeheld.bandcamp.com/album/ep1",
+                "id": "761a5ab3dd1f3285348552e18db56202"
+            },
+            {
+                "platform": "Deezer",
+                "url": "https://www.deezer.com/us/album/611728112",
+                "id": "3d13656810a35c774219e5f19952228f"
+            },
+            {
+                "platform": "iHeartRadio",
+                "url": "https://www.iheart.com/artist/they-became-what-they-beheld-42962881/albums/ep1-277686632/",
+                "id": "e73143213b46e962f531dcd3c4d06fe2"
+            },
+            {
+                "platform": "Spotify",
+                "url": "https://open.spotify.com/album/0O2h5MUv7EKTDEvBNGBGr3",
+                "id": "0d5859ca387c58679ecbe6889218c2ae"
+            },
+            {
+                "platform": "YouTube",
+                "url": "https://www.youtube.com/watch?v=oAOs-j61goA&list=OLAK5uy_n5jqrvL-9PzHsfrMqxg7NV0rSpmDdU3UM",
+                "id": "76fc0891ac52670a947d2be1a33e9d14"
             }
         ],
         "notes": "<p>I recently came across the following rules of communication, posted in a School of Journalism:</p><p>1. Know your audience and address yourself directly to it.</p><p>2. Know what you want to say and say it clearly and fully.</p><p>3. Reach the maximum audience by utilizing existing channels.</p><p>Whatever sense this may have made in a world of print, it makes no sense today. In fact, the reverse of each rule applies.</p><p>If you address yourself to an audience, you accept at the outset basic premises that unite the audience. You put on the audience, repeating clich\u00e9s familiar to it. But artists don't address themselves to audiences; they create audiences. The artist talks to themself out loud. If what they say is significant, others hear and are affected.</p><p>The trouble with knowing what to say and saying it clearly and fully is that clear speaking is generally obsolete thinking. Clear statement is like an art object: it is the afterlife of the process which called it into being. The process itself is the significant step and, especially at the beginning, is often incomplete & uncertain. Columbus's maps were vague & sketchy, but showed the right continent.</p><p>The problem with full statement is that it doesn't involve: it leaves no room for participation; it's addressed to consumer, not co-producer. Allan Kaprow posted a few small posters about Berkeley: \"SUPPOSE you were interested in designing a primer, in mixed media, etc. . . . Allan Kaprow will be in Berkeley in July & August.\" No phone, address, dates, terms. He found, however, that those who wanted to work with him, and those he wanted to work with, located him without difficulty.</p><p>Reaching the maximum audience may be the last thing one wants to achieve. George Segal says, \"I don't give myself to everybody. I give myself very intensely to my work, my wife, my kids, my few friends. I can't begin to give myself indiscriminately to all. It's the only thing that makes me pause about, say, Ginsberg's preachings of universal love or even California ideas about Esalen and touching.\"</p><p>Utilizing existing channels can wipe out a statement. There is a widely accepted misconception that media merely serve as neutral packages for the dissemination of raw facts. Photographers once thought that by getting their photographs published in Life, they would thereby reach large audiences. Gradually they discovered that the only message that came through was Life magazine itself and that their pictures had become but bits and pieces of that message. Unwittingly they contributed to a message far removed from the one they intended.</p><p>The same thing occurs on TV guest shows. Guests accept invitations to appear on programs in the hopes their messages will reach new and wider audiences, but even when they are treated in a friendly manner, they generally come away with a sense of failure. Somehow the message transmitted is far removed from the message intended. The original message has been declassified by an alien medium. \"Oh, what a blow that phantom gave me!\" cries Don Quixote.</p><p>The young today shun the hardware of the past. Marx thought the big question was: Who owns the presses? Software makes hardware obsolete, an encumbrance, creating a false sense of power and security. The young package their messages in media that fit their messages, that is, they create new media to fit their messages. In so doing, they create their own audiences. Some of these audiences may be very small at the beginning. In Houston I met film makers producing films for audiences of no more than six. The point was that they would reach the right people in the right way with the right message.</p><p>It is one of the curiosities of a new medium, a new format, that at the moment it first appears, it's never valued, but it is believed. What it offers, I believe, is a sudden insight, an unexpected glimpse into a reality that, at most, was merely suspected but never before seen with such clarity.</p><p>Like guerrillas, the young are in a favored position; they don't need or want the hardware and audiences of yesterday.</p><p>\u2014 Edmund Snow Carpenter, 1970 </p>",
@@ -1165,6 +2635,43 @@ export var discography = [
                 "id": "688324cd8182b77da8097a91a8fa4cf1"
             }
         ],
+        "streams": [
+            {
+                "platform": "Amazon",
+                "url": "https://www.amazon.com/music/player/albums/B08XM796SK",
+                "id": "8790c54f7dcb8e81b9a7548b77837ae6"
+            },
+            {
+                "platform": "Apple Music",
+                "url": "https://music.apple.com/us/album/reverence/1547745922",
+                "id": "8d2a2bb298f7d8330de7666a94752de0"
+            },
+            {
+                "platform": "Bandcamp",
+                "url": "https://northerninformation.bandcamp.com/album/reverence",
+                "id": "161a8e40de651fe8838f03261a2e16ce"
+            },
+            {
+                "platform": "Deezer",
+                "url": "https://www.deezer.com/us/album/611752092",
+                "id": "9fa817d6b5b64b9e24279dcef430669c"
+            },
+            {
+                "platform": "iHeartRadio",
+                "url": "https://www.iheart.com/artist/northern-information-43479567/albums/reverence-277684348/",
+                "id": "90eb8ca17205367bcbb3814e7481c100"
+            },
+            {
+                "platform": "Spotify",
+                "url": "https://open.spotify.com/album/0ynd2S883zsBUNKA5cKZK8",
+                "id": "70d9e1f54424aea338032efecbeab457"
+            },
+            {
+                "platform": "YouTube",
+                "url": "https://www.youtube.com/watch?v=U4WW5x3a4kw&list=OLAK5uy_kH23BzGril-nWMYZOJzBuXB0CxWUGJq7o",
+                "id": "01f9c985be0a4ed7778f17d4727fa6a3"
+            }
+        ],
         "notes": "<p>- - - - - - - - - -</p><p>chapter ix</p><p>- - - - - - - - - -</p><p>summer. morning. warmth and green. saturday. children meet at the end of the street to play. nature preserve. silent agreement. no games today. just be. creeks. white oaks. a crayfish somehow. power lines on the horizon. cumulus clouds and prairies forever. then one of them finds it beneath a domed castle of dark briar. the snail shell graveyard. calls to the others. huddled around the edge in silence. dozens of bone-white spirals encrusted in black mud. today they can only stare but the questions will come decades later: what force caused it to happen? was the ossuary exclusive to a single family? did some apex predator hunt each snail and return them to her voracious brood? did the snails all migrate together on their own volition? only to die in some great cataclysm? the annual prairie burn? the children know better than to take any shells. dusk. winter. the ice breaks. yelling for help. they scramble to get long branches. he is ok but his boot is claimed by the mud. summer again. they age. they don't play anymore. they hang out now. they go back the forest preserve past curfew. instead of running from imaginary monsters they run from the police. they still know all the hiding places and it is almost unfair. they keep aging. they lose touch. they sometimes remember. before it is over, each returns to the forest preserve in turn. always alone. always unknown by the others. not secret. just private. none of them can ever find it again.</p><p>- - - - - - - - - -</p><p>1. the snail shell graveyard (w/ david)</p><p>2. fiddler\u2019s green</p><p>3. yes, these paths were promised</p><p>4. cometary</p><p>5. unnamed seasons (w/ sage)</p><p>6. this is hallowed ground</p><p>7. hope on the western sky</p><p>8. in standstill destiny</p><p>9. fireflies & fields</p><p>10. beacons of light</p><p>11. where the grass is uncut by blades of men</p><p>- - - - - - - - - - </p>",
         "credits": "<p>released the day after the winter solstice, when the light begins her steady march to summer.</p><p>written and recorded by tyler etters from an indeterminate point in the past through december 2017. featuring guitar by david kvistad on the snail shell graveyard and field recordings by sage etters on unnamed seasons. painting of cornfields in illinois (1994) by lynda wallis (tyler etters\u2019s mom) with additional treatment by tyler etters.</p>",
         "project_slug": "tyler-etters-and-the-northern-information-movement",
@@ -1238,6 +2745,43 @@ export var discography = [
                 "id": "71ec5270c5ce9efd50213085cbaeddf4"
             }
         ],
+        "streams": [
+            {
+                "platform": "Amazon",
+                "url": "https://www.amazon.com/music/player/albums/B08XMN8ZKB",
+                "id": "e8fa04525efeb0fc5e1aa7d88a7185bd"
+            },
+            {
+                "platform": "Apple Music",
+                "url": "https://music.apple.com/us/album/dispatches-from-the-prime-meridian/1547708878",
+                "id": "3e90cce8d0e326f416f8a995e27e1a39"
+            },
+            {
+                "platform": "Bandcamp",
+                "url": "https://northerninformation.bandcamp.com/album/dispatches-from-the-prime-meridian",
+                "id": "9ad6a06c704d2ed10c6ad4713a476233"
+            },
+            {
+                "platform": "Deezer",
+                "url": "https://www.deezer.com/us/album/611503632",
+                "id": "57a1e0d3720159bb72fb2485e4dbc9f4"
+            },
+            {
+                "platform": "iHeartRadio",
+                "url": "https://www.iheart.com/artist/northern-information-43479567/albums/dispatches-from-the-prime-meridian-277678961/",
+                "id": "abfc1b85d003f36812b7351768d6a453"
+            },
+            {
+                "platform": "Spotify",
+                "url": "https://open.spotify.com/album/6TI5MU6WaicHjEuGtCloeW",
+                "id": "47b51f5de2c714697b57cc7b0eae6b00"
+            },
+            {
+                "platform": "YouTube",
+                "url": "https://www.youtube.com/watch?v=qJ9DB6RT7V0&list=OLAK5uy_khnUjK_jTK1IvTeFhnECZ0jo8OPmztnRY",
+                "id": "05e5ee079a1e6dfae779609d93e8c1f7"
+            }
+        ],
         "notes": "<p>- - - - - - - - - -</p><p>chapter viii</p><p>- - - - - - - - - -</p><p>winter - city - neon dusk - service economies - capitalist realism - the hinge upon which the world turns - unexpected password reset - borrowed anxiety medication - ritual scarification of the mind - ego death - a thousand faces - monomyth - megalith - emergency motorcycle repair - sargasso sea - aggregate browser histories - anonymous cookies - london bridge is falling down - traffic rerouted through eastern europe - all roads lead to rome - the empire never ended - golgothan solstice - eclipse - ellipsism - algorithm - the flash crash of 2010 - the jackpot - universal coordinated time - quick response code - boarding pass - light pollution - the people's republic of the great pacific garbage patch - skeleton music - voodoo technology - hypothetical histories - satellites - orbital sovereignty - metalaws - the singularity already happened - death is the only way out of the information age - metadata reincarnation - the second unix epoch - as above so below - as below so beyond - at dusk there is no wind</p><p>- - - - - - - - - -</p><p>1. surveillance industrial complex</p><p>2. twilight in shape</p><p>3. a cyan destiny</p><p>4. some more dreams from the hive</p><p>5. apophenia</p><p>6. later heaven</p><p>7. future shock</p><p>8. olympus mons</p><p>9. the path of many returns</p><p>- - - - - - - - - - </p>",
         "credits": "<p>released on the winter solstice, when both darkness and light hang in a wary balance.</p><p>written and recorded by tyler etters from an indeterminate point in the past through december 2017. featuring pasha petrosyan on surveillance industrial complex, later heaven, and the path of many returns. numerous samples, videos, storyline components and album title by cory salveson. album cover polaroid of stone henge on the summer solstice (2017) by cory salveson with additional treatment by tyler etters.</p>",
         "project_slug": "tyler-etters-and-the-northern-information-movement",
@@ -1309,6 +2853,43 @@ export var discography = [
                 "title": "unscarred land",
                 "length": "00:05:03",
                 "id": "81ef786d7f6c2b8d460fe6461e79cb7e"
+            }
+        ],
+        "streams": [
+            {
+                "platform": "Amazon",
+                "url": "https://www.amazon.com/music/player/albums/B08XLXRKWY",
+                "id": "fa7ad42fcfcdfbd926f7c08480a7ab30"
+            },
+            {
+                "platform": "Apple Music",
+                "url": "https://music.apple.com/us/album/the-legacy-of-our-lost-cause/1547101505",
+                "id": "bc8cf8cf7fe832776e28e70f6f7a4774"
+            },
+            {
+                "platform": "Bandcamp",
+                "url": "https://northerninformation.bandcamp.com/album/the-legacy-of-our-lost-cause",
+                "id": "2a493f936719f32527dc89d651fc3f20"
+            },
+            {
+                "platform": "Deezer",
+                "url": "https://www.deezer.com/us/album/611504142",
+                "id": "3b99bdf36faa940f6f982ae481cd4c25"
+            },
+            {
+                "platform": "iHeartRadio",
+                "url": "https://www.iheart.com/artist/northern-information-43479567/albums/the-legacy-of-our-lost-cause-277678822/",
+                "id": "8548a99e94879e48deb0659459fd6f75"
+            },
+            {
+                "platform": "Spotify",
+                "url": "https://open.spotify.com/album/5DKUx4qlnrYl0iLYhy8vY8",
+                "id": "174afaf51231ea896f97b4c509d7abc2"
+            },
+            {
+                "platform": "YouTube",
+                "url": "https://www.youtube.com/watch?v=UimL693T3Ho&list=OLAK5uy_mrHa-mRdz93XlzEwawxGPXjzYX2IyfdF0",
+                "id": "ac197afae33d02c6b88c62804306c9af"
             }
         ],
         "notes": "<p>- - - - - - - - - -</p><p>chapter vii</p><p>- - - - - - - - - -</p><p>we built the forest acropolis in a single day. that night we reveled at our achievement. we drank wine and played flutes and made merry. drunk and giddy with the possibility of the future, we fell asleep long after the sun rose. when we finally awoke, kudzu had inexplicably grown over everything. the columns began to crumble. confused, we cut it down and repaired what we could. the next day, the vines were back. again we cut them down, but again they grew back. our leaders proclaimed the land cursed. no one could remember why we built here in the first place anyway. so we left to build a new acropolis by the sea. some of our children remained. they climbed the vines and went on adventures in the woods, heirs of a ghost kingdom.</p><p>- - - - - - - - - -</p><p>1. arcadian nights</p><p>2. leaving home</p><p>3. the emptiness will always follow you</p><p>4. shanzhai (gueriila fortress)</p><p>5. full steam</p><p>6. holy mountain hymn</p><p>7. reaver, yggdrasil, the thing at the end of the woods</p><p>8. bridges of terabithia</p><p>9. unscarred land</p><p>- - - - - - - - - - </p>",
@@ -1414,6 +2995,43 @@ export var discography = [
                 "id": "8462abe4c9ac439d9ef424a805f06681"
             }
         ],
+        "streams": [
+            {
+                "platform": "Amazon",
+                "url": "https://www.amazon.com/music/player/albums/B08XLHVYZN",
+                "id": "7e58729595c2866e21290af5bba01ee2"
+            },
+            {
+                "platform": "Apple Music",
+                "url": "https://music.apple.com/us/album/and-though-the-soft-apocalypse-may-yet-overtake/1547750195",
+                "id": "1ca49aeec2bcb9b869166be3eb350197"
+            },
+            {
+                "platform": "Bandcamp",
+                "url": "https://northerninformation.bandcamp.com/album/and-though-the-soft-apocalypse-may-yet-overtake",
+                "id": "c6cff2431401b1a2e7f5997bc749d7f0"
+            },
+            {
+                "platform": "Deezer",
+                "url": "https://www.deezer.com/us/album/611504062",
+                "id": "9f1e4770fc813c32e177ab443f41e6f8"
+            },
+            {
+                "platform": "iHeartRadio",
+                "url": "https://www.iheart.com/artist/northern-information-43479567/albums/and-though-the-soft-apocalypse-may-277679164/",
+                "id": "33def2cad613c502d66a62e0a58e3f21"
+            },
+            {
+                "platform": "Spotify",
+                "url": "https://open.spotify.com/album/1KCrlpmU24jOUJwI8Z0bOZ",
+                "id": "c1edef3ecda00a1fc50ee82513658658"
+            },
+            {
+                "platform": "YouTube",
+                "url": "https://www.youtube.com/watch?v=x0Feu-eX3eo&list=OLAK5uy_l_GoqpRTVTQfJINp7Gsvjz6YypYiSk_1Q",
+                "id": "61e785333d71425922f3ab07c15ed8c7"
+            }
+        ],
         "notes": "<p>- - - - - - - - - -</p><p>chapter vi</p><p>- - - - - - - - - -</p><p>i have been having dreams about the apocalypse lately. firefighters swarming like ants on a smoldering sears tower, lake michigan simply exploding, the laws of physics deteriorating, heat death, psychological collapses. ever since i was a little boy the topic of eschatology intrigued me. i have always found the the snafus and close calls to be especially interesting: y2k, 12-21-2012, the return of nibiru... these overly hyped events stir up the fears and emotions of certain circles and then awkwardly fizzle out. contrast these to real-world atrocities, cold wars, personal and familial crises, and you realize the apocalypse is happening everyday for someone. ours is an age of false prophets and fear mongering. we make the apocalypse real in our minds. between the actual and perceived doomsdays there is enough to keep anyone worried and anxious for the rest of their lives. this album is about living in a world where anything can happen, where the soft apocalypse may yet overtake at any momemnt. it is a collage; a story; a sonic journey of found sounds and field recordings. it's rawer and rougher than anything i've released before. from anonymous protests in chicago to some particularly terrifying flood sirens, from emergency broadcasts to gin-drunk conversations with old timers about the wars of the 20th century. the singularity already happened. it is not yet over. be kind and generous, always. create something beautiful today and we'll be just fine.</p><p>- - - - - - - - - -</p><p>1. and though the soft apocalypse may yet overtake</p><p>2. unreliable narrator</p><p>3. entropy</p><p>4. palm beach</p><p>5. owl</p><p>6. boodle man</p><p>7. steady progress (deeper into the dark tangent)</p><p>8. in this spiraling darkness</p><p>9. heat death</p><p>10. armageddon rager</p><p>11. suburban gutter trash</p><p>12. flood sirens</p><p>13. requiem, tunnels between worlds</p><p>14. and then the crickets came</p><p>- - - - - - - - - - </p>",
         "credits": "<p>written & recorded by tyler etters from january 2015 through june 2015 at endless field studios. featuring adam j. moore on palm beach and suburban gutter trash.</p>",
         "project_slug": "tyler-etters-and-the-northern-information-movement",
@@ -1455,6 +3073,43 @@ export var discography = [
                 "title": "OS4",
                 "length": "01:24",
                 "id": "8c9ce93a6646e77e0e252cc27a7ed824"
+            }
+        ],
+        "streams": [
+            {
+                "platform": "Amazon",
+                "url": "https://www.amazon.com/music/player/albums/B08XLVPZ2R",
+                "id": "7bab188e37d41726f9c1cf1745dcb177"
+            },
+            {
+                "platform": "Apple Music",
+                "url": "https://music.apple.com/us/album/zulu-ep/1547100523",
+                "id": "5f1759e26e3ac7015d74d316af694ddd"
+            },
+            {
+                "platform": "Bandcamp",
+                "url": "https://northerninformation.bandcamp.com/album/zulu",
+                "id": "efcf6bd3a0a8b9321525209fcc81839a"
+            },
+            {
+                "platform": "Deezer",
+                "url": "https://www.deezer.com/us/album/611501942",
+                "id": "19aa40a930b71140dfea6f1f3e3bfa09"
+            },
+            {
+                "platform": "iHeartRadio",
+                "url": "https://www.iheart.com/artist/northern-information-43479567/albums/zulu-277678765/",
+                "id": "e7b5b0982ee46d0cacf96c2ca3f79ad4"
+            },
+            {
+                "platform": "Spotify",
+                "url": "https://open.spotify.com/album/43bxoEMw9jUG2vMFUuCUKC",
+                "id": "4b60e44a649ec86a34edeb8c8e0f9e56"
+            },
+            {
+                "platform": "YouTube",
+                "url": "https://www.youtube.com/watch?v=7WloUf3-66o&list=OLAK5uy_k5jt0Uoc0VgsNRrl3RWCHySqVBcv3SWHU",
+                "id": "0b5d48161ad4abee6fd35c0f46ee1f00"
             }
         ],
         "notes": "<p>- - - - - - - - - -</p><p>chapter v</p><p>- - - - - - - - - -</p><p>1. OS1</p><p>2. OS2</p><p>3. OS3</p><p>4. OS4</p><p>- - - - - - - - - -</p>",
@@ -1554,6 +3209,43 @@ export var discography = [
                 "id": "1160e90e2541dcf7cc311f1892a3c963"
             }
         ],
+        "streams": [
+            {
+                "platform": "Amazon",
+                "url": "https://www.amazon.com/music/player/albums/B08XMB5NWF",
+                "id": "37570487fb0ffac81ccceda64d5c08b8"
+            },
+            {
+                "platform": "Apple Music",
+                "url": "https://music.apple.com/us/album/the-phantoms-of-our-lost-cause/1550708799",
+                "id": "7daa77a7aa5ef00f97e320e46422c7f0"
+            },
+            {
+                "platform": "Bandcamp",
+                "url": "https://northerninformation.bandcamp.com/album/the-phantoms-of-our-lost-cause",
+                "id": "372618ea263364b62186e4d51f5371a4"
+            },
+            {
+                "platform": "Deezer",
+                "url": "https://www.deezer.com/us/album/611727812",
+                "id": "2acf0271c1afa799b57d7644716a3958"
+            },
+            {
+                "platform": "iHeartRadio",
+                "url": "https://www.iheart.com/artist/northern-information-43479567/albums/the-phantoms-of-our-lost-cause-277686189/",
+                "id": "a337e091c28d99f1424790adaf8e304e"
+            },
+            {
+                "platform": "Spotify",
+                "url": "https://open.spotify.com/album/6uQKrMnKgYtavYwIuEXnev",
+                "id": "2712d2ec5a63ef638892a73aed62b163"
+            },
+            {
+                "platform": "YouTube",
+                "url": "https://www.youtube.com/watch?v=6_wx1DK4STo&list=OLAK5uy_m2oDZFmJ5IBG___w55SOr3GVJSHPS9P0Q",
+                "id": "510717bf8e3de3c8bb2669b467fa5d2e"
+            }
+        ],
         "notes": "<p>- - - - - - - - - -</p><p>chapter iv</p><p>- - - - - - - - - -</p><p>these are the phantoms of our lost cause. this album is my shroud of ghosts, the remnants, the lingering possibilities from timelines tangential. but make no mistake, dear listener: this is no album of b-sides. writing 'the geometrie of our lost cause' was something of a creative renaissance for me. more wavs, samples, beats and guitar drones filled my drives than i knew what to do with (and certainly more than would be appropriate for 'immemorial'). much of that remaining phantasmal material is now presented here. but there are songs from other times, too. 'there is no death, only reorganization' dates back to the 'terraforms' age; 'the secret symmetries of oakwood hills' was almost released on 'blue, the most celestial color'; 'nausica\u00e4' holds the seeds of 'northern illinois'; the 'mainframe' movement in 'getageese' emerged from the 'serial index of unclaimed memories' sessions. once all of this music was sourced, exhumed, and resampled i loaded it up into my rig and rehearsed the album as though i were performing live. later, one of those hazey sessions would be promoted to the final mix in a largely unedited form. and thus begins the second trilogy...</p><p>- - - - - - - - - -</p><p>1. the secret symmetries of oakwood hills</p><p>2. there is no death, only reorganization</p><p>3. second chance</p><p>4. ch((e)i)m(er)ical</p><p>5. forest (R1-07348-0017.jpg)</p><p>6. 2am, rte 53, northbound</p><p>7. jacurutu</p><p>8. radio haces arrib{a} tu cowboy espacio</p><p>9. getageese</p><p>  i. we're going to getageese</p><p>  ii. mainframe (salvaged from failing ecicefis computer)</p><p>  iii. getageese is gone</p><p>10. samsara (w/ adam)</p><p>11. the sound of her wings</p><p>12. infinite return of the same</p><p>13. nausica\u00e4</p><p>- - - - - - - - - - </p>",
         "credits": "<p>written & recorded by tyler etters from an indeterminate point in the past through december 2014 at endless field studios. featuring adam moore on samsara. album cover artwork by paul petrosyan with additional treatment by tyler etters.</p>",
         "project_slug": "tyler-etters-and-the-northern-information-movement",
@@ -1589,6 +3281,43 @@ export var discography = [
                 "title": "january 1st, 1970 + zero gmt",
                 "length": "00:06:13",
                 "id": "1062f9765aaed497888b4036af0fc485"
+            }
+        ],
+        "streams": [
+            {
+                "platform": "Amazon",
+                "url": "https://www.amazon.com/music/player/albums/B08XM9RMWP",
+                "id": "e1d868d761233f28ba05fc0687cf1b53"
+            },
+            {
+                "platform": "Apple Music",
+                "url": "https://music.apple.com/us/album/senescence/1547708658",
+                "id": "0c09b517299ac89a6bde740e7e146363"
+            },
+            {
+                "platform": "Bandcamp",
+                "url": "https://northerninformation.bandcamp.com/album/senescence",
+                "id": "0c10239552c68e27d616ffefdbbb30ca"
+            },
+            {
+                "platform": "Deezer",
+                "url": "https://www.deezer.com/us/album/611750652",
+                "id": "4020bdfa7f51270be9902c01f7a8e646"
+            },
+            {
+                "platform": "iHeartRadio",
+                "url": "https://www.iheart.com/artist/northern-information-43479567/albums/senescence-277684070/",
+                "id": "e397a5276f08df091a516e37b60f5b2b"
+            },
+            {
+                "platform": "Spotify",
+                "url": "https://open.spotify.com/album/0rNcDNQsHb5NsVPX0Hq61i",
+                "id": "8bc66d9e5abfd48e62cabd25efeba8df"
+            },
+            {
+                "platform": "YouTube",
+                "url": "https://www.youtube.com/watch?v=kFYxNh09hb8&list=OLAK5uy_lTv9qeBfWmX-tvqNOWuNVJbwiKFr1tfes",
+                "id": "e28c4b7eda0fd4bdeb6198b20a3c6c53"
             }
         ],
         "notes": "<p>- - - - - - - - - -</p><p>chapter iii</p><p>- - - - - - - - - -</p><p>there was a time before these experiences shaped us. do you remember? years before we scaled all those unforgiving mountain ranges, before the codes were counted, and before the firmament fell. melting. wavering. corporeal. now our minds are increasingly augmented by technology and time's passage becomes difficult for our hearts to feel. do you remember! before your phone vibrated in your pocket every fifteen minutes to remind you of minutia that is neither here nor there? do you remember! before we lived in fear of the police ticketing us for being at the park after sunset? do you remember!!! here i am again. alone late at night and drowning in drones. i have finished the last songs, bounced them to cassette to engineer some lo-fi glory, and i now present them to you, dear listener, in the utmost humility - for i walked away from too many projects and i have turned down too many friends to fold now.</p><p>- - - - - - - - - -</p><p>1. northern illinois</p><p>  i. wastes of the north</p><p>  ii. procession of the hauntologists</p><p>  iii. deed of the drones</p><p>  iv. tears of the space cowboy (w/ kevin, dorian & arthur)</p><p>  v. song of the cicada</p><p>2. we failed</p><p>3. january 1st, 1970 + zero gmt</p><p>- - - - - - - - - - </p>",
@@ -1658,6 +3387,43 @@ export var discography = [
                 "id": "242b05fcfc8f25e3ed56615e1be314a2"
             }
         ],
+        "streams": [
+            {
+                "platform": "Amazon",
+                "url": "https://www.amazon.com/music/player/albums/B08XM13BM7",
+                "id": "a04515a65150f18bbe6f17b55859dea7"
+            },
+            {
+                "platform": "Apple Music",
+                "url": "https://music.apple.com/us/album/blue-the-most-celestial-color/1547708931",
+                "id": "7148f49960e3b3a7f999ea287c11b7b0"
+            },
+            {
+                "platform": "Bandcamp",
+                "url": "https://northerninformation.bandcamp.com/album/blue-the-most-celestial-color",
+                "id": "b1a4a03d9f82301e248ac8595c34f0ae"
+            },
+            {
+                "platform": "Deezer",
+                "url": "https://www.deezer.com/us/album/611728452",
+                "id": "35fa0509ef293b8e04818f9b32d5af76"
+            },
+            {
+                "platform": "iHeartRadio",
+                "url": "https://www.iheart.com/artist/northern-information-43479567/albums/blue-the-most-celestial-color-277686089/",
+                "id": "3df65782b0b694253fedb76ead7ef802"
+            },
+            {
+                "platform": "Spotify",
+                "url": "https://open.spotify.com/album/4NQk9Chnj4dm5JpIO5ME2x",
+                "id": "819db9cfc613b7ab9fc4972ed9348abe"
+            },
+            {
+                "platform": "YouTube",
+                "url": "https://www.youtube.com/watch?v=QKyfbqzP6mU&list=OLAK5uy_lsTxpyQscjNtjP-88YpeFTUyqUPzLTHdg",
+                "id": "3ba2a0f0b9510a2f5a8b0c069dbdb88a"
+            }
+        ],
         "notes": "<p>- - - - - - - - - -</p><p>chapter ii</p><p>- - - - - - - - - -</p><p>you are in medias res - i know your time is brief so here is what you need to know: i have just released a new album entitled 'blue, the most celestial color'. you can listen and download it above.</p><p>- - - - - - - - - -</p><p>1. music for forests of childhood</p><p>2. rainbow table</p><p>  i. textbook sql injection</p><p>  ii. don quixote</p><p>  iii. icebreaker / rave</p><p>3. \u0391\u0399\u0393\u0391\u0399\u0399\u03a3</p><p>4. zombie poison</p><p>5. intermission</p><p>6. the cicada must sing (sleepy brit)</p><p>7. four mile crib</p><p>8. ICD-10 Z73.0</p><p>- - - - - - - - - -</p>",
         "credits": "<p>written & recorded by tyler etters from december 2012 through june 2013 at endless field studios. featuring arthur zdrinc on rainbow table.</p>",
         "project_slug": "tyler-etters-and-the-northern-information-movement",
@@ -1687,6 +3453,43 @@ export var discography = [
                 "title": "generative",
                 "length": "00:15:00",
                 "id": "cc4bdc3448778ebd3a2bd2cd9fe1800d"
+            }
+        ],
+        "streams": [
+            {
+                "platform": "Amazon",
+                "url": "https://www.amazon.com/music/player/albums/B08XM564ND",
+                "id": "22f3ad0304ee67ec1a1dee2948b47d4b"
+            },
+            {
+                "platform": "Apple Music",
+                "url": "https://music.apple.com/us/album/the-geometrie-of-our-lost-cause-ep/1547738031",
+                "id": "3ff5f153d12107ec6f3323787c66f58a"
+            },
+            {
+                "platform": "Bandcamp",
+                "url": "https://northerninformation.bandcamp.com/album/the-geometrie-of-our-lost-cause",
+                "id": "d38be9d8f0eea13e4f5d1b1804588ca7"
+            },
+            {
+                "platform": "Deezer",
+                "url": "https://www.deezer.com/us/album/611501802",
+                "id": "f69d0fa1644f11a5097401f7a67e08cd"
+            },
+            {
+                "platform": "iHeartRadio",
+                "url": "https://www.iheart.com/artist/northern-information-43479567/albums/the-geometrie-of-our-lost-cause-277678240/",
+                "id": "65b5c462bb252bba83794351c4f88d4f"
+            },
+            {
+                "platform": "Spotify",
+                "url": "https://open.spotify.com/album/4RQ26hIooZ0tS7fwVq2XiV",
+                "id": "37ac3a9aaa8c32f628007e1b299637a3"
+            },
+            {
+                "platform": "YouTube",
+                "url": "https://www.youtube.com/watch?v=LngaFKfwFOQ&list=OLAK5uy_l6JrOwqHnZsbkyY8FmSyaU74qRxSEJ0s8",
+                "id": "1f1046c318b5db8ef8d531ee77bfa271"
             }
         ],
         "notes": "<p>- - - - - - - - - -</p><p>chapter i</p><p>- - - - - - - - - -</p><p>1. immemorial</p><p>  i. the forgotten distance</p><p>  ii. time slopes</p><p>  iii. by the train tracks (w/ arthur)</p><p>  iv. hazey power plant, 1001 drones (for paul)</p><p>  v. at another working gate</p><p>2. generative</p><p>- - - - - - - - - -</p>",
