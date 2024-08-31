@@ -9,1135 +9,1323 @@ var discography = [
         "format": "Digital",
         "role": "Principal Musician",
         "label": "Intertext",
-        "mp3": false,
+        "mp3": true,
         "wav": false,
         "tracks": [
             {
                 "number": 1,
                 "title": "Beta Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/01-beta-cancri.mp3",
                 "id": "10f386239aa42c4656a5d96a6ef98fc9"
             },
             {
                 "number": 2,
                 "title": "Delta Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/02-delta-cancri.mp3",
                 "id": "819a09373a09a4c804d5fc9b09f043db"
             },
             {
                 "number": 3,
                 "title": "Iota Cancri A",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/03-iota-cancri-a.mp3",
                 "id": "a59cbf4e387abdf379c9a96743138bba"
             },
             {
                 "number": 4,
                 "title": "Alpha Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/04-alpha-cancri.mp3",
                 "id": "c6895adfa84d406546d9204b75d04df3"
             },
             {
                 "number": 5,
                 "title": "Gamma Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/05-gamma-cancri.mp3",
                 "id": "83bd3824bb8fc55f0ef690e9f986a6de"
             },
             {
                 "number": 6,
                 "title": "Zeta Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/06-zeta-cancri.mp3",
                 "id": "7715f2e3506418b1d9ef9098d15bf570"
             },
             {
                 "number": 7,
                 "title": "HD 71115",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/07-hd-71115.mp3",
                 "id": "e1dde5def3ba5d771d0cdf5d5ecc586d"
             },
             {
                 "number": 8,
                 "title": "8 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/08-8-cancri.mp3",
                 "id": "6b052ef368bfb8b00527a45fde6e9bec"
             },
             {
                 "number": 9,
                 "title": "Chi Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/09-chi-cancri.mp3",
                 "id": "ad9551cb14e5400fe72dca09038bf435"
             },
             {
                 "number": 10,
                 "title": "Xi Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/10-xi-cancri.mp3",
                 "id": "b22757a074bd26b612631281ddf6bcbe"
             },
             {
                 "number": 11,
                 "title": "Omicron1 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/11-omicron1-cancri.mp3",
                 "id": "516e728b79630fa32499e3c31abd8f55"
             },
             {
                 "number": 12,
                 "title": "Rho2 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/12-rho2-cancri.mp3",
                 "id": "c45121647f642abf45a81f4b6e87a8c6"
             },
             {
                 "number": 13,
                 "title": "Sigma3 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/13-sigma3-cancri.mp3",
                 "id": "90b508a35afc1fa6f6ebff92ef7e5eab"
             },
             {
                 "number": 14,
                 "title": "Kappa Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/14-kappa-cancri.mp3",
                 "id": "a34b08406f3a5ac50b0346590656fe55"
             },
             {
                 "number": 15,
                 "title": "Mu2 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/15-mu2-cancri.mp3",
                 "id": "7847d6dd26e5f5fc2c83a8426e872177"
             },
             {
                 "number": 16,
                 "title": "Theta Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/16-theta-cancri.mp3",
                 "id": "d2b18ce614d3b4afef9eac3388f20318"
             },
             {
                 "number": 17,
                 "title": "Eta Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/17-eta-cancri.mp3",
                 "id": "baa6b39b09dd5822634d96a49fe48ec0"
             },
             {
                 "number": 18,
                 "title": "82 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/18-82-cancri.mp3",
                 "id": "10c611016ae52e491c9b5cda75e4049b"
             },
             {
                 "number": 19,
                 "title": "57 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/19-57-cancri.mp3",
                 "id": "b44957996442d013eff5723d822a1e27"
             },
             {
                 "number": 20,
                 "title": "Tau Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/20-tau-cancri.mp3",
                 "id": "5f4239a8765684be95575e3a5f2be52b"
             },
             {
                 "number": 21,
                 "title": "60 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/21-60-cancri.mp3",
                 "id": "ed1751fe6d98612e1cdb2ca8fcebca1c"
             },
             {
                 "number": 22,
                 "title": "Sigma2 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/22-sigma2-cancri.mp3",
                 "id": "18f2da2d3f39cfccae8c8c138f09f3ed"
             },
             {
                 "number": 23,
                 "title": "Nu Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/23-nu-cancri.mp3",
                 "id": "3caf0e1021a64ded12c7b28beecd3237"
             },
             {
                 "number": 24,
                 "title": "27 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/24-27-cancri.mp3",
                 "id": "aad7b09117c59a7d7ed7d9ea4b47453d"
             },
             {
                 "number": 25,
                 "title": "Phi1 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/25-phi1-cancri.mp3",
                 "id": "67727a1e0d3248f0d714429006a323d9"
             },
             {
                 "number": 26,
                 "title": "3 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/26-3-cancri.mp3",
                 "id": "f05e86ede50ef8611142b03718b6cf38"
             },
             {
                 "number": 27,
                 "title": "15 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/27-15-cancri.mp3",
                 "id": "d397064427edda2dade36dc3b7ecf258"
             },
             {
                 "number": 28,
                 "title": "45 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/28-45-cancri.mp3",
                 "id": "b880259f24e4e71e889f8019d62d50a7"
             },
             {
                 "number": 29,
                 "title": "49 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/29-49-cancri.mp3",
                 "id": "ee3003021ca89da536634a218abb74e3"
             },
             {
                 "number": 30,
                 "title": "Sigma1 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/30-sigma1-cancri.mp3",
                 "id": "0c946ae07a2b0cfabeecaf7e339e147e"
             },
             {
                 "number": 31,
                 "title": "Omicron2 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/31-omicron2-cancri.mp3",
                 "id": "03cc88c6c8a0079c837c619a56302e58"
             },
             {
                 "number": 32,
                 "title": "Upsilon1 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/32-upsilon1-cancri.mp3",
                 "id": "1e5b7974d09f7b6dabc24aed194523b5"
             },
             {
                 "number": 33,
                 "title": "Psi2 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/33-psi2-cancri.mp3",
                 "id": "f355c30d843c685ac1c1d061c652ae71"
             },
             {
                 "number": 34,
                 "title": "1 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/34-1-cancri.mp3",
                 "id": "b1ded51cec7729d4d93588ebf6199d42"
             },
             {
                 "number": 35,
                 "title": "HD 69994",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/35-hd-69994.mp3",
                 "id": "1e0b0b2a5561fc5802a8cb9f12a00489"
             },
             {
                 "number": 36,
                 "title": "HD 77445",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/36-hd-77445.mp3",
                 "id": "d033cae90c5f8da6de8e7e3a028be282"
             },
             {
                 "number": 37,
                 "title": "Omega1 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/37-omega1-cancri.mp3",
                 "id": "12b85e5683fdcfffd1ee55aafab17951"
             },
             {
                 "number": 38,
                 "title": "50 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/38-50-cancri.mp3",
                 "id": "1f27f6816ed351a035a917c250805211"
             },
             {
                 "number": 39,
                 "title": "66 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/39-66-cancri.mp3",
                 "id": "a7e662cd06ecdb74f4560ddabb458e45"
             },
             {
                 "number": 40,
                 "title": "HD 72945",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/40-hd-72945.mp3",
                 "id": "fff8b8d90b80fe4e3a7c8a83a0e60f33"
             },
             {
                 "number": 41,
                 "title": "Lambda Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/41-lambda-cancri.mp3",
                 "id": "a4fb48dd1a07366ebb385b67b06f2b30"
             },
             {
                 "number": 42,
                 "title": "36 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/42-36-cancri.mp3",
                 "id": "4befa72d83ffcdb9217fc38d76aa623c"
             },
             {
                 "number": 43,
                 "title": "20 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/43-20-cancri.mp3",
                 "id": "9e6173fcf3239e2001d115f5cb68cbac"
             },
             {
                 "number": 44,
                 "title": "29 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/44-29-cancri.mp3",
                 "id": "65792339f43f268fae3372b68e6d1ec7"
             },
             {
                 "number": 45,
                 "title": "75 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/45-75-cancri.mp3",
                 "id": "f68366beda0b9c5547babbc339c61502"
             },
             {
                 "number": 46,
                 "title": "1 LMi",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/46-1-lmi.mp3",
                 "id": "069fd8b5a465d12db60ed4d8f9753587"
             },
             {
                 "number": 47,
                 "title": "55 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/47-55-cancri.mp3",
                 "id": "516213b02e9a71a4874240117c22c5ce"
             },
             {
                 "number": 48,
                 "title": "Mu1 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/48-mu1-cancri.mp3",
                 "id": "edd78a209b499c9b5f27252cc97a2a0c"
             },
             {
                 "number": 49,
                 "title": "5 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/49-5-cancri.mp3",
                 "id": "e5cfcb0f55999a729c84d94e485e0d19"
             },
             {
                 "number": 50,
                 "title": "HD 68461",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/50-hd-68461.mp3",
                 "id": "bda9cac84a32562359713b49542101ee"
             },
             {
                 "number": 51,
                 "title": "HD 72617",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/51-hd-72617.mp3",
                 "id": "a13076e7be6206bc9c352b43cd95592e"
             },
             {
                 "number": 52,
                 "title": "79 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/52-79-cancri.mp3",
                 "id": "b7f57bff56d7d7e3dbca500b437b6449"
             },
             {
                 "number": 53,
                 "title": "RS Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/53-rs-cancri.mp3",
                 "id": "a55dc5696b6f92ee70da6837efe1cdfc"
             },
             {
                 "number": 54,
                 "title": "HD 65257",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/54-hd-65257.mp3",
                 "id": "7a63dc19b4058a285adfc78d18a76a32"
             },
             {
                 "number": 55,
                 "title": "HD 65522",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/55-hd-65522.mp3",
                 "id": "1a38d7ccbce77c87d6ada29be05bcc6d"
             },
             {
                 "number": 56,
                 "title": "28 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/56-28-cancri.mp3",
                 "id": "b8d696391fd7c29a3e34cff1fb30bc54"
             },
             {
                 "number": 57,
                 "title": "67 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/57-67-cancri.mp3",
                 "id": "4a85651af3ff753d5b1e2cc0af43ff10"
             },
             {
                 "number": 58,
                 "title": "HD 68099",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/58-hd-68099.mp3",
                 "id": "241adac4ddc0471e72ce0a17e1fc55cf"
             },
             {
                 "number": 59,
                 "title": "21 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/59-21-cancri.mp3",
                 "id": "0edf9b58911c2529dcc49b557a4544e8"
             },
             {
                 "number": 60,
                 "title": "25 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/60-25-cancri.mp3",
                 "id": "976484ebe83de682026d2fdae7ffc9bb"
             },
             {
                 "number": 61,
                 "title": "46 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/61-46-cancri.mp3",
                 "id": "bf313140533fd38f151ca6c1610336fe"
             },
             {
                 "number": 62,
                 "title": "Phi2 Cancri A",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/62-phi2-cancri-a.mp3",
                 "id": "5cb2fb58f341cddbc3926d73deda6376"
             },
             {
                 "number": 63,
                 "title": "HD 80546",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/63-hd-80546.mp3",
                 "id": "02e8b32f8d71958e6d73c091447ccc31"
             },
             {
                 "number": 64,
                 "title": "HD 76508",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/64-hd-76508.mp3",
                 "id": "817af3488455e5e41adda5cf64db7190"
             },
             {
                 "number": 65,
                 "title": "Phi2 Cancri B",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/65-phi2-cancri-b.mp3",
                 "id": "181392406aa309406b820563f0de6f79"
             },
             {
                 "number": 66,
                 "title": "HD 76629",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/66-hd-76629.mp3",
                 "id": "5af38b64ba207ec2db370fa1807dc891"
             },
             {
                 "number": 67,
                 "title": "HD 66552",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/67-hd-66552.mp3",
                 "id": "21eab48c0da2ab67fed1095afc15ab09"
             },
             {
                 "number": 68,
                 "title": "HD 66684",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/68-hd-66684.mp3",
                 "id": "de13659301aeb58f10e240e8c489b37b"
             },
             {
                 "number": 69,
                 "title": "4 LMi",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/69-4-lmi.mp3",
                 "id": "d1dbba8c31d18f5793c874a57ac5b73f"
             },
             {
                 "number": 70,
                 "title": "HD 67959",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/70-hd-67959.mp3",
                 "id": "79f878172b9f37058acf4115eb93111b"
             },
             {
                 "number": 71,
                 "title": "12 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/71-12-cancri.mp3",
                 "id": "50724062a559d541d323f62c9e1292e7"
             },
             {
                 "number": 72,
                 "title": "53 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/72-53-cancri.mp3",
                 "id": "4e4613b70cf64f22c4c72ada5ab896ba"
             },
             {
                 "number": 73,
                 "title": "61 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/73-61-cancri.mp3",
                 "id": "f92a8adb5ee98e7a88c755d8c1e22a45"
             },
             {
                 "number": 74,
                 "title": "HD 72505",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/74-hd-72505.mp3",
                 "id": "d2ba396b508c63e90790b5cad9a78c1e"
             },
             {
                 "number": 75,
                 "title": "HD 69478",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/75-hd-69478.mp3",
                 "id": "33d88ce895389c606276bf25a2a752fe"
             },
             {
                 "number": 76,
                 "title": "Epsilon Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/76-epsilon-cancri.mp3",
                 "id": "5f48d73cc7bb4c96dd242ff5862dd749"
             },
             {
                 "number": 77,
                 "title": "HD 65735",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/77-hd-65735.mp3",
                 "id": "22d6e6b02469a3a18567e6698eb10a12"
             },
             {
                 "number": 78,
                 "title": "FZ Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/78-fz-cancri.mp3",
                 "id": "509ec9da9b1e5e5a0e51aadee881f855"
             },
             {
                 "number": 79,
                 "title": "4 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/79-4-cancri.mp3",
                 "id": "3ae5530af49bca9c49682d01843200d4"
             },
             {
                 "number": 80,
                 "title": "HD 72943",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/80-hd-72943.mp3",
                 "id": "3408510501537009ed6449fbd967b016"
             },
             {
                 "number": 81,
                 "title": "HD 65757",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/81-hd-65757.mp3",
                 "id": "eb07b3a050074f5155adf398b0d8c442"
             },
             {
                 "number": 82,
                 "title": "Upsilon2 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/82-upsilon2-cancri.mp3",
                 "id": "9e56f2391363ca5c879f59674225ea5c"
             },
             {
                 "number": 83,
                 "title": "54 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/83-54-cancri.mp3",
                 "id": "0eeb58a36f426a4a8ce29f3e2797315b"
             },
             {
                 "number": 84,
                 "title": "HD 68776",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/84-hd-68776.mp3",
                 "id": "a4c9176dfee754ca5d36c6ec64fc80d4"
             },
             {
                 "number": 85,
                 "title": "39 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/85-39-cancri.mp3",
                 "id": "65fbe942901042f0ec74d91999ed5c77"
             },
             {
                 "number": 86,
                 "title": "HD 78175",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/86-hd-78175.mp3",
                 "id": "fcd20c2106b2e43b5892ad457ed23e18"
             },
             {
                 "number": 87,
                 "title": "X Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/87-x-cancri.mp3",
                 "id": "dc1346b88ebce58852e646a5ce2cb2d5"
             },
             {
                 "number": 88,
                 "title": "HD 80064",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/88-hd-80064.mp3",
                 "id": "89b02ca6efd7c7ff3a89d88871789464"
             },
             {
                 "number": 89,
                 "title": "HD 75469",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/89-hd-75469.mp3",
                 "id": "bb2ba887e950d52f977b60c1b037667a"
             },
             {
                 "number": 90,
                 "title": "HD 69629",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/90-hd-69629.mp3",
                 "id": "890fc8cce1b465071112e31abf466664"
             },
             {
                 "number": 91,
                 "title": "HD 73710",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/91-hd-73710.mp3",
                 "id": "be8eedc49ecae38e1faf1f1bbe07e0b4"
             },
             {
                 "number": 92,
                 "title": "Psi1 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/92-psi1-cancri.mp3",
                 "id": "721a436b78c80df26d8c60c0efd8bade"
             },
             {
                 "number": 93,
                 "title": "HD 73599",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/93-hd-73599.mp3",
                 "id": "6bfaebfab7af25b79aa069b1b7a5a0f4"
             },
             {
                 "number": 94,
                 "title": "HD 77660",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/94-hd-77660.mp3",
                 "id": "9a0a913da610dcbe63f6cf61374d1730"
             },
             {
                 "number": 95,
                 "title": "HD 67542",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/95-hd-67542.mp3",
                 "id": "f6ace911ac4f46afc6c7d857eb72f401"
             },
             {
                 "number": 96,
                 "title": "HD 68703",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/96-hd-68703.mp3",
                 "id": "a47d186fc363a4fbb8ec8769e19f31c8"
             },
             {
                 "number": 97,
                 "title": "HD 78234",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/97-hd-78234.mp3",
                 "id": "3acc9c7853462289eb85cf733386162e"
             },
             {
                 "number": 98,
                 "title": "34 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/98-34-cancri.mp3",
                 "id": "99f166c132e08cb456836da023c76895"
             },
             {
                 "number": 99,
                 "title": "HD 78661",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/99-hd-78661.mp3",
                 "id": "05120b840161685165513d214da72574"
             },
             {
                 "number": 100,
                 "title": "HD 79248",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/100-hd-79248.mp3",
                 "id": "d0845fa682ebf6dad405399486a46538"
             },
             {
                 "number": 101,
                 "title": "HD 76908",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/101-hd-76908.mp3",
                 "id": "dad3f993867298f54da161501e35c9b4"
             },
             {
                 "number": 102,
                 "title": "81 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/102-81-cancri.mp3",
                 "id": "e8087b8a8c221ff015dd9f60952b0e4f"
             },
             {
                 "number": 103,
                 "title": "HD 72115",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/103-hd-72115.mp3",
                 "id": "3f682996cd0d52b30fcaa9c46fbaf3bf"
             },
             {
                 "number": 104,
                 "title": "24 Cancri A",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/104-24-cancri-a.mp3",
                 "id": "d5c3a1516204c3dd55c27296ea077709"
             },
             {
                 "number": 105,
                 "title": "37 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/105-37-cancri.mp3",
                 "id": "c58ef55be758bc0004e119178cc220ee"
             },
             {
                 "number": 106,
                 "title": "35 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/106-35-cancri.mp3",
                 "id": "f7298c89c9d7ebd52ea7e44038d2cb24"
             },
             {
                 "number": 107,
                 "title": "Iota Cancri B",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/107-iota-cancri-b.mp3",
                 "id": "f37a651752fa087bc131e59dcf698a93"
             },
             {
                 "number": 108,
                 "title": "40 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/108-40-cancri.mp3",
                 "id": "91924a596cbfcedc2b03265fbe35a4a7"
             },
             {
                 "number": 109,
                 "title": "83 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/109-83-cancri.mp3",
                 "id": "4e5f55a598944a003b5225318054b5c3"
             },
             {
                 "number": 110,
                 "title": "38 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/110-38-cancri.mp3",
                 "id": "47916301033dbfdf3f5175f7a63b4346"
             },
             {
                 "number": 111,
                 "title": "70 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/111-70-cancri.mp3",
                 "id": "ca7dbb433c7a16c372f454e19c34198a"
             },
             {
                 "number": 112,
                 "title": "2 LMi",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/112-2-lmi.mp3",
                 "id": "9b09ef727ef5cab5e9ac0df3c035e414"
             },
             {
                 "number": 113,
                 "title": "3 LMi",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/113-3-lmi.mp3",
                 "id": "df2124330a72d4abc9fce8e992d7b3b1"
             },
             {
                 "number": 114,
                 "title": "EP Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/114-ep-cancri.mp3",
                 "id": "604302ef37d8ad8ce0295180751e1134"
             },
             {
                 "number": 115,
                 "title": "42 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/115-42-cancri.mp3",
                 "id": "54537c3ecc962648db0c3822ba397801"
             },
             {
                 "number": 116,
                 "title": "7 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/116-7-cancri.mp3",
                 "id": "b9e717580de5bde3eeb6c9a8149c3d7d"
             },
             {
                 "number": 117,
                 "title": "80 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/117-80-cancri.mp3",
                 "id": "c4b58fcc9e8d92d906e4f510bad5726f"
             },
             {
                 "number": 118,
                 "title": "11 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/118-11-cancri.mp3",
                 "id": "fbb3f8bebdfe6f1ff5a415ada84d79ca"
             },
             {
                 "number": 119,
                 "title": "78 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/119-78-cancri.mp3",
                 "id": "a5c03813ab48fe5ab9a1270aa67f1fc8"
             },
             {
                 "number": 120,
                 "title": "VZ Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/120-vz-cancri.mp3",
                 "id": "68122f27c9825082d7b9614dd685e4fb"
             },
             {
                 "number": 121,
                 "title": "ADS 7284",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/121-ads-7284.mp3",
                 "id": "eacdf439da701397dc0b49b0576beae8"
             },
             {
                 "number": 122,
                 "title": "52 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/122-52-cancri.mp3",
                 "id": "d8f6dacb86b4252703441515ad1e7d66"
             },
             {
                 "number": 123,
                 "title": "68 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/123-68-cancri.mp3",
                 "id": "272adc5cb9e0b2ade4622208d374e8eb"
             },
             {
                 "number": 124,
                 "title": "V Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/124-v-cancri.mp3",
                 "id": "06badec2a4683604660d5110eeebda01"
             },
             {
                 "number": 125,
                 "title": "T Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/125-t-cancri.mp3",
                 "id": "ed6bcda86f6b19495b150c4513dff619"
             },
             {
                 "number": 126,
                 "title": "BU Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/126-bu-cancri.mp3",
                 "id": "6b4284b8c4a9625e2125805dd5331c51"
             },
             {
                 "number": 127,
                 "title": "BN Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/127-bn-cancri.mp3",
                 "id": "bd10fcc409d9e570bb7d44f63cf86888"
             },
             {
                 "number": 128,
                 "title": "HD 72490",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/128-hd-72490.mp3",
                 "id": "33d203b01e34b915365f26787b79c6cc"
             },
             {
                 "number": 129,
                 "title": "24 Cancri B",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/129-24-cancri-b.mp3",
                 "id": "dde866149ff447525a8efd027e1d41d8"
             },
             {
                 "number": 130,
                 "title": "BY Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/130-by-cancri.mp3",
                 "id": "00d8d801b025d0a4ddfa2ebd35c21d28"
             },
             {
                 "number": 131,
                 "title": "HD 74028",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/131-hd-74028.mp3",
                 "id": "4f23d3bb78074c28f28f9ee6cb43d447"
             },
             {
                 "number": 132,
                 "title": "44 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/132-44-cancri.mp3",
                 "id": "b762a5b421d2b5c78b5aa387954f8738"
             },
             {
                 "number": 133,
                 "title": "HD 79498",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/133-hd-79498.mp3",
                 "id": "7182e8ca117f683fc0ac1098995e40a0"
             },
             {
                 "number": 134,
                 "title": "71 Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/134-71-cancri.mp3",
                 "id": "79c288826353c5cfa6a9bd84cb7a60cf"
             },
             {
                 "number": 135,
                 "title": "CY Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/135-cy-cancri.mp3",
                 "id": "57301bdc4b6b817f21b3b84382d4c205"
             },
             {
                 "number": 136,
                 "title": "BQ Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/136-bq-cancri.mp3",
                 "id": "dcf28bac9f2e7dc8338b9650b489ffa3"
             },
             {
                 "number": 137,
                 "title": "HD 73534",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/137-hd-73534.mp3",
                 "id": "9c71d4139f2c69e5ffeb61edd5203643"
             },
             {
                 "number": 138,
                 "title": "BR Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/138-br-cancri.mp3",
                 "id": "25dac6b951a566824923d387801df99f"
             },
             {
                 "number": 139,
                 "title": "S Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/139-s-cancri.mp3",
                 "id": "2dd8008cc96aa9aaf08025136d0f9f2f"
             },
             {
                 "number": 140,
                 "title": "BW Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/140-bw-cancri.mp3",
                 "id": "e260e78b11388fa3bd091b8c8ac45f1e"
             },
             {
                 "number": 141,
                 "title": "TW Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/141-tw-cancri.mp3",
                 "id": "d2afe3ded8b07dd34c1ef589ac1dd7da"
             },
             {
                 "number": 142,
                 "title": "U Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/142-u-cancri.mp3",
                 "id": "186bc3aaf6d0607ed806c50d1b76fb40"
             },
             {
                 "number": 143,
                 "title": "BS Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/143-bs-cancri.mp3",
                 "id": "41bfc1946c4d0b900134e44da83d5dac"
             },
             {
                 "number": 144,
                 "title": "R Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/144-r-cancri.mp3",
                 "id": "1639dc7dd3070cdde53d24838024f77e"
             },
             {
                 "number": 145,
                 "title": "BV Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/145-bv-cancri.mp3",
                 "id": "ec9fe95337d8f701503145d6c370cbea"
             },
             {
                 "number": 146,
                 "title": "RZ Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/146-rz-cancri.mp3",
                 "id": "9992f33f43c2dff36c8f9d35ab1f7023"
             },
             {
                 "number": 147,
                 "title": "HD 74721",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/147-hd-74721.mp3",
                 "id": "0404b78f3ef40211f8c541c82550dc2c"
             },
             {
                 "number": 148,
                 "title": "HD 77065",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/148-hd-77065.mp3",
                 "id": "624a70200b98db253f49eb1c8d04a30f"
             },
             {
                 "number": 149,
                 "title": "UU Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/149-uu-cancri.mp3",
                 "id": "79d461deeb362d7c3bf46b7f9e7b56d2"
             },
             {
                 "number": 150,
                 "title": "HIP 41378",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/150-hip-41378.mp3",
                 "id": "93adb80f1575f9aad4ea6983987db4a7"
             },
             {
                 "number": 151,
                 "title": "RX Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/151-rx-cancri.mp3",
                 "id": "7640d160e73916bb6123876ea5fb1810"
             },
             {
                 "number": 152,
                 "title": "HD 80653",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/152-hd-80653.mp3",
                 "id": "29c1108c76c7fd0a7b00a9db9e6244ca"
             },
             {
                 "number": 153,
                 "title": "WY Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/153-wy-cancri.mp3",
                 "id": "7bbd4755f51dfe8404a0c72259df83fb"
             },
             {
                 "number": 154,
                 "title": "TX Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/154-tx-cancri.mp3",
                 "id": "47b62a3a62b929f6b852db0567a5dbaf"
             },
             {
                 "number": 155,
                 "title": "RU Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/155-ru-cancri.mp3",
                 "id": "9c6d98e8ff92cdbf3457e56f4aaed228"
             },
             {
                 "number": 156,
                 "title": "TU Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/156-tu-cancri.mp3",
                 "id": "00901ecda23438ce052643b227fa5323"
             },
             {
                 "number": 157,
                 "title": "SY Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/157-sy-cancri.mp3",
                 "id": "ee99c8638e19347e2bb153f6f17cee96"
             },
             {
                 "number": 158,
                 "title": "EX Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/158-ex-cancri.mp3",
                 "id": "5df1f995a975dbae9fe8d328d9089bc3"
             },
             {
                 "number": 159,
                 "title": "TT Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/159-tt-cancri.mp3",
                 "id": "3857a6a8f59d0a2f7feaf2d849b5a0d3"
             },
             {
                 "number": 160,
                 "title": "ES Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/160-es-cancri.mp3",
                 "id": "dc84523dd7413af0dc328a3e23abe9ea"
             },
             {
                 "number": 161,
                 "title": "HAT-P-31",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/161-hat-p-31.mp3",
                 "id": "c87e22f971ab08016114b5ef710f1c68"
             },
             {
                 "number": 162,
                 "title": "CU Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/162-cu-cancri.mp3",
                 "id": "dffd99ba924902a01978b533e74827b1"
             },
             {
                 "number": 163,
                 "title": "WASP-65",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/163-wasp-65.mp3",
                 "id": "7666f89180c5310edc6eebdddaebe835"
             },
             {
                 "number": 164,
                 "title": "SS Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/164-ss-cancri.mp3",
                 "id": "4d96bfbac6c51729cd1ecfe4dcde994a"
             },
             {
                 "number": 165,
                 "title": "EW Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/165-ew-cancri.mp3",
                 "id": "f0da3430272dfcadcb9e06cdc343df8e"
             },
             {
                 "number": 166,
                 "title": "HV Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/166-hv-cancri.mp3",
                 "id": "8dccc4c465a039be7a99f6af986380c0"
             },
             {
                 "number": 167,
                 "title": "EV Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/167-ev-cancri.mp3",
                 "id": "953548f031aaf69274bfc147c89bc7f8"
             },
             {
                 "number": 168,
                 "title": "AD Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/168-ad-cancri.mp3",
                 "id": "a9929b67b74cd2e53a1481503eb0810c"
             },
             {
                 "number": 169,
                 "title": "Gliese 299",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/169-gliese-299.mp3",
                 "id": "b6df5309201ab821b92c1d17552ded6f"
             },
             {
                 "number": 170,
                 "title": "HAT-P-43",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/170-hat-p-43.mp3",
                 "id": "fffb9055f44ff878f18180471f0296e0"
             },
             {
                 "number": 171,
                 "title": "AH Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/171-ah-cancri.mp3",
                 "id": "7fb34d829d22db00566d82fa9d00a2b5"
             },
             {
                 "number": 172,
                 "title": "HU Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/172-hu-cancri.mp3",
                 "id": "0bb4bbc6a15a8833f2c221def4c96412"
             },
             {
                 "number": 173,
                 "title": "AC Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/173-ac-cancri.mp3",
                 "id": "e9829d7830e768ca66608f5d1281e13a"
             },
             {
                 "number": 174,
                 "title": "AC Cancri G 9-38",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/174-ac-cancri-g-9-38.mp3",
                 "id": "32dcdddace8168d65d33319dab792633"
             },
             {
                 "number": 175,
                 "title": "YBP 1194",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/175-ybp-1194.mp3",
                 "id": "3f021d66248d1b31cd2ab3f2d47cb8e8"
             },
             {
                 "number": 176,
                 "title": "DX Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/176-dx-cancri.mp3",
                 "id": "27d699315032abcea2bf41afe1447343"
             },
             {
                 "number": 177,
                 "title": "AT Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/177-at-cancri.mp3",
                 "id": "0f6eaec5ec72dc5ce351d5dbfc95f318"
             },
             {
                 "number": 178,
                 "title": "LHS 2090",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/178-lhs-2090.mp3",
                 "id": "5bd463ceb96013f99ac66ab18e116695"
             },
             {
                 "number": 179,
                 "title": "YZ Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/179-yz-cancri.mp3",
                 "id": "b4cd6f587cd7a9f401836dcdcc51c453"
             },
             {
                 "number": 180,
                 "title": "EG Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/180-eg-cancri.mp3",
                 "id": "9d97fd5a5ad91a16dcd847c1c07875ac"
             },
             {
                 "number": 181,
                 "title": "DW Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/181-dw-cancri.mp3",
                 "id": "668578e87631ab56b96350789c1100a5"
             },
             {
                 "number": 182,
                 "title": "AZ Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/182-az-cancri.mp3",
                 "id": "ee2df9af767f3bf0c7986eea880bf7f7"
             },
             {
                 "number": 183,
                 "title": "GY Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/183-gy-cancri.mp3",
                 "id": "32af67c10ee0fe78aef6b8ed1a29eb87"
             },
             {
                 "number": 184,
                 "title": "AR Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/184-ar-cancri.mp3",
                 "id": "a487a7d0c6bace8dd0756efc2ad94930"
             },
             {
                 "number": 185,
                 "title": "RX J0806.3+1527",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/185-rx-j080631527.mp3",
                 "id": "1e4f923232b2b1a275ed93551d37048d"
             },
             {
                 "number": 186,
                 "title": "AK Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/186-ak-cancri.mp3",
                 "id": "950c0ea18467fafcd7dd558f9a9ba7f0"
             },
             {
                 "number": 187,
                 "title": "CC Cancri",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/187-cc-cancri.mp3",
                 "id": "400e3c2df11568aec633dc27828bdad4"
             },
             {
                 "number": 188,
                 "title": "PSR B0823+26",
                 "length": "00:00:36",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/188-psr-b082326.mp3",
                 "id": "fe9f31dfe5a26d0c1f6b0e1904e6afaa"
             }
         ],
@@ -1183,6 +1371,7 @@ var discography = [
         "project_slug": "they-became-what-they-beheld",
         "release_slug": "list-of-stars-in-cancer",
         "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/list-of-stars-in-cancer.jpg",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/list-of-stars-in-cancer-mp3.zip",
         "id": "e6f44232319b0dd9626e08ed278042dd"
     },
     {
@@ -1193,13 +1382,14 @@ var discography = [
         "format": "Digital",
         "role": "Principal Musician",
         "label": "Intertext",
-        "mp3": false,
+        "mp3": true,
         "wav": false,
         "tracks": [
             {
                 "number": 1,
                 "title": "Distance",
                 "length": "00:19:28",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/distance/01-distance.mp3",
                 "id": "a65d8ff9653b95518c38beb1e7d94a18"
             }
         ],
@@ -1245,6 +1435,7 @@ var discography = [
         "project_slug": "they-became-what-they-beheld",
         "release_slug": "distance",
         "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/distance/distance.jpg",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/distance/distance-mp3.zip",
         "id": "8b3b872e9e763cdd2b0f1160d4d92c3e"
     },
     {
@@ -1255,31 +1446,35 @@ var discography = [
         "format": "Digital",
         "role": "Principal Musician",
         "label": "Intertext",
-        "mp3": false,
+        "mp3": true,
         "wav": false,
         "tracks": [
             {
                 "number": 1,
                 "title": "Radio Free Albemuth",
                 "length": "00:01:34",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/radio-free-albemuth/01-radio-free-albemuth.mp3",
                 "id": "93a8397abcd2ee5006f4bcc1bb89a8e5"
             },
             {
                 "number": 1,
                 "title": "Exegesis",
                 "length": "00:12:15",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/radio-free-albemuth/01-exegesis.mp3",
                 "id": "7ce9b616144f9fa5e38289a2abf6bec8"
             },
             {
                 "number": 1,
                 "title": "Ichthys",
                 "length": "00:02:31",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/radio-free-albemuth/01-ichthys.mp3",
                 "id": "b665ddb05c0d717a59d2424cc76d98d6"
             },
             {
                 "number": 4,
                 "title": "Vast Active Living Intelligence System",
                 "length": "00:31:18",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/radio-free-albemuth/04-vast-active-living-intelligence-system.mp3",
                 "id": "961d0265109b2d11af8039f9400dd8c1"
             }
         ],
@@ -1325,6 +1520,7 @@ var discography = [
         "project_slug": "they-became-what-they-beheld",
         "release_slug": "radio-free-albemuth",
         "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/radio-free-albemuth/radio-free-albemuth.jpg",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/radio-free-albemuth/radio-free-albemuth-mp3.zip",
         "id": "98d9fdd5044c25d2156b67cc5ad582d0"
     },
     {
@@ -1335,13 +1531,14 @@ var discography = [
         "format": "Digital",
         "role": "Principal Musician",
         "label": "Intertext",
-        "mp3": false,
+        "mp3": true,
         "wav": false,
         "tracks": [
             {
                 "number": 1,
                 "title": "Rocket Summer",
                 "length": "00:30:42",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/rocket-summer/01-rocket-summer.mp3",
                 "id": "6c7af5ffec304e9076e093ccc60c37a1"
             }
         ],
@@ -1387,6 +1584,7 @@ var discography = [
         "project_slug": "they-became-what-they-beheld",
         "release_slug": "rocket-summer",
         "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/rocket-summer/rocket-summer.jpg",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/rocket-summer/rocket-summer-mp3.zip",
         "id": "1302633a2ff9e89c6f96bde5092ce75a"
     },
     {
@@ -1397,13 +1595,14 @@ var discography = [
         "format": "Digital",
         "role": "Principal Musician",
         "label": "Intertext",
-        "mp3": false,
+        "mp3": true,
         "wav": false,
         "tracks": [
             {
                 "number": 1,
                 "title": "Respect for the Medium",
                 "length": "00:22:49",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/respect-for-the-medium/01-respect-for-the-medium.mp3",
                 "id": "27c621894ea4988cfeff6e3dfa3406b9"
             }
         ],
@@ -1444,6 +1643,7 @@ var discography = [
         "project_slug": "they-became-what-they-beheld",
         "release_slug": "respect-for-the-medium",
         "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/respect-for-the-medium/respect-for-the-medium.jpg",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/respect-for-the-medium/respect-for-the-medium-mp3.zip",
         "id": "2202436a6149d3349db14ee394af4605"
     },
     {
@@ -1454,19 +1654,21 @@ var discography = [
         "format": "Digital",
         "role": "Principal Musician",
         "label": "Intertext",
-        "mp3": false,
+        "mp3": true,
         "wav": false,
         "tracks": [
             {
                 "number": 1,
                 "title": "This changes things",
                 "length": "00:11:07",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/ep3/01-this-changes-things.mp3",
                 "id": "d54a0b6c9e28ad784eea3340367834a1"
             },
             {
                 "number": 2,
                 "title": "Nothing is real anymore",
                 "length": "00:11:07",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/ep3/02-nothing-is-real-anymore.mp3",
                 "id": "578fa08628bc3fa4431215233e22cb40"
             }
         ],
@@ -1512,6 +1714,7 @@ var discography = [
         "project_slug": "they-became-what-they-beheld",
         "release_slug": "ep3",
         "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/ep3/ep3.jpg",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/ep3/ep3-mp3.zip",
         "id": "c7ee4757925b9b0c620503f1728b8921"
     },
     {
@@ -1684,19 +1887,21 @@ var discography = [
         "format": "Digital",
         "role": "Principal Musician",
         "label": "Intertext",
-        "mp3": false,
+        "mp3": true,
         "wav": false,
         "tracks": [
             {
                 "number": 1,
                 "title": "Things are different now",
                 "length": "00:10:12",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/ep2/01-things-are-different-now.mp3",
                 "id": "767ea89871f29bab164db0abc8672ac9"
             },
             {
                 "number": 2,
                 "title": "That was closer to then",
                 "length": "00:13:32",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/ep2/02-that-was-closer-to-then.mp3",
                 "id": "783052eebb0b68c10fbed5264de8721d"
             }
         ],
@@ -1742,6 +1947,7 @@ var discography = [
         "project_slug": "they-became-what-they-beheld",
         "release_slug": "ep2",
         "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/ep2/ep2.jpg",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/ep2/ep2-mp3.zip",
         "id": "bc5996397e7215650926b7f7ccc90645"
     },
     {
@@ -2499,19 +2705,21 @@ var discography = [
         "format": "Digital",
         "role": "Principal Musician",
         "label": "Intertext",
-        "mp3": false,
+        "mp3": true,
         "wav": false,
         "tracks": [
             {
                 "number": 1,
                 "title": "Everything is everywhere now",
                 "length": "00:09:01",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/ep1/01-everything-is-everywhere-now.mp3",
                 "id": "e00e0bca413fcdc2b4fd9e756a4743ec"
             },
             {
                 "number": 2,
                 "title": "Back when things made sense",
                 "length": "00:06:21",
+                "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/ep1/02-back-when-things-made-sense.mp3",
                 "id": "da62d9c2b17d61f7dbbb2cb8714ea63e"
             }
         ],
@@ -2557,6 +2765,7 @@ var discography = [
         "project_slug": "they-became-what-they-beheld",
         "release_slug": "ep1",
         "cover_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/ep1/ep1.jpg",
+        "mp3_url": "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/ep1/ep1-mp3.zip",
         "id": "427cc1165076ec9eaeb68f427ca0b04b"
     },
     {
