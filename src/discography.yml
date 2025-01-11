@@ -43,6 +43,8 @@
       url: https://stuxnet.me
     - platform: Untitled Stream
       url: https://untitled.stream/library/project/5Dni4VMX9Qyt1ZvokMYqq
+  notes: May we rave atop burning oil derricks... and sink into the sea.
+  credits: STUXNET is Tyler Etters.
 
 - title: List of Stars in Cancer
   project: They Became What They Beheld
@@ -1244,7 +1246,7 @@
       title: Supply Chain Attack Surface
       length: 00:02:14
     - number: 3
-      title: 'A White USB Drive With "HEXAGON" iStock Logo \\#1135496271'
+      title: 'A White USB Drive With "HEXAGON" iStock Logo #1135496271'
       length: 00:03:09
     - number: 4
       title: At Least One Reseller of Microsoft Cloud Services Was Compromised

@@ -25,7 +25,7 @@ special_slug_maps = {
 
 # there are some encoding issues with the # character
 special_title_maps = {
-  'A White USB Drive With "HEXAGON" iStock Logo \#1135496271': 'A White USB Drive With "HEXAGON" iStock Logo &num;1135496271'
+  'A White USB Drive With "HEXAGON" iStock Logo #1135496271': 'A White USB Drive With "HEXAGON" iStock Logo &num;1135496271'
 }
 
 def make_id(str):
