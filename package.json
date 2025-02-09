@@ -13,6 +13,9 @@
     "type": "git",
     "url": "git+https://github.com/tyleretters/discography.git"
   },
+  "publishConfig": {
+    "registry": "https://www.npmjs.com/package/@tyleretters/discography"
+  },
   "author": "Tyler Etters",
   "devDependencies": {
     "@types/node": "^20.10.6",
