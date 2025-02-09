@@ -8,34 +8,34 @@
   mp3: false
   wav: false
   tracks:
-    - number:
+    - number: 1
       title: "𝔡𝔞𝔲𝔫𝔱𝔩𝔢𝔰𝔰 𝔠𝔥𝔬𝔦𝔯"
       length: 00:58:19
-    - number:
+    - number: 2
       title: "𝓀𝒶𝓉𝒶𝒷𝒶𝓉𝒾𝒸 𝓌𝒾𝓃𝒹"
       length: 00:59:59
-    - number:
+    - number: 3
       title: "𝙵𝚘𝚐 𝚆𝚊𝚕𝚕𝚜"
       length: 00:59:52
-    - number:
+    - number: 4
       title: "broken promise (for timm)"
       length: 00:59:06
-    - number:
+    - number: 5
       title: "THE CONTINUANCE"
       length: 01:00:00
-    - number:
+    - number: 6
       title: "トランス"
       length: 00:59:29
-    - number:
+    - number: 7
       title: "Elegies for Anja"
       length: 01:01:30
-    - number:
+    - number: 8
       title: "ЯΣBЯӨΛDCΛƧƬ [1/2] 𝘍𝘭𝘢𝘴𝘩 𝘊𝘳𝘢𝘴𝘩 𝘗𝘪𝘳𝘢𝘵𝘦 𝘙𝘢𝘥𝘪𝘰 𝘔𝘪𝘹 𝘵𝘦𝘩𝘯"
       length: 00:58:39
-    - number:
+    - number: 9
       title: "ЯΣBЯӨΛDCΛƧƬ [2/2] 𝘍𝘭𝘢𝘴𝘩 𝘊𝘳𝘢𝘴𝘩 𝘗𝘪𝘳𝘢𝘵𝘦 𝘙𝘢𝘥𝘪𝘰 𝘔𝘪𝘹 + 𝘵𝘦𝘩𝘯"
       length: 00:59:32
-    - number:
+    - number: 10
       title: "Kowloon City: Ｌｅｙｌｉｎｅ"
       length: 00:58:49
   streams:
