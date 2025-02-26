@@ -4,6 +4,7 @@ import pkg from "./package.json";
 
 export default defineConfig({
   build: {
+    sourcemap: true,
     lib: {
       entry: path.resolve(__dirname, "src/index.ts"),
       name: "discography",
@@ -13,7 +14,6 @@ export default defineConfig({
       external: pkg.devDependencies ? Object.keys(pkg.devDependencies) : [],
       output: {
         exports: "named",
-        sourcemap: true,
         strict: false,
       },
     },
