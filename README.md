@@ -5,6 +5,15 @@
 - Release dates are in a modified "Long Now" format, prefixed with `0`. This also solves for some date/object/string/parsing/conversion issues.
 - EPs are defined as being less than or equal to 29 minutes 59 seconds.
 
+## Setup
+
+- `cd discography`
+- `npm i`
+- `cd src`
+- `python3 -m venv venv`
+- `source venv/bin/activate`
+- `pip install -r requirements.txt`
+
 ## Updating & Publishing
 
 - Update `./src/discography.yml`
