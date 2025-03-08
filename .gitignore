@@ -2,3 +2,4 @@ src/discography.ts
 .DS_Store
 node_modules
 src/venv
+my_env
