@@ -1,10 +1,9 @@
 {
   "name": "@tyleretters/discography",
   "type": "module",
-  "version": "1.1.5",
+  "version": "2.0.0",
   "description": "A canonical discography of the music of Tyler Etters.",
   "main": "dist/index.es.js",
-  "types": "dist/index.d.ts",
   "scripts": {
     "convert": "./src/convert.py",
     "build": "npm run convert && tsc && vite build && cp ./src/discography.yml ./dist/discography.yml"

@@ -1,5 +1,67 @@
 const e = [
   {
+    title: "FOXFIRES / KYBALION",
+    project: "STUXNET",
+    released: "02025-02-10",
+    type: "EP",
+    format: "Digital",
+    role: "Operator",
+    label: "Intertext",
+    mp3: !1,
+    wav: !1,
+    tracks: [
+      {
+        number: 1,
+        title: "FOXFIRES / KYBALION",
+        length: "00:26:53",
+        id: "b3fd8bd1e788ed2261c76a7aaee4db81"
+      }
+    ],
+    streams: [
+      {
+        platform: "Amazon",
+        url: "https://www.amazon.com/dp/B0DWWZ3JRF",
+        id: "40f98a42a2f23dbd98fa712524d26a2a"
+      },
+      {
+        platform: "Apple Music",
+        url: "https://music.apple.com/us/album/foxfires-kybalion-ep/1796608668",
+        id: "89f217406df6e7ed4445ab3eb7b92a21"
+      },
+      {
+        platform: "Bandcamp",
+        url: "https://stuxnet.bandcamp.com/album/foxfires-kybalion",
+        id: "973a696647b37a0ea8cc7cc64e28800d"
+      },
+      {
+        platform: "Deezer",
+        url: "https://www.deezer.com/us/album/711748271",
+        id: "ee0f5dd8e76021bd8be819b0e5da3482"
+      },
+      {
+        platform: "iHeartRadio",
+        url: "https://www.iheart.com/artist/stuxnet-610225/albums/foxfires-kybalion-313385710/",
+        id: "4a751447b36ae434833ac9608cf6a34b"
+      },
+      {
+        platform: "Spotify",
+        url: "https://open.spotify.com/album/7mh0Vr0dbBsndXQEHMPrmq",
+        id: "1844387f44de40a418d28f86b71892a4"
+      },
+      {
+        platform: "YouTube",
+        url: "https://www.youtube.com/watch?v=wr4PfhW2S3g",
+        id: "009b087f995c7d34e0b105b3cbd60974"
+      }
+    ],
+    notes: "<p>“The inferno of the living is not something that will be; if there is one, it is what is already here, the inferno where we live every day, that we form by being together. There are two ways to escape suffering it. The first is easy for many: accept the inferno and become such a part of it that you can no longer see it. The second is risky and demands constant vigilance and apprehension: seek and learn to recognize who and what, in the midst of inferno, are not inferno, then make them endure, give them space.”</p><p>― Italo Calvino, Invisible Cities</p>",
+    credits: "<p>STUXNET is Tyler Etters.</p><p>Written while my city burned.</p>",
+    project_slug: "stuxnet",
+    release_slug: "foxfires-kybalion",
+    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/foxfires-kybalion/foxfires-kybalion.jpg",
+    id: "0e62e308856daf772abb74f2fbb9a181"
+  },
+  {
     title: "KOWLOON WALLED CITY GIGA MIX",
     project: "DJ STUXNET",
     released: "02024-12-21",
