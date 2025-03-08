@@ -1,5 +1,7 @@
 # Discography of Tyler Etters
 
+[![npm version](https://img.shields.io/npm/v/@tyleretters/discography)](https://www.npmjs.com/package/@tyleretters/discography)
+
 - This repo builds a canonical discography of the music of Tyler Etters.
 - This discography is incomplete.
 - Release dates are in a modified "Long Now" format, prefixed with `0`. This also solves for some date/object/string/parsing/conversion issues.
