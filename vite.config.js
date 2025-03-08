@@ -8,7 +8,7 @@ export default defineConfig({
     lib: {
       entry: path.resolve(__dirname, "src/index.ts"),
       name: "discography",
-      fileName: (format) => `discography.${format}.js`,
+      fileName: (format) => `index.${format}.js`,
     },
     rollupOptions: {
       external: pkg.devDependencies ? Object.keys(pkg.devDependencies) : [],
