@@ -58,7 +58,7 @@ const e = [
     credits: "<p>STUXNET is Tyler Etters.</p><p>Written while my city burned.</p>",
     project_slug: "stuxnet",
     release_slug: "foxfires-kybalion",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/foxfires-kybalion/foxfires-kybalion.jpg",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/foxfires-kybalion/foxfires-kybalion.jpg",
     id: "0e62e308856daf772abb74f2fbb9a181"
   },
   {
@@ -149,7 +149,7 @@ const e = [
     credits: "<p>STUXNET is Tyler Etters.</p>",
     project_slug: "dj-stuxnet",
     release_slug: "kowloon-walled-city-giga-mix",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/dj-stuxnet/kowloon-walled-city-giga-mix/kowloon-walled-city-giga-mix.jpg",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/kowloon-walled-city-giga-mix.jpg",
     id: "e3ed2a5fa3fccc9539a7f073e37d1bd1"
   },
   {
@@ -167,1316 +167,1316 @@ const e = [
         number: 1,
         title: "Beta Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/01-beta-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/01-beta-cancri.mp3",
         id: "10f386239aa42c4656a5d96a6ef98fc9"
       },
       {
         number: 2,
         title: "Delta Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/02-delta-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/02-delta-cancri.mp3",
         id: "819a09373a09a4c804d5fc9b09f043db"
       },
       {
         number: 3,
         title: "Iota Cancri A",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/03-iota-cancri-a.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/03-iota-cancri-a.mp3",
         id: "a59cbf4e387abdf379c9a96743138bba"
       },
       {
         number: 4,
         title: "Alpha Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/04-alpha-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/04-alpha-cancri.mp3",
         id: "c6895adfa84d406546d9204b75d04df3"
       },
       {
         number: 5,
         title: "Gamma Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/05-gamma-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/05-gamma-cancri.mp3",
         id: "83bd3824bb8fc55f0ef690e9f986a6de"
       },
       {
         number: 6,
         title: "Zeta Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/06-zeta-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/06-zeta-cancri.mp3",
         id: "7715f2e3506418b1d9ef9098d15bf570"
       },
       {
         number: 7,
         title: "HD 71115",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/07-hd-71115.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/07-hd-71115.mp3",
         id: "e1dde5def3ba5d771d0cdf5d5ecc586d"
       },
       {
         number: 8,
         title: "8 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/08-8-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/08-8-cancri.mp3",
         id: "6b052ef368bfb8b00527a45fde6e9bec"
       },
       {
         number: 9,
         title: "Chi Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/09-chi-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/09-chi-cancri.mp3",
         id: "ad9551cb14e5400fe72dca09038bf435"
       },
       {
         number: 10,
         title: "Xi Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/10-xi-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/10-xi-cancri.mp3",
         id: "b22757a074bd26b612631281ddf6bcbe"
       },
       {
         number: 11,
         title: "Omicron1 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/11-omicron1-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/11-omicron1-cancri.mp3",
         id: "516e728b79630fa32499e3c31abd8f55"
       },
       {
         number: 12,
         title: "Rho2 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/12-rho2-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/12-rho2-cancri.mp3",
         id: "c45121647f642abf45a81f4b6e87a8c6"
       },
       {
         number: 13,
         title: "Sigma3 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/13-sigma3-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/13-sigma3-cancri.mp3",
         id: "90b508a35afc1fa6f6ebff92ef7e5eab"
       },
       {
         number: 14,
         title: "Kappa Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/14-kappa-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/14-kappa-cancri.mp3",
         id: "a34b08406f3a5ac50b0346590656fe55"
       },
       {
         number: 15,
         title: "Mu2 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/15-mu2-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/15-mu2-cancri.mp3",
         id: "7847d6dd26e5f5fc2c83a8426e872177"
       },
       {
         number: 16,
         title: "Theta Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/16-theta-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/16-theta-cancri.mp3",
         id: "d2b18ce614d3b4afef9eac3388f20318"
       },
       {
         number: 17,
         title: "Eta Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/17-eta-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/17-eta-cancri.mp3",
         id: "baa6b39b09dd5822634d96a49fe48ec0"
       },
       {
         number: 18,
         title: "82 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/18-82-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/18-82-cancri.mp3",
         id: "10c611016ae52e491c9b5cda75e4049b"
       },
       {
         number: 19,
         title: "57 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/19-57-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/19-57-cancri.mp3",
         id: "b44957996442d013eff5723d822a1e27"
       },
       {
         number: 20,
         title: "Tau Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/20-tau-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/20-tau-cancri.mp3",
         id: "5f4239a8765684be95575e3a5f2be52b"
       },
       {
         number: 21,
         title: "60 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/21-60-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/21-60-cancri.mp3",
         id: "ed1751fe6d98612e1cdb2ca8fcebca1c"
       },
       {
         number: 22,
         title: "Sigma2 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/22-sigma2-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/22-sigma2-cancri.mp3",
         id: "18f2da2d3f39cfccae8c8c138f09f3ed"
       },
       {
         number: 23,
         title: "Nu Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/23-nu-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/23-nu-cancri.mp3",
         id: "3caf0e1021a64ded12c7b28beecd3237"
       },
       {
         number: 24,
         title: "27 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/24-27-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/24-27-cancri.mp3",
         id: "aad7b09117c59a7d7ed7d9ea4b47453d"
       },
       {
         number: 25,
         title: "Phi1 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/25-phi1-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/25-phi1-cancri.mp3",
         id: "67727a1e0d3248f0d714429006a323d9"
       },
       {
         number: 26,
         title: "3 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/26-3-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/26-3-cancri.mp3",
         id: "f05e86ede50ef8611142b03718b6cf38"
       },
       {
         number: 27,
         title: "15 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/27-15-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/27-15-cancri.mp3",
         id: "d397064427edda2dade36dc3b7ecf258"
       },
       {
         number: 28,
         title: "45 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/28-45-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/28-45-cancri.mp3",
         id: "b880259f24e4e71e889f8019d62d50a7"
       },
       {
         number: 29,
         title: "49 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/29-49-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/29-49-cancri.mp3",
         id: "ee3003021ca89da536634a218abb74e3"
       },
       {
         number: 30,
         title: "Sigma1 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/30-sigma1-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/30-sigma1-cancri.mp3",
         id: "0c946ae07a2b0cfabeecaf7e339e147e"
       },
       {
         number: 31,
         title: "Omicron2 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/31-omicron2-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/31-omicron2-cancri.mp3",
         id: "03cc88c6c8a0079c837c619a56302e58"
       },
       {
         number: 32,
         title: "Upsilon1 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/32-upsilon1-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/32-upsilon1-cancri.mp3",
         id: "1e5b7974d09f7b6dabc24aed194523b5"
       },
       {
         number: 33,
         title: "Psi2 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/33-psi2-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/33-psi2-cancri.mp3",
         id: "f355c30d843c685ac1c1d061c652ae71"
       },
       {
         number: 34,
         title: "1 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/34-1-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/34-1-cancri.mp3",
         id: "b1ded51cec7729d4d93588ebf6199d42"
       },
       {
         number: 35,
         title: "HD 69994",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/35-hd-69994.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/35-hd-69994.mp3",
         id: "1e0b0b2a5561fc5802a8cb9f12a00489"
       },
       {
         number: 36,
         title: "HD 77445",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/36-hd-77445.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/36-hd-77445.mp3",
         id: "d033cae90c5f8da6de8e7e3a028be282"
       },
       {
         number: 37,
         title: "Omega1 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/37-omega1-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/37-omega1-cancri.mp3",
         id: "12b85e5683fdcfffd1ee55aafab17951"
       },
       {
         number: 38,
         title: "50 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/38-50-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/38-50-cancri.mp3",
         id: "1f27f6816ed351a035a917c250805211"
       },
       {
         number: 39,
         title: "66 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/39-66-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/39-66-cancri.mp3",
         id: "a7e662cd06ecdb74f4560ddabb458e45"
       },
       {
         number: 40,
         title: "HD 72945",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/40-hd-72945.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/40-hd-72945.mp3",
         id: "fff8b8d90b80fe4e3a7c8a83a0e60f33"
       },
       {
         number: 41,
         title: "Lambda Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/41-lambda-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/41-lambda-cancri.mp3",
         id: "a4fb48dd1a07366ebb385b67b06f2b30"
       },
       {
         number: 42,
         title: "36 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/42-36-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/42-36-cancri.mp3",
         id: "4befa72d83ffcdb9217fc38d76aa623c"
       },
       {
         number: 43,
         title: "20 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/43-20-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/43-20-cancri.mp3",
         id: "9e6173fcf3239e2001d115f5cb68cbac"
       },
       {
         number: 44,
         title: "29 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/44-29-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/44-29-cancri.mp3",
         id: "65792339f43f268fae3372b68e6d1ec7"
       },
       {
         number: 45,
         title: "75 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/45-75-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/45-75-cancri.mp3",
         id: "f68366beda0b9c5547babbc339c61502"
       },
       {
         number: 46,
         title: "1 LMi",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/46-1-lmi.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/46-1-lmi.mp3",
         id: "069fd8b5a465d12db60ed4d8f9753587"
       },
       {
         number: 47,
         title: "55 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/47-55-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/47-55-cancri.mp3",
         id: "516213b02e9a71a4874240117c22c5ce"
       },
       {
         number: 48,
         title: "Mu1 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/48-mu1-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/48-mu1-cancri.mp3",
         id: "edd78a209b499c9b5f27252cc97a2a0c"
       },
       {
         number: 49,
         title: "5 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/49-5-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/49-5-cancri.mp3",
         id: "e5cfcb0f55999a729c84d94e485e0d19"
       },
       {
         number: 50,
         title: "HD 68461",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/50-hd-68461.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/50-hd-68461.mp3",
         id: "bda9cac84a32562359713b49542101ee"
       },
       {
         number: 51,
         title: "HD 72617",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/51-hd-72617.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/51-hd-72617.mp3",
         id: "a13076e7be6206bc9c352b43cd95592e"
       },
       {
         number: 52,
         title: "79 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/52-79-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/52-79-cancri.mp3",
         id: "b7f57bff56d7d7e3dbca500b437b6449"
       },
       {
         number: 53,
         title: "RS Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/53-rs-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/53-rs-cancri.mp3",
         id: "a55dc5696b6f92ee70da6837efe1cdfc"
       },
       {
         number: 54,
         title: "HD 65257",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/54-hd-65257.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/54-hd-65257.mp3",
         id: "7a63dc19b4058a285adfc78d18a76a32"
       },
       {
         number: 55,
         title: "HD 65522",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/55-hd-65522.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/55-hd-65522.mp3",
         id: "1a38d7ccbce77c87d6ada29be05bcc6d"
       },
       {
         number: 56,
         title: "28 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/56-28-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/56-28-cancri.mp3",
         id: "b8d696391fd7c29a3e34cff1fb30bc54"
       },
       {
         number: 57,
         title: "67 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/57-67-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/57-67-cancri.mp3",
         id: "4a85651af3ff753d5b1e2cc0af43ff10"
       },
       {
         number: 58,
         title: "HD 68099",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/58-hd-68099.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/58-hd-68099.mp3",
         id: "241adac4ddc0471e72ce0a17e1fc55cf"
       },
       {
         number: 59,
         title: "21 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/59-21-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/59-21-cancri.mp3",
         id: "0edf9b58911c2529dcc49b557a4544e8"
       },
       {
         number: 60,
         title: "25 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/60-25-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/60-25-cancri.mp3",
         id: "976484ebe83de682026d2fdae7ffc9bb"
       },
       {
         number: 61,
         title: "46 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/61-46-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/61-46-cancri.mp3",
         id: "bf313140533fd38f151ca6c1610336fe"
       },
       {
         number: 62,
         title: "Phi2 Cancri A",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/62-phi2-cancri-a.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/62-phi2-cancri-a.mp3",
         id: "5cb2fb58f341cddbc3926d73deda6376"
       },
       {
         number: 63,
         title: "HD 80546",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/63-hd-80546.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/63-hd-80546.mp3",
         id: "02e8b32f8d71958e6d73c091447ccc31"
       },
       {
         number: 64,
         title: "HD 76508",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/64-hd-76508.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/64-hd-76508.mp3",
         id: "817af3488455e5e41adda5cf64db7190"
       },
       {
         number: 65,
         title: "Phi2 Cancri B",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/65-phi2-cancri-b.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/65-phi2-cancri-b.mp3",
         id: "181392406aa309406b820563f0de6f79"
       },
       {
         number: 66,
         title: "HD 76629",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/66-hd-76629.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/66-hd-76629.mp3",
         id: "5af38b64ba207ec2db370fa1807dc891"
       },
       {
         number: 67,
         title: "HD 66552",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/67-hd-66552.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/67-hd-66552.mp3",
         id: "21eab48c0da2ab67fed1095afc15ab09"
       },
       {
         number: 68,
         title: "HD 66684",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/68-hd-66684.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/68-hd-66684.mp3",
         id: "de13659301aeb58f10e240e8c489b37b"
       },
       {
         number: 69,
         title: "4 LMi",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/69-4-lmi.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/69-4-lmi.mp3",
         id: "d1dbba8c31d18f5793c874a57ac5b73f"
       },
       {
         number: 70,
         title: "HD 67959",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/70-hd-67959.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/70-hd-67959.mp3",
         id: "79f878172b9f37058acf4115eb93111b"
       },
       {
         number: 71,
         title: "12 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/71-12-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/71-12-cancri.mp3",
         id: "50724062a559d541d323f62c9e1292e7"
       },
       {
         number: 72,
         title: "53 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/72-53-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/72-53-cancri.mp3",
         id: "4e4613b70cf64f22c4c72ada5ab896ba"
       },
       {
         number: 73,
         title: "61 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/73-61-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/73-61-cancri.mp3",
         id: "f92a8adb5ee98e7a88c755d8c1e22a45"
       },
       {
         number: 74,
         title: "HD 72505",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/74-hd-72505.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/74-hd-72505.mp3",
         id: "d2ba396b508c63e90790b5cad9a78c1e"
       },
       {
         number: 75,
         title: "HD 69478",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/75-hd-69478.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/75-hd-69478.mp3",
         id: "33d88ce895389c606276bf25a2a752fe"
       },
       {
         number: 76,
         title: "Epsilon Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/76-epsilon-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/76-epsilon-cancri.mp3",
         id: "5f48d73cc7bb4c96dd242ff5862dd749"
       },
       {
         number: 77,
         title: "HD 65735",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/77-hd-65735.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/77-hd-65735.mp3",
         id: "22d6e6b02469a3a18567e6698eb10a12"
       },
       {
         number: 78,
         title: "FZ Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/78-fz-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/78-fz-cancri.mp3",
         id: "509ec9da9b1e5e5a0e51aadee881f855"
       },
       {
         number: 79,
         title: "4 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/79-4-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/79-4-cancri.mp3",
         id: "3ae5530af49bca9c49682d01843200d4"
       },
       {
         number: 80,
         title: "HD 72943",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/80-hd-72943.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/80-hd-72943.mp3",
         id: "3408510501537009ed6449fbd967b016"
       },
       {
         number: 81,
         title: "HD 65757",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/81-hd-65757.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/81-hd-65757.mp3",
         id: "eb07b3a050074f5155adf398b0d8c442"
       },
       {
         number: 82,
         title: "Upsilon2 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/82-upsilon2-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/82-upsilon2-cancri.mp3",
         id: "9e56f2391363ca5c879f59674225ea5c"
       },
       {
         number: 83,
         title: "54 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/83-54-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/83-54-cancri.mp3",
         id: "0eeb58a36f426a4a8ce29f3e2797315b"
       },
       {
         number: 84,
         title: "HD 68776",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/84-hd-68776.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/84-hd-68776.mp3",
         id: "a4c9176dfee754ca5d36c6ec64fc80d4"
       },
       {
         number: 85,
         title: "39 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/85-39-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/85-39-cancri.mp3",
         id: "65fbe942901042f0ec74d91999ed5c77"
       },
       {
         number: 86,
         title: "HD 78175",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/86-hd-78175.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/86-hd-78175.mp3",
         id: "fcd20c2106b2e43b5892ad457ed23e18"
       },
       {
         number: 87,
         title: "X Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/87-x-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/87-x-cancri.mp3",
         id: "dc1346b88ebce58852e646a5ce2cb2d5"
       },
       {
         number: 88,
         title: "HD 80064",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/88-hd-80064.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/88-hd-80064.mp3",
         id: "89b02ca6efd7c7ff3a89d88871789464"
       },
       {
         number: 89,
         title: "HD 75469",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/89-hd-75469.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/89-hd-75469.mp3",
         id: "bb2ba887e950d52f977b60c1b037667a"
       },
       {
         number: 90,
         title: "HD 69629",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/90-hd-69629.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/90-hd-69629.mp3",
         id: "890fc8cce1b465071112e31abf466664"
       },
       {
         number: 91,
         title: "HD 73710",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/91-hd-73710.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/91-hd-73710.mp3",
         id: "be8eedc49ecae38e1faf1f1bbe07e0b4"
       },
       {
         number: 92,
         title: "Psi1 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/92-psi1-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/92-psi1-cancri.mp3",
         id: "721a436b78c80df26d8c60c0efd8bade"
       },
       {
         number: 93,
         title: "HD 73599",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/93-hd-73599.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/93-hd-73599.mp3",
         id: "6bfaebfab7af25b79aa069b1b7a5a0f4"
       },
       {
         number: 94,
         title: "HD 77660",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/94-hd-77660.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/94-hd-77660.mp3",
         id: "9a0a913da610dcbe63f6cf61374d1730"
       },
       {
         number: 95,
         title: "HD 67542",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/95-hd-67542.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/95-hd-67542.mp3",
         id: "f6ace911ac4f46afc6c7d857eb72f401"
       },
       {
         number: 96,
         title: "HD 68703",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/96-hd-68703.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/96-hd-68703.mp3",
         id: "a47d186fc363a4fbb8ec8769e19f31c8"
       },
       {
         number: 97,
         title: "HD 78234",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/97-hd-78234.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/97-hd-78234.mp3",
         id: "3acc9c7853462289eb85cf733386162e"
       },
       {
         number: 98,
         title: "34 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/98-34-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/98-34-cancri.mp3",
         id: "99f166c132e08cb456836da023c76895"
       },
       {
         number: 99,
         title: "HD 78661",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/99-hd-78661.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/99-hd-78661.mp3",
         id: "05120b840161685165513d214da72574"
       },
       {
         number: 100,
         title: "HD 79248",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/100-hd-79248.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/100-hd-79248.mp3",
         id: "d0845fa682ebf6dad405399486a46538"
       },
       {
         number: 101,
         title: "HD 76908",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/101-hd-76908.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/101-hd-76908.mp3",
         id: "dad3f993867298f54da161501e35c9b4"
       },
       {
         number: 102,
         title: "81 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/102-81-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/102-81-cancri.mp3",
         id: "e8087b8a8c221ff015dd9f60952b0e4f"
       },
       {
         number: 103,
         title: "HD 72115",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/103-hd-72115.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/103-hd-72115.mp3",
         id: "3f682996cd0d52b30fcaa9c46fbaf3bf"
       },
       {
         number: 104,
         title: "24 Cancri A",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/104-24-cancri-a.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/104-24-cancri-a.mp3",
         id: "d5c3a1516204c3dd55c27296ea077709"
       },
       {
         number: 105,
         title: "37 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/105-37-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/105-37-cancri.mp3",
         id: "c58ef55be758bc0004e119178cc220ee"
       },
       {
         number: 106,
         title: "35 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/106-35-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/106-35-cancri.mp3",
         id: "f7298c89c9d7ebd52ea7e44038d2cb24"
       },
       {
         number: 107,
         title: "Iota Cancri B",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/107-iota-cancri-b.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/107-iota-cancri-b.mp3",
         id: "f37a651752fa087bc131e59dcf698a93"
       },
       {
         number: 108,
         title: "40 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/108-40-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/108-40-cancri.mp3",
         id: "91924a596cbfcedc2b03265fbe35a4a7"
       },
       {
         number: 109,
         title: "83 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/109-83-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/109-83-cancri.mp3",
         id: "4e5f55a598944a003b5225318054b5c3"
       },
       {
         number: 110,
         title: "38 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/110-38-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/110-38-cancri.mp3",
         id: "47916301033dbfdf3f5175f7a63b4346"
       },
       {
         number: 111,
         title: "70 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/111-70-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/111-70-cancri.mp3",
         id: "ca7dbb433c7a16c372f454e19c34198a"
       },
       {
         number: 112,
         title: "2 LMi",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/112-2-lmi.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/112-2-lmi.mp3",
         id: "9b09ef727ef5cab5e9ac0df3c035e414"
       },
       {
         number: 113,
         title: "3 LMi",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/113-3-lmi.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/113-3-lmi.mp3",
         id: "df2124330a72d4abc9fce8e992d7b3b1"
       },
       {
         number: 114,
         title: "EP Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/114-ep-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/114-ep-cancri.mp3",
         id: "604302ef37d8ad8ce0295180751e1134"
       },
       {
         number: 115,
         title: "42 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/115-42-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/115-42-cancri.mp3",
         id: "54537c3ecc962648db0c3822ba397801"
       },
       {
         number: 116,
         title: "7 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/116-7-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/116-7-cancri.mp3",
         id: "b9e717580de5bde3eeb6c9a8149c3d7d"
       },
       {
         number: 117,
         title: "80 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/117-80-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/117-80-cancri.mp3",
         id: "c4b58fcc9e8d92d906e4f510bad5726f"
       },
       {
         number: 118,
         title: "11 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/118-11-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/118-11-cancri.mp3",
         id: "fbb3f8bebdfe6f1ff5a415ada84d79ca"
       },
       {
         number: 119,
         title: "78 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/119-78-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/119-78-cancri.mp3",
         id: "a5c03813ab48fe5ab9a1270aa67f1fc8"
       },
       {
         number: 120,
         title: "VZ Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/120-vz-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/120-vz-cancri.mp3",
         id: "68122f27c9825082d7b9614dd685e4fb"
       },
       {
         number: 121,
         title: "ADS 7284",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/121-ads-7284.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/121-ads-7284.mp3",
         id: "eacdf439da701397dc0b49b0576beae8"
       },
       {
         number: 122,
         title: "52 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/122-52-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/122-52-cancri.mp3",
         id: "d8f6dacb86b4252703441515ad1e7d66"
       },
       {
         number: 123,
         title: "68 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/123-68-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/123-68-cancri.mp3",
         id: "272adc5cb9e0b2ade4622208d374e8eb"
       },
       {
         number: 124,
         title: "V Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/124-v-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/124-v-cancri.mp3",
         id: "06badec2a4683604660d5110eeebda01"
       },
       {
         number: 125,
         title: "T Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/125-t-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/125-t-cancri.mp3",
         id: "ed6bcda86f6b19495b150c4513dff619"
       },
       {
         number: 126,
         title: "BU Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/126-bu-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/126-bu-cancri.mp3",
         id: "6b4284b8c4a9625e2125805dd5331c51"
       },
       {
         number: 127,
         title: "BN Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/127-bn-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/127-bn-cancri.mp3",
         id: "bd10fcc409d9e570bb7d44f63cf86888"
       },
       {
         number: 128,
         title: "HD 72490",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/128-hd-72490.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/128-hd-72490.mp3",
         id: "33d203b01e34b915365f26787b79c6cc"
       },
       {
         number: 129,
         title: "24 Cancri B",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/129-24-cancri-b.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/129-24-cancri-b.mp3",
         id: "dde866149ff447525a8efd027e1d41d8"
       },
       {
         number: 130,
         title: "BY Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/130-by-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/130-by-cancri.mp3",
         id: "00d8d801b025d0a4ddfa2ebd35c21d28"
       },
       {
         number: 131,
         title: "HD 74028",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/131-hd-74028.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/131-hd-74028.mp3",
         id: "4f23d3bb78074c28f28f9ee6cb43d447"
       },
       {
         number: 132,
         title: "44 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/132-44-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/132-44-cancri.mp3",
         id: "b762a5b421d2b5c78b5aa387954f8738"
       },
       {
         number: 133,
         title: "HD 79498",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/133-hd-79498.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/133-hd-79498.mp3",
         id: "7182e8ca117f683fc0ac1098995e40a0"
       },
       {
         number: 134,
         title: "71 Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/134-71-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/134-71-cancri.mp3",
         id: "79c288826353c5cfa6a9bd84cb7a60cf"
       },
       {
         number: 135,
         title: "CY Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/135-cy-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/135-cy-cancri.mp3",
         id: "57301bdc4b6b817f21b3b84382d4c205"
       },
       {
         number: 136,
         title: "BQ Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/136-bq-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/136-bq-cancri.mp3",
         id: "dcf28bac9f2e7dc8338b9650b489ffa3"
       },
       {
         number: 137,
         title: "HD 73534",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/137-hd-73534.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/137-hd-73534.mp3",
         id: "9c71d4139f2c69e5ffeb61edd5203643"
       },
       {
         number: 138,
         title: "BR Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/138-br-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/138-br-cancri.mp3",
         id: "25dac6b951a566824923d387801df99f"
       },
       {
         number: 139,
         title: "S Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/139-s-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/139-s-cancri.mp3",
         id: "2dd8008cc96aa9aaf08025136d0f9f2f"
       },
       {
         number: 140,
         title: "BW Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/140-bw-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/140-bw-cancri.mp3",
         id: "e260e78b11388fa3bd091b8c8ac45f1e"
       },
       {
         number: 141,
         title: "TW Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/141-tw-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/141-tw-cancri.mp3",
         id: "d2afe3ded8b07dd34c1ef589ac1dd7da"
       },
       {
         number: 142,
         title: "U Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/142-u-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/142-u-cancri.mp3",
         id: "186bc3aaf6d0607ed806c50d1b76fb40"
       },
       {
         number: 143,
         title: "BS Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/143-bs-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/143-bs-cancri.mp3",
         id: "41bfc1946c4d0b900134e44da83d5dac"
       },
       {
         number: 144,
         title: "R Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/144-r-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/144-r-cancri.mp3",
         id: "1639dc7dd3070cdde53d24838024f77e"
       },
       {
         number: 145,
         title: "BV Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/145-bv-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/145-bv-cancri.mp3",
         id: "ec9fe95337d8f701503145d6c370cbea"
       },
       {
         number: 146,
         title: "RZ Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/146-rz-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/146-rz-cancri.mp3",
         id: "9992f33f43c2dff36c8f9d35ab1f7023"
       },
       {
         number: 147,
         title: "HD 74721",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/147-hd-74721.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/147-hd-74721.mp3",
         id: "0404b78f3ef40211f8c541c82550dc2c"
       },
       {
         number: 148,
         title: "HD 77065",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/148-hd-77065.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/148-hd-77065.mp3",
         id: "624a70200b98db253f49eb1c8d04a30f"
       },
       {
         number: 149,
         title: "UU Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/149-uu-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/149-uu-cancri.mp3",
         id: "79d461deeb362d7c3bf46b7f9e7b56d2"
       },
       {
         number: 150,
         title: "HIP 41378",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/150-hip-41378.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/150-hip-41378.mp3",
         id: "93adb80f1575f9aad4ea6983987db4a7"
       },
       {
         number: 151,
         title: "RX Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/151-rx-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/151-rx-cancri.mp3",
         id: "7640d160e73916bb6123876ea5fb1810"
       },
       {
         number: 152,
         title: "HD 80653",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/152-hd-80653.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/152-hd-80653.mp3",
         id: "29c1108c76c7fd0a7b00a9db9e6244ca"
       },
       {
         number: 153,
         title: "WY Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/153-wy-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/153-wy-cancri.mp3",
         id: "7bbd4755f51dfe8404a0c72259df83fb"
       },
       {
         number: 154,
         title: "TX Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/154-tx-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/154-tx-cancri.mp3",
         id: "47b62a3a62b929f6b852db0567a5dbaf"
       },
       {
         number: 155,
         title: "RU Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/155-ru-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/155-ru-cancri.mp3",
         id: "9c6d98e8ff92cdbf3457e56f4aaed228"
       },
       {
         number: 156,
         title: "TU Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/156-tu-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/156-tu-cancri.mp3",
         id: "00901ecda23438ce052643b227fa5323"
       },
       {
         number: 157,
         title: "SY Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/157-sy-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/157-sy-cancri.mp3",
         id: "ee99c8638e19347e2bb153f6f17cee96"
       },
       {
         number: 158,
         title: "EX Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/158-ex-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/158-ex-cancri.mp3",
         id: "5df1f995a975dbae9fe8d328d9089bc3"
       },
       {
         number: 159,
         title: "TT Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/159-tt-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/159-tt-cancri.mp3",
         id: "3857a6a8f59d0a2f7feaf2d849b5a0d3"
       },
       {
         number: 160,
         title: "ES Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/160-es-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/160-es-cancri.mp3",
         id: "dc84523dd7413af0dc328a3e23abe9ea"
       },
       {
         number: 161,
         title: "HAT-P-31",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/161-hat-p-31.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/161-hat-p-31.mp3",
         id: "c87e22f971ab08016114b5ef710f1c68"
       },
       {
         number: 162,
         title: "CU Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/162-cu-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/162-cu-cancri.mp3",
         id: "dffd99ba924902a01978b533e74827b1"
       },
       {
         number: 163,
         title: "WASP-65",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/163-wasp-65.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/163-wasp-65.mp3",
         id: "7666f89180c5310edc6eebdddaebe835"
       },
       {
         number: 164,
         title: "SS Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/164-ss-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/164-ss-cancri.mp3",
         id: "4d96bfbac6c51729cd1ecfe4dcde994a"
       },
       {
         number: 165,
         title: "EW Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/165-ew-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/165-ew-cancri.mp3",
         id: "f0da3430272dfcadcb9e06cdc343df8e"
       },
       {
         number: 166,
         title: "HV Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/166-hv-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/166-hv-cancri.mp3",
         id: "8dccc4c465a039be7a99f6af986380c0"
       },
       {
         number: 167,
         title: "EV Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/167-ev-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/167-ev-cancri.mp3",
         id: "953548f031aaf69274bfc147c89bc7f8"
       },
       {
         number: 168,
         title: "AD Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/168-ad-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/168-ad-cancri.mp3",
         id: "a9929b67b74cd2e53a1481503eb0810c"
       },
       {
         number: 169,
         title: "Gliese 299",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/169-gliese-299.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/169-gliese-299.mp3",
         id: "b6df5309201ab821b92c1d17552ded6f"
       },
       {
         number: 170,
         title: "HAT-P-43",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/170-hat-p-43.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/170-hat-p-43.mp3",
         id: "fffb9055f44ff878f18180471f0296e0"
       },
       {
         number: 171,
         title: "AH Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/171-ah-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/171-ah-cancri.mp3",
         id: "7fb34d829d22db00566d82fa9d00a2b5"
       },
       {
         number: 172,
         title: "HU Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/172-hu-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/172-hu-cancri.mp3",
         id: "0bb4bbc6a15a8833f2c221def4c96412"
       },
       {
         number: 173,
         title: "AC Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/173-ac-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/173-ac-cancri.mp3",
         id: "e9829d7830e768ca66608f5d1281e13a"
       },
       {
         number: 174,
         title: "AC Cancri G 9-38",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/174-ac-cancri-g-9-38.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/174-ac-cancri-g-9-38.mp3",
         id: "32dcdddace8168d65d33319dab792633"
       },
       {
         number: 175,
         title: "YBP 1194",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/175-ybp-1194.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/175-ybp-1194.mp3",
         id: "3f021d66248d1b31cd2ab3f2d47cb8e8"
       },
       {
         number: 176,
         title: "DX Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/176-dx-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/176-dx-cancri.mp3",
         id: "27d699315032abcea2bf41afe1447343"
       },
       {
         number: 177,
         title: "AT Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/177-at-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/177-at-cancri.mp3",
         id: "0f6eaec5ec72dc5ce351d5dbfc95f318"
       },
       {
         number: 178,
         title: "LHS 2090",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/178-lhs-2090.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/178-lhs-2090.mp3",
         id: "5bd463ceb96013f99ac66ab18e116695"
       },
       {
         number: 179,
         title: "YZ Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/179-yz-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/179-yz-cancri.mp3",
         id: "b4cd6f587cd7a9f401836dcdcc51c453"
       },
       {
         number: 180,
         title: "EG Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/180-eg-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/180-eg-cancri.mp3",
         id: "9d97fd5a5ad91a16dcd847c1c07875ac"
       },
       {
         number: 181,
         title: "DW Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/181-dw-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/181-dw-cancri.mp3",
         id: "668578e87631ab56b96350789c1100a5"
       },
       {
         number: 182,
         title: "AZ Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/182-az-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/182-az-cancri.mp3",
         id: "ee2df9af767f3bf0c7986eea880bf7f7"
       },
       {
         number: 183,
         title: "GY Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/183-gy-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/183-gy-cancri.mp3",
         id: "32af67c10ee0fe78aef6b8ed1a29eb87"
       },
       {
         number: 184,
         title: "AR Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/184-ar-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/184-ar-cancri.mp3",
         id: "a487a7d0c6bace8dd0756efc2ad94930"
       },
       {
         number: 185,
         title: "RX J0806.3+1527",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/185-rx-j080631527.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/185-rx-j080631527.mp3",
         id: "1e4f923232b2b1a275ed93551d37048d"
       },
       {
         number: 186,
         title: "AK Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/186-ak-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/186-ak-cancri.mp3",
         id: "950c0ea18467fafcd7dd558f9a9ba7f0"
       },
       {
         number: 187,
         title: "CC Cancri",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/187-cc-cancri.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/187-cc-cancri.mp3",
         id: "400e3c2df11568aec633dc27828bdad4"
       },
       {
         number: 188,
         title: "PSR B0823+26",
         length: "00:00:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/188-psr-b082326.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/188-psr-b082326.mp3",
         id: "fe9f31dfe5a26d0c1f6b0e1904e6afaa"
       }
     ],
@@ -1521,8 +1521,8 @@ const e = [
     credits: "<p>For mom.</p><p>Audio sourced from my childhood Kouvalias, the Land of Shadow, and Respighi's Feste Romane performed by Eugene Ormandy, Philadelphia Orchestra, 1946.</p><p>Photograph from a trip with my mother to Tijuana, Mexico, 2022.</p><p>Engineered by Tyler Etters, 2004 — 2024.</p>",
     project_slug: "they-became-what-they-beheld",
     release_slug: "list-of-stars-in-cancer",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/list-of-stars-in-cancer.jpg",
-    mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/list-of-stars-in-cancer/list-of-stars-in-cancer-mp3.zip",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/list-of-stars-in-cancer.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/list-of-stars-in-cancer-mp3.zip",
     id: "e6f44232319b0dd9626e08ed278042dd"
   },
   {
@@ -1540,7 +1540,7 @@ const e = [
         number: 1,
         title: "Distance",
         length: "00:19:28",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/distance/01-distance.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/distance/01-distance.mp3",
         id: "a65d8ff9653b95518c38beb1e7d94a18"
       }
     ],
@@ -1585,8 +1585,8 @@ const e = [
     credits: "<p>Thanks to dad, Timm, Biff, Papa, Pat, Bud, Don, Harold, both Gregs, Ed, Pat, John, Jack, Joe, Eric, Russ, Mike, Michael, Phil, Gary, Paul, Brian, Larry, Glenn, Wayne and every other man who took me in as one of his own seed, generally looked out for me, or made certain to be cleaning his guns the night his daughter brought me home.</p><p>Photograph of Rawson Bridge Rd., Oakwood Hills, 2010.</p><p>Engineered by Tyler Etters, 2024.</p>",
     project_slug: "they-became-what-they-beheld",
     release_slug: "distance",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/distance/distance.jpg",
-    mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/distance/distance-mp3.zip",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/distance/distance.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/distance/distance-mp3.zip",
     id: "8b3b872e9e763cdd2b0f1160d4d92c3e"
   },
   {
@@ -1604,28 +1604,28 @@ const e = [
         number: 1,
         title: "Radio Free Albemuth",
         length: "00:01:34",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/radio-free-albemuth/01-radio-free-albemuth.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/radio-free-albemuth/01-radio-free-albemuth.mp3",
         id: "93a8397abcd2ee5006f4bcc1bb89a8e5"
       },
       {
         number: 1,
         title: "Exegesis",
         length: "00:12:15",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/radio-free-albemuth/01-exegesis.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/radio-free-albemuth/01-exegesis.mp3",
         id: "7ce9b616144f9fa5e38289a2abf6bec8"
       },
       {
         number: 1,
         title: "Ichthys",
         length: "00:02:31",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/radio-free-albemuth/01-ichthys.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/radio-free-albemuth/01-ichthys.mp3",
         id: "b665ddb05c0d717a59d2424cc76d98d6"
       },
       {
         number: 4,
         title: "Vast Active Living Intelligence System",
         length: "00:31:18",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/radio-free-albemuth/04-vast-active-living-intelligence-system.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/radio-free-albemuth/04-vast-active-living-intelligence-system.mp3",
         id: "961d0265109b2d11af8039f9400dd8c1"
       }
     ],
@@ -1670,8 +1670,8 @@ const e = [
     credits: "<p>Thanks to ... a ... tape deck ... original ... everything stalled out ... changed ... that was closer to ... my dad ... I was a kid ... this strange ... audience ... Memorial ... landfill ... library ...</p><p>Audio sourced from Holst's The Planets performed by Herbert Von Karajan, Vienna Philharmonic, 1962.</p><p>Video sourced from The Eames Office's Powers of Ten, 1968 — 1977.</p><p>Track titles sourced from Philip K. Dick's VALIS and surrounding mythos, circa 1976 — 1985.</p><p>Photograph from the Skylark bar in Pilsen, 2017.</p><p>Engineered by Tyler Etters, 2024.</p>",
     project_slug: "they-became-what-they-beheld",
     release_slug: "radio-free-albemuth",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/radio-free-albemuth/radio-free-albemuth.jpg",
-    mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/radio-free-albemuth/radio-free-albemuth-mp3.zip",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/radio-free-albemuth/radio-free-albemuth.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/radio-free-albemuth/radio-free-albemuth-mp3.zip",
     id: "98d9fdd5044c25d2156b67cc5ad582d0"
   },
   {
@@ -1689,7 +1689,7 @@ const e = [
         number: 1,
         title: "Rocket Summer",
         length: "00:30:42",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/rocket-summer/01-rocket-summer.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/rocket-summer/01-rocket-summer.mp3",
         id: "6c7af5ffec304e9076e093ccc60c37a1"
       }
     ],
@@ -1734,8 +1734,8 @@ const e = [
     credits: "<p>Thanks to ... a ... tape deck ... original airplane hanger ... everything stalled out for so long ... changed ... else did, that was closer to now ... my dad ... when I was a kid ... Sage ... close ... Emily for finding this strange book ... her audience ... Memorial Library for ... to Hippo ... from a landfill ... library ...</p><p>Audio sourced from Giovanni Gabrieli's Sanctus: VI. Hosanna in excelsis broadcast by KUSC 91.5 and recorded by iPhone, 2020.</p><p>Photograph & video loops of an actual space rocket launch over my apartment, 2024.</p><p>Engineered by Tyler Etters, 2020 — 2024.</p>",
     project_slug: "they-became-what-they-beheld",
     release_slug: "rocket-summer",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/rocket-summer/rocket-summer.jpg",
-    mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/rocket-summer/rocket-summer-mp3.zip",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/rocket-summer/rocket-summer.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/rocket-summer/rocket-summer-mp3.zip",
     id: "1302633a2ff9e89c6f96bde5092ce75a"
   },
   {
@@ -1753,7 +1753,7 @@ const e = [
         number: 1,
         title: "Respect for the Medium",
         length: "00:22:49",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/respect-for-the-medium/01-respect-for-the-medium.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/respect-for-the-medium/01-respect-for-the-medium.mp3",
         id: "27c621894ea4988cfeff6e3dfa3406b9"
       }
     ],
@@ -1793,8 +1793,8 @@ const e = [
     credits: "<p>Thanks to ... who sold me a ... tape deck so I could not continue this ... original tape deck ... airplane hanger ... the pandemic and everything stalled out for so long ... of the incident ... then ... project changed ... else did, that was closer to ... different now. Thanks to my dad for showing... when I was a kid. Thanks to Sage for ... two close friends who talked ... Thanks to Emily for finding this strange book ... her audience of one. Thanks to the Adriance Memorial Library for ... to Hippo Books who succeeded in diverting it from a landfill ... library sustainability and ... global problem ...</p><p>About text, icon, and name sourced from They Became What They Beheld written by Edmund Snow Carpenter, photographed by Ken Heyman, designed by Hess and/or Antupit, 1970.</p><p>Audio sourced from Giovanni Gabrieli's Sanctus: VI. Hosanna in excelsis broadcast by KUSC 91.5 and recorded by iPhone, 2020.</p><p>Photographs from my trip to Petalying Jaya, Malaysia, 2017.</p><p>Photographs & video loops from my personal series Fireflies & Fields, 2009.</p><p>Engineered by Tyler Etters, 2009 — 2024.</p>",
     project_slug: "they-became-what-they-beheld",
     release_slug: "respect-for-the-medium",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/respect-for-the-medium/respect-for-the-medium.jpg",
-    mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/respect-for-the-medium/respect-for-the-medium-mp3.zip",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/respect-for-the-medium/respect-for-the-medium.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/respect-for-the-medium/respect-for-the-medium-mp3.zip",
     id: "2202436a6149d3349db14ee394af4605"
   },
   {
@@ -1812,14 +1812,14 @@ const e = [
         number: 1,
         title: "This changes things",
         length: "00:11:07",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/ep3/01-this-changes-things.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/ep3/01-this-changes-things.mp3",
         id: "d54a0b6c9e28ad784eea3340367834a1"
       },
       {
         number: 2,
         title: "Nothing is real anymore",
         length: "00:11:07",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/ep3/02-nothing-is-real-anymore.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/ep3/02-nothing-is-real-anymore.mp3",
         id: "578fa08628bc3fa4431215233e22cb40"
       }
     ],
@@ -1864,8 +1864,8 @@ const e = [
     credits: "<p>Thanks to the person who sold me a faulty tape deck so I could not continue this project as intended because the original tape deck was in an airplane hanger because of the pandemic and everything stalled out for so long on both sides of the incident and then the project changed — like everything else did, that was closer to then and things are different now. Thanks to my dad for showing me Dancing Fantasy when I was a kid. Thanks to Sage for being infinitely patient and compassionate with me during the pandemic. Thanks to my two close friends who talked with me on the phone at length today, you know who you are. Thanks to Emily for finding this strange book and making me her audience of one. Thanks to the Adriance Memorial Library for first stocking the book and later stamping it with DISCARD. Thanks to Hippo Books who succeeded in diverting it from a landfill and otherwise help to fund library sustainability and provide meaningful solutions to the global problem of illiteracy.</p><p>About text, icon, and name sourced from They Became What They Beheld written by Edmund Snow Carpenter, photographed by Ken Heyman, designed by Hess and/or Antupit, 1970.</p><p>Audio sourced from Giovanni Gabrieli's Sanctus: VI. Hosanna in excelsis broadcast by KUSC 91.5 and recorded by iPhone, 2020.</p><p>Photographs from my trip to Petalying Jaya, Malaysia, 2017.</p><p>Engineered by Tyler Etters, 2020 — 2024.</p>",
     project_slug: "they-became-what-they-beheld",
     release_slug: "ep3",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/ep3/ep3.jpg",
-    mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/ep3/ep3-mp3.zip",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/ep3/ep3.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/ep3/ep3-mp3.zip",
     id: "c7ee4757925b9b0c620503f1728b8921"
   },
   {
@@ -1883,48 +1883,48 @@ const e = [
         number: 1,
         title: "Tiresias",
         length: "00:01:49",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/01-tiresias.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/01-tiresias.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/in-darkness-radiant/01-tiresias.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/in-darkness-radiant/01-tiresias.wav",
         id: "d8e190eb5c8a7c59a6bfe3a6cccd0b64"
       },
       {
         number: 2,
         title: "In Darkness Radiant",
         length: "00:01:54",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/02-in-darkness-radiant.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/02-in-darkness-radiant.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/in-darkness-radiant/02-in-darkness-radiant.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/in-darkness-radiant/02-in-darkness-radiant.wav",
         id: "07431a76e3916159a229b4d77597dde1"
       },
       {
         number: 3,
         title: "Temporary Autonomous Zone",
         length: "00:04:16",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/03-temporary-autonomous-zone.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/03-temporary-autonomous-zone.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/in-darkness-radiant/03-temporary-autonomous-zone.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/in-darkness-radiant/03-temporary-autonomous-zone.wav",
         id: "a8751056a8a9ebcbeec39a88b53ff2c8"
       },
       {
         number: 4,
         title: "Hell Money",
         length: "00:01:58",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/04-hell-money.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/04-hell-money.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/in-darkness-radiant/04-hell-money.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/in-darkness-radiant/04-hell-money.wav",
         id: "166de9752fc6f68fabff27f1e4ec9164"
       },
       {
         number: 5,
         title: "Subsea Fiber Faults in the APAC Region",
         length: "00:05:43",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/05-subsea-fiber-faults-in-the-apac-region.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/05-subsea-fiber-faults-in-the-apac-region.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/in-darkness-radiant/05-subsea-fiber-faults-in-the-apac-region.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/in-darkness-radiant/05-subsea-fiber-faults-in-the-apac-region.wav",
         id: "ddabb410b3b4e9692913d1aba064638f"
       },
       {
         number: 6,
         title: "Safe Passage (Non-Functional)",
         length: "00:02:51",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/06-safe-passage-non-functional.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/06-safe-passage-non-functional.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/in-darkness-radiant/06-safe-passage-non-functional.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/in-darkness-radiant/06-safe-passage-non-functional.wav",
         id: "cb92de4cad418d150ca1a21b7544879c"
       }
     ],
@@ -1964,9 +1964,9 @@ const e = [
     credits: `<p>Précis by Cory Salveson. Music by Tyler Etters.</p><p>Selected samples: Bauenrfeind, Beast Wars, Elden Ring, Cornell Lab of Ornithology, The Amity Affliction, Predator, True Detective, Cory's field recordings from China.</p><p>The musician would like to express his deepest thanks to @zbs for their deft consultation on the final mix and unwavering devotion to sub-bass.</p><p>Album art: screencap from "Can't Get You Out of My Head" by Adam Curtis.</p>`,
     project_slug: "stuxnet",
     release_slug: "in-darkness-radiant",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/in-darkness-radiant.jpg",
-    mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/in-darkness-radiant-mp3.zip",
-    wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/in-darkness-radiant/in-darkness-radiant-wav.zip",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/in-darkness-radiant/in-darkness-radiant.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/in-darkness-radiant/in-darkness-radiant-mp3.zip",
+    wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/in-darkness-radiant/in-darkness-radiant-wav.zip",
     id: "fb698f2114760946e4fd0fc2576199a9"
   },
   {
@@ -1984,40 +1984,40 @@ const e = [
         number: 1,
         title: "Sources and Methods",
         length: "00:03:44",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/fade-scatter-replicate/01-sources-and-methods.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/fade-scatter-replicate/01-sources-and-methods.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/fade-scatter-replicate/01-sources-and-methods.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/fade-scatter-replicate/01-sources-and-methods.wav",
         id: "376c3e78f3eff2fb422e21e6dd855274"
       },
       {
         number: 2,
         title: "Coyote",
         length: "00:05:52",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/fade-scatter-replicate/02-coyote.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/fade-scatter-replicate/02-coyote.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/fade-scatter-replicate/02-coyote.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/fade-scatter-replicate/02-coyote.wav",
         id: "958eab7cc3c22f4f4215bc80974c153f"
       },
       {
         number: 3,
         title: "Special Economic Zone",
         length: "00:03:44",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/fade-scatter-replicate/03-special-economic-zone.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/fade-scatter-replicate/03-special-economic-zone.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/fade-scatter-replicate/03-special-economic-zone.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/fade-scatter-replicate/03-special-economic-zone.wav",
         id: "b04e1d4a0065e8a519e97017876f4f0f"
       },
       {
         number: 4,
         title: "Border Crossing",
         length: "00:03:28",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/fade-scatter-replicate/04-border-crossing.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/fade-scatter-replicate/04-border-crossing.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/fade-scatter-replicate/04-border-crossing.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/fade-scatter-replicate/04-border-crossing.wav",
         id: "a61940bf64f3315a6b294642e1acaa8d"
       },
       {
         number: 5,
         title: "In Infinite Fogs",
         length: "00:05:52",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/fade-scatter-replicate/05-in-infinite-fogs.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/fade-scatter-replicate/05-in-infinite-fogs.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/fade-scatter-replicate/05-in-infinite-fogs.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/fade-scatter-replicate/05-in-infinite-fogs.wav",
         id: "3425ce3d019d9a2b4486a5b677580273"
       }
     ],
@@ -2025,9 +2025,9 @@ const e = [
     credits: '<p>Précis by Cory Salveson. Music by Tyler Etters.</p><p>Selected samples: Dark Souls III, Mission: Impossible 4 — Ghost Protocol, X-Files, Metal Gear Solid, Underoath, Fortnite "Fracture" Event, Black Hawk Down.</p><p>Inspired by a trip with my mother to Tijuana, Mexico, 2022.</p><p>Album art: Midjourney prompt by John von Seggern.</p><p>For Timm.</p>',
     project_slug: "stuxnet",
     release_slug: "fade-scatter-replicate",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/fade-scatter-replicate/fade-scatter-replicate.jpg",
-    mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/fade-scatter-replicate/fade-scatter-replicate-mp3.zip",
-    wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/fade-scatter-replicate/fade-scatter-replicate-wav.zip",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/fade-scatter-replicate/fade-scatter-replicate.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/fade-scatter-replicate/fade-scatter-replicate-mp3.zip",
+    wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/fade-scatter-replicate/fade-scatter-replicate-wav.zip",
     id: "f47f6e20ac3ac2097070539354fda463"
   },
   {
@@ -2045,14 +2045,14 @@ const e = [
         number: 1,
         title: "Things are different now",
         length: "00:10:12",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/ep2/01-things-are-different-now.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/ep2/01-things-are-different-now.mp3",
         id: "767ea89871f29bab164db0abc8672ac9"
       },
       {
         number: 2,
         title: "That was closer to then",
         length: "00:13:32",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/ep2/02-that-was-closer-to-then.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/ep2/02-that-was-closer-to-then.mp3",
         id: "783052eebb0b68c10fbed5264de8721d"
       }
     ],
@@ -2097,8 +2097,8 @@ const e = [
     credits: `<p>Thanks to the person who sold me a faulty tape deck so I could not continue this project as intended because the original tape deck was in an airplane hanger because of the pandemic and everything stalled out for so long on both sides of the incident and then the project changed — like everything else did, that was closer to then and things are different now. Thanks to my dad for showing me Dancing Fantasy when I was a kid. Thanks to Sage for being infinitely patient and compassionate with me during the pandemic. Thanks to my two close friends who talked with me on the phone at length today, you know who you are. Thanks to Emily for finding this strange book and making me her audience of one. Thanks to the Adriance Memorial Library for first stocking the book and later stamping it with DISCARD. Thanks to Hippo Books who succeeded in diverting it from a landfill and otherwise help to fund library sustainability and provide meaningful solutions to the global problem of illiteracy.</p><p>About text, icon, and name sourced from They Became What They Beheld written by Edmund Snow Carpenter, photographed by Ken Heyman, designed by Hess and/or Antupit, 1970.</p><p>Audio sourced from Shostakovich's Symphony No. 5, Op. 47 performed by Leonard Bernstein, New York Philharmonic, 1980.</p><p>Audio sourced from Dancing Fantasy's Op. Midnight Blvd. "...double fantasy...a dream... ...within a dream..." IC / Innovative Records, 1990.</p><p>Photographs from my trip to Petalying Jaya, Malaysia, 2017.</p><p>Engineered by Tyler Etters, 2019 — 2022.</p>`,
     project_slug: "they-became-what-they-beheld",
     release_slug: "ep2",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/ep2/ep2.jpg",
-    mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/ep2/ep2-mp3.zip",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/ep2/ep2.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/ep2/ep2-mp3.zip",
     id: "bc5996397e7215650926b7f7ccc90645"
   },
   {
@@ -2123,7 +2123,7 @@ const e = [
     credits: "<p>Laws & Etters, mmxxi</p>",
     project_slug: "sidereal-lobby",
     release_slug: "deep-state-music",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/sidereal-lobby/deep-state-music/deep-state-music.jpg",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/sidereal-lobby/deep-state-music/deep-state-music.jpg",
     id: "02cd98a73d97e2e915afc5da5d4eb7f3"
   },
   {
@@ -2160,7 +2160,7 @@ const e = [
     credits: "<p>Laws & Etters, mmxxi</p>",
     project_slug: "sidereal-lobby",
     release_slug: "fciv",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/sidereal-lobby/fciv/fciv.jpg",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/sidereal-lobby/fciv/fciv.jpg",
     id: "059fb2cd3faa8fa9af2b1364c1190abe"
   },
   {
@@ -2203,7 +2203,7 @@ const e = [
     credits: "<p>Laws & Etters, mmxxi</p>",
     project_slug: "sidereal-lobby",
     release_slug: "beaches",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/sidereal-lobby/beaches/beaches.jpg",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/sidereal-lobby/beaches/beaches.jpg",
     id: "a1229abf8488160c3e3dbb02724a122b"
   },
   {
@@ -2221,24 +2221,24 @@ const e = [
         number: 1,
         title: "that it is a message at all",
         length: "00:04:36",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/human-interference-task-force/01-that-it-is-a-message-at-all.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/human-interference-task-force/01-that-it-is-a-message-at-all.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/human-interference-task-force/01-that-it-is-a-message-at-all.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/human-interference-task-force/01-that-it-is-a-message-at-all.wav",
         id: "e5b79e65e20eef11a6fdcfd49f045f10"
       },
       {
         number: 2,
         title: "that dangerous material is stored in a given location",
         length: "00:32:21",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/human-interference-task-force/02-that-dangerous-material-is-stored-in-a-given-location.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/human-interference-task-force/02-that-dangerous-material-is-stored-in-a-given-location.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/human-interference-task-force/02-that-dangerous-material-is-stored-in-a-given-location.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/human-interference-task-force/02-that-dangerous-material-is-stored-in-a-given-location.wav",
         id: "dd3c27ef99659033aaab2252f565fda5"
       },
       {
         number: 3,
         title: "information about the type of dangerous substances",
         length: "00:19:16",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/human-interference-task-force/03-information-about-the-type-of-dangerous-substances.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/human-interference-task-force/03-information-about-the-type-of-dangerous-substances.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/human-interference-task-force/03-information-about-the-type-of-dangerous-substances.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/human-interference-task-force/03-information-about-the-type-of-dangerous-substances.wav",
         id: "4bdbc9918ce2a3623da3380ad3b44386"
       }
     ],
@@ -2246,9 +2246,9 @@ const e = [
     credits: "<p>The musician would like to express his deepest thanks to @license for their critical ear and honest heart.</p>",
     project_slug: "stuxnet",
     release_slug: "human-interference-task-force",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/human-interference-task-force/human-interference-task-force.jpg",
-    mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/human-interference-task-force/human-interference-task-force-mp3.zip",
-    wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/human-interference-task-force/human-interference-task-force-wav.zip",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/human-interference-task-force/human-interference-task-force.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/human-interference-task-force/human-interference-task-force-mp3.zip",
+    wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/human-interference-task-force/human-interference-task-force-wav.zip",
     id: "70d383f39cd6c320f14ae8f8112ab125"
   },
   {
@@ -2266,56 +2266,56 @@ const e = [
         number: 1,
         title: "Dazzle Camouflage (MUA)",
         length: "00:05:16",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/01-dazzle-camouflage-mua.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/01-dazzle-camouflage-mua.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/countersurveillance/01-dazzle-camouflage-mua.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/countersurveillance/01-dazzle-camouflage-mua.wav",
         id: "b3e55e82d01163b32e55719915098c3a"
       },
       {
         number: 2,
         title: "Countersurveillance",
         length: "00:04:09",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/02-countersurveillance.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/02-countersurveillance.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/countersurveillance/02-countersurveillance.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/countersurveillance/02-countersurveillance.wav",
         id: "6dc975e67926eeec29161acbf020d1e6"
       },
       {
         number: 3,
         title: "A Territory of History, Without Self",
         length: "00:03:33",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/03-a-territory-of-history-without-self.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/03-a-territory-of-history-without-self.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/countersurveillance/03-a-territory-of-history-without-self.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/countersurveillance/03-a-territory-of-history-without-self.wav",
         id: "443d85726b3da2bbcf3f1e73cb75247c"
       },
       {
         number: 4,
         title: "Pyrocumulus Days, Entropy Nights",
         length: "00:02:18",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/04-pyrocumulus-days-entropy-nights.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/04-pyrocumulus-days-entropy-nights.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/countersurveillance/04-pyrocumulus-days-entropy-nights.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/countersurveillance/04-pyrocumulus-days-entropy-nights.wav",
         id: "2bbf6bb6019421586f7c422490fb877f"
       },
       {
         number: 5,
         title: "What's Your Wifi Password?",
         length: "00:02:18",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/05-whats-your-wifi-password.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/05-whats-your-wifi-password.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/countersurveillance/05-whats-your-wifi-password.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/countersurveillance/05-whats-your-wifi-password.wav",
         id: "2bcbc1e1c036d5aececc7994b3c16ea8"
       },
       {
         number: 6,
         title: "I'm On Blockchain",
         length: "00:03:02",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/06-im-on-blockchain.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/06-im-on-blockchain.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/countersurveillance/06-im-on-blockchain.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/countersurveillance/06-im-on-blockchain.wav",
         id: "f28af783b6bf7c71feaf8681bd925b6a"
       },
       {
         number: 7,
         title: "Maybe",
         length: "00:04:35",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/07-maybe.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/07-maybe.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/countersurveillance/07-maybe.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/countersurveillance/07-maybe.wav",
         id: "d9b1078aadc31f8feb907ca5aa3e74bd"
       }
     ],
@@ -2323,9 +2323,9 @@ const e = [
     credits: '<p>COUNTERINTELLIGENCE was written, recorded, designed, and released on the STUXNET: NIGHTLY STREAMS // UNREMEMBERED DREAMS Twitch channel. While recording some of the gear blew a fuse. STUXNET is Tyler Etters.</p><p>Album art: "The Nobili-Pesavento self-replicator, with a daughter copy in the process of making a grand-daughter copy. The automaton uses the 32-state extended John von Neumann rules, based on his work on universal constructors and self-reproducing automata."</p>',
     project_slug: "stuxnet",
     release_slug: "countersurveillance",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/countersurveillance.jpg",
-    mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/countersurveillance-mp3.zip",
-    wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/countersurveillance/countersurveillance-wav.zip",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/countersurveillance/countersurveillance.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/countersurveillance/countersurveillance-mp3.zip",
+    wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/countersurveillance/countersurveillance-wav.zip",
     id: "7339ec77045dfcc729a608f84b2cefa6"
   },
   {
@@ -2343,72 +2343,72 @@ const e = [
         number: 1,
         title: "Our world was always fallen but there was always light.",
         length: "00:03:48",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/01-our-world-was-always-fallen-but-there-was-always-light.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/01-our-world-was-always-fallen-but-there-was-always-light.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/long-live-the-lost-ones/01-our-world-was-always-fallen-but-there-was-always-light.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/long-live-the-lost-ones/01-our-world-was-always-fallen-but-there-was-always-light.wav",
         id: "179b9982672f8f79ea013a5a0643c9bd"
       },
       {
         number: 2,
         title: "Damaged music is a metaphor for this world.",
         length: "00:04:35",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/02-damaged-music-is-a-metaphor-for-this-world.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/02-damaged-music-is-a-metaphor-for-this-world.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/long-live-the-lost-ones/02-damaged-music-is-a-metaphor-for-this-world.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/long-live-the-lost-ones/02-damaged-music-is-a-metaphor-for-this-world.wav",
         id: "08207b02a760518f1294c1ea693691bf"
       },
       {
         number: 3,
         title: "Music was always celebratory, but there was always sorrow.",
         length: "00:02:50",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/03-music-was-always-celebratory-but-there-was-always-sorrow.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/03-music-was-always-celebratory-but-there-was-always-sorrow.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/long-live-the-lost-ones/03-music-was-always-celebratory-but-there-was-always-sorrow.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/long-live-the-lost-ones/03-music-was-always-celebratory-but-there-was-always-sorrow.wav",
         id: "2c538db0c9926c8ea43af7a422aaf9a2"
       },
       {
         number: 4,
         title: "For liberation lies in that which is shattered.",
         length: "00:01:15",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/04-for-liberation-lies-in-that-which-is-shattered.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/04-for-liberation-lies-in-that-which-is-shattered.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/long-live-the-lost-ones/04-for-liberation-lies-in-that-which-is-shattered.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/long-live-the-lost-ones/04-for-liberation-lies-in-that-which-is-shattered.wav",
         id: "d5a9025184b1983352b1f8ae2ddd7d91"
       },
       {
         number: 5,
         title: "Designed to merge, engineered to transcend.",
         length: "00:02:18",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/05-designed-to-merge-engineered-to-transcend.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/05-designed-to-merge-engineered-to-transcend.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/long-live-the-lost-ones/05-designed-to-merge-engineered-to-transcend.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/long-live-the-lost-ones/05-designed-to-merge-engineered-to-transcend.wav",
         id: "fcd2e06c4631a2a63539dacf1b577e1b"
       },
       {
         number: 6,
         title: "Liberation follows that which is broken.",
         length: "00:07:56",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/06-liberation-follows-that-which-is-broken.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/06-liberation-follows-that-which-is-broken.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/long-live-the-lost-ones/06-liberation-follows-that-which-is-broken.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/long-live-the-lost-ones/06-liberation-follows-that-which-is-broken.wav",
         id: "0cdc699f61cd1b25eb74c95f1c0c7be9"
       },
       {
         number: 7,
         title: "Something you catch.",
         length: "00:07:30",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/07-something-you-catch.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/07-something-you-catch.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/long-live-the-lost-ones/07-something-you-catch.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/long-live-the-lost-ones/07-something-you-catch.wav",
         id: "bde572f3a3de478e7d74607798ff41c7"
       },
       {
         number: 8,
         title: "As you're scanning for distress calls.",
         length: "00:03:53",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/08-as-youre-scanning-for-distress-calls.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/08-as-youre-scanning-for-distress-calls.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/long-live-the-lost-ones/08-as-youre-scanning-for-distress-calls.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/long-live-the-lost-ones/08-as-youre-scanning-for-distress-calls.wav",
         id: "e7888378b887c15138b8e9be615ec012"
       },
       {
         number: 9,
         title: "Long live the lost ones.",
         length: "00:05:12",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/09-long-live-the-lost-ones.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/09-long-live-the-lost-ones.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/long-live-the-lost-ones/09-long-live-the-lost-ones.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/long-live-the-lost-ones/09-long-live-the-lost-ones.wav",
         id: "30f9acd6b2a5762977f27468d900eecd"
       }
     ],
@@ -2416,9 +2416,9 @@ const e = [
     credits: '<p>Album title by Cory Salveson, encryption key by Matthew Marx, distress signals by Dan Derks, music by Tyler Etters.</p><p>Album art: "Kuwaiti oil wells set on fire by retreating Iraqi forces during Operation Desert Storm darken the sky with smoke, March 25, 1991. This image could have imperfections as it’s either historical or reportage."</p>',
     project_slug: "stuxnet",
     release_slug: "long-live-the-lost-ones",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/long-live-the-lost-ones.jpg",
-    mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/long-live-the-lost-ones-mp3.zip",
-    wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/long-live-the-lost-ones/long-live-the-lost-ones-wav.zip",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/long-live-the-lost-ones/long-live-the-lost-ones.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/long-live-the-lost-ones/long-live-the-lost-ones-mp3.zip",
+    wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/long-live-the-lost-ones/long-live-the-lost-ones-wav.zip",
     id: "7d8f67a125af6c412d1d5b08caa02412"
   },
   {
@@ -2436,16 +2436,16 @@ const e = [
         number: 1,
         title: "Time's Firewall",
         length: "00:08:07",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/times-firewall-demo/01-times-firewall.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/times-firewall-demo/01-times-firewall.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/times-firewall-demo/01-times-firewall.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/times-firewall-demo/01-times-firewall.wav",
         id: "4eae4205c51602b354c0523f04545abe"
       },
       {
         number: 2,
         title: "Fractal's Edge",
         length: "00:11:02",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/times-firewall-demo/02-fractals-edge.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/times-firewall-demo/02-fractals-edge.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/times-firewall-demo/02-fractals-edge.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/times-firewall-demo/02-fractals-edge.wav",
         id: "23d10f8f4768e913d7c0fe955cc16b04"
       }
     ],
@@ -2453,9 +2453,9 @@ const e = [
     credits: "<p>STUXNET is Tyler Etters.</p>",
     project_slug: "stuxnet",
     release_slug: "times-firewall-demo",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/times-firewall-demo/times-firewall-demo.jpg",
-    mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/times-firewall-demo/times-firewall-demo-mp3.zip",
-    wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/times-firewall-demo/times-firewall-demo-wav.zip",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/times-firewall-demo/times-firewall-demo.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/times-firewall-demo/times-firewall-demo-mp3.zip",
+    wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/times-firewall-demo/times-firewall-demo-wav.zip",
     id: "1b1c543e6914fcc678c4710c1ce600f4"
   },
   {
@@ -2473,88 +2473,88 @@ const e = [
         number: 1,
         title: "The Payload Appeared Yesterday Due to a Zero Day Timezone Conversion Vulnerability",
         length: "00:01:28",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/01-the-payload-appeared-yesterday-due-to-a-zero-day-timezone-conversion-vulnerability.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/01-the-payload-appeared-yesterday-due-to-a-zero-day-timezone-conversion-vulnerability.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/matryoshka-demo/01-the-payload-appeared-yesterday-due-to-a-zero-day-timezone-conversion-vulnerability.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/matryoshka-demo/01-the-payload-appeared-yesterday-due-to-a-zero-day-timezone-conversion-vulnerability.wav",
         id: "faf5ef30c09d21d6a7accc7a9c8eba23"
       },
       {
         number: 2,
         title: "Supply Chain Attack Surface",
         length: "00:02:14",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/02-supply-chain-attack-surface.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/02-supply-chain-attack-surface.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/matryoshka-demo/02-supply-chain-attack-surface.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/matryoshka-demo/02-supply-chain-attack-surface.wav",
         id: "4e2e4b2e0b229bfd729e2c30c6af0c68"
       },
       {
         number: 3,
         title: 'A White USB Drive With "HEXAGON" iStock Logo &num;1135496271',
         length: "00:03:09",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/03-a-white-usb-drive-with-hexagon-istock-logo-1135496271.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/03-a-white-usb-drive-with-hexagon-istock-logo-1135496271.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/matryoshka-demo/03-a-white-usb-drive-with-hexagon-istock-logo-1135496271.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/matryoshka-demo/03-a-white-usb-drive-with-hexagon-istock-logo-1135496271.wav",
         id: "d2ca5d1c52ec1e22d89ce852b0af84c8"
       },
       {
         number: 4,
         title: "At Least One Reseller of Microsoft Cloud Services Was Compromised",
         length: "00:02:44",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/04-at-least-one-reseller-of-microsoft-cloud-services-was-compromised.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/04-at-least-one-reseller-of-microsoft-cloud-services-was-compromised.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/matryoshka-demo/04-at-least-one-reseller-of-microsoft-cloud-services-was-compromised.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/matryoshka-demo/04-at-least-one-reseller-of-microsoft-cloud-services-was-compromised.wav",
         id: "5ca900f7ab02c2b0fbd0e77190c4beec"
       },
       {
         number: 5,
         title: "Matryoshka Shell 1 - Ransomware Was Discovered on the Executive’s Peloton",
         length: "00:02:13",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/05-matryoshka-shell-1-ransomware-was-discovered-on-the-executives-peloton.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/05-matryoshka-shell-1-ransomware-was-discovered-on-the-executives-peloton.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/matryoshka-demo/05-matryoshka-shell-1-ransomware-was-discovered-on-the-executives-peloton.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/matryoshka-demo/05-matryoshka-shell-1-ransomware-was-discovered-on-the-executives-peloton.wav",
         id: "28065b49def591062fa9288476a564f4"
       },
       {
         number: 6,
         title: "Matryoshka Shell 2 - IoT Botnet DDoS",
         length: "00:02:06",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/06-matryoshka-shell-2-iot-botnet-ddos.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/06-matryoshka-shell-2-iot-botnet-ddos.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/matryoshka-demo/06-matryoshka-shell-2-iot-botnet-ddos.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/matryoshka-demo/06-matryoshka-shell-2-iot-botnet-ddos.wav",
         id: "4e00289da643efb2a0e135cf0c675429"
       },
       {
         number: 7,
         title: "Matryoshka Shell 3 - Distributed Cryptocurrency Mining Operation",
         length: "00:01:22",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/07-matryoshka-shell-3-distributed-cryptocurrency-mining-operation.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/07-matryoshka-shell-3-distributed-cryptocurrency-mining-operation.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/matryoshka-demo/07-matryoshka-shell-3-distributed-cryptocurrency-mining-operation.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/matryoshka-demo/07-matryoshka-shell-3-distributed-cryptocurrency-mining-operation.wav",
         id: "8c381f7d6ba406bf4d09b39f4b97edd2"
       },
       {
         number: 8,
         title: "Matryoshka Shell 4 - International Date Line",
         length: "00:02:46",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/08-matryoshka-shell-4-international-date-line.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/08-matryoshka-shell-4-international-date-line.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/matryoshka-demo/08-matryoshka-shell-4-international-date-line.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/matryoshka-demo/08-matryoshka-shell-4-international-date-line.wav",
         id: "29f3e0a0cb584e1f38a1c8e12c3dd50a"
       },
       {
         number: 9,
         title: "Matryoshka Shell 5 - 総会屋 (deepfake.S)",
         length: "00:03:21",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/09-matryoshka-shell-5-deepfakes.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/09-matryoshka-shell-5-deepfakes.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/matryoshka-demo/09-matryoshka-shell-5-deepfakes.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/matryoshka-demo/09-matryoshka-shell-5-deepfakes.wav",
         id: "6638a8ff34056ccfa84889decbf9e763"
       },
       {
         number: 10,
         title: "Matryoshka Shell 6 - Schanuel's Conjecture (Evidence of Non-Human Origin)",
         length: "00:02:29",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/10-matryoshka-shell-6-schanuels-conjecture-evidence-of-non-human-origin.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/10-matryoshka-shell-6-schanuels-conjecture-evidence-of-non-human-origin.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/matryoshka-demo/10-matryoshka-shell-6-schanuels-conjecture-evidence-of-non-human-origin.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/matryoshka-demo/10-matryoshka-shell-6-schanuels-conjecture-evidence-of-non-human-origin.wav",
         id: "0b394848373ec96e857293c460a07895"
       },
       {
         number: 11,
         title: "The Media Confused the Matter With Container Ships",
         length: "00:02:13",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/11-the-media-confused-the-matter-with-container-ships.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/11-the-media-confused-the-matter-with-container-ships.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/matryoshka-demo/11-the-media-confused-the-matter-with-container-ships.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/matryoshka-demo/11-the-media-confused-the-matter-with-container-ships.wav",
         id: "b9202085559832f47a042d7eabca7243"
       }
     ],
@@ -2562,9 +2562,9 @@ const e = [
     credits: "<p>STUXNET is Tyler Etters.</p>",
     project_slug: "stuxnet",
     release_slug: "matryoshka-demo",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/matryoshka-demo.jpg",
-    mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/matryoshka-demo-mp3.zip",
-    wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/matryoshka-demo/matryoshka-demo-wav.zip",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/matryoshka-demo/matryoshka-demo.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/matryoshka-demo/matryoshka-demo-mp3.zip",
+    wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/matryoshka-demo/matryoshka-demo-wav.zip",
     id: "008f7a37d4d2668958e8df4c2e2f1f77"
   },
   {
@@ -2582,64 +2582,64 @@ const e = [
         number: 1,
         title: "Trapdoor Function",
         length: "00:02:11",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/01-trapdoor-function.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/01-trapdoor-function.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/cipher-suite-demo/01-trapdoor-function.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/cipher-suite-demo/01-trapdoor-function.wav",
         id: "c3560e910e213cf54e99ffcc624460d1"
       },
       {
         number: 2,
         title: "Asymmetric Encrypted Transport",
         length: "00:01:21",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/02-asymmetric-encrypted-transport.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/02-asymmetric-encrypted-transport.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/cipher-suite-demo/02-asymmetric-encrypted-transport.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/cipher-suite-demo/02-asymmetric-encrypted-transport.wav",
         id: "2349bb6f2e75db320e6c89fc2857c70c"
       },
       {
         number: 3,
         title: "Forced Disclosure of Encryption Keys",
         length: "00:02:31",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/03-forced-disclosure-of-encryption-keys.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/03-forced-disclosure-of-encryption-keys.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/cipher-suite-demo/03-forced-disclosure-of-encryption-keys.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/cipher-suite-demo/03-forced-disclosure-of-encryption-keys.wav",
         id: "2c255249ce2e536690e2b79824aa693d"
       },
       {
         number: 4,
         title: "Chinese Remainder Theorem",
         length: "00:02:11",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/04-chinese-remainder-theorem.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/04-chinese-remainder-theorem.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/cipher-suite-demo/04-chinese-remainder-theorem.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/cipher-suite-demo/04-chinese-remainder-theorem.wav",
         id: "567e1a5978db9ffd4f2e0be22bea39b7"
       },
       {
         number: 5,
         title: "Hash Collision",
         length: "00:04:52",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/05-hash-collision.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/05-hash-collision.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/cipher-suite-demo/05-hash-collision.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/cipher-suite-demo/05-hash-collision.wav",
         id: "9079406ca53ef6f354fa6bcdc112e66c"
       },
       {
         number: 6,
         title: "Something You Have",
         length: "00:10:05",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/06-something-you-have.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/06-something-you-have.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/cipher-suite-demo/06-something-you-have.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/cipher-suite-demo/06-something-you-have.wav",
         id: "25da8b21911fc20cb1b0dc2cb7f56d4b"
       },
       {
         number: 7,
         title: "Something You Know",
         length: "00:03:25",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/07-something-you-know.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/07-something-you-know.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/cipher-suite-demo/07-something-you-know.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/cipher-suite-demo/07-something-you-know.wav",
         id: "461384034f3ea6d780e9f82f352f8dea"
       },
       {
         number: 8,
         title: "Something You Are",
         length: "00:05:40",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/08-something-you-are.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/08-something-you-are.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/cipher-suite-demo/08-something-you-are.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/cipher-suite-demo/08-something-you-are.wav",
         id: "c791ffc28c2b9337919f730df6899e77"
       }
     ],
@@ -2678,9 +2678,9 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     credits: "<p>STUXNET is Tyler Etters.</p>",
     project_slug: "stuxnet",
     release_slug: "cipher-suite-demo",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/cipher-suite-demo.jpg",
-    mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/cipher-suite-demo-mp3.zip",
-    wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/cipher-suite-demo/cipher-suite-demo-wav.zip",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/cipher-suite-demo/cipher-suite-demo.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/cipher-suite-demo/cipher-suite-demo-mp3.zip",
+    wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/cipher-suite-demo/cipher-suite-demo-wav.zip",
     id: "2324c584cb2ca86fba128a8e05d8fdd2"
   },
   {
@@ -2698,64 +2698,64 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
         number: 1,
         title: "plateau",
         length: "00:09:04",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/01-plateau.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/01-plateau.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/carrier-demo/01-plateau.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/carrier-demo/01-plateau.wav",
         id: "a53fcc99b810157b4435a23a37ddeecd"
       },
       {
         number: 2,
         title: "angel",
         length: "00:05:11",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/02-angel.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/02-angel.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/carrier-demo/02-angel.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/carrier-demo/02-angel.wav",
         id: "c5839f7dbaf891f6e11d8f2f31cb9755"
       },
       {
         number: 3,
         title: "mod3046",
         length: "00:03:38",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/03-mod3046.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/03-mod3046.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/carrier-demo/03-mod3046.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/carrier-demo/03-mod3046.wav",
         id: "13c37dcb5935d2b6abdac26510ca08d4"
       },
       {
         number: 4,
         title: "rave",
         length: "00:01:46",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/04-rave.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/04-rave.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/carrier-demo/04-rave.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/carrier-demo/04-rave.wav",
         id: "8c096eb17603847f5e7d699d67eaae27"
       },
       {
         number: 5,
         title: "fcore",
         length: "00:02:39",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/05-fcore.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/05-fcore.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/carrier-demo/05-fcore.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/carrier-demo/05-fcore.wav",
         id: "43d53188bf27c7626f98edb294f866aa"
       },
       {
         number: 6,
         title: "lecture",
         length: "00:10:17",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/06-lecture.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/06-lecture.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/carrier-demo/06-lecture.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/carrier-demo/06-lecture.wav",
         id: "7791b846ae7842b295d72daa55cfb95e"
       },
       {
         number: 7,
         title: "abeyance",
         length: "00:06:07",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/07-abeyance.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/07-abeyance.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/carrier-demo/07-abeyance.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/carrier-demo/07-abeyance.wav",
         id: "6c05d836e163b77bb4dd35bc0105fe8e"
       },
       {
         number: 8,
         title: "registry",
         length: "00:01:26",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/08-registry.mp3",
-        wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/08-registry.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/carrier-demo/08-registry.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/carrier-demo/08-registry.wav",
         id: "245d5a39e4a966bd7a7368253beaf668"
       }
     ],
@@ -2763,9 +2763,9 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     credits: "<p>STUXNET is Tyler Etters.</p>",
     project_slug: "stuxnet",
     release_slug: "carrier-demo",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/carrier-demo.jpg",
-    mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/carrier-demo-mp3.zip",
-    wav_url: "https://intertext.s3.us-west-1.amazonaws.com/stuxnet/carrier-demo/carrier-demo-wav.zip",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/carrier-demo/carrier-demo.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/carrier-demo/carrier-demo-mp3.zip",
+    wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/carrier-demo/carrier-demo-wav.zip",
     id: "e745f9e7855fd65dcdb2b682897def45"
   },
   {
@@ -2875,7 +2875,7 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     credits: "<p>Thanks to Dan Derks, Brian Crabtree, Ryan Laws, Zack Scholl, Cory Salveson, Sage Etters, & Pasha Petrosyan.</p><p>Augured, coded, patched, written, performed, lamented, and engineered by Tyler Etters in 2020.</p>",
     project_slug: "northern-information",
     release_slug: "the-arecibo-lamentations",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/northern-information/the-arecibo-lamentations/the-arecibo-lamentations.jpg",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/northern-information/the-arecibo-lamentations/the-arecibo-lamentations.jpg",
     id: "c2ebebb75e1854e07a28c58b790d07b6"
   },
   {
@@ -2893,14 +2893,14 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
         number: 1,
         title: "Everything is everywhere now",
         length: "00:09:01",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/ep1/01-everything-is-everywhere-now.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/ep1/01-everything-is-everywhere-now.mp3",
         id: "e00e0bca413fcdc2b4fd9e756a4743ec"
       },
       {
         number: 2,
         title: "Back when things made sense",
         length: "00:06:21",
-        mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/ep1/02-back-when-things-made-sense.mp3",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/ep1/02-back-when-things-made-sense.mp3",
         id: "da62d9c2b17d61f7dbbb2cb8714ea63e"
       }
     ],
@@ -2945,8 +2945,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     credits: "<p>Thanks to Emily for finding this strange book and making me her audience of one. Thanks to the Adriance Memorial Library for first stocking the book and later stamping it with DISCARD. Thanks to Hippo Books who succeeded in diverting it from a landfill and otherwise help to fund library sustainability and provide meaningful solutions to the global problem of illiteracy.</p><p>About text, icon, and name sourced from They Became What They Beheld written by Edmund Snow Carpenter, photographed by Ken Heyman, designed by Hess and/or Antupit, 1970.</p><p>Audio sourced from Shostakovich's Symphony No. 5, Op. 47 performed by Leonard Bernstein, New York Philharmonic, 1980.</p><p>Photographs from my trip to Petalying Jaya, Malaysia, 2017.</p><p>Engineered by Tyler Etters, 2019.</p>",
     project_slug: "they-became-what-they-beheld",
     release_slug: "ep1",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/ep1/ep1.jpg",
-    mp3_url: "https://intertext.s3.us-west-1.amazonaws.com/they-became-what-they-beheld/ep1/ep1-mp3.zip",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/ep1/ep1.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/ep1/ep1-mp3.zip",
     id: "427cc1165076ec9eaeb68f427ca0b04b"
   },
   {
@@ -3068,7 +3068,7 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     credits: "<p>released the day after the winter solstice, when the light begins her steady march to summer.</p><p>written and recorded by tyler etters from an indeterminate point in the past through december 2017. featuring guitar by david kvistad on the snail shell graveyard and field recordings by sage etters on unnamed seasons. painting of cornfields in illinois (1994) by lynda wallis (tyler etters’s mom) with additional treatment by tyler etters.</p>",
     project_slug: "tyler-etters-and-the-northern-information-movement",
     release_slug: "reverence",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/tyler-etters-and-the-northern-information-movement/reverence/reverence.jpg",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/tyler-etters-and-the-northern-information-movement/reverence/reverence.jpg",
     id: "ae5fd3fc099497038e2ce882fcd14959"
   },
   {
@@ -3178,7 +3178,7 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     credits: "<p>released on the winter solstice, when both darkness and light hang in a wary balance.</p><p>written and recorded by tyler etters from an indeterminate point in the past through december 2017. featuring pasha petrosyan on surveillance industrial complex, later heaven, and the path of many returns. numerous samples, videos, storyline components and album title by cory salveson. album cover polaroid of stone henge on the summer solstice (2017) by cory salveson with additional treatment by tyler etters.</p>",
     project_slug: "tyler-etters-and-the-northern-information-movement",
     release_slug: "dispatches-from-the-prime-meridian",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/tyler-etters-and-the-northern-information-movement/dispatches-from-the-prime-meridian/dispatches-from-the-prime-meridian.jpg",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/tyler-etters-and-the-northern-information-movement/dispatches-from-the-prime-meridian/dispatches-from-the-prime-meridian.jpg",
     id: "de4441b30b9342ace629d27eb493e311"
   },
   {
@@ -3288,7 +3288,7 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     credits: "<p>written & recorded by tyler etters from an indeterminate point in the past through december 2016 at endless field studios. featuring adam j. moore on full steam, holy mountain hymn, and reaver, yggdsrasil, the thing at the end of the woods. featuring arthur zdrinc on holy mountain hymn. featuring cory salveson on videos, images, and storyline.</p>",
     project_slug: "tyler-etters-and-the-northern-information-movement",
     release_slug: "the-legacy-of-our-lost-cause",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/tyler-etters-and-the-northern-information-movement/the-legacy-of-our-lost-cause/the-legacy-of-our-lost-cause.jpg",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/tyler-etters-and-the-northern-information-movement/the-legacy-of-our-lost-cause/the-legacy-of-our-lost-cause.jpg",
     id: "929ae24ecd6e72c6b4930203deeeaf44"
   },
   {
@@ -3428,7 +3428,7 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     credits: "<p>written & recorded by tyler etters from january 2015 through june 2015 at endless field studios. featuring adam j. moore on palm beach and suburban gutter trash.</p>",
     project_slug: "tyler-etters-and-the-northern-information-movement",
     release_slug: "and-though-the-soft-apocalypse-may-yet-overtake",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/tyler-etters-and-the-northern-information-movement/and-though-the-soft-apocalypse-may-yet-overtake/and-though-the-soft-apocalypse-may-yet-overtake.jpg",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/tyler-etters-and-the-northern-information-movement/and-though-the-soft-apocalypse-may-yet-overtake/and-though-the-soft-apocalypse-may-yet-overtake.jpg",
     id: "c3144c3c5ad6106cc1969496b91cd139"
   },
   {
@@ -3508,7 +3508,7 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     credits: "<p>written & recorded by tyler etters and adam j. moore on march 28 2015 at endless field studios. album cover artwork by adam j. moore with additional treatment by tyler etters.</p>",
     project_slug: "tyler-etters-and-the-northern-information-movement",
     release_slug: "zulu",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/tyler-etters-and-the-northern-information-movement/zulu/zulu.jpg",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/tyler-etters-and-the-northern-information-movement/zulu/zulu.jpg",
     id: "31d14eaf9cf018baea6350db6162ad7d"
   },
   {
@@ -3642,7 +3642,7 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     credits: "<p>written & recorded by tyler etters from an indeterminate point in the past through december 2014 at endless field studios. featuring adam moore on samsara. album cover artwork by paul petrosyan with additional treatment by tyler etters.</p>",
     project_slug: "tyler-etters-and-the-northern-information-movement",
     release_slug: "the-phantoms-of-our-lost-cause",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/tyler-etters-and-the-northern-information-movement/the-phantoms-of-our-lost-cause/the-phantoms-of-our-lost-cause.jpg",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/tyler-etters-and-the-northern-information-movement/the-phantoms-of-our-lost-cause/the-phantoms-of-our-lost-cause.jpg",
     id: "fcf1f2058a03d49b8f29619d31c619f9"
   },
   {
@@ -3716,7 +3716,7 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     credits: "<p>written & recorded by tyler etters from june 2013 through september 2013 at endless field studios except for 'tears of the space cowboy' which was also written by kevin clark, dorian zdrinc and arthur zdrinc sometime back in 2011.</p>",
     project_slug: "tyler-etters-and-the-northern-information-movement",
     release_slug: "senescence",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/tyler-etters-and-the-northern-information-movement/senescence/senescence.jpg",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/tyler-etters-and-the-northern-information-movement/senescence/senescence.jpg",
     id: "625b78aed26d0c5e3a26862346a1af79"
   },
   {
@@ -3820,7 +3820,7 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     credits: "<p>written & recorded by tyler etters from december 2012 through june 2013 at endless field studios. featuring arthur zdrinc on rainbow table.</p>",
     project_slug: "tyler-etters-and-the-northern-information-movement",
     release_slug: "blue-the-most-celestial-color",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/tyler-etters-and-the-northern-information-movement/blue-the-most-celestial-color/blue-the-most-celestial-color.jpg",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/tyler-etters-and-the-northern-information-movement/blue-the-most-celestial-color/blue-the-most-celestial-color.jpg",
     id: "177d13192fa7eeb12a853bc0d6f9bf51"
   },
   {
@@ -3888,7 +3888,7 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     credits: "<p>written & recorded by tyler etters from october 2012 through december 2012 at endless field studios.</p>",
     project_slug: "tyler-etters-and-the-northern-information-movement",
     release_slug: "the-geometrie-of-our-lost-cause",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/tyler-etters-and-the-northern-information-movement/the-geometrie-of-our-lost-cause/the-geometrie-of-our-lost-cause.jpg",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/tyler-etters-and-the-northern-information-movement/the-geometrie-of-our-lost-cause/the-geometrie-of-our-lost-cause.jpg",
     id: "5b94665084e9383666494dd2aeee2517"
   },
   {
@@ -3931,7 +3931,7 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     credits: "<p>Connectedness Locus is Tyler Etters.</p>",
     project_slug: "connectedness-locus",
     release_slug: "prolegomenon",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/connectedness-locus/prolegomenon/prolegomenon.jpg",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/connectedness-locus/prolegomenon/prolegomenon.jpg",
     id: "b81b68a8dbb48b92ef924c27b024503d"
   },
   {
@@ -4010,7 +4010,7 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     credits: "<p>Connectedness Locus is Tyler Etters.</p>",
     project_slug: "connectedness-locus",
     release_slug: "terraforms",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/connectedness-locus/terraforms/terraforms.jpg",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/connectedness-locus/terraforms/terraforms.jpg",
     id: "3fe45b5f7e852c3f57fc9e7d69df4942"
   },
   {
@@ -4035,7 +4035,7 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     credits: "<p>Written & performed by Tyler Etters of Connectedness Locus. Produced & engineered by Isaac Pierce of The Block of Wood Recordings. Mastered by Arthur Zdrinc of Endless Field Studios.</p>",
     project_slug: "connectedness-locus",
     release_slug: "when-the-paint-peels",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/connectedness-locus/when-the-paint-peels/when-the-paint-peels.jpg",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/connectedness-locus/when-the-paint-peels/when-the-paint-peels.jpg",
     id: "3e42cd3854a98c2ccdb67d6b00d094e2"
   },
   {
@@ -4108,7 +4108,7 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     credits: "<p>Composed, produced, and engineered by Paul Petrosyan and Tyler Etters.</p>",
     project_slug: "everything-comes-in-cycles-everything-fades-in-shades",
     release_slug: "serial-index-of-unclaimed-memories-file-1",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/everything-comes-in-cycles-everything-fades-in-shades/serial-index-of-unclaimed-memories-file-1/serial-index-of-unclaimed-memories-file-1.jpg",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/everything-comes-in-cycles-everything-fades-in-shades/serial-index-of-unclaimed-memories-file-1/serial-index-of-unclaimed-memories-file-1.jpg",
     id: "7c17f9032a82f7d5b72bba8077e90632"
   },
   {
@@ -4181,7 +4181,7 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     credits: "<p>Composed, produced, and engineered by Paul Petrosyan and Tyler Etters.</p>",
     project_slug: "everything-comes-in-cycles-everything-fades-in-shades",
     release_slug: "serial-index-of-unclaimed-memories-file-2",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/everything-comes-in-cycles-everything-fades-in-shades/serial-index-of-unclaimed-memories-file-2/serial-index-of-unclaimed-memories-file-2.jpg",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/everything-comes-in-cycles-everything-fades-in-shades/serial-index-of-unclaimed-memories-file-2/serial-index-of-unclaimed-memories-file-2.jpg",
     id: "1c9c6115a870ac474cd94dddc0784176"
   },
   {
@@ -4284,7 +4284,7 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     credits: "<p>Connectedness Locus is Tyler Etters.</p>",
     project_slug: "connectedness-locus",
     release_slug: "as-quippolous-codes-quietly-count",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/connectedness-locus/as-quippolous-codes-quietly-count/as-quippolous-codes-quietly-count.jpg",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/connectedness-locus/as-quippolous-codes-quietly-count/as-quippolous-codes-quietly-count.jpg",
     id: "5c035b2d74c9b91e8ee60dad6cb7ff48"
   },
   {
@@ -4339,7 +4339,7 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     credits: "<p>Composed, produced, and engineered by Paul Petrosyan and Tyler Etters.</p>",
     project_slug: "everything-comes-in-cycles-everything-fades-in-shades",
     release_slug: "gates-ep",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/everything-comes-in-cycles-everything-fades-in-shades/gates-ep/gates-ep.jpg",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/everything-comes-in-cycles-everything-fades-in-shades/gates-ep/gates-ep.jpg",
     id: "caf45dac76274be06727c7d56ac56c04"
   },
   {
@@ -4430,7 +4430,7 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     credits: "<p>All music written and performed by Inocula.</p><p>Aaron Krause - Drums</p><p>AJ Sugg - Vocals</p><p>Browneye - Guitar</p><p>Daniel Massey - Guitar</p><p>Paul Petrosyan - Bass</p><p>Tyler Etters - Keybards/Samples</p>",
     project_slug: "inocula",
     release_slug: "suntelia-aeon",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/inocula/suntelia-aeon/suntelia-aeon.jpg",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/inocula/suntelia-aeon/suntelia-aeon.jpg",
     id: "490f035adcb234345071bf11451a0bba"
   },
   {
@@ -4455,7 +4455,7 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     credits: "<p>Lucid End is Tyler Etters.</p>",
     project_slug: "lucid-end",
     release_slug: "organica-lensing",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/lucid-end/organica-lensing/organica-lensing.jpg",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/lucid-end/organica-lensing/organica-lensing.jpg",
     id: "f40b8fab6a769b9fe83381804833ed09"
   },
   {
@@ -4480,7 +4480,7 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     credits: "<p>Lucid End is Tyler Etters.</p>",
     project_slug: "lucid-end",
     release_slug: "the-killing-tree",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/lucid-end/the-killing-tree/the-killing-tree.jpg",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/lucid-end/the-killing-tree/the-killing-tree.jpg",
     id: "613757a6f0f4979088bab8776e3f9def"
   },
   {
@@ -4565,7 +4565,7 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     credits: "<p>Lucid End is Tyler Etters.</p>",
     project_slug: "lucid-end",
     release_slug: "time-to-breathe-time-to-think",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/lucid-end/time-to-breathe-time-to-think/time-to-breathe-time-to-think.jpg",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/lucid-end/time-to-breathe-time-to-think/time-to-breathe-time-to-think.jpg",
     id: "1e1da4b27d7e7d24fc3b1f0002ae2770"
   },
   {
@@ -4668,7 +4668,7 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     credits: "<p>Ix is Paul Petrosyan and Tyler Etters. All music written, performed, and engineered by Ix at Endless Field Studios.</p>",
     project_slug: "ix",
     release_slug: "descent-into-dreams",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/ix/descent-into-dreams/descent-into-dreams.jpg",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/ix/descent-into-dreams/descent-into-dreams.jpg",
     id: "8f34ac41a602d8314011dbe313ca493b"
   },
   {
@@ -4705,7 +4705,7 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     credits: "<p>Ix is Paul Petrosyan and Tyler Etters. All music written, performed, and engineered by Ix at Endless Field Studios.</p>",
     project_slug: "ix",
     release_slug: "yet-these-memories-isolated-us",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/ix/yet-these-memories-isolated-us/yet-these-memories-isolated-us.jpg",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/ix/yet-these-memories-isolated-us/yet-these-memories-isolated-us.jpg",
     id: "ec265196f2f2313b847cea4a92ddddca"
   },
   {
@@ -4766,7 +4766,7 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     credits: "<p>Lucid End is Tyler Etters.</p>",
     project_slug: "lucid-end",
     release_slug: "files",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/lucid-end/files/files.jpg",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/lucid-end/files/files.jpg",
     id: "39b60215e9fe359406cf4267c7204996"
   },
   {
@@ -4833,7 +4833,7 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     credits: "<p>Ix is Paul Petrosyan and Tyler Etters.</p>",
     project_slug: "ix",
     release_slug: "ix-ep",
-    cover_url: "https://intertext.s3.us-west-1.amazonaws.com/ix/ix-ep/ix-ep.jpg",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/ix/ix-ep/ix-ep.jpg",
     id: "7b7481c3fb254d86c41ca3c27f8e0392"
   }
 ];

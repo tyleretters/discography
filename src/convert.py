@@ -13,7 +13,7 @@ import re
 import hashlib
 from datetime import datetime
 
-s3_bucket = "https://intertext.s3.us-west-1.amazonaws.com/"
+cdn_base_url = "https://d107e1o0dn11sc.cloudfront.net/"
 dir_path = os.path.dirname(os.path.realpath(__file__))
 yml_path = dir_path + "/" + "discography.yml"
 ts_path = dir_path + "/" + "discography.ts"
@@ -71,10 +71,10 @@ for release in data:
   release["release_slug"] = make_slug(release["title"])
 
   # generate a cover
-  release["cover_url"] =  s3_bucket + release["project_slug"] + "/" + release["release_slug"] + "/" + release["release_slug"] + ".jpg"
+  release["cover_url"] =  cdn_base_url + release["project_slug"] + "/" + release["release_slug"] + "/" + release["release_slug"] + ".jpg"
 
   # generate an mp3 and wav download links
-  zip_slug = s3_bucket + release["project_slug"] + "/" + release["release_slug"] + "/" + release["release_slug"]
+  zip_slug = cdn_base_url + release["project_slug"] + "/" + release["release_slug"] + "/" + release["release_slug"]
 
   if (release["mp3"]):
     release["mp3_url"] = zip_slug + "-mp3.zip"
@@ -106,10 +106,10 @@ for release in data:
       slug = make_slug(str(track["number"]).zfill(2) + "-" + track["title"]) # zero pad track number
       track_slug = release["project_slug"] + "/" + release["release_slug"] + "/" + slug
       if (release["mp3"]):
-        track["mp3_url"] =  s3_bucket + track_slug + ".mp3"
+        track["mp3_url"] =  cdn_base_url + track_slug + ".mp3"
 
       if (release["wav"]):
-        track["wav_url"] =  s3_bucket + track_slug + ".wav"
+        track["wav_url"] =  cdn_base_url + track_slug + ".wav"
 
       # generate an id (ARTIST + RELEASE + NUMBER + TITLE + LENGTH)
       track["id"] = make_id(release["project"] + release["title"] + str(track["number"]) + track["title"] + track["length"])
