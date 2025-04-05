@@ -1,5 +1,83 @@
 const e = [
   {
+    title: "DISSOLUTION",
+    project: "DJ STUXNET",
+    released: "02025-04-05",
+    type: "Mix",
+    format: "Digital",
+    role: "DJ",
+    label: "Intertext",
+    mp3: !0,
+    wav: !1,
+    tracks: [
+      {
+        number: 1,
+        title: "DISSOLUTION",
+        length: "00:61:44",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/dissolution/01-dissolution.mp3",
+        id: "8876363ffc798d2bcb0c782c6204d0ad"
+      }
+    ],
+    streams: [
+      {
+        platform: "SoundCloud",
+        url: "https://soundcloud.com/tyleretters/dissolution",
+        id: "f0ea00af7a6807bddf6b7a864f3caa28"
+      },
+      {
+        platform: "Untitled Stream",
+        url: "https://untitled.stream/library/project/mpGIRo9hVgxSDggTjeNm8",
+        id: "498e4cb9ac068290723e39705dd25209"
+      }
+    ],
+    notes: "<p>For Sage.</p>",
+    credits: "<p>STUXNET is Tyler Etters.</p>",
+    project_slug: "dj-stuxnet",
+    release_slug: "dissolution",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/dissolution/dissolution.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/dissolution/dissolution-mp3.zip",
+    id: "d97b5a7b1f6912df2d48e6b3cbf5ee3b"
+  },
+  {
+    title: "Elegies for Ashley",
+    project: "DJ STUXNET",
+    released: "02025-03-23",
+    type: "Mix",
+    format: "Digital",
+    role: "DJ",
+    label: "Intertext",
+    mp3: !0,
+    wav: !1,
+    tracks: [
+      {
+        number: 1,
+        title: "Elegies for Ashley",
+        length: "00:58:16",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/elegies-for-ashley/01-elegies-for-ashley.mp3",
+        id: "5e92772836a6a580190983b0b304c8e0"
+      }
+    ],
+    streams: [
+      {
+        platform: "SoundCloud",
+        url: "https://soundcloud.com/tyleretters/elegies-for-ashley",
+        id: "1b553d2c79050e934a7cb3e38289ced0"
+      },
+      {
+        platform: "Untitled Stream",
+        url: "https://untitled.stream/library/project/551pFVchyvDHMZmdlCjMg",
+        id: "b5950715304226adbd80e70098de6ddd"
+      }
+    ],
+    notes: "<p>https://nor.the-rn.info/rm_ation/2025/03/23/elegies-for-ashley/</p>",
+    credits: "<p>STUXNET is Tyler Etters.</p>",
+    project_slug: "dj-stuxnet",
+    release_slug: "elegies-for-ashley",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/elegies-for-ashley/elegies-for-ashley.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/elegies-for-ashley/elegies-for-ashley-mp3.zip",
+    id: "389a66929bdfbefe2087976d87dad7e5"
+  },
+  {
     title: "FOXFIRES / KYBALION",
     project: "STUXNET",
     released: "02025-02-10",
@@ -2199,7 +2277,7 @@ const e = [
         id: "f83818db16c7392d55ac6d73b23940f7"
       }
     ],
-    notes: "<p>It began with failure.</p><p>Both humans had, at different times, come into ownership of the same model of a powered synthesizer enclosure. At different times, the power supply of either enclosure failed in identical fashion. The second time, the steward of the enclosure discovered that the power supply had, in fact, not completely failed. It could still deliver some power, albeit at an attenuated amperage. Perhaps as a test, perhaps enthused at the novelty of the small enclosure, perhaps simply to amuse himself, he assembled a nonsensical menagerie of modules.</p><p>The human then proceeded to record similarly nonsensical sounds. He doubted they were musical. They did contain rhythms, tones, things that repeat, but no more than household or industrial appliances. No logic or aesthetics he knew of applied. They were low-fidelity but not enough to be charming. These were adjacent to, but not quite the same as, what might be referred to as “noise music”. At times something resembling a melody or a chord would appear, but short-lived and unsupported. He didn’t know what to do with this, but he was having fun, so he forged ahead.</p><p>After indulging a compulsion to record, the first human decided to share a few minutes of this with the second human. The second human was not sure what to make of this. Out of mutual respect, he attempted to phrase a diplomatic and critically constructive suggestion. He introduced this suggestion. The first human sat in anticipation, waiting for second’s transmission to complete. After a few more minutes, the first human became aware that not only was the second human’s transmission taking some time to complete (and perhaps had been interrupted), but that he had an urge to record more bullshit. And so he did.</p><p>By the time the first human had another recording to share, the second human had completed his transmission, and in fact had a record of his own to share. It was a collage, a juxtaposition: the original recording with new layers. The first human was shocked and delighted. This was beginning to sound like music. Now he saw the pattern - a friendly back-and-forth volley.</p><p>This volley continued until the juxtapositions began to form a landscape with features. There were ugly, unexplainable crags and crannies, but also breathtaking vistas and soothing curves. The humans looked and listened upon this landscape with the awe and terror of a space traveler stranded on a remote beach, unsure of what it meant or where to go next, but grateful to be surrounded by grotesque beauty and eager to explore.</p>",
+    notes: "<p>It began with failure.</p><p>Both humans had, at different times, come into ownership of the same model of a powered synthesizer enclosure. At different times, the power supply of either enclosure failed in identical fashion. The second time, the steward of the enclosure discovered that the power supply had, in fact, not completely failed. It could still deliver some power, albeit at an attenuated amperage. Perhaps as a test, perhaps enthused at the novelty of the small enclosure, perhaps simply to amuse himself, he assembled a nonsensical menagerie of modules.</p><p>The human then proceeded to record similarly nonsensical sounds. He doubted they were musical. They did contain rhythms, tones, things that repeat, but no more than household or industrial appliances. No logic or aesthetics he knew of applied. They were low-fidelity but not enough to be charming. These were adjacent to, but not quite the same as, what might be referred to as “noise music”. At times something resembling a melody or a chord would appear, but short-lived and unsupported. He didn't know what to do with this, but he was having fun, so he forged ahead.</p><p>After indulging a compulsion to record, the first human decided to share a few minutes of this with the second human. The second human was not sure what to make of this. Out of mutual respect, he attempted to phrase a diplomatic and critically constructive suggestion. He introduced this suggestion. The first human sat in anticipation, waiting for second’s transmission to complete. After a few more minutes, the first human became aware that not only was the second human’s transmission taking some time to complete (and perhaps had been interrupted), but that he had an urge to record more bullshit. And so he did.</p><p>By the time the first human had another recording to share, the second human had completed his transmission, and in fact had a record of his own to share. It was a collage, a juxtaposition: the original recording with new layers. The first human was shocked and delighted. This was beginning to sound like music. Now he saw the pattern - a friendly back-and-forth volley.</p><p>This volley continued until the juxtapositions began to form a landscape with features. There were ugly, unexplainable crags and crannies, but also breathtaking vistas and soothing curves. The humans looked and listened upon this landscape with the awe and terror of a space traveler stranded on a remote beach, unsure of what it meant or where to go next, but grateful to be surrounded by grotesque beauty and eager to explore.</p>",
     credits: "<p>Laws & Etters, mmxxi</p>",
     project_slug: "sidereal-lobby",
     release_slug: "beaches",
