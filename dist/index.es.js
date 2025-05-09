@@ -87,9 +87,7 @@ const e = [
     label: "Intertext",
     mp3: !0,
     wav: !0,
-    monospaceNotes: !0,
-    notes: `<pre>we are a special interest group. we have special interests. william basinski. and cathal. and are all geographically aligned with SF except me. and cathal. we are very normal.
-</pre>`,
+    notes: "<p>we are a special interest group. we have special interests. william basinski. and cathal. and are all geographically aligned with SF except me. and cathal. we are very normal.</p>",
     tracks: [
       {
         number: 1,
