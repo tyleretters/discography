@@ -23,7 +23,7 @@
 - `git add . && git commit -m "++" && git push origin main`
 - QA: [https://github.com/tyleretters/discography](https://github.com/tyleretters/discography)
 - `npm version patch`
-- `npm publish --otp=<via_1password>`
+- `npm publish`
 
 ## Downstream Implementations
 
