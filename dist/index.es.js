@@ -78,6 +78,49 @@ const e = [
     id: "389a66929bdfbefe2087976d87dad7e5"
   },
   {
+    title: "baysinski event ii world war iii",
+    project: "DJ STUXNET",
+    released: "02025-02-12",
+    type: "Mix",
+    format: "Digital",
+    role: "DJ",
+    label: "Intertext",
+    mp3: !0,
+    wav: !0,
+    monospaceNotes: !0,
+    notes: `<pre>hi
+</pre>`,
+    tracks: [
+      {
+        number: 1,
+        title: "baysinski event ii world war iii",
+        length: "00:58:35",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/baysinski-event-ii-world-war-iii/01-baysinski-event-ii-world-war-iii.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/baysinski-event-ii-world-war-iii/01-baysinski-event-ii-world-war-iii.wav",
+        id: "cbd9dc0715c1062c3f622adfd4e6ee87"
+      }
+    ],
+    streams: [
+      {
+        platform: "SoundCloud",
+        url: "https://soundcloud.com/tyleretters/dj-stuxnet-baysinski-event-ii-world-war-iii",
+        id: "ef298859c11eb64ee2682a97c7ecc1e9"
+      },
+      {
+        platform: "Untitled Stream",
+        url: "https://untitled.stream/library/project/dLJcDbarlGPJQM1YmQ06Q",
+        id: "d27842fa950ca70871908f4bfa3d62f7"
+      }
+    ],
+    credits: "<p>STUXNET is Tyler Etters.</p>",
+    project_slug: "dj-stuxnet",
+    release_slug: "baysinski-event-ii-world-war-iii",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/baysinski-event-ii-world-war-iii/baysinski-event-ii-world-war-iii.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/baysinski-event-ii-world-war-iii/baysinski-event-ii-world-war-iii-mp3.zip",
+    wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/baysinski-event-ii-world-war-iii/baysinski-event-ii-world-war-iii-wav.zip",
+    id: "da42e11aaee4006f8b48e9a385bcc126"
+  },
+  {
     title: "FOXFIRES / KYBALION",
     project: "STUXNET",
     released: "02025-02-10",

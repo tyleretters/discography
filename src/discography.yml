@@ -40,6 +40,29 @@
   notes: https://nor.the-rn.info/rm_ation/2025/03/23/elegies-for-ashley/
   credits: STUXNET is Tyler Etters.
 
+- title: baysinski event ii world war iii
+  project: DJ STUXNET
+  released: 02025-02-12
+  type: Mix
+  format: Digital
+  role: DJ
+  label: Intertext
+  mp3: true
+  wav: true
+  monospaceNotes: true
+  notes: |
+    hi
+  tracks:
+    - number: 1
+      title: baysinski event ii world war iii
+      length: 00:58:35
+  streams:
+    - platform: SoundCloud
+      url: https://soundcloud.com/tyleretters/dj-stuxnet-baysinski-event-ii-world-war-iii
+    - platform: Untitled Stream
+      url: https://untitled.stream/library/project/dLJcDbarlGPJQM1YmQ06Q
+  credits: STUXNET is Tyler Etters.
+
 - title: FOXFIRES / KYBALION
   project: STUXNET
   released: 02025-02-10
