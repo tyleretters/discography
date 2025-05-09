@@ -1,5 +1,113 @@
 const e = [
   {
+    title: "A report on our findings",
+    project: "Northern Information",
+    released: "02025-05-08",
+    type: "LP",
+    format: "Digital",
+    role: "Band Member",
+    label: "Intertext",
+    mp3: !0,
+    wav: !0,
+    tracks: [
+      {
+        number: 1,
+        title: "Scorched Earth x Kyle Church",
+        length: "00:04:20",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/northern-information/a-report-on-our-findings/01-scorched-earth-x-kyle-church.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/northern-information/a-report-on-our-findings/01-scorched-earth-x-kyle-church.wav",
+        id: "93f33bb5babea874621112ae7a92907c"
+      },
+      {
+        number: 2,
+        title: "Half Hidden Algae Bloom x McNUG",
+        length: "00:07:02",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/northern-information/a-report-on-our-findings/02-half-hidden-algae-bloom-x-mcnug.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/northern-information/a-report-on-our-findings/02-half-hidden-algae-bloom-x-mcnug.wav",
+        id: "0f04d1b9b3246d10b82c0fa27d2811c6"
+      },
+      {
+        number: 3,
+        title: "Pod Song (Obibe's Tale) x helen_g",
+        length: "00:03:46",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/northern-information/a-report-on-our-findings/03-pod-song-obibes-tale-x-heleng.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/northern-information/a-report-on-our-findings/03-pod-song-obibes-tale-x-heleng.wav",
+        id: "af445630079720c524b97dd6d198bab7"
+      },
+      {
+        number: 4,
+        title: "x Dani Derks",
+        length: "00:06:33",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/northern-information/a-report-on-our-findings/04-x-dani-derks.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/northern-information/a-report-on-our-findings/04-x-dani-derks.wav",
+        id: "38ea962b13b72cfc8ac8e19941544983"
+      },
+      {
+        number: 5,
+        title: "Time Tunnel x Jano.987",
+        length: "00:03:03",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/northern-information/a-report-on-our-findings/05-time-tunnel-x-jano987.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/northern-information/a-report-on-our-findings/05-time-tunnel-x-jano987.wav",
+        id: "eb5f26c549e5345a03abbf10073877d6"
+      },
+      {
+        number: 6,
+        title: "Kompromat x DJ John Lovetron",
+        length: "00:04:03",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/northern-information/a-report-on-our-findings/06-kompromat-x-dj-john-lovetron.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/northern-information/a-report-on-our-findings/06-kompromat-x-dj-john-lovetron.wav",
+        id: "f62f82e197dfafa3c2bd78378d073871"
+      },
+      {
+        number: 7,
+        title: "Rewilding x postsolarpunk",
+        length: "00:05:06",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/northern-information/a-report-on-our-findings/07-rewilding-x-postsolarpunk.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/northern-information/a-report-on-our-findings/07-rewilding-x-postsolarpunk.wav",
+        id: "119e9ffd8e6139d95b051c17a83c178b"
+      },
+      {
+        number: 8,
+        title: "Deram x license",
+        length: "00:06:39",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/northern-information/a-report-on-our-findings/08-deram-x-license.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/northern-information/a-report-on-our-findings/08-deram-x-license.wav",
+        id: "154bf0613f62b3283d1397540e09c61d"
+      },
+      {
+        number: 9,
+        title: "Hempishere Sync x Tony MF",
+        length: "00:03:17",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/northern-information/a-report-on-our-findings/09-hempishere-sync-x-tony-mf.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/northern-information/a-report-on-our-findings/09-hempishere-sync-x-tony-mf.wav",
+        id: "16bf757b3c0cfe98ea0324dbcbccf202"
+      },
+      {
+        number: 10,
+        title: "MKULTRA x Alex Mathiesen",
+        length: "00:04:15",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/northern-information/a-report-on-our-findings/10-mkultra-x-alex-mathiesen.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/northern-information/a-report-on-our-findings/10-mkultra-x-alex-mathiesen.wav",
+        id: "cb5d655bd805b3e34c627deaa42d5a31"
+      }
+    ],
+    streams: [
+      {
+        platform: "Bandcamp",
+        url: "https://northerninformation.bandcamp.com/album/a-report-on-our-findings",
+        id: "99e0c2ba79229ce2ccc09f9458dc3adf"
+      }
+    ],
+    notes: "<p>Recovery of human-anchored time reprogramming module begin. Heartbeat synchronization oscillator OK. Sodium chloride levels OK.</p><p>Digital twin, where to begin, scroll to the bottom, melt into air. Lunatic vector, keep it together, memory failure, world repair.</p><p>Sensor data exceeds instrument maximum 999 days. Subject markers found in multiple parallel streams post Baysinski Event. Parallel timeline harmonization commence.</p><p>Ancestor arpeggiation, carrier wave evasion, body without organs, open from other side. Sea is mother, bones are brothers, mouth to mouth knowledge, out with the tide.</p><p>Distributed consensus failure identified. Sharded memory storage unable to complete self-repair operation. ʟᴇᴠɪᴀᴛʜᴀɴ n-dimensional defragmentation protocol initiated.</p><p>Plate subduction, callback function, fog of war, cyclical time. Context collapse, territory/map, synchronized breathing, now that you're mine.</p><p>Compromised elements nullified / integrated. Archival and on-line access restored. Subject vessel resuming boot using modified kernel.</p><p>Time of our lives, opening wide, gaze of the other, sooner is best. Scattering ashes, everything passes, tell me a story, into the west.</p><p>Health checks OK. Logging resilience function improvements for generalized deployment.</p>",
+    credits: "<p>Music: Tyler Etters, Kyle Church, McNUG, helen_g, Dani Derks, Jano.987, DJ John Lovetron, postsolarpunk, license, Tony MF, Alex Mathiesen.</p><p>Title: RGB</p><p>Art: DJ Meisner</p><p>Words: Cory Salveson</p>",
+    project_slug: "northern-information",
+    release_slug: "a-report-on-our-findings",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/northern-information/a-report-on-our-findings/a-report-on-our-findings.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/northern-information/a-report-on-our-findings/a-report-on-our-findings-mp3.zip",
+    wav_url: "https://d107e1o0dn11sc.cloudfront.net/northern-information/a-report-on-our-findings/a-report-on-our-findings-wav.zip",
+    id: "5408392f561c7758b446f0942e986a80"
+  },
+  {
     title: "DISSOLUTION",
     project: "DJ STUXNET",
     released: "02025-04-05",
@@ -2907,8 +3015,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
       {
         number: 2,
         title: "Living Numbers",
-        length: "00:04:39 video",
-        id: "4b621a7e2447e48dee037cf25b57131b"
+        length: "00:04:39",
+        id: "51bc0c4d745d69d018c96aa3a2b83e7e"
       },
       {
         number: 3,

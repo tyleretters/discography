@@ -1,3 +1,62 @@
+- title: A report on our findings
+  project: Northern Information
+  released: 02025-05-08
+  type: LP
+  format: Digital
+  role: Band Member
+  label: Intertext
+  mp3: true
+  wav: true
+  tracks:
+    - number: 1
+      title: Scorched Earth x Kyle Church
+      length: 00:04:20
+    - number: 2
+      title: Half Hidden Algae Bloom x McNUG
+      length: 00:07:02
+    - number: 3
+      title: Pod Song (Obibe's Tale) x helen_g
+      length: 00:03:46
+    - number: 4
+      title: x Dani Derks
+      length: 00:06:33
+    - number: 5
+      title: Time Tunnel x Jano.987
+      length: 00:03:03
+    - number: 6
+      title: Kompromat x DJ John Lovetron
+      length: 00:04:03
+    - number: 7
+      title: Rewilding x postsolarpunk
+      length: 00:05:06
+    - number: 8
+      title: Deram x license
+      length: 00:06:39
+    - number: 9
+      title: Hempishere Sync x Tony MF
+      length: 00:03:17
+    - number: 10
+      title: MKULTRA x Alex Mathiesen
+      length: 00:04:15
+  streams:
+    - platform: Bandcamp
+      url: https://northerninformation.bandcamp.com/album/a-report-on-our-findings
+  notes: |
+    Recovery of human-anchored time reprogramming module begin. Heartbeat synchronization oscillator OK. Sodium chloride levels OK.
+    Digital twin, where to begin, scroll to the bottom, melt into air. Lunatic vector, keep it together, memory failure, world repair.
+    Sensor data exceeds instrument maximum 999 days. Subject markers found in multiple parallel streams post Baysinski Event. Parallel timeline harmonization commence.
+    Ancestor arpeggiation, carrier wave evasion, body without organs, open from other side. Sea is mother, bones are brothers, mouth to mouth knowledge, out with the tide.
+    Distributed consensus failure identified. Sharded memory storage unable to complete self-repair operation. ʟᴇᴠɪᴀᴛʜᴀɴ n-dimensional defragmentation protocol initiated.
+    Plate subduction, callback function, fog of war, cyclical time. Context collapse, territory/map, synchronized breathing, now that you're mine.
+    Compromised elements nullified / integrated. Archival and on-line access restored. Subject vessel resuming boot using modified kernel.
+    Time of our lives, opening wide, gaze of the other, sooner is best. Scattering ashes, everything passes, tell me a story, into the west.
+    Health checks OK. Logging resilience function improvements for generalized deployment.
+  credits: |
+    Music: Tyler Etters, Kyle Church, McNUG, helen_g, Dani Derks, Jano.987, DJ John Lovetron, postsolarpunk, license, Tony MF, Alex Mathiesen.
+    Title: RGB
+    Art: DJ Meisner
+    Words: Cory Salveson
+
 - title: DISSOLUTION
   project: DJ STUXNET
   released: 02025-04-05
@@ -1502,7 +1561,7 @@
       length: 00:02:15
     - number: 2
       title: Living Numbers
-      length: 00:04:39 video
+      length: 00:04:39
     - number: 3
       title: death is the only way out of the information age
       length: 00:01:29
