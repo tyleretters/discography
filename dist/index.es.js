@@ -13,9 +13,9 @@ const e = [
       {
         number: 1,
         title: "Brooklyn Vengeance",
-        length: "00:60:401",
+        length: "00:60:01",
         mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/brooklyn-vengeance/01-brooklyn-vengeance.mp3",
-        id: "79ce40c2132ef9f2b8f3c5cc918ec24c"
+        id: "a1ec1ebd647945582f5df8d3656eccbc"
       }
     ],
     streams: [
