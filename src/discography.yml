@@ -1,3 +1,28 @@
+- title: Brookly Vengeance
+  project: DJ STUXNET
+  released: 02025-05-31
+  type: Mix
+  format: Digital
+  role: DJ
+  label: Intertext
+  mp3: true
+  wav: false
+  tracks:
+    - number: 1
+      title: Brooklyn Vengeance
+      length: 00:60:401
+  streams:
+    - platform: SoundCloud
+      url: https://soundcloud.com/tyleretters/brooklyn-vengeance
+    - platform: Untitled Stream
+      url: https://untitled.stream/library/project/9j3H5W8o7usQQYWnLI3Yg
+  notes: |
+    Songs I discovered or listened to during my 2025 trip to New York City. Alas, Caroline's stuff got stolen so the original artwork is gone. This shot is from a roll of Kodak Ektachrome E100. I was on Grand Street in Williamsburg, Brooklyn.
+    For Megan, Alena, Kelsey, Arjan, Randall, Ben, Hugh, Austin, Charmaine, and Caroline.
+    I will return.
+    I promise.
+  credits: STUXNET is Tyler Etters.
+
 - title: A report on our findings
   project: Northern Information
   released: 02025-05-08

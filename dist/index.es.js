@@ -1,5 +1,44 @@
 const e = [
   {
+    title: "Brookly Vengeance",
+    project: "DJ STUXNET",
+    released: "02025-05-31",
+    type: "Mix",
+    format: "Digital",
+    role: "DJ",
+    label: "Intertext",
+    mp3: !0,
+    wav: !1,
+    tracks: [
+      {
+        number: 1,
+        title: "Brooklyn Vengeance",
+        length: "00:60:401",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/brookly-vengeance/01-brooklyn-vengeance.mp3",
+        id: "a8949a182fc62841aeaf86f0679112da"
+      }
+    ],
+    streams: [
+      {
+        platform: "SoundCloud",
+        url: "https://soundcloud.com/tyleretters/brooklyn-vengeance",
+        id: "95b6a67b36b8c8c43624721d435adf26"
+      },
+      {
+        platform: "Untitled Stream",
+        url: "https://untitled.stream/library/project/9j3H5W8o7usQQYWnLI3Yg",
+        id: "903314ec3440dc582402692b8338fdae"
+      }
+    ],
+    notes: "<p>Songs I discovered or listened to during my 2025 trip to New York City. Alas, Caroline's stuff got stolen so the original artwork is gone. This shot is from a roll of Kodak Ektachrome E100. I was on Grand Street in Williamsburg, Brooklyn.</p><p>For Megan, Alena, Kelsey, Arjan, Randall, Ben, Hugh, Austin, Charmaine, and Caroline.</p><p>I will return.</p><p>I promise.</p>",
+    credits: "<p>STUXNET is Tyler Etters.</p>",
+    project_slug: "dj-stuxnet",
+    release_slug: "brookly-vengeance",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/brookly-vengeance/brookly-vengeance.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/brookly-vengeance/brookly-vengeance-mp3.zip",
+    id: "603f6d8e5436c620d0aca88227078c87"
+  },
+  {
     title: "A report on our findings",
     project: "Northern Information",
     released: "02025-05-08",
