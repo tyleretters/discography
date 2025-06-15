@@ -1,5 +1,87 @@
 const e = [
   {
+    title: "midwest_sad, part 2",
+    project: "DJ STUXNET",
+    released: "02025-06-14",
+    type: "Mix",
+    format: "Digital",
+    role: "DJ",
+    label: "Intertext",
+    mp3: !0,
+    wav: !0,
+    tracks: [
+      {
+        number: 1,
+        title: "midwest_sad, part 2",
+        length: "00:59:25",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/midwestsad-part-2/01-midwestsad-part-2.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/midwestsad-part-2/01-midwestsad-part-2.wav",
+        id: "923a29b1e326f3cd49589cf2a359ad8c"
+      }
+    ],
+    streams: [
+      {
+        platform: "SoundCloud",
+        url: "https://soundcloud.com/tyleretters/midwest-sad-part-2",
+        id: "c2994374ee9c1a86c0bd620cf01e86b6"
+      },
+      {
+        platform: "Untitled Stream",
+        url: "https://untitled.stream/library/project/I1BQS4lOiZu2EUiKqXRPQ",
+        id: "6fdb7bb917462e0a7e7c53fb2aa1b1b1"
+      }
+    ],
+    notes: "<p>Woah-oh-oh-oh, oh-oh-oh, oh-oh-oh.</p><p>Woah-oh-oh-oh, oh-oh-oh, oh-oh-oh.</p><p>Woah-oh-oh-oh, oh-oh-oh, oh-oh-oh.</p><p>Woah-oh-oh-oh, oh-oh-oh, oh-oh-oh.</p><p>Now, we're coming home.</p>",
+    credits: "<p>STUXNET is Tyler Etters.</p>",
+    project_slug: "dj-stuxnet",
+    release_slug: "midwestsad-part-2",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/midwestsad-part-2/midwestsad-part-2.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/midwestsad-part-2/midwestsad-part-2-mp3.zip",
+    wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/midwestsad-part-2/midwestsad-part-2-wav.zip",
+    id: "4fc7ab2679a9ad08b467b9a440393dda"
+  },
+  {
+    title: "midwest_sad, part 1",
+    project: "DJ STUXNET",
+    released: "02025-06-14",
+    type: "Mix",
+    format: "Digital",
+    role: "DJ",
+    label: "Intertext",
+    mp3: !0,
+    wav: !0,
+    tracks: [
+      {
+        number: 1,
+        title: "midwest_sad, part 1",
+        length: "00:59:18",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/midwestsad-part-1/01-midwestsad-part-1.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/midwestsad-part-1/01-midwestsad-part-1.wav",
+        id: "192eb77b0c6277b9119b88d2ae48edd2"
+      }
+    ],
+    streams: [
+      {
+        platform: "SoundCloud",
+        url: "https://soundcloud.com/tyleretters/midwest-sad-part-1",
+        id: "6896b2c1ab7dda389468f320f1bf4118"
+      },
+      {
+        platform: "Untitled Stream",
+        url: "https://untitled.stream/library/project/lYBChFUYCuureLWbUKfye",
+        id: "54b0a90b7df6de62126bbdb962c04b8d"
+      }
+    ],
+    notes: `<p>If "you had to be there" then I wouldn't have made this mixtape. It was a very specific time and place. But the music we played was just "music" to me. It would be years later until I learned that it was all actually emo, midwest-emo, screamo, hardcore, metalcore, progressive... It was folk music for us, right? So we start in the midwest. Appleseed Cast (Kansas) then over to Dr. Manhattan (Illinois), The Felix Culpa (also Illinois), and then a bit less underground when we climb the Seer's Tower with Mr. Stevens. It goes on from there. This is a time capsule. This is midwest_sad, part 1. Man your own jackhammer.</p>`,
+    credits: "<p>STUXNET is Tyler Etters.</p>",
+    project_slug: "dj-stuxnet",
+    release_slug: "midwestsad-part-1",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/midwestsad-part-1/midwestsad-part-1.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/midwestsad-part-1/midwestsad-part-1-mp3.zip",
+    wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/midwestsad-part-1/midwestsad-part-1-wav.zip",
+    id: "f2ea2edfac50b70916a9e58cb68f7616"
+  },
+  {
     title: "Brooklyn Vengeance",
     project: "DJ STUXNET",
     released: "02025-05-31",
