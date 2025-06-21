@@ -1,5 +1,46 @@
 const e = [
   {
+    title: "Psalms",
+    project: "DJ STUXNET",
+    released: "02025-06-21",
+    type: "Mix",
+    format: "Digital",
+    role: "DJ",
+    label: "Intertext",
+    mp3: !0,
+    wav: !0,
+    tracks: [
+      {
+        number: 1,
+        title: "Psalms",
+        length: "00:59:05",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/psalms/01-psalms.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/psalms/01-psalms.wav",
+        id: "e3c6cb36bdc091126e04bec45adfffde"
+      }
+    ],
+    streams: [
+      {
+        platform: "SoundCloud",
+        url: "https://soundcloud.com/tyleretters/psalms-mixtape",
+        id: "d43630e61fc2d96caed8fc62d99ce4dc"
+      },
+      {
+        platform: "Untitled Stream",
+        url: "https://untitled.stream/library/project/fRlbR5AXIJx2koZdvkXAr",
+        id: "e006d2a7274d26292c433c0e97d71717"
+      }
+    ],
+    notes: "<p>Message of the blowing wind</p><p>Erasing memories</p><p>Stars are the witnesses of our existence</p><p>Change is what the world awaits</p><p>Could that be peace or war?</p><p>The answer no one knows</p><p>Trusting the break of dawn</p><p>The blue bird flies away</p><p></p><p>Summer solstice releases have long been a sacred tradition for me. And these are some of my most sacred psalms. I've been curating the candidates for roughly twenty years and on the finalizing the list for roughly five. It's all from JRPG & anime OSTs. May it inspire you as much as it does me.</p>",
+    credits: "<p>STUXNET is Tyler Etters.</p>",
+    project_slug: "dj-stuxnet",
+    release_slug: "psalms",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/psalms/psalms.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/psalms/psalms-mp3.zip",
+    wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/psalms/psalms-wav.zip",
+    id: "15cb263522d9660a57d73bf28c2ee0ac"
+  },
+  {
     title: "midwest sad, part 2",
     project: "DJ STUXNET",
     released: "02025-06-14",
@@ -268,7 +309,7 @@ const e = [
     id: "d97b5a7b1f6912df2d48e6b3cbf5ee3b"
   },
   {
-    title: "Elegies for Ashley",
+    title: "ELEGIES FOR ASHLEY",
     project: "DJ STUXNET",
     released: "02025-03-23",
     type: "Mix",
@@ -280,22 +321,22 @@ const e = [
     tracks: [
       {
         number: 1,
-        title: "Elegies for Ashley",
+        title: "ELEGIES FOR ASHLEY",
         length: "00:58:16",
         mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/elegies-for-ashley/01-elegies-for-ashley.mp3",
-        id: "5e92772836a6a580190983b0b304c8e0"
+        id: "a538224f2ba309ea07fe2e247bbcf341"
       }
     ],
     streams: [
       {
         platform: "SoundCloud",
         url: "https://soundcloud.com/tyleretters/elegies-for-ashley",
-        id: "1b553d2c79050e934a7cb3e38289ced0"
+        id: "cd960fac0cc27a30060ec32bc04764ef"
       },
       {
         platform: "Untitled Stream",
         url: "https://untitled.stream/library/project/551pFVchyvDHMZmdlCjMg",
-        id: "b5950715304226adbd80e70098de6ddd"
+        id: "4c0d0f639a84cfc7fb94501a02e20cba"
       }
     ],
     notes: "<p>https://nor.the-rn.info/rm_ation/2025/03/23/elegies-for-ashley/</p>",
@@ -304,7 +345,7 @@ const e = [
     release_slug: "elegies-for-ashley",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/elegies-for-ashley/elegies-for-ashley.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/elegies-for-ashley/elegies-for-ashley-mp3.zip",
-    id: "389a66929bdfbefe2087976d87dad7e5"
+    id: "28a37f9d7721d8a41de460e993679e14"
   },
   {
     title: "baysinski event ii world war iii",

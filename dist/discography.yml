@@ -1,3 +1,35 @@
+- title: Psalms
+  project: DJ STUXNET
+  released: 02025-06-21
+  type: Mix
+  format: Digital
+  role: DJ
+  label: Intertext
+  mp3: true
+  wav: true
+  tracks:
+    - number: 1
+      title: Psalms
+      length: 00:59:05
+  streams:
+    - platform: SoundCloud
+      url: https://soundcloud.com/tyleretters/psalms-mixtape
+    - platform: Untitled Stream
+      url: https://untitled.stream/library/project/fRlbR5AXIJx2koZdvkXAr
+  notes: |
+    Message of the blowing wind
+    Erasing memories
+    Stars are the witnesses of our existence
+    Change is what the world awaits
+    Could that be peace or war?
+    The answer no one knows
+    Trusting the break of dawn
+    The blue bird flies away
+
+    Summer solstice releases have long been a sacred tradition for me. And these are some of my most sacred psalms. I've been curating the candidates for roughly twenty years and on the finalizing the list for roughly five. It's all from JRPG & anime OSTs. May it inspire you as much as it does me.
+
+  credits: STUXNET is Tyler Etters.
+
 - title: midwest sad, part 2
   project: DJ STUXNET
   released: 02025-06-14
@@ -150,7 +182,7 @@
   notes: For Sage.
   credits: STUXNET is Tyler Etters.
 
-- title: Elegies for Ashley
+- title: ELEGIES FOR ASHLEY
   project: DJ STUXNET
   released: 02025-03-23
   type: Mix
@@ -161,7 +193,7 @@
   wav: false
   tracks:
     - number: 1
-      title: Elegies for Ashley
+      title: ELEGIES FOR ASHLEY
       length: 00:58:16
   streams:
     - platform: SoundCloud

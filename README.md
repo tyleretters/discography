@@ -19,7 +19,7 @@
 ## Updating & Publishing
 
 - Update `./src/discography.yml`
-- `npm run convert && npm run build` (convert yml to ts & build dist ready js)
+- `npm run build` (convert yml to ts & build dist ready js)
 - `git add . && git commit -m "++" && git push origin main`
 - QA: [https://github.com/tyleretters/discography](https://github.com/tyleretters/discography)
 - `npm version patch`
