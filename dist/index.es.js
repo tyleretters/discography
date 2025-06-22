@@ -27,6 +27,13 @@ const e = [
         id: "58e58ad8135cedf6bec824344e381eb8"
       }
     ],
+    streams: [
+      {
+        platform: "Untitled Stream",
+        url: "https://untitled.stream/library/project/OC8BNzlxYR75rr8lYxm4V",
+        id: "cf9f1dd82cfed6e6ed2b546413e8444b"
+      }
+    ],
     notes: "<p>THE VULGAR FRACTIONS ARE ENDLESS.</p>",
     credits: "<p>STUXNET IS TYLER ETTERS.</p>",
     project_slug: "stuxnet",
