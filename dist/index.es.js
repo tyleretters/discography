@@ -1,5 +1,181 @@
 const e = [
   {
+    title: "THE VULGAR FRACTIONS: WALKAWAY / HAILSTONE NUMBERS",
+    project: "STUXNET",
+    released: "02025-06-21",
+    type: "EP",
+    format: "Digital",
+    role: "Operator",
+    label: "Intertext",
+    mp3: !0,
+    wav: !0,
+    tracks: [
+      {
+        number: 1,
+        title: "WALKAWAY",
+        length: "00:05:46",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-walkaway-hailstone-numbers/01-walkaway.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-walkaway-hailstone-numbers/01-walkaway.wav",
+        id: "6e62b2b3aabea744e8305409c7d0e696"
+      },
+      {
+        number: 2,
+        title: "HAILSTONE NUMBERS",
+        length: "00:02:42",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-walkaway-hailstone-numbers/02-hailstone-numbers.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-walkaway-hailstone-numbers/02-hailstone-numbers.wav",
+        id: "58e58ad8135cedf6bec824344e381eb8"
+      }
+    ],
+    streams: [
+      {
+        platform: "Bandcamp",
+        url: "https://stuxnet.bandcamp.com/album/the-vulgar-fractions-",
+        id: "462fde4e3e72f60c6729dcffc65c7487"
+      }
+    ],
+    notes: "<p></p>",
+    credits: "<p>STUXNET is Tyler Etters.</p>",
+    project_slug: "stuxnet",
+    release_slug: "the-vulgar-fractions-walkaway-hailstone-numbers",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-walkaway-hailstone-numbers/the-vulgar-fractions-walkaway-hailstone-numbers.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-walkaway-hailstone-numbers/the-vulgar-fractions-walkaway-hailstone-numbers-mp3.zip",
+    wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-walkaway-hailstone-numbers/the-vulgar-fractions-walkaway-hailstone-numbers-wav.zip",
+    id: "3dbf7f105be1c39583bc351bff5ed98e"
+  },
+  {
+    title: "THE VULGAR FRACTIONS: COLD WARS / HYPERSTITION",
+    project: "STUXNET",
+    released: "02025-06-21",
+    type: "EP",
+    format: "Digital",
+    role: "Operator",
+    label: "Intertext",
+    mp3: !0,
+    wav: !0,
+    tracks: [
+      {
+        number: 1,
+        title: "COLD WARS",
+        length: "00:03:26",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-cold-wars-hyperstition/01-cold-wars.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-cold-wars-hyperstition/01-cold-wars.wav",
+        id: "8347e119c42b78accf4122ace0acc82e"
+      },
+      {
+        number: 2,
+        title: "HYPERSTITION",
+        length: "00:03:08",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-cold-wars-hyperstition/02-hyperstition.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-cold-wars-hyperstition/02-hyperstition.wav",
+        id: "65d54968de47e7c45c8a54f0c84a7b0b"
+      }
+    ],
+    streams: [
+      {
+        platform: "Bandcamp",
+        url: "https://stuxnet.bandcamp.com/album/the-vulgar-fractions-",
+        id: "c6cb24641a5a0fb1b9231cbf0abef570"
+      }
+    ],
+    notes: "<p></p>",
+    credits: "<p>STUXNET is Tyler Etters.</p>",
+    project_slug: "stuxnet",
+    release_slug: "the-vulgar-fractions-cold-wars-hyperstition",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-cold-wars-hyperstition/the-vulgar-fractions-cold-wars-hyperstition.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-cold-wars-hyperstition/the-vulgar-fractions-cold-wars-hyperstition-mp3.zip",
+    wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-cold-wars-hyperstition/the-vulgar-fractions-cold-wars-hyperstition-wav.zip",
+    id: "5de1449b65eba77b6a403186b7a0369e"
+  },
+  {
+    title: "THE VULGAR FRACTIONS: ERROR BOUNDARY / INLAND EMPIRES",
+    project: "STUXNET",
+    released: "02025-06-21",
+    type: "EP",
+    format: "Digital",
+    role: "Operator",
+    label: "Intertext",
+    mp3: !0,
+    wav: !0,
+    tracks: [
+      {
+        number: 1,
+        title: "ERROR BOUNDARY",
+        length: "00:03:16",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-error-boundary-inland-empires/01-error-boundary.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-error-boundary-inland-empires/01-error-boundary.wav",
+        id: "4811b8c36d34e392d836923a80bf7e50"
+      },
+      {
+        number: 2,
+        title: "INLAND EMPIRES",
+        length: "00:04:54",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-error-boundary-inland-empires/02-inland-empires.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-error-boundary-inland-empires/02-inland-empires.wav",
+        id: "7b10b31f89bbc2796c79e486ccc17be0"
+      }
+    ],
+    streams: [
+      {
+        platform: "Bandcamp",
+        url: "https://stuxnet.bandcamp.com/album/the-vulgar-fractions-",
+        id: "75367db33543eb90fd6652fae8eb3e3a"
+      }
+    ],
+    notes: "<p></p>",
+    credits: "<p>STUXNET is Tyler Etters.</p>",
+    project_slug: "stuxnet",
+    release_slug: "the-vulgar-fractions-error-boundary-inland-empires",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-error-boundary-inland-empires/the-vulgar-fractions-error-boundary-inland-empires.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-error-boundary-inland-empires/the-vulgar-fractions-error-boundary-inland-empires-mp3.zip",
+    wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-error-boundary-inland-empires/the-vulgar-fractions-error-boundary-inland-empires-wav.zip",
+    id: "98bc2421421d0ba5b5e5b9dc19ed592f"
+  },
+  {
+    title: "THE VULGAR FRACTIONS: PINNED IN TIME LIKE BUTTERFLIES BENEATH GLASS / APOTHECARY",
+    project: "STUXNET",
+    released: "02025-06-21",
+    type: "EP",
+    format: "Digital",
+    role: "Operator",
+    label: "Intertext",
+    mp3: !0,
+    wav: !0,
+    tracks: [
+      {
+        number: 1,
+        title: "PINNED IN TIME LIKE BUTTERFLIES BENEATH GLASS",
+        length: "00:04:15",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-pinned-in-time-like-butterflies-beneath-glass-apothecary/01-pinned-in-time-like-butterflies-beneath-glass.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-pinned-in-time-like-butterflies-beneath-glass-apothecary/01-pinned-in-time-like-butterflies-beneath-glass.wav",
+        id: "7e3281bc220d7e579b47540b3420d54e"
+      },
+      {
+        number: 2,
+        title: "APOTHECARY",
+        length: "00:02:55",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-pinned-in-time-like-butterflies-beneath-glass-apothecary/02-apothecary.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-pinned-in-time-like-butterflies-beneath-glass-apothecary/02-apothecary.wav",
+        id: "c7aa3fae9726a7b08dadc1c3bc12b0e9"
+      }
+    ],
+    streams: [
+      {
+        platform: "Bandcamp",
+        url: "https://stuxnet.bandcamp.com/album/the-vulgar-fractions-",
+        id: "48e136ce22cca14293f172c3d75e7b7d"
+      }
+    ],
+    notes: "<p></p>",
+    credits: "<p>STUXNET is Tyler Etters.</p>",
+    project_slug: "stuxnet",
+    release_slug: "the-vulgar-fractions-pinned-in-time-like-butterflies-beneath-glass-apothecary",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-pinned-in-time-like-butterflies-beneath-glass-apothecary/the-vulgar-fractions-pinned-in-time-like-butterflies-beneath-glass-apothecary.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-pinned-in-time-like-butterflies-beneath-glass-apothecary/the-vulgar-fractions-pinned-in-time-like-butterflies-beneath-glass-apothecary-mp3.zip",
+    wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-pinned-in-time-like-butterflies-beneath-glass-apothecary/the-vulgar-fractions-pinned-in-time-like-butterflies-beneath-glass-apothecary-wav.zip",
+    id: "a2a3770d62a93eb6f4c0c12f7a1ab291"
+  },
+  {
     title: "Psalms",
     project: "DJ STUXNET",
     released: "02025-06-21",
