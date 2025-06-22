@@ -14,9 +14,6 @@
     - number: 2
       title: HAILSTONE NUMBERS
       length: 00:02:42
-  streams:
-    - platform: Untitled Stream
-      url: https://untitled.stream/library/project/OC8BNzlxYR75rr8lYxm4V
   notes: |
     THE VULGAR FRACTIONS ARE ENDLESS.
   credits: |
@@ -80,6 +77,9 @@
     - number: 2
       title: APOTHECARY
       length: 00:02:55
+  streams:
+    - platform: Untitled Stream
+      url: https://untitled.stream/library/project/OC8BNzlxYR75rr8lYxm4V
   notes: |
     THE VULGAR FRACTIONS ARE ENDLESS.
   credits: |

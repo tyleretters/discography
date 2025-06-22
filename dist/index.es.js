@@ -27,13 +27,6 @@ const e = [
         id: "58e58ad8135cedf6bec824344e381eb8"
       }
     ],
-    streams: [
-      {
-        platform: "Untitled Stream",
-        url: "https://untitled.stream/library/project/OC8BNzlxYR75rr8lYxm4V",
-        id: "cf9f1dd82cfed6e6ed2b546413e8444b"
-      }
-    ],
     notes: "<p>THE VULGAR FRACTIONS ARE ENDLESS.</p>",
     credits: "<p>STUXNET IS TYLER ETTERS.</p>",
     project_slug: "stuxnet",
@@ -143,6 +136,13 @@ const e = [
         mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-pinned-in-time-like-butterflies-beneath-glass-apothecary/02-apothecary.mp3",
         wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-pinned-in-time-like-butterflies-beneath-glass-apothecary/02-apothecary.wav",
         id: "c7aa3fae9726a7b08dadc1c3bc12b0e9"
+      }
+    ],
+    streams: [
+      {
+        platform: "Untitled Stream",
+        url: "https://untitled.stream/library/project/OC8BNzlxYR75rr8lYxm4V",
+        id: "f817443b517221ac61ed5a30801374ac"
       }
     ],
     notes: "<p>THE VULGAR FRACTIONS ARE ENDLESS.</p>",
