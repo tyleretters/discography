@@ -14,10 +14,15 @@
     - number: 2
       title: HAILSTONE NUMBERS
       length: 00:02:42
+  streams:
+    - platform: Bandcamp
+      url: https://stuxnet.bandcamp.com/album/the-vulgar-fractions-walkaway-hailstone-numbers
+    - platform: Untitled Stream
+      url: https://untitled.stream/library/project/WGptLbWuWcPpKO7W9cPiA
   notes: |
-    THE VULGAR FRACTIONS ARE ENDLESS.
+    THE VULGAR FRACTIONS ARE ENDLESS
   credits: |
-    STUXNET IS TYLER ETTERS.
+    STUXNET IS TYLER ETTERS
 
 - title: "THE VULGAR FRACTIONS: COLD WARS / HYPERSTITION"
   project: STUXNET
@@ -35,10 +40,15 @@
     - number: 2
       title: HYPERSTITION
       length: 00:03:08
+  streams:
+    - platform: Bandcamp
+      url: https://stuxnet.bandcamp.com/album/the-vulgar-fractions-cold-wars-hyperstition
+    - platform: Untitled Stream
+      url: https://untitled.stream/library/project/Ed5VIup60WT5ujxZ1Yh9B
   notes: |
-    THE VULGAR FRACTIONS ARE ENDLESS.
+    THE VULGAR FRACTIONS ARE ENDLESS
   credits: |
-    STUXNET IS TYLER ETTERS.
+    STUXNET IS TYLER ETTERS
 
 - title: "THE VULGAR FRACTIONS: ERROR BOUNDARY / INLAND EMPIRES"
   project: STUXNET
@@ -56,10 +66,15 @@
     - number: 2
       title: INLAND EMPIRES
       length: 00:04:54
+  streams:
+    - platform: Bandcamp
+      url: https://stuxnet.bandcamp.com/album/the-vulgar-fractions-error-boundary-inland-empires
+    - platform: Untitled Stream
+      url: https://untitled.stream/library/project/ppLRiRcOmLDpLFtbgbeXw
   notes: |
-    THE VULGAR FRACTIONS ARE ENDLESS.
+    THE VULGAR FRACTIONS ARE ENDLESS
   credits: |
-    STUXNET IS TYLER ETTERS.
+    STUXNET IS TYLER ETTERS
 
 - title: "THE VULGAR FRACTIONS: PINNED IN TIME LIKE BUTTERFLIES BENEATH GLASS / APOTHECARY"
   project: STUXNET
@@ -78,12 +93,14 @@
       title: APOTHECARY
       length: 00:02:55
   streams:
+    - platform: Bandcamp
+      url: https://stuxnet.bandcamp.com/album/the-vulgar-fractions-pinned-in-time-like-butterflies-beneath-glass-apothecary
     - platform: Untitled Stream
       url: https://untitled.stream/library/project/OC8BNzlxYR75rr8lYxm4V
   notes: |
-    THE VULGAR FRACTIONS ARE ENDLESS.
+    THE VULGAR FRACTIONS ARE ENDLESS
   credits: |
-    STUXNET IS TYLER ETTERS.
+    STUXNET IS TYLER ETTERS
 
 - title: Psalms
   project: DJ STUXNET

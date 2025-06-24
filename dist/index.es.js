@@ -27,8 +27,20 @@ const e = [
         id: "58e58ad8135cedf6bec824344e381eb8"
       }
     ],
-    notes: "<p>THE VULGAR FRACTIONS ARE ENDLESS.</p>",
-    credits: "<p>STUXNET IS TYLER ETTERS.</p>",
+    streams: [
+      {
+        platform: "Bandcamp",
+        url: "https://stuxnet.bandcamp.com/album/the-vulgar-fractions-walkaway-hailstone-numbers",
+        id: "462fde4e3e72f60c6729dcffc65c7487"
+      },
+      {
+        platform: "Untitled Stream",
+        url: "https://untitled.stream/library/project/WGptLbWuWcPpKO7W9cPiA",
+        id: "cf9f1dd82cfed6e6ed2b546413e8444b"
+      }
+    ],
+    notes: "<p>THE VULGAR FRACTIONS ARE ENDLESS</p>",
+    credits: "<p>STUXNET IS TYLER ETTERS</p>",
     project_slug: "stuxnet",
     release_slug: "the-vulgar-fractions-walkaway-hailstone-numbers",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-walkaway-hailstone-numbers/the-vulgar-fractions-walkaway-hailstone-numbers.jpg",
@@ -64,8 +76,20 @@ const e = [
         id: "65d54968de47e7c45c8a54f0c84a7b0b"
       }
     ],
-    notes: "<p>THE VULGAR FRACTIONS ARE ENDLESS.</p>",
-    credits: "<p>STUXNET IS TYLER ETTERS.</p>",
+    streams: [
+      {
+        platform: "Bandcamp",
+        url: "https://stuxnet.bandcamp.com/album/the-vulgar-fractions-cold-wars-hyperstition",
+        id: "c6cb24641a5a0fb1b9231cbf0abef570"
+      },
+      {
+        platform: "Untitled Stream",
+        url: "https://untitled.stream/library/project/Ed5VIup60WT5ujxZ1Yh9B",
+        id: "0cf3537c1d9a8e5ec472b316da5983a2"
+      }
+    ],
+    notes: "<p>THE VULGAR FRACTIONS ARE ENDLESS</p>",
+    credits: "<p>STUXNET IS TYLER ETTERS</p>",
     project_slug: "stuxnet",
     release_slug: "the-vulgar-fractions-cold-wars-hyperstition",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-cold-wars-hyperstition/the-vulgar-fractions-cold-wars-hyperstition.jpg",
@@ -101,8 +125,20 @@ const e = [
         id: "7b10b31f89bbc2796c79e486ccc17be0"
       }
     ],
-    notes: "<p>THE VULGAR FRACTIONS ARE ENDLESS.</p>",
-    credits: "<p>STUXNET IS TYLER ETTERS.</p>",
+    streams: [
+      {
+        platform: "Bandcamp",
+        url: "https://stuxnet.bandcamp.com/album/the-vulgar-fractions-error-boundary-inland-empires",
+        id: "75367db33543eb90fd6652fae8eb3e3a"
+      },
+      {
+        platform: "Untitled Stream",
+        url: "https://untitled.stream/library/project/ppLRiRcOmLDpLFtbgbeXw",
+        id: "603b4510a728a29d86e4f5067c34e1f6"
+      }
+    ],
+    notes: "<p>THE VULGAR FRACTIONS ARE ENDLESS</p>",
+    credits: "<p>STUXNET IS TYLER ETTERS</p>",
     project_slug: "stuxnet",
     release_slug: "the-vulgar-fractions-error-boundary-inland-empires",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-error-boundary-inland-empires/the-vulgar-fractions-error-boundary-inland-empires.jpg",
@@ -140,13 +176,18 @@ const e = [
     ],
     streams: [
       {
+        platform: "Bandcamp",
+        url: "https://stuxnet.bandcamp.com/album/the-vulgar-fractions-pinned-in-time-like-butterflies-beneath-glass-apothecary",
+        id: "48e136ce22cca14293f172c3d75e7b7d"
+      },
+      {
         platform: "Untitled Stream",
         url: "https://untitled.stream/library/project/OC8BNzlxYR75rr8lYxm4V",
         id: "f817443b517221ac61ed5a30801374ac"
       }
     ],
-    notes: "<p>THE VULGAR FRACTIONS ARE ENDLESS.</p>",
-    credits: "<p>STUXNET IS TYLER ETTERS.</p>",
+    notes: "<p>THE VULGAR FRACTIONS ARE ENDLESS</p>",
+    credits: "<p>STUXNET IS TYLER ETTERS</p>",
     project_slug: "stuxnet",
     release_slug: "the-vulgar-fractions-pinned-in-time-like-butterflies-beneath-glass-apothecary",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-pinned-in-time-like-butterflies-beneath-glass-apothecary/the-vulgar-fractions-pinned-in-time-like-butterflies-beneath-glass-apothecary.jpg",
