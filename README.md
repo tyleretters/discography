@@ -1,5 +1,7 @@
 # Discography of Tyler Etters
 
+[https://www.npmjs.com/package/@tyleretters/discography](https://www.npmjs.com/package/@tyleretters/discography)
+
 [![npm version](https://img.shields.io/npm/v/@tyleretters/discography)](https://www.npmjs.com/package/@tyleretters/discography)
 
 - This repo builds a canonical discography of the music of Tyler Etters.
