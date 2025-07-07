@@ -29,9 +29,24 @@ const e = [
     ],
     streams: [
       {
+        platform: "Apple Music",
+        url: "https://music.apple.com/us/album/the-vulgar-fractions-walkaway-hailstone-numbers-single/1824448084",
+        id: "6b0c4dbed94e31dffde4fb10701428c5"
+      },
+      {
         platform: "Bandcamp",
         url: "https://stuxnet.bandcamp.com/album/the-vulgar-fractions-walkaway-hailstone-numbers",
         id: "462fde4e3e72f60c6729dcffc65c7487"
+      },
+      {
+        platform: "Spotify",
+        url: "https://open.spotify.com/album/4dzMcOikxsG64esyJDO4Vv",
+        id: "ef72d8383eb217b6d37f94931b5a337d"
+      },
+      {
+        platform: "YouTube",
+        url: "https://www.youtube.com/watch?v=WaHncDswN-0&list=OLAK5uy_n_1UDmCJcViMF0_dKBNiGLZuW9YDCKYTo",
+        id: "4aeac8a56e58bc1008194e8b576ad112"
       },
       {
         platform: "Untitled Stream",
@@ -78,9 +93,24 @@ const e = [
     ],
     streams: [
       {
+        platform: "Apple Music",
+        url: "https://music.apple.com/us/album/the-vulgar-fractions-cold-wars-hyperstition-single/1824640199",
+        id: "9107c7f4f8a88030a35914b0689b17cd"
+      },
+      {
         platform: "Bandcamp",
         url: "https://stuxnet.bandcamp.com/album/the-vulgar-fractions-cold-wars-hyperstition",
         id: "c6cb24641a5a0fb1b9231cbf0abef570"
+      },
+      {
+        platform: "Spotify",
+        url: "https://open.spotify.com/album/5hlcD3uU8d0dbmqQULdlIg",
+        id: "b665d12dca161b626d8708fd59b53e7e"
+      },
+      {
+        platform: "YouTube",
+        url: "https://www.youtube.com/watch?v=in0TuVvVtM4&list=OLAK5uy_mxhSPh8sZUqmL_eGmT0BzP3qa5EK6SQRE",
+        id: "e4a368ab4e745007bf4fe13d08882c80"
       },
       {
         platform: "Untitled Stream",
@@ -127,9 +157,24 @@ const e = [
     ],
     streams: [
       {
+        platform: "Apple Music",
+        url: "https://music.apple.com/us/album/the-vulgar-fractions-error-boundary-inland-empires-single/1824448218",
+        id: "2869ba9b20ecc112ea0d9e7d4d1e258c"
+      },
+      {
         platform: "Bandcamp",
         url: "https://stuxnet.bandcamp.com/album/the-vulgar-fractions-error-boundary-inland-empires",
         id: "75367db33543eb90fd6652fae8eb3e3a"
+      },
+      {
+        platform: "Spotify",
+        url: "https://open.spotify.com/album/2gDHClmCV3sS19CRZBMfxj",
+        id: "1215981b8d427828c601da2e8208e3ef"
+      },
+      {
+        platform: "YouTube",
+        url: "https://www.youtube.com/watch?v=9vKlKb5xeFE&list=OLAK5uy_nSV710-bo0LQ0sr1OXVJf_WGOD3Xx-M1Q",
+        id: "f98ac31181c98f00243b83805c7dc05d"
       },
       {
         platform: "Untitled Stream",
@@ -176,9 +221,24 @@ const e = [
     ],
     streams: [
       {
+        platform: "Apple Music",
+        url: "https://music.apple.com/us/album/the-vulgar-fractions-pinned-in-time-like-butterflies/1824436344",
+        id: "68818f2e1e75412d8033e97e6c3b4823"
+      },
+      {
         platform: "Bandcamp",
         url: "https://stuxnet.bandcamp.com/album/the-vulgar-fractions-pinned-in-time-like-butterflies-beneath-glass-apothecary",
         id: "48e136ce22cca14293f172c3d75e7b7d"
+      },
+      {
+        platform: "Spotify",
+        url: "https://open.spotify.com/album/5hlcD3uU8d0dbmqQULdlIg",
+        id: "abc8f92f0c61a421637aa10e0aaf3422"
+      },
+      {
+        platform: "YouTube",
+        url: "https://www.youtube.com/watch?v=in0TuVvVtM4&list=OLAK5uy_mxhSPh8sZUqmL_eGmT0BzP3qa5EK6SQRE",
+        id: "7254b1e9943becc686c56f17d0319472"
       },
       {
         platform: "Untitled Stream",
@@ -451,9 +511,29 @@ const e = [
     ],
     streams: [
       {
+        platform: "Apple Music",
+        url: "https://music.apple.com/us/album/a-report-on-our-findings/1813512539",
+        id: "1d9d1ef8bd4d91e18f6f624167afc2b3"
+      },
+      {
         platform: "Bandcamp",
         url: "https://northerninformation.bandcamp.com/album/a-report-on-our-findings",
         id: "99e0c2ba79229ce2ccc09f9458dc3adf"
+      },
+      {
+        platform: "Deezer",
+        url: "https://www.deezer.com/album/754125191",
+        id: "622c84edcd90a7c90540f919fd0fc4ce"
+      },
+      {
+        platform: "Spotify",
+        url: "https://open.spotify.com/album/25hvpFd22OSW2wiGwppvkU",
+        id: "c3904677903f622ce735790904318592"
+      },
+      {
+        platform: "YouTube",
+        url: "https://www.youtube.com/watch?v=eQOVQBNpkX4&list=OLAK5uy_mXySQHBDaa8FhjtbR6cKPTSqLDrL310Fo",
+        id: "a4262714a6ca1bd8b9921caddb16eff8"
       }
     ],
     notes: "<p>Recovery of human-anchored time reprogramming module begin. Heartbeat synchronization oscillator OK. Sodium chloride levels OK.</p><p>Digital twin, where to begin, scroll to the bottom, melt into air. Lunatic vector, keep it together, memory failure, world repair.</p><p>Sensor data exceeds instrument maximum 999 days. Subject markers found in multiple parallel streams post Baysinski Event. Parallel timeline harmonization commence.</p><p>Ancestor arpeggiation, carrier wave evasion, body without organs, open from other side. Sea is mother, bones are brothers, mouth to mouth knowledge, out with the tide.</p><p>Distributed consensus failure identified. Sharded memory storage unable to complete self-repair operation. ʟᴇᴠɪᴀᴛʜᴀɴ n-dimensional defragmentation protocol initiated.</p><p>Plate subduction, callback function, fog of war, cyclical time. Context collapse, territory/map, synchronized breathing, now that you're mine.</p><p>Compromised elements nullified / integrated. Archival and on-line access restored. Subject vessel resuming boot using modified kernel.</p><p>Time of our lives, opening wide, gaze of the other, sooner is best. Scattering ashes, everything passes, tell me a story, into the west.</p><p>Health checks OK. Logging resilience function improvements for generalized deployment.</p>",
@@ -622,11 +702,6 @@ const e = [
         platform: "Deezer",
         url: "https://www.deezer.com/us/album/711748271",
         id: "ee0f5dd8e76021bd8be819b0e5da3482"
-      },
-      {
-        platform: "iHeartRadio",
-        url: "https://www.iheart.com/artist/stuxnet-610225/albums/foxfires-kybalion-313385710/",
-        id: "4a751447b36ae434833ac9608cf6a34b"
       },
       {
         platform: "Spotify",
@@ -2087,11 +2162,6 @@ const e = [
         id: "afc350233144f83d535f29f2156995ba"
       },
       {
-        platform: "iHeartRadio",
-        url: "https://www.iheart.com/artist/they-became-what-they-beheld-42962881/albums/list-of-stars-in-cancer-stream-277679332/",
-        id: "eb817cc704d3361f11f528edcae3673b"
-      },
-      {
         platform: "Spotify",
         url: "https://open.spotify.com/album/5gSOw9RxtadvemdqcV7YV2",
         id: "8035af969c201ba4b27d8763f104f66b"
@@ -2149,11 +2219,6 @@ const e = [
         platform: "Deezer",
         url: "https://www.deezer.com/us/album/605603872",
         id: "8f1ce892586f1c7ee3c3a362017aaccd"
-      },
-      {
-        platform: "iHeartRadio",
-        url: "https://www.iheart.com/artist/they-became-what-they-beheld-42962881/albums/distance-275648536/",
-        id: "3085f1ba6592fa107e80b83594b72c01"
       },
       {
         platform: "Spotify",
@@ -2236,11 +2301,6 @@ const e = [
         id: "feceffc114b10bd08d6e3cc4ed0bbaab"
       },
       {
-        platform: "iHeartRadio",
-        url: "https://www.iheart.com/artist/they-became-what-they-beheld-42962881/albums/radio-free-albemuth-271534643/",
-        id: "e07c0c4367f3cf8bbd2c96cd4a5c89af"
-      },
-      {
         platform: "Spotify",
         url: "https://open.spotify.com/album/2Omhz8B5g1VbSfqSpUkZOt",
         id: "fb767405ce042f40b7301b8379509e11"
@@ -2298,11 +2358,6 @@ const e = [
         platform: "Deezer",
         url: "https://www.deezer.com/us/album/580743841",
         id: "76e1cd89fa998b195987e62370d62952"
-      },
-      {
-        platform: "iHeartRadio",
-        url: "https://www.iheart.com/artist/they-became-what-they-beheld-42962881/albums/rocket-summer-267427350/",
-        id: "34e64d67d3028e82a310809655f26f69"
       },
       {
         platform: "Spotify",
@@ -2430,11 +2485,6 @@ const e = [
         id: "2f34d564772a0842306595f9bcf1920a"
       },
       {
-        platform: "iHeartRadio",
-        url: "https://www.iheart.com/artist/they-became-what-they-beheld-42962881/albums/ep3-277684409/",
-        id: "47c05b4df6a2bb4e85be00ccb156e291"
-      },
-      {
         platform: "Spotify",
         url: "https://open.spotify.com/album/04oITCytM0DX8HSvqDYQ8f",
         id: "5a487a2944ee5c06e4be247e8dffafc5"
@@ -2530,11 +2580,6 @@ const e = [
         id: "ff18043f7ee801fa8d2f9fff3e694d5c"
       },
       {
-        platform: "iHeartRadio",
-        url: "https://www.iheart.com/artist/stuxnet-610225/albums/in-darkness-radiant-248901298/",
-        id: "ed3dcc60590a106d377c6003aa304c45"
-      },
-      {
         platform: "Spotify",
         url: "https://open.spotify.com/album/2nLz2jO4YCQO37NVm3rM3C?si=h84wEpl0Sv6hMm3PfpSGyA",
         id: "0ef8a7425409283b4481668fdabe9f2f"
@@ -2606,6 +2651,33 @@ const e = [
         id: "3425ce3d019d9a2b4486a5b677580273"
       }
     ],
+    streams: [
+      {
+        platform: "Bandcamp",
+        url: "https://stuxnet.bandcamp.com/album/fade-scatter-replicate",
+        id: "2e2546c1c48ef32e8e06062b56ceb370"
+      },
+      {
+        platform: "Apple Music",
+        url: "https://music.apple.com/us/album/fade-scatter-replicate-ep/1678223798",
+        id: "3e293821090a3bd204cba16daf7131ae"
+      },
+      {
+        platform: "Deezer",
+        url: "https://www.deezer.com/us/album/419915087",
+        id: "de7c59b94c12661b69aad9756e6f5a1b"
+      },
+      {
+        platform: "Spotify",
+        url: "https://open.spotify.com/album/2lYuoDyy8iFJ54pGXGBBXT",
+        id: "11ed54351c3bcd161aeabe94be457121"
+      },
+      {
+        platform: "YouTube",
+        url: "https://www.youtube.com/playlist?list=OLAK5uy_kfSHFbyXXaeLYHo8gPk1NcTuRbaoBNUfY",
+        id: "014fb7e1fb8aac25fd15aca4ac74a0ec"
+      }
+    ],
     notes: `<p>Migrants are often between two worlds that do not really have a place for them: fleeing economic or political hardship and entering a place (ostensibly the U.S.) that fundamentally demands their labour yet officially outlaws them and treats them as sub-human. The coyote is doing a kind of extraordinary favor by rendering an extra-legal service, and putting themselves in harm's way to do so.</p><p>Why choose this particular job?</p><p>Perhaps because the coyote is "between," themselves. This casts them as a kind of archetypical shamanistic figure: a psychopomp, a guide of souls like Anubis, Charon, Hermes, Mercury, or Tarkovsky's Stalker. But, unlike this Jungian pantheon of tricksters, our coyote is not bound by divinity or magicks — they are a mercenary; they are bound by cash.</p><p>In Nomadology: The War Machine, Deleuze & Guattari "redefine the relation between the state and its war machine. Far from being a part of the state, warriors (the army) are nomads who always come from the outside and keep threatening the authority of the state. In the same vein, nomadic science keeps infiltrating royal science, undermining its axioms and principles. Nomadology is a speedy, pocket-sized treatise that refuses to be pinned down. Theorizing a dynamic relationship between sedentary power and schizophrenic lines of flight, this volume is meant to be read in transit, smuggled into urban nightclubs, offices, and subways."</p><p>It then follows the special economic zone is a stage for our coyote, our trickster, to turn logics and fortunes of capitalism inside out and upside down. The interior shared-self which persists through ultra time flow is, yes: dancing in place to move forward... and the special economic zone suspends the rules to incentivize a certain dancing, a particular folding back into itself to realize commerce, competition, fucking, running, transgressing, renewing.</p><p>If the trickster makes this world, it follows the mercenary makes the state.</p>`,
     credits: '<p>Précis by Cory Salveson. Music by Tyler Etters.</p><p>Selected samples: Dark Souls III, Mission: Impossible 4 — Ghost Protocol, X-Files, Metal Gear Solid, Underoath, Fortnite "Fracture" Event, Black Hawk Down.</p><p>Inspired by a trip with my mother to Tijuana, Mexico, 2022.</p><p>Album art: Midjourney prompt by John von Seggern.</p><p>For Timm.</p>',
     project_slug: "stuxnet",
@@ -2661,11 +2733,6 @@ const e = [
         platform: "Deezer",
         url: "https://www.deezer.com/us/album/611753282",
         id: "19171c86a2014f33e0dbb7af0ec47722"
-      },
-      {
-        platform: "iHeartRadio",
-        url: "https://www.iheart.com/artist/they-became-what-they-beheld-42962881/albums/ep2-277684400/",
-        id: "5e100da3eb646e22cdcc1309d3df468e"
       },
       {
         platform: "Spotify",
@@ -2904,6 +2971,33 @@ const e = [
         id: "d9b1078aadc31f8feb907ca5aa3e74bd"
       }
     ],
+    streams: [
+      {
+        platform: "Bandcamp",
+        url: "https://stuxnet.bandcamp.com/album/countersurveillance",
+        id: "a36cffa8e54b154a57629c9587cddc40"
+      },
+      {
+        platform: "Apple Music",
+        url: "https://music.apple.com/us/album/countersurveillance/1575845305",
+        id: "fdec22ca1bc0a9f29934429a1afaaa00"
+      },
+      {
+        platform: "Deezer",
+        url: "https://www.deezer.com/album/243182572",
+        id: "86a81365ec54c97b33edf707dc37d6ed"
+      },
+      {
+        platform: "Spotify",
+        url: "https://open.spotify.com/album/1Lt4XPgIYhdZDIDiCWyFKk",
+        id: "69b05a3d50987bbc37e0021ce630776b"
+      },
+      {
+        platform: "YouTube",
+        url: "https://www.youtube.com/watch?v=r88qIBmOm6Q&list=OLAK5uy_mVcyPPESa_cz6lDnxycPBa_UFbl5aLK0g",
+        id: "6a0cdd2c8b3c2fdbf4ad7ee393044f40"
+      }
+    ],
     notes: "<p>Mapcore is a viable solution for surveying the world.</p>",
     credits: '<p>COUNTERINTELLIGENCE was written, recorded, designed, and released on the STUXNET: NIGHTLY STREAMS // UNREMEMBERED DREAMS Twitch channel. While recording some of the gear blew a fuse. STUXNET is Tyler Etters.</p><p>Album art: "The Nobili-Pesavento self-replicator, with a daughter copy in the process of making a grand-daughter copy. The automaton uses the 32-state extended John von Neumann rules, based on his work on universal constructors and self-reproducing automata."</p>',
     project_slug: "stuxnet",
@@ -2997,6 +3091,33 @@ const e = [
         id: "30f9acd6b2a5762977f27468d900eecd"
       }
     ],
+    streams: [
+      {
+        platform: "Bandcamp",
+        url: "https://stuxnet.bandcamp.com/album/long-live-the-lost-ones",
+        id: "7424592ad4f89e9ae704d6d2a1dd5242"
+      },
+      {
+        platform: "Apple Music",
+        url: "https://music.apple.com/us/album/fade-scatter-replicate-ep/1678223798",
+        id: "16304075a2f573cf46a3d254f3fe34dd"
+      },
+      {
+        platform: "Deezer",
+        url: "https://www.deezer.com/album/419915087",
+        id: "e56d8199cadbff04070b438ff5b70ccf"
+      },
+      {
+        platform: "Spotify",
+        url: "https://open.spotify.com/album/2lYuoDyy8iFJ54pGXGBBXT",
+        id: "3d6c232ed0f7b699e791957840fc1711"
+      },
+      {
+        platform: "YouTube",
+        url: "https://www.youtube.com/watch?v=maPhkV6wzLk&list=OLAK5uy_kfSHFbyXXaeLYHo8gPk1NcTuRbaoBNUfY",
+        id: "26752b07ec84c622a6e757ce5a7594c7"
+      }
+    ],
     notes: "<p>Dear listener,</p><p>During the turn of the century in Chicago there was a radio station called WNRG Energy 92.7/5 . I was 12 or so and would always fall asleep listening to the likes of DJ Sammy, DJ Encore, PPK, D-Devils, Armin van Buuren, Sylver, ATC, and countless others. I pictured the radio waves blanketing Chicagoland's orange phosphorous haze from Kenosha to Kankakee; euphoric FM signals in an adjacent dimension. Compressed audio. The crackle of static. It was spiritual.</p><p>How many others were listening along with me?</p><p>How many others allowed themselves to be moved to tears in the music's rapture?</p><p>One night all the DJs were there. They kept talking and laughing and telling stories. Being a trance radio station, this was quite irregular. They were sad. Then I realized: this was the final broadcast.</p><p>LONG LIVE THE LOST ONES is a very special album for me, as the track titles may (or may not) reveal.</p><p>The melodies were mostly written while flying back and forth between Los Angeles and Chicago during that brief season Sage and I were commuter spouses. Winter 2019/2020. At the end of the old world and the threshold of the new.</p><p>With LONG LIVE THE LOST ONES, we find my nightly streams, my deep tryst for unabashedly earnest trance, and my endless experiments with lo-fi and distortion finally in conjunction. A constellation of energy, euphoria, and catharsis.</p><p>I've started having visions of people dancing together again. These visions haunt and inspire me. Perhaps one day sooner than we think, DJs will return to the decks and revelers will return to the floors.</p><p>None of us were ready for 2020. It is only now becoming clear what cultural trauma the pandemic has wrought. Scorched earths, decimated families, and shattered cultures. There is so much mourning to do.</p><p>Everything is going to be different from here out.</p><p>Once again, we must learn to dance.</p><p>Yours,</p><p>Tyler</p>",
     credits: '<p>Album title by Cory Salveson, encryption key by Matthew Marx, distress signals by Dan Derks, music by Tyler Etters.</p><p>Album art: "Kuwaiti oil wells set on fire by retreating Iraqi forces during Operation Desert Storm darken the sky with smoke, March 25, 1991. This image could have imperfections as it’s either historical or reportage."</p>',
     project_slug: "stuxnet",
@@ -3032,6 +3153,13 @@ const e = [
         mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/times-firewall-demo/02-fractals-edge.mp3",
         wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/times-firewall-demo/02-fractals-edge.wav",
         id: "23d10f8f4768e913d7c0fe955cc16b04"
+      }
+    ],
+    streams: [
+      {
+        platform: "Bandcamp",
+        url: "https://stuxnet.bandcamp.com/album/times-firewall-demo",
+        id: "22dc5c9b63d8827d839125eb966c3260"
       }
     ],
     notes: '<p>At the behest of an anonymous agent, the Northern Information Applied Sciences & Phantasms Working Division agreed to the impossible: rationalize the numogram for the post-pandemic age.</p><p>It is accepted that the numogram first manifested in the 90s via research from the CCRU. However, newly unearthed forensic evidence from The tf.nist.gov Timeserver Incident has cast a shadow of doubt on the true provenance.</p><p>After the NIAS&PWD design scientist rationalized the numogram into a mathematically pure vector format, new sonic pathways were unlocked for STUXNET. The dossier was delivered and lead to yet more revelations: the existence of what can only be described as a time firewall. And, perhaps more unsettling, "fractal edges" thereby calling into question the very foundations of topology, Euclidean space, and recursion dynamics.</p><p>Intertext formally published a request for support in understanding the implications of these twin entities on April 18, 2021.</p><p>Operator instructions: `mv numogram.txt numogram.ai`</p>',
@@ -3143,6 +3271,13 @@ const e = [
         id: "b9202085559832f47a042d7eabca7243"
       }
     ],
+    streams: [
+      {
+        platform: "Bandcamp",
+        url: "https://stuxnet.bandcamp.com/album/matryoshka-demo",
+        id: "e16f79b94b6050101bc213a4fb086a2d"
+      }
+    ],
     notes: '<p>🪆🪆🪆🪆🪆🪆🪆🪆🪆🪆🪆</p><p>Download includes "64chain-3.3.wav" to use with your own sampler. This sample is an assemblage of all the samples synthesized for this release.</p>',
     credits: "<p>STUXNET is Tyler Etters.</p>",
     project_slug: "stuxnet",
@@ -3226,6 +3361,13 @@ const e = [
         mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/cipher-suite-demo/08-something-you-are.mp3",
         wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/cipher-suite-demo/08-something-you-are.wav",
         id: "c791ffc28c2b9337919f730df6899e77"
+      }
+    ],
+    streams: [
+      {
+        platform: "Bandcamp",
+        url: "https://stuxnet.bandcamp.com/album/cipher-suite-demo",
+        id: "6e06f8add261582f41da272fc75d060a"
       }
     ],
     monospaceNotes: !0,
@@ -3344,6 +3486,13 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
         id: "245d5a39e4a966bd7a7368253beaf668"
       }
     ],
+    streams: [
+      {
+        platform: "Bandcamp",
+        url: "https://stuxnet.bandcamp.com/album/carrier-demo",
+        id: "0bfa2776e15085fb08faf04934f8b695"
+      }
+    ],
     notes: "<p>made after they sieged the capitol</p><p>made with elektron, make noise, mannequins, monome, others</p><p>made before i knew how to use it all</p>",
     credits: "<p>STUXNET is Tyler Etters.</p>",
     project_slug: "stuxnet",
@@ -3441,11 +3590,6 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
         id: "ed9fb310405b4f3331aab06fb03d3fe7"
       },
       {
-        platform: "iHeartRadio",
-        url: "https://www.iheart.com/artist/northern-information-43479567/albums/the-arecibo-lamentations-277686047/",
-        id: "91e90c627bea6f2bb65eeeb92644375a"
-      },
-      {
         platform: "Spotify",
         url: "https://open.spotify.com/album/3VV1dbNwOz5zZ7YN3RuLjU",
         id: "9a85926e0e4d4cd8fbed5e55c3527e8a"
@@ -3509,11 +3653,6 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
         platform: "Deezer",
         url: "https://www.deezer.com/us/album/611728112",
         id: "3d13656810a35c774219e5f19952228f"
-      },
-      {
-        platform: "iHeartRadio",
-        url: "https://www.iheart.com/artist/they-became-what-they-beheld-42962881/albums/ep1-277686632/",
-        id: "e73143213b46e962f531dcd3c4d06fe2"
       },
       {
         platform: "Spotify",
@@ -3634,11 +3773,6 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
         id: "9fa817d6b5b64b9e24279dcef430669c"
       },
       {
-        platform: "iHeartRadio",
-        url: "https://www.iheart.com/artist/northern-information-43479567/albums/reverence-277684348/",
-        id: "90eb8ca17205367bcbb3814e7481c100"
-      },
-      {
         platform: "Spotify",
         url: "https://open.spotify.com/album/0ynd2S883zsBUNKA5cKZK8",
         id: "70d9e1f54424aea338032efecbeab457"
@@ -3744,11 +3878,6 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
         id: "57a1e0d3720159bb72fb2485e4dbc9f4"
       },
       {
-        platform: "iHeartRadio",
-        url: "https://www.iheart.com/artist/northern-information-43479567/albums/dispatches-from-the-prime-meridian-277678961/",
-        id: "abfc1b85d003f36812b7351768d6a453"
-      },
-      {
         platform: "Spotify",
         url: "https://open.spotify.com/album/6TI5MU6WaicHjEuGtCloeW",
         id: "47b51f5de2c714697b57cc7b0eae6b00"
@@ -3852,11 +3981,6 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
         platform: "Deezer",
         url: "https://www.deezer.com/us/album/611504142",
         id: "3b99bdf36faa940f6f982ae481cd4c25"
-      },
-      {
-        platform: "iHeartRadio",
-        url: "https://www.iheart.com/artist/northern-information-43479567/albums/the-legacy-of-our-lost-cause-277678822/",
-        id: "8548a99e94879e48deb0659459fd6f75"
       },
       {
         platform: "Spotify",
@@ -3994,11 +4118,6 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
         id: "9f1e4770fc813c32e177ab443f41e6f8"
       },
       {
-        platform: "iHeartRadio",
-        url: "https://www.iheart.com/artist/northern-information-43479567/albums/and-though-the-soft-apocalypse-may-277679164/",
-        id: "33def2cad613c502d66a62e0a58e3f21"
-      },
-      {
         platform: "Spotify",
         url: "https://open.spotify.com/album/1KCrlpmU24jOUJwI8Z0bOZ",
         id: "c1edef3ecda00a1fc50ee82513658658"
@@ -4072,11 +4191,6 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
         platform: "Deezer",
         url: "https://www.deezer.com/us/album/611501942",
         id: "19aa40a930b71140dfea6f1f3e3bfa09"
-      },
-      {
-        platform: "iHeartRadio",
-        url: "https://www.iheart.com/artist/northern-information-43479567/albums/zulu-277678765/",
-        id: "e7b5b0982ee46d0cacf96c2ca3f79ad4"
       },
       {
         platform: "Spotify",
@@ -4208,11 +4322,6 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
         id: "2acf0271c1afa799b57d7644716a3958"
       },
       {
-        platform: "iHeartRadio",
-        url: "https://www.iheart.com/artist/northern-information-43479567/albums/the-phantoms-of-our-lost-cause-277686189/",
-        id: "a337e091c28d99f1424790adaf8e304e"
-      },
-      {
         platform: "Spotify",
         url: "https://open.spotify.com/album/6uQKrMnKgYtavYwIuEXnev",
         id: "2712d2ec5a63ef638892a73aed62b163"
@@ -4280,11 +4389,6 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
         platform: "Deezer",
         url: "https://www.deezer.com/us/album/611750652",
         id: "4020bdfa7f51270be9902c01f7a8e646"
-      },
-      {
-        platform: "iHeartRadio",
-        url: "https://www.iheart.com/artist/northern-information-43479567/albums/senescence-277684070/",
-        id: "e397a5276f08df091a516e37b60f5b2b"
       },
       {
         platform: "Spotify",
@@ -4386,11 +4490,6 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
         id: "35fa0509ef293b8e04818f9b32d5af76"
       },
       {
-        platform: "iHeartRadio",
-        url: "https://www.iheart.com/artist/northern-information-43479567/albums/blue-the-most-celestial-color-277686089/",
-        id: "3df65782b0b694253fedb76ead7ef802"
-      },
-      {
         platform: "Spotify",
         url: "https://open.spotify.com/album/4NQk9Chnj4dm5JpIO5ME2x",
         id: "819db9cfc613b7ab9fc4972ed9348abe"
@@ -4452,11 +4551,6 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
         platform: "Deezer",
         url: "https://www.deezer.com/us/album/611501802",
         id: "f69d0fa1644f11a5097401f7a67e08cd"
-      },
-      {
-        platform: "iHeartRadio",
-        url: "https://www.iheart.com/artist/northern-information-43479567/albums/the-geometrie-of-our-lost-cause-277678240/",
-        id: "65b5c462bb252bba83794351c4f88d4f"
       },
       {
         platform: "Spotify",

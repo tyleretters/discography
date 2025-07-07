@@ -15,8 +15,14 @@
       title: HAILSTONE NUMBERS
       length: 00:02:42
   streams:
+    - platform: Apple Music
+      url: https://music.apple.com/us/album/the-vulgar-fractions-walkaway-hailstone-numbers-single/1824448084
     - platform: Bandcamp
       url: https://stuxnet.bandcamp.com/album/the-vulgar-fractions-walkaway-hailstone-numbers
+    - platform: Spotify
+      url: https://open.spotify.com/album/4dzMcOikxsG64esyJDO4Vv
+    - platform: YouTube
+      url: https://www.youtube.com/watch?v=WaHncDswN-0&list=OLAK5uy_n_1UDmCJcViMF0_dKBNiGLZuW9YDCKYTo
     - platform: Untitled Stream
       url: https://untitled.stream/library/project/WGptLbWuWcPpKO7W9cPiA
   notes: |
@@ -41,8 +47,14 @@
       title: HYPERSTITION
       length: 00:03:08
   streams:
+    - platform: Apple Music
+      url: https://music.apple.com/us/album/the-vulgar-fractions-cold-wars-hyperstition-single/1824640199
     - platform: Bandcamp
       url: https://stuxnet.bandcamp.com/album/the-vulgar-fractions-cold-wars-hyperstition
+    - platform: Spotify
+      url: https://open.spotify.com/album/5hlcD3uU8d0dbmqQULdlIg
+    - platform: YouTube
+      url: https://www.youtube.com/watch?v=in0TuVvVtM4&list=OLAK5uy_mxhSPh8sZUqmL_eGmT0BzP3qa5EK6SQRE
     - platform: Untitled Stream
       url: https://untitled.stream/library/project/Ed5VIup60WT5ujxZ1Yh9B
   notes: |
@@ -67,8 +79,14 @@
       title: INLAND EMPIRES
       length: 00:04:54
   streams:
+    - platform: Apple Music
+      url: https://music.apple.com/us/album/the-vulgar-fractions-error-boundary-inland-empires-single/1824448218
     - platform: Bandcamp
       url: https://stuxnet.bandcamp.com/album/the-vulgar-fractions-error-boundary-inland-empires
+    - platform: Spotify
+      url: https://open.spotify.com/album/2gDHClmCV3sS19CRZBMfxj
+    - platform: YouTube
+      url: https://www.youtube.com/watch?v=9vKlKb5xeFE&list=OLAK5uy_nSV710-bo0LQ0sr1OXVJf_WGOD3Xx-M1Q
     - platform: Untitled Stream
       url: https://untitled.stream/library/project/ppLRiRcOmLDpLFtbgbeXw
   notes: |
@@ -93,8 +111,14 @@
       title: APOTHECARY
       length: 00:02:55
   streams:
+    - platform: Apple Music
+      url: https://music.apple.com/us/album/the-vulgar-fractions-pinned-in-time-like-butterflies/1824436344
     - platform: Bandcamp
       url: https://stuxnet.bandcamp.com/album/the-vulgar-fractions-pinned-in-time-like-butterflies-beneath-glass-apothecary
+    - platform: Spotify
+      url: https://open.spotify.com/album/5hlcD3uU8d0dbmqQULdlIg
+    - platform: YouTube
+      url: https://www.youtube.com/watch?v=in0TuVvVtM4&list=OLAK5uy_mxhSPh8sZUqmL_eGmT0BzP3qa5EK6SQRE
     - platform: Untitled Stream
       url: https://untitled.stream/library/project/OC8BNzlxYR75rr8lYxm4V
   notes: |
@@ -247,8 +271,16 @@
       title: MKULTRA x Alex Mathiesen
       length: 00:04:15
   streams:
+    - platform: Apple Music
+      url: https://music.apple.com/us/album/a-report-on-our-findings/1813512539
     - platform: Bandcamp
       url: https://northerninformation.bandcamp.com/album/a-report-on-our-findings
+    - platform: Deezer
+      url: https://www.deezer.com/album/754125191
+    - platform: Spotify
+      url: https://open.spotify.com/album/25hvpFd22OSW2wiGwppvkU
+    - platform: YouTube
+      url: https://www.youtube.com/watch?v=eQOVQBNpkX4&list=OLAK5uy_mXySQHBDaa8FhjtbR6cKPTSqLDrL310Fo
   notes: |
     Recovery of human-anchored time reprogramming module begin. Heartbeat synchronization oscillator OK. Sodium chloride levels OK.
     Digital twin, where to begin, scroll to the bottom, melt into air. Lunatic vector, keep it together, memory failure, world repair.
@@ -351,8 +383,6 @@
       url: https://stuxnet.bandcamp.com/album/foxfires-kybalion
     - platform: Deezer
       url: https://www.deezer.com/us/album/711748271
-    - platform: iHeartRadio
-      url: https://www.iheart.com/artist/stuxnet-610225/albums/foxfires-kybalion-313385710/
     - platform: Spotify
       url: https://open.spotify.com/album/7mh0Vr0dbBsndXQEHMPrmq
     - platform: YouTube
@@ -995,8 +1025,6 @@
       url: https://theybecamewhattheybeheld.bandcamp.com/album/list-of-stars-in-cancer
     - platform: Deezer
       url: https://www.deezer.com/us/album/611710552
-    - platform: iHeartRadio
-      url: https://www.iheart.com/artist/they-became-what-they-beheld-42962881/albums/list-of-stars-in-cancer-stream-277679332/
     - platform: Spotify
       url: https://open.spotify.com/album/5gSOw9RxtadvemdqcV7YV2
     - platform: YouTube
@@ -1031,8 +1059,6 @@
       url: https://theybecamewhattheybeheld.bandcamp.com/album/distance
     - platform: Deezer
       url: https://www.deezer.com/us/album/605603872
-    - platform: iHeartRadio
-      url: https://www.iheart.com/artist/they-became-what-they-beheld-42962881/albums/distance-275648536/
     - platform: Spotify
       url: https://open.spotify.com/album/6kZHS99KJvGJCZR5lhLCkz
     - platform: YouTube
@@ -1076,8 +1102,6 @@
       url: https://theybecamewhattheybeheld.bandcamp.com/album/radio-free-albemuth
     - platform: Deezer
       url: https://www.deezer.com/us/artist/263724261
-    - platform: iHeartRadio
-      url: https://www.iheart.com/artist/they-became-what-they-beheld-42962881/albums/radio-free-albemuth-271534643/
     - platform: Spotify
       url: https://open.spotify.com/album/2Omhz8B5g1VbSfqSpUkZOt
     - platform: YouTube
@@ -1118,8 +1142,6 @@
       url: https://theybecamewhattheybeheld.bandcamp.com/album/rocket-summer
     - platform: Deezer
       url: https://www.deezer.com/us/album/580743841
-    - platform: iHeartRadio
-      url: https://www.iheart.com/artist/they-became-what-they-beheld-42962881/albums/rocket-summer-267427350/
     - platform: Spotify
       url: https://open.spotify.com/album/0WTccZ6LBUKA1KYCmcxmHT
     - platform: YouTube
@@ -1202,8 +1224,6 @@
       url: https://theybecamewhattheybeheld.bandcamp.com/album/ep3
     - platform: Deezer
       url: https://www.deezer.com/us/album/611752672
-    - platform: iHeartRadio
-      url: https://www.iheart.com/artist/they-became-what-they-beheld-42962881/albums/ep3-277684409/
     - platform: Spotify
       url: https://open.spotify.com/album/04oITCytM0DX8HSvqDYQ8f
     - platform: YouTube
@@ -1253,8 +1273,6 @@
       url: https://music.apple.com/us/album/in-darkness-radiant-ep/1722729160
     - platform: Deezer
       url: https://www.deezer.com/us/album/526747692
-    - platform: iHeartRadio
-      url: https://www.iheart.com/artist/stuxnet-610225/albums/in-darkness-radiant-248901298/
     - platform: Spotify
       url: https://open.spotify.com/album/2nLz2jO4YCQO37NVm3rM3C?si=h84wEpl0Sv6hMm3PfpSGyA
     - platform: YouTube
@@ -1299,6 +1317,17 @@
     - number: 5
       title: In Infinite Fogs
       length: 00:05:52
+  streams:
+    - platform: Bandcamp
+      url: https://stuxnet.bandcamp.com/album/fade-scatter-replicate
+    - platform: Apple Music
+      url: https://music.apple.com/us/album/fade-scatter-replicate-ep/1678223798
+    - platform: Deezer
+      url: https://www.deezer.com/us/album/419915087
+    - platform: Spotify
+      url: https://open.spotify.com/album/2lYuoDyy8iFJ54pGXGBBXT
+    - platform: YouTube
+      url: https://www.youtube.com/playlist?list=OLAK5uy_kfSHFbyXXaeLYHo8gPk1NcTuRbaoBNUfY
   notes: |
     Migrants are often between two worlds that do not really have a place for them: fleeing economic or political hardship and entering a place (ostensibly the U.S.) that fundamentally demands their labour yet officially outlaws them and treats them as sub-human. The coyote is doing a kind of extraordinary favor by rendering an extra-legal service, and putting themselves in harm's way to do so.
     Why choose this particular job?
@@ -1338,8 +1367,6 @@
       url: https://theybecamewhattheybeheld.bandcamp.com/album/ep2
     - platform: Deezer
       url: https://www.deezer.com/us/album/611753282
-    - platform: iHeartRadio
-      url: https://www.iheart.com/artist/they-became-what-they-beheld-42962881/albums/ep2-277684400/
     - platform: Spotify
       url: https://open.spotify.com/album/4cCMZUBtMPrCGNv1H37jaP
     - platform: YouTube
@@ -1508,6 +1535,17 @@
     - number: 7
       title: Maybe
       length: 00:04:35
+  streams:
+    - platform: Bandcamp
+      url: https://stuxnet.bandcamp.com/album/countersurveillance
+    - platform: Apple Music
+      url: https://music.apple.com/us/album/countersurveillance/1575845305
+    - platform: Deezer
+      url: https://www.deezer.com/album/243182572
+    - platform: Spotify
+      url: https://open.spotify.com/album/1Lt4XPgIYhdZDIDiCWyFKk
+    - platform: YouTube
+      url: https://www.youtube.com/watch?v=r88qIBmOm6Q&list=OLAK5uy_mVcyPPESa_cz6lDnxycPBa_UFbl5aLK0g
   notes: |
     Mapcore is a viable solution for surveying the world.
   credits: |
@@ -1551,6 +1589,17 @@
     - number: 9
       title: Long live the lost ones.
       length: 00:05:12
+  streams:
+    - platform: Bandcamp
+      url: https://stuxnet.bandcamp.com/album/long-live-the-lost-ones
+    - platform: Apple Music
+      url: https://music.apple.com/us/album/fade-scatter-replicate-ep/1678223798
+    - platform: Deezer
+      url: https://www.deezer.com/album/419915087
+    - platform: Spotify
+      url: https://open.spotify.com/album/2lYuoDyy8iFJ54pGXGBBXT
+    - platform: YouTube
+      url: https://www.youtube.com/watch?v=maPhkV6wzLk&list=OLAK5uy_kfSHFbyXXaeLYHo8gPk1NcTuRbaoBNUfY
   notes: |
     Dear listener,
     During the turn of the century in Chicago there was a radio station called WNRG Energy 92.7/5 . I was 12 or so and would always fall asleep listening to the likes of DJ Sammy, DJ Encore, PPK, D-Devils, Armin van Buuren, Sylver, ATC, and countless others. I pictured the radio waves blanketing Chicagoland's orange phosphorous haze from Kenosha to Kankakee; euphoric FM signals in an adjacent dimension. Compressed audio. The crackle of static. It was spiritual.
@@ -1586,6 +1635,9 @@
     - number: 2
       title: Fractal's Edge
       length: 00:11:02
+  streams:
+    - platform: Bandcamp
+      url: https://stuxnet.bandcamp.com/album/times-firewall-demo
   notes: |
     At the behest of an anonymous agent, the Northern Information Applied Sciences & Phantasms Working Division agreed to the impossible: rationalize the numogram for the post-pandemic age.
     It is accepted that the numogram first manifested in the 90s via research from the CCRU. However, newly unearthed forensic evidence from The tf.nist.gov Timeserver Incident has cast a shadow of doubt on the true provenance.
@@ -1638,6 +1690,9 @@
     - number: 11
       title: The Media Confused the Matter With Container Ships
       length: 00:02:13
+  streams:
+    - platform: Bandcamp
+      url: https://stuxnet.bandcamp.com/album/matryoshka-demo
   notes: |
     🪆🪆🪆🪆🪆🪆🪆🪆🪆🪆🪆
     Download includes "64chain-3.3.wav" to use with your own sampler. This sample is an assemblage of all the samples synthesized for this release.
@@ -1678,6 +1733,9 @@
     - number: 8
       title: Something You Are
       length: 00:05:40
+  streams:
+    - platform: Bandcamp
+      url: https://stuxnet.bandcamp.com/album/cipher-suite-demo
   monospaceNotes: true
   notes: |
     % ssh-keygen -t ed25519
@@ -1747,6 +1805,9 @@
     - number: 8
       title: registry
       length: 00:01:26
+  streams:
+    - platform: Bandcamp
+      url: https://stuxnet.bandcamp.com/album/carrier-demo
   notes: |
     made after they sieged the capitol
     made with elektron, make noise, mannequins, monome, others
@@ -1800,8 +1861,6 @@
       url: https://northerninformation.bandcamp.com/album/the-arecibo-lamentations
     - platform: Deezer
       url: https://www.deezer.com/us/album/611728042
-    - platform: iHeartRadio
-      url: https://www.iheart.com/artist/northern-information-43479567/albums/the-arecibo-lamentations-277686047/
     - platform: Spotify
       url: https://open.spotify.com/album/3VV1dbNwOz5zZ7YN3RuLjU
     - platform: YouTube
@@ -1852,8 +1911,6 @@
       url: https://theybecamewhattheybeheld.bandcamp.com/album/ep1
     - platform: Deezer
       url: https://www.deezer.com/us/album/611728112
-    - platform: iHeartRadio
-      url: https://www.iheart.com/artist/they-became-what-they-beheld-42962881/albums/ep1-277686632/
     - platform: Spotify
       url: https://open.spotify.com/album/0O2h5MUv7EKTDEvBNGBGr3
     - platform: YouTube
@@ -1933,8 +1990,6 @@
       url: https://northerninformation.bandcamp.com/album/reverence
     - platform: Deezer
       url: https://www.deezer.com/us/album/611752092
-    - platform: iHeartRadio
-      url: https://www.iheart.com/artist/northern-information-43479567/albums/reverence-277684348/
     - platform: Spotify
       url: https://open.spotify.com/album/0ynd2S883zsBUNKA5cKZK8
     - platform: YouTube
@@ -2007,8 +2062,6 @@
       url: https://northerninformation.bandcamp.com/album/dispatches-from-the-prime-meridian
     - platform: Deezer
       url: https://www.deezer.com/us/album/611503632
-    - platform: iHeartRadio
-      url: https://www.iheart.com/artist/northern-information-43479567/albums/dispatches-from-the-prime-meridian-277678961/
     - platform: Spotify
       url: https://open.spotify.com/album/6TI5MU6WaicHjEuGtCloeW
     - platform: YouTube
@@ -2079,8 +2132,6 @@
       url: https://northerninformation.bandcamp.com/album/the-legacy-of-our-lost-cause
     - platform: Deezer
       url: https://www.deezer.com/us/album/611504142
-    - platform: iHeartRadio
-      url: https://www.iheart.com/artist/northern-information-43479567/albums/the-legacy-of-our-lost-cause-277678822/
     - platform: Spotify
       url: https://open.spotify.com/album/5DKUx4qlnrYl0iLYhy8vY8
     - platform: YouTube
@@ -2165,8 +2216,6 @@
       url: https://northerninformation.bandcamp.com/album/and-though-the-soft-apocalypse-may-yet-overtake
     - platform: Deezer
       url: https://www.deezer.com/us/album/611504062
-    - platform: iHeartRadio
-      url: https://www.iheart.com/artist/northern-information-43479567/albums/and-though-the-soft-apocalypse-may-277679164/
     - platform: Spotify
       url: https://open.spotify.com/album/1KCrlpmU24jOUJwI8Z0bOZ
     - platform: YouTube
@@ -2226,8 +2275,6 @@
       url: https://northerninformation.bandcamp.com/album/zulu
     - platform: Deezer
       url: https://www.deezer.com/us/album/611501942
-    - platform: iHeartRadio
-      url: https://www.iheart.com/artist/northern-information-43479567/albums/zulu-277678765/
     - platform: Spotify
       url: https://open.spotify.com/album/43bxoEMw9jUG2vMFUuCUKC
     - platform: YouTube
@@ -2302,8 +2349,6 @@
       url: https://northerninformation.bandcamp.com/album/the-phantoms-of-our-lost-cause
     - platform: Deezer
       url: https://www.deezer.com/us/album/611727812
-    - platform: iHeartRadio
-      url: https://www.iheart.com/artist/northern-information-43479567/albums/the-phantoms-of-our-lost-cause-277686189/
     - platform: Spotify
       url: https://open.spotify.com/album/6uQKrMnKgYtavYwIuEXnev
     - platform: YouTube
@@ -2362,8 +2407,6 @@
       url: https://northerninformation.bandcamp.com/album/senescence
     - platform: Deezer
       url: https://www.deezer.com/us/album/611750652
-    - platform: iHeartRadio
-      url: https://www.iheart.com/artist/northern-information-43479567/albums/senescence-277684070/
     - platform: Spotify
       url: https://open.spotify.com/album/0rNcDNQsHb5NsVPX0Hq61i
     - platform: YouTube
@@ -2429,8 +2472,6 @@
       url: https://northerninformation.bandcamp.com/album/blue-the-most-celestial-color
     - platform: Deezer
       url: https://www.deezer.com/us/album/611728452
-    - platform: iHeartRadio
-      url: https://www.iheart.com/artist/northern-information-43479567/albums/blue-the-most-celestial-color-277686089/
     - platform: Spotify
       url: https://open.spotify.com/album/4NQk9Chnj4dm5JpIO5ME2x
     - platform: YouTube
@@ -2481,8 +2522,6 @@
       url: https://northerninformation.bandcamp.com/album/the-geometrie-of-our-lost-cause
     - platform: Deezer
       url: https://www.deezer.com/us/album/611501802
-    - platform: iHeartRadio
-      url: https://www.iheart.com/artist/northern-information-43479567/albums/the-geometrie-of-our-lost-cause-277678240/
     - platform: Spotify
       url: https://open.spotify.com/album/4RQ26hIooZ0tS7fwVq2XiV
     - platform: YouTube

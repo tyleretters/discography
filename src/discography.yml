@@ -1691,8 +1691,8 @@
       title: The Media Confused the Matter With Container Ships
       length: 00:02:13
   streams:
-    platform: Bandcamp
-    url: https://stuxnet.bandcamp.com/album/matryoshka-demo
+    - platform: Bandcamp
+      url: https://stuxnet.bandcamp.com/album/matryoshka-demo
   notes: |
     🪆🪆🪆🪆🪆🪆🪆🪆🪆🪆🪆
     Download includes "64chain-3.3.wav" to use with your own sampler. This sample is an assemblage of all the samples synthesized for this release.
@@ -1734,8 +1734,8 @@
       title: Something You Are
       length: 00:05:40
   streams:
-    platform: Bandcamp
-    url: https://stuxnet.bandcamp.com/album/cipher-suite-demo
+    - platform: Bandcamp
+      url: https://stuxnet.bandcamp.com/album/cipher-suite-demo
   monospaceNotes: true
   notes: |
     % ssh-keygen -t ed25519
@@ -1806,8 +1806,8 @@
       title: registry
       length: 00:01:26
   streams:
-    platform: Bandcamp
-    url: https://stuxnet.bandcamp.com/album/carrier-demo
+    - platform: Bandcamp
+      url: https://stuxnet.bandcamp.com/album/carrier-demo
   notes: |
     made after they sieged the capitol
     made with elektron, make noise, mannequins, monome, others
