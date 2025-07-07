@@ -15,8 +15,18 @@
       title: HAILSTONE NUMBERS
       length: 00:02:42
   streams:
+    - platform: Apple Music
+      url:
     - platform: Bandcamp
       url: https://stuxnet.bandcamp.com/album/the-vulgar-fractions-walkaway-hailstone-numbers
+    - platform: Deezer
+      url:
+    - platform: iHeartRadio
+      url:
+    - platform: Spotify
+      url:
+    - platform: YouTube
+      url:
     - platform: Untitled Stream
       url: https://untitled.stream/library/project/WGptLbWuWcPpKO7W9cPiA
   notes: |
@@ -41,8 +51,18 @@
       title: HYPERSTITION
       length: 00:03:08
   streams:
+    - platform: Apple Music
+      url:
     - platform: Bandcamp
       url: https://stuxnet.bandcamp.com/album/the-vulgar-fractions-cold-wars-hyperstition
+    - platform: Deezer
+      url:
+    - platform: iHeartRadio
+      url:
+    - platform: Spotify
+      url:
+    - platform: YouTube
+      url:
     - platform: Untitled Stream
       url: https://untitled.stream/library/project/Ed5VIup60WT5ujxZ1Yh9B
   notes: |
@@ -67,8 +87,18 @@
       title: INLAND EMPIRES
       length: 00:04:54
   streams:
+    - platform: Apple Music
+      url:
     - platform: Bandcamp
       url: https://stuxnet.bandcamp.com/album/the-vulgar-fractions-error-boundary-inland-empires
+    - platform: Deezer
+      url:
+    - platform: iHeartRadio
+      url:
+    - platform: Spotify
+      url:
+    - platform: YouTube
+      url:
     - platform: Untitled Stream
       url: https://untitled.stream/library/project/ppLRiRcOmLDpLFtbgbeXw
   notes: |
@@ -93,8 +123,18 @@
       title: APOTHECARY
       length: 00:02:55
   streams:
+    - platform: Apple Music
+      url:
     - platform: Bandcamp
       url: https://stuxnet.bandcamp.com/album/the-vulgar-fractions-pinned-in-time-like-butterflies-beneath-glass-apothecary
+    - platform: Deezer
+      url:
+    - platform: iHeartRadio
+      url:
+    - platform: Spotify
+      url:
+    - platform: YouTube
+      url:
     - platform: Untitled Stream
       url: https://untitled.stream/library/project/OC8BNzlxYR75rr8lYxm4V
   notes: |
@@ -247,8 +287,18 @@
       title: MKULTRA x Alex Mathiesen
       length: 00:04:15
   streams:
+    - platform: Apple Music
+      url: https://music.apple.com/us/album/a-report-on-our-findings/1813512539
     - platform: Bandcamp
       url: https://northerninformation.bandcamp.com/album/a-report-on-our-findings
+    - platform: Deezer
+      url: https://www.deezer.com/album/754125191
+    - platform: iHeartRadio
+      url: https://www.iheart.com/artist/id-43479567/albums/id-327799567
+    - platform: Spotify
+      url: https://open.spotify.com/album/25hvpFd22OSW2wiGwppvkU
+    - platform: YouTube
+      url: https://www.youtube.com/watch?v=eQOVQBNpkX4&list=OLAK5uy_mXySQHBDaa8FhjtbR6cKPTSqLDrL310Fo
   notes: |
     Recovery of human-anchored time reprogramming module begin. Heartbeat synchronization oscillator OK. Sodium chloride levels OK.
     Digital twin, where to begin, scroll to the bottom, melt into air. Lunatic vector, keep it together, memory failure, world repair.
@@ -1299,6 +1349,19 @@
     - number: 5
       title: In Infinite Fogs
       length: 00:05:52
+  streams:
+    - platform: Bandcamp
+      url:
+    - platform: Apple Music
+      url:
+    - platform: Deezer
+      url:
+    - platform: iHeartRadio
+      url:
+    - platform: Spotify
+      url:
+    - platform: YouTube
+      url:
   notes: |
     Migrants are often between two worlds that do not really have a place for them: fleeing economic or political hardship and entering a place (ostensibly the U.S.) that fundamentally demands their labour yet officially outlaws them and treats them as sub-human. The coyote is doing a kind of extraordinary favor by rendering an extra-legal service, and putting themselves in harm's way to do so.
     Why choose this particular job?
@@ -1508,6 +1571,19 @@
     - number: 7
       title: Maybe
       length: 00:04:35
+  streams:
+    - platform: Bandcamp
+      url:
+    - platform: Apple Music
+      url:
+    - platform: Deezer
+      url:
+    - platform: iHeartRadio
+      url:
+    - platform: Spotify
+      url:
+    - platform: YouTube
+      url:
   notes: |
     Mapcore is a viable solution for surveying the world.
   credits: |
@@ -1551,6 +1627,19 @@
     - number: 9
       title: Long live the lost ones.
       length: 00:05:12
+  streams:
+    - platform: Bandcamp
+      url:
+    - platform: Apple Music
+      url:
+    - platform: Deezer
+      url:
+    - platform: iHeartRadio
+      url:
+    - platform: Spotify
+      url:
+    - platform: YouTube
+      url:
   notes: |
     Dear listener,
     During the turn of the century in Chicago there was a radio station called WNRG Energy 92.7/5 . I was 12 or so and would always fall asleep listening to the likes of DJ Sammy, DJ Encore, PPK, D-Devils, Armin van Buuren, Sylver, ATC, and countless others. I pictured the radio waves blanketing Chicagoland's orange phosphorous haze from Kenosha to Kankakee; euphoric FM signals in an adjacent dimension. Compressed audio. The crackle of static. It was spiritual.
@@ -1586,6 +1675,19 @@
     - number: 2
       title: Fractal's Edge
       length: 00:11:02
+  streams:
+    - platform: Bandcamp
+      url:
+    - platform: Apple Music
+      url:
+    - platform: Deezer
+      url:
+    - platform: iHeartRadio
+      url:
+    - platform: Spotify
+      url:
+    - platform: YouTube
+      url:
   notes: |
     At the behest of an anonymous agent, the Northern Information Applied Sciences & Phantasms Working Division agreed to the impossible: rationalize the numogram for the post-pandemic age.
     It is accepted that the numogram first manifested in the 90s via research from the CCRU. However, newly unearthed forensic evidence from The tf.nist.gov Timeserver Incident has cast a shadow of doubt on the true provenance.
