@@ -1,5 +1,46 @@
 const e = [
   {
+    title: "𝐻𝑒𝒶𝓇𝓉𝓈 𝒾𝓃 𝒱𝒶𝓁𝑒𝓃𝒸𝒾𝒶 [mixtape]",
+    project: "DJ STUXNET",
+    released: "02025-07-07",
+    type: "Mix",
+    format: "Digital",
+    role: "DJ",
+    label: "Intertext",
+    mp3: !0,
+    wav: !0,
+    tracks: [
+      {
+        number: 1,
+        title: "𝐻𝑒𝒶𝓇𝓉𝓈 𝒾𝓃 𝒱𝒶𝓁𝑒𝓃𝒸𝒾𝒶 [mixtape]",
+        length: "00:59:14",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/-mixtape/01-mixtape.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/-mixtape/01-mixtape.wav",
+        id: "af3cfca3f8b261dd08b9efa01dc575d6"
+      }
+    ],
+    streams: [
+      {
+        platform: "SoundCloud",
+        url: "https://soundcloud.com/tyleretters/hearts-in-valencia-mixtape",
+        id: "528a7a4fddc09d9808a28348ecf91893"
+      },
+      {
+        platform: "Untitled Stream",
+        url: "https://untitled.stream/library/project/7KvW8MNtMgqGXy8HYiZOP",
+        id: "98521f62ce986be559b5e34261918d0a"
+      }
+    ],
+    notes: "<p>A mixtape about dating in 2025.</p>",
+    credits: "<p>STUXNET is Tyler Etters.</p>",
+    project_slug: "dj-stuxnet",
+    release_slug: "-mixtape",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/-mixtape/-mixtape.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/-mixtape/-mixtape-mp3.zip",
+    wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/-mixtape/-mixtape-wav.zip",
+    id: "14df389b378335aaeee43097c2ffda4e"
+  },
+  {
     title: "THE VULGAR FRACTIONS: WALKAWAY / HAILSTONE NUMBERS",
     project: "STUXNET",
     released: "02025-06-21",
