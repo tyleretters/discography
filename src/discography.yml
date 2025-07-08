@@ -1,4 +1,4 @@
-- title: Hearts in Valencia [mixtape]
+- title: Hearts in Valencia
   project: DJ STUXNET
   released: 02025-07-07
   type: Mix
@@ -9,7 +9,7 @@
   wav: true
   tracks:
     - number: 1
-      title: 𝐻𝑒𝒶𝓇𝓉𝓈 𝒾𝓃 𝒱𝒶𝓁𝑒𝓃𝒸𝒾𝒶 [mixtape]
+      title: 𝐻𝑒𝒶𝓇𝓉𝓈 𝒾𝓃 𝒱𝒶𝓁𝑒𝓃𝒸𝒾𝒶
       length: 00:59:14
   streams:
     - platform: SoundCloud

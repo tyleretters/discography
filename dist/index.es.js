@@ -1,6 +1,6 @@
 const e = [
   {
-    title: "Hearts in Valencia [mixtape]",
+    title: "Hearts in Valencia",
     project: "DJ STUXNET",
     released: "02025-07-07",
     type: "Mix",
@@ -12,33 +12,33 @@ const e = [
     tracks: [
       {
         number: 1,
-        title: "𝐻𝑒𝒶𝓇𝓉𝓈 𝒾𝓃 𝒱𝒶𝓁𝑒𝓃𝒸𝒾𝒶 [mixtape]",
+        title: "𝐻𝑒𝒶𝓇𝓉𝓈 𝒾𝓃 𝒱𝒶𝓁𝑒𝓃𝒸𝒾𝒶",
         length: "00:59:14",
-        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/hearts-in-valencia-mixtape/01-mixtape.mp3",
-        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/hearts-in-valencia-mixtape/01-mixtape.wav",
-        id: "37826cd40007d2fba159b95759e35e0e"
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/hearts-in-valencia/01-.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/hearts-in-valencia/01-.wav",
+        id: "1ea37f85198f5976a233048c1a88fcdd"
       }
     ],
     streams: [
       {
         platform: "SoundCloud",
         url: "https://soundcloud.com/tyleretters/hearts-in-valencia-mixtape",
-        id: "330d0aae64269e41756e920bcb4f132e"
+        id: "cd185ea69ed58b1b5bb387423a3e9260"
       },
       {
         platform: "Untitled Stream",
         url: "https://untitled.stream/library/project/7KvW8MNtMgqGXy8HYiZOP",
-        id: "029c2a5256dcc72cb3a782664a7fd5f0"
+        id: "b78a50782b85cc1fd6ec309b908874dc"
       }
     ],
     notes: "<p>A mixtape about dating in 2025.</p>",
     credits: "<p>STUXNET is Tyler Etters.</p>",
     project_slug: "dj-stuxnet",
-    release_slug: "hearts-in-valencia-mixtape",
-    cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/hearts-in-valencia-mixtape/hearts-in-valencia-mixtape.jpg",
-    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/hearts-in-valencia-mixtape/hearts-in-valencia-mixtape-mp3.zip",
-    wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/hearts-in-valencia-mixtape/hearts-in-valencia-mixtape-wav.zip",
-    id: "f82cb8548f3c882d52e6cec73f31cece"
+    release_slug: "hearts-in-valencia",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/hearts-in-valencia/hearts-in-valencia.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/hearts-in-valencia/hearts-in-valencia-mp3.zip",
+    wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/hearts-in-valencia/hearts-in-valencia-wav.zip",
+    id: "e97245a049122362ba6111ac4b38e50f"
   },
   {
     title: "THE VULGAR FRACTIONS: WALKAWAY / HAILSTONE NUMBERS",
