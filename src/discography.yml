@@ -1,3 +1,24 @@
+- title: In Breakdowns
+  project: DJ STUXNET
+  released: 02025-07-17
+  type: Mix
+  format: Digital
+  role: DJ
+  label: Intertext
+  mp3: true
+  wav: true
+  tracks:
+    - number: 1
+      title: In Breakdowns
+      length: 01:01:42
+  streams:
+    - platform: SoundCloud
+      url: https://soundcloud.com/tyleretters/in-breakdowns-mixtape
+    - platform: Untitled Stream
+      url: https://untitled.stream/library/project/BfLaw4Ad6mqkpUmvx6I7g
+  notes: For Spencer.
+  credits: STUXNET is Tyler Etters.
+
 - title: Hearts in Valencia
   project: DJ STUXNET
   released: 02025-07-07
