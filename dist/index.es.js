@@ -53,11 +53,11 @@ const e = [
     tracks: [
       {
         number: 1,
-        title: "𝐻𝑒𝒶𝓇𝓉𝓈 𝒾𝓃 𝒱𝒶𝓁𝑒𝓃𝒸𝒾𝒶",
+        title: "Hearts in Valencia",
         length: "00:59:14",
-        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/hearts-in-valencia/01-.mp3",
-        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/hearts-in-valencia/01-.wav",
-        id: "1ea37f85198f5976a233048c1a88fcdd"
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/hearts-in-valencia/01-hearts-in-valencia.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/hearts-in-valencia/01-hearts-in-valencia.wav",
+        id: "1837171de586d27ec457b7b2cf231e6f"
       }
     ],
     streams: [
