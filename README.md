@@ -20,6 +20,13 @@
 
 ## Updating & Publishing
 
+### YOLO
+
+- Update `./src/discography.yml`
+- `npm run build && git add . && git commit -m "++" && git push origin main && npm version patch && npm publish`
+
+### COWARD
+
 - Update `./src/discography.yml`
 - `npm run build` (convert yml to ts & build dist ready js)
 - `git add . && git commit -m "++" && git push origin main`

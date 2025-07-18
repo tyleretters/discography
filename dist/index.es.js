@@ -1,5 +1,46 @@
 const e = [
   {
+    title: "In Breakdowns",
+    project: "DJ STUXNET",
+    released: "02025-07-17",
+    type: "Mix",
+    format: "Digital",
+    role: "DJ",
+    label: "Intertext",
+    mp3: !0,
+    wav: !0,
+    tracks: [
+      {
+        number: 1,
+        title: "In Breakdowns",
+        length: "01:01:42",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-breakdowns/01-in-breakdowns.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-breakdowns/01-in-breakdowns.wav",
+        id: "0feec26a76524662f112012491cb3006"
+      }
+    ],
+    streams: [
+      {
+        platform: "SoundCloud",
+        url: "https://soundcloud.com/tyleretters/in-breakdowns-mixtape",
+        id: "9fa4f631caadf9869d2ad3654c4dec0f"
+      },
+      {
+        platform: "Untitled Stream",
+        url: "https://untitled.stream/library/project/BfLaw4Ad6mqkpUmvx6I7g",
+        id: "f2941f397e7d3ae091686466ec756556"
+      }
+    ],
+    notes: "<p>For Spencer.</p>",
+    credits: "<p>STUXNET is Tyler Etters.</p>",
+    project_slug: "dj-stuxnet",
+    release_slug: "in-breakdowns",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-breakdowns/in-breakdowns.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-breakdowns/in-breakdowns-mp3.zip",
+    wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-breakdowns/in-breakdowns-wav.zip",
+    id: "1e2cbee76bf86acce1624550234a4ad3"
+  },
+  {
     title: "Hearts in Valencia",
     project: "DJ STUXNET",
     released: "02025-07-07",
