@@ -1,5 +1,46 @@
 const e = [
   {
+    title: "In Entropy",
+    project: "DJ STUXNET",
+    released: "02025-07-31",
+    type: "Mix",
+    format: "Digital",
+    role: "DJ",
+    label: "Intertext",
+    mp3: !0,
+    wav: !0,
+    tracks: [
+      {
+        number: 1,
+        title: "In Entropy",
+        length: "00:59:50",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-entropy/01-in-entropy.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-entropy/01-in-entropy.wav",
+        id: "ca33b399f2e025fc2c17be640491bb95"
+      }
+    ],
+    streams: [
+      {
+        platform: "SoundCloud",
+        url: "https://soundcloud.com/tyleretters/in-entropy-mixtape",
+        id: "247c26d19d22d93d9801a501cf5f0b56"
+      },
+      {
+        platform: "Untitled Stream",
+        url: "https://untitled.stream/library/project/wFaPTc5Tqq89Egea2IJlg",
+        id: "2d92488efb78bbce1514b1600c9a24ca"
+      }
+    ],
+    notes: "<p>None.</p>",
+    credits: "<p>STUXNET is Tyler Etters.</p>",
+    project_slug: "dj-stuxnet",
+    release_slug: "in-entropy",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-entropy/in-entropy.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-entropy/in-entropy-mp3.zip",
+    wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-entropy/in-entropy-wav.zip",
+    id: "895b0894247e6b67e7704819af4c7bd3"
+  },
+  {
     title: "In Breakdowns",
     project: "DJ STUXNET",
     released: "02025-07-17",
