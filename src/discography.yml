@@ -1,3 +1,24 @@
+- title: In Entropy
+  project: DJ STUXNET
+  released: 02025-07-31
+  type: Mix
+  format: Digital
+  role: DJ
+  label: Intertext
+  mp3: true
+  wav: true
+  tracks:
+    - number: 1
+      title: In Entropy
+      length: 00:59:50
+  streams:
+    - platform: SoundCloud
+      url: https://soundcloud.com/tyleretters/in-entropy-mixtape
+    - platform: Untitled Stream
+      url: https://untitled.stream/library/project/wFaPTc5Tqq89Egea2IJlg
+  notes: None.
+  credits: STUXNET is Tyler Etters.
+
 - title: In Breakdowns
   project: DJ STUXNET
   released: 02025-07-17
