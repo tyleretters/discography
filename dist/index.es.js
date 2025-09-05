@@ -1,5 +1,46 @@
 const e = [
   {
+    title: "In Ecstasy",
+    project: "DJ STUXNET",
+    released: "02025-09-05",
+    type: "Mix",
+    format: "Digital",
+    role: "DJ",
+    label: "Intertext",
+    mp3: !0,
+    wav: !0,
+    tracks: [
+      {
+        number: 1,
+        title: "In Ecstasy",
+        length: "01:00:33",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-ecstasy/01-in-ecstasy.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-ecstasy/01-in-ecstasy.wav",
+        id: "755903037d53b75d1c0b80df7a97ea06"
+      }
+    ],
+    streams: [
+      {
+        platform: "SoundCloud",
+        url: "https://soundcloud.com/tyleretters/in-ecstasy-mixtape",
+        id: "65063d90fae71c4001d3f34ec2e7d5c3"
+      },
+      {
+        platform: "Untitled Stream",
+        url: "https://untitled.stream/library/project/4I7xSh0Xl7pWtXQxUxfrw",
+        id: "51391bb8cdce33c338d9a3955d36f650"
+      }
+    ],
+    notes: "<p>For Taylor.</p>",
+    credits: "<p>STUXNET is Tyler Etters.</p>",
+    project_slug: "dj-stuxnet",
+    release_slug: "in-ecstasy",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-ecstasy/in-ecstasy.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-ecstasy/in-ecstasy-mp3.zip",
+    wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-ecstasy/in-ecstasy-wav.zip",
+    id: "fabe4a655695bd87ce84c5d7c6af4796"
+  },
+  {
     title: "In Entropy",
     project: "DJ STUXNET",
     released: "02025-07-31",
