@@ -1,5 +1,43 @@
 const e = [
   {
+    title: "CONTINUUM HACK OST",
+    project: "STUXNET",
+    released: "02025-10-08",
+    type: "OST",
+    format: "Digital",
+    role: "Operator",
+    label: "Intertext",
+    mp3: !1,
+    wav: !1,
+    tracks: [
+      {
+        number: 1,
+        title: "CONTINUUM HACK OST",
+        length: "00:15:19",
+        id: "a3b07dc3ee73a2419d5602a5231a1aae"
+      },
+      {
+        number: 2,
+        title: "RED HANDED",
+        length: "00:02:08",
+        id: "50b69a870aebba90da24433d0c40a1cf"
+      }
+    ],
+    streams: [
+      {
+        platform: "Bandcamp",
+        url: "https://stuxnet.bandcamp.com/album/continuum-hack-ost",
+        id: "bb49a2ca64ceaf86d33f7f747ca471b6"
+      }
+    ],
+    notes: "<p>HUNTED BY PARAMILITARY FORCES, A ROGUE EXPLORER FOLLOWS A SIGNAL TO BRING FORTH THE NEXT LEAP IN CONSCIOUSNESS.</p><p></p><p>HTTPS://CONTINUUMHACK.COM</p>",
+    credits: "<p>STUXNET IS TYLER ETTERS</p><p></p><p>WORDS BY WILSON B. STINER</p>",
+    project_slug: "stuxnet",
+    release_slug: "continuum-hack-ost",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/continuum-hack-ost/continuum-hack-ost.jpg",
+    id: "ebaa4a0c472f0404f0a3fff55d04beed"
+  },
+  {
     title: "In Ecstasy",
     project: "DJ STUXNET",
     released: "02025-09-05",

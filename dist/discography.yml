@@ -1,3 +1,31 @@
+- title: CONTINUUM HACK OST
+  project: STUXNET
+  released: 02025-10-08
+  type: OST
+  format: Digital
+  role: Operator
+  label: Intertext
+  mp3: false
+  wav: false
+  tracks:
+    - number: 1
+      title: CONTINUUM HACK OST
+      length: 00:15:19
+    - number: 2
+      title: RED HANDED
+      length: 00:02:08
+  streams:
+    - platform: Bandcamp
+      url: https://stuxnet.bandcamp.com/album/continuum-hack-ost
+  notes: |
+    HUNTED BY PARAMILITARY FORCES, A ROGUE EXPLORER FOLLOWS A SIGNAL TO BRING FORTH THE NEXT LEAP IN CONSCIOUSNESS.
+
+    HTTPS://CONTINUUMHACK.COM
+  credits: |
+    STUXNET IS TYLER ETTERS
+
+    WORDS BY WILSON B. STINER
+
 - title: In Ecstasy
   project: DJ STUXNET
   released: 02025-09-05
