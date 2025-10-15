@@ -7,19 +7,23 @@ const e = [
     format: "Digital",
     role: "Operator",
     label: "Intertext",
-    mp3: !1,
-    wav: !1,
+    mp3: !0,
+    wav: !0,
     tracks: [
       {
         number: 1,
         title: "CONTINUUM HACK OST",
         length: "00:15:19",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/continuum-hack-ost/01-continuum-hack-ost.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/continuum-hack-ost/01-continuum-hack-ost.wav",
         id: "a3b07dc3ee73a2419d5602a5231a1aae"
       },
       {
         number: 2,
         title: "RED HANDED",
         length: "00:02:08",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/continuum-hack-ost/02-red-handed.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/continuum-hack-ost/02-red-handed.wav",
         id: "50b69a870aebba90da24433d0c40a1cf"
       }
     ],
@@ -35,6 +39,8 @@ const e = [
     project_slug: "stuxnet",
     release_slug: "continuum-hack-ost",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/continuum-hack-ost/continuum-hack-ost.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/continuum-hack-ost/continuum-hack-ost-mp3.zip",
+    wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/continuum-hack-ost/continuum-hack-ost-wav.zip",
     id: "ebaa4a0c472f0404f0a3fff55d04beed"
   },
   {

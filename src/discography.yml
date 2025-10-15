@@ -5,8 +5,8 @@
   format: Digital
   role: Operator
   label: Intertext
-  mp3: false
-  wav: false
+  mp3: true
+  wav: true
   tracks:
     - number: 1
       title: CONTINUUM HACK OST
