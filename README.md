@@ -23,7 +23,7 @@
 ### One Shot
 
 ```zsh
-cd src && python3 -m venv venv && source venv/bin/activate && pip install -r requirements.txt && cd ../ &&npm run build && git add . && git commit -m "++" && git push origin main && npm version patch && npm publish
+cd src && python3 -m venv venv && source venv/bin/activate && pip install -r requirements.txt && cd ../ && npm run build && git add . && git commit -m "++" && git push origin main && npm version patch && npm publish
 ```
 
 ### Sequential
