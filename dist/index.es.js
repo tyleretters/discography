@@ -29,9 +29,19 @@ const e = [
     ],
     streams: [
       {
+        platform: "Apple Music",
+        url: "https://music.apple.com/us/album/continuum-hack-original-motion-picture-soundtrack-ep/1846962431",
+        id: "648b934eb1d900fbcd226670171140fc"
+      },
+      {
         platform: "Bandcamp",
         url: "https://stuxnet.bandcamp.com/album/continuum-hack-ost",
         id: "bb49a2ca64ceaf86d33f7f747ca471b6"
+      },
+      {
+        platform: "Spotify",
+        url: "https://open.spotify.com/album/3PaL2SJ3mbv2asMlbOZbUh",
+        id: "a3ef3dc535e02c0befde497690de8dc6"
       }
     ],
     notes: "<p>HUNTED BY PARAMILITARY FORCES, A ROGUE EXPLORER FOLLOWS A SIGNAL TO BRING FORTH THE NEXT LEAP IN CONSCIOUSNESS.</p><p></p><p>HTTPS://CONTINUUMHACK.COM</p>",

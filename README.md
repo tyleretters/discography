@@ -20,12 +20,13 @@
 
 ## Updating & Publishing
 
-### YOLO
+### One Shot
 
-- Update `./src/discography.yml`
-- `npm run build && git add . && git commit -m "++" && git push origin main && npm version patch && npm publish`
+```zsh
+cd src && python3 -m venv venv && source venv/bin/activate && pip install -r requirements.txt && cd ../ &&npm run build && git add . && git commit -m "++" && git push origin main && npm version patch && npm publish
+```
 
-### COWARD
+### Sequential
 
 - Update `./src/discography.yml`
 - `npm run build` (convert yml to ts & build dist ready js)

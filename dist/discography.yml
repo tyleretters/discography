@@ -15,8 +15,12 @@
       title: RED HANDED
       length: 00:02:08
   streams:
+    - platform: Apple Music
+      url: https://music.apple.com/us/album/continuum-hack-original-motion-picture-soundtrack-ep/1846962431
     - platform: Bandcamp
       url: https://stuxnet.bandcamp.com/album/continuum-hack-ost
+    - platform: Spotify
+      url: https://open.spotify.com/album/3PaL2SJ3mbv2asMlbOZbUh
   notes: |
     HUNTED BY PARAMILITARY FORCES, A ROGUE EXPLORER FOLLOWS A SIGNAL TO BRING FORTH THE NEXT LEAP IN CONSCIOUSNESS.
 
