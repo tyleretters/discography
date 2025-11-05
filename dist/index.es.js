@@ -39,9 +39,19 @@ const e = [
         id: "bb49a2ca64ceaf86d33f7f747ca471b6"
       },
       {
+        platform: "Deezer",
+        url: "https://www.deezer.com/us/album/838231712",
+        id: "fe22505e20643ad7446e966cef099f6f"
+      },
+      {
         platform: "Spotify",
         url: "https://open.spotify.com/album/3PaL2SJ3mbv2asMlbOZbUh",
         id: "a3ef3dc535e02c0befde497690de8dc6"
+      },
+      {
+        platform: "YouTube",
+        url: "https://www.youtube.com/watch?v=f20qufmWVjg&list=OLAK5uy_m-rYqEdkXV6r-tPi9XzXzbgjVEfMO3aZo",
+        id: "484fa03e2f0744854c3d48a5c3a20de1"
       }
     ],
     notes: "<p>HUNTED BY PARAMILITARY FORCES, A ROGUE EXPLORER FOLLOWS A SIGNAL TO BRING FORTH THE NEXT LEAP IN CONSCIOUSNESS.</p><p></p><p>HTTPS://CONTINUUMHACK.COM</p>",
