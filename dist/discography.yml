@@ -1,3 +1,45 @@
+- title: In Abstraction, Part 2
+  project: DJ STUXNET
+  released: 02025-11-06
+  type: Mix
+  format: Digital
+  role: DJ
+  label: Intertext
+  mp3: true
+  wav: true
+  tracks:
+    - number: 1
+      title: In Abstraction, Part 2
+      length: 00:54:43
+  streams:
+    - platform: SoundCloud
+      url: https://soundcloud.com/tyleretters/in-abstraction-part-2-mixtape
+    - platform: Untitled Stream
+      url: https://untitled.stream/library/project/x8nH2CaJPKomsalhUO3RO
+  notes: My life as a cyberpunk text, in abstraction.
+  credits: STUXNET is Tyler Etters.
+
+- title: In Abstraction, Part 1
+  project: DJ STUXNET
+  released: 02025-11-06
+  type: Mix
+  format: Digital
+  role: DJ
+  label: Intertext
+  mp3: true
+  wav: true
+  tracks:
+    - number: 1
+      title: In Abstraction, Part 1
+      length: 00:59:43
+  streams:
+    - platform: SoundCloud
+      url: https://soundcloud.com/tyleretters/in-abstraction-part-1-mixtape
+    - platform: Untitled Stream
+      url: https://untitled.stream/library/project/dJYkeHnjcyPG8NP21mx17
+  notes: My life as a cyberpunk text, in abstraction.
+  credits: STUXNET is Tyler Etters.
+
 - title: CONTINUUM HACK OST
   project: STUXNET
   released: 02025-10-08

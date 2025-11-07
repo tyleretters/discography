@@ -1,5 +1,87 @@
 const e = [
   {
+    title: "In Abstraction, Part 2",
+    project: "DJ STUXNET",
+    released: "02025-11-06",
+    type: "Mix",
+    format: "Digital",
+    role: "DJ",
+    label: "Intertext",
+    mp3: !0,
+    wav: !0,
+    tracks: [
+      {
+        number: 1,
+        title: "In Abstraction, Part 2",
+        length: "00:54:43",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-abstraction-part-2/01-in-abstraction-part-2.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-abstraction-part-2/01-in-abstraction-part-2.wav",
+        id: "606bf93b1565a3e1d1c494e5a44a49b2"
+      }
+    ],
+    streams: [
+      {
+        platform: "SoundCloud",
+        url: "https://soundcloud.com/tyleretters/in-abstraction-part-2-mixtape",
+        id: "de36c1c4f5707a2a98667723e0ea98df"
+      },
+      {
+        platform: "Untitled Stream",
+        url: "https://untitled.stream/library/project/x8nH2CaJPKomsalhUO3RO",
+        id: "f8d1669fcfd4ce14f2dfd1f8dcbaead1"
+      }
+    ],
+    notes: "<p>My life as a cyberpunk text, in abstraction.</p>",
+    credits: "<p>STUXNET is Tyler Etters.</p>",
+    project_slug: "dj-stuxnet",
+    release_slug: "in-abstraction-part-2",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-abstraction-part-2/in-abstraction-part-2.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-abstraction-part-2/in-abstraction-part-2-mp3.zip",
+    wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-abstraction-part-2/in-abstraction-part-2-wav.zip",
+    id: "a09e140dd2145c36a6570abd7bc188c4"
+  },
+  {
+    title: "In Abstraction, Part 1",
+    project: "DJ STUXNET",
+    released: "02025-11-06",
+    type: "Mix",
+    format: "Digital",
+    role: "DJ",
+    label: "Intertext",
+    mp3: !0,
+    wav: !0,
+    tracks: [
+      {
+        number: 1,
+        title: "In Abstraction, Part 1",
+        length: "00:59:43",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-abstraction-part-1/01-in-abstraction-part-1.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-abstraction-part-1/01-in-abstraction-part-1.wav",
+        id: "53134ecd11c55f38332fa1013d1c0a3f"
+      }
+    ],
+    streams: [
+      {
+        platform: "SoundCloud",
+        url: "https://soundcloud.com/tyleretters/in-abstraction-part-1-mixtape",
+        id: "94f7ce063c0cd99687e5f7f69e092f33"
+      },
+      {
+        platform: "Untitled Stream",
+        url: "https://untitled.stream/library/project/dJYkeHnjcyPG8NP21mx17",
+        id: "3f37dc59248d6beb10b46621fdc959ba"
+      }
+    ],
+    notes: "<p>My life as a cyberpunk text, in abstraction.</p>",
+    credits: "<p>STUXNET is Tyler Etters.</p>",
+    project_slug: "dj-stuxnet",
+    release_slug: "in-abstraction-part-1",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-abstraction-part-1/in-abstraction-part-1.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-abstraction-part-1/in-abstraction-part-1-mp3.zip",
+    wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-abstraction-part-1/in-abstraction-part-1-wav.zip",
+    id: "7f321997063d319212495aade16bf21e"
+  },
+  {
     title: "CONTINUUM HACK OST",
     project: "STUXNET",
     released: "02025-10-08",
