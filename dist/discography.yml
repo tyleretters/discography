@@ -1,3 +1,24 @@
+- title: Hearts in Valencia Chapter 2
+  project: DJ STUXNET
+  released: 02025-11-18
+  type: Mix
+  format: Digital
+  role: DJ
+  label: Intertext
+  mp3: true
+  wav: true
+  tracks:
+    - number: 1
+      title: Hearts in Valencia Chapter 2
+      length: 00:57:30
+  streams:
+    - platform: SoundCloud
+      url: https://soundcloud.com/tyleretters/hearts-in-valencia-chapter-2-mixtape
+    - platform: Untitled Stream
+      url: https://untitled.stream/library/project/qeVIRbMFXSbeOK6L5x9mB
+  notes: Another mixtape about dating in 2025.
+  credits: STUXNET is Tyler Etters.
+
 - title: In Abstraction, Part 2
   project: DJ STUXNET
   released: 02025-11-06
@@ -139,7 +160,7 @@
   notes: For Spencer.
   credits: STUXNET is Tyler Etters.
 
-- title: Hearts in Valencia
+- title: Hearts in Valencia Chapter 1
   project: DJ STUXNET
   released: 02025-07-07
   type: Mix
@@ -150,11 +171,11 @@
   wav: true
   tracks:
     - number: 1
-      title: Hearts in Valencia
+      title: Hearts in Valencia Chapter 1
       length: 00:59:14
   streams:
     - platform: SoundCloud
-      url: https://soundcloud.com/tyleretters/hearts-in-valencia-mixtape
+      url: https://soundcloud.com/tyleretters/hearts-in-valencia-chapter-1-mixtape
     - platform: Untitled Stream
       url: https://untitled.stream/library/project/7KvW8MNtMgqGXy8HYiZOP
   notes: A mixtape about dating in 2025.
