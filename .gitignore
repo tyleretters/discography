@@ -3,3 +3,5 @@ src/discography.ts
 node_modules
 src/venv
 my_env
+.claude
+.ruff_cache

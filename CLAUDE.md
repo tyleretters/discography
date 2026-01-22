@@ -25,10 +25,13 @@ npm run convert    # Just run the Python converter
 
 ## Data Conventions
 
-- **Dates**: Use "Long Now" format with leading `0` (e.g., `02025-11-18` not `2025-11-18`)
+- **Dates**: Use "Long Now" format with leading `0` (e.g., `02025-11-18` not `2025-11-18`). Incomplete dates (`02006-??-??`) are acceptable for historical releases.
 - **EPs**: Defined as releases ≤ 29:59 total length
 - **IDs**: Generated via MD5 hash of concatenated fields
 - **Cover URLs**: Auto-generated from CDN base + project slug + release slug
+- **Notes**: `"None."` is a valid note (displayed to user), while `null` means no notes exist
+- **Streams**: Optional - not all releases have streaming platform URLs
+- **Artistic content**: Some releases contain SSH keys or other technical artifacts as art; these are intentional
 
 ## Release Schema
 
