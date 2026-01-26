@@ -4957,6 +4957,13 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
         id: "4e450e5627319d3a7d5f9fd8115b6c8c"
       }
     ],
+    streams: [
+      {
+        platform: "Bandcamp",
+        url: "https://connectednesslocus.bandcamp.com/album/prolegomenon",
+        id: "d7eb0a19f48d5cefca3ceed43f31419e"
+      }
+    ],
     notes: "<p>...and the world forces you out once again, return to the highways, return to the endless fields; that word, prolegomenon, appeared in my dreams some time ago, immemorial, i didn't even know what the word was or what it meant, or even how to spell or pronounce it; 'prolegomenon,'; i knew only the feeling of it upon my tounge, the sound of it reflecting off the walls, the feeling it would impress upon me while reading it, i tried writing it down but failed many times, i couldn't triangulate the syllables but all evidence pointed towards it's existence... and then one night i stumbled accross it, wikipedia again, probably, just like connectedness locus, an anonymous entry that may or may not be credible and accurate - whatever the case, the word is correct, a descendent perhaps of some greek warlord but this time transposed three centuries forward into a neon dusk where houses are constructed with html, the past continues to be reframed by the present, history is writen by the victors while our dreams steadily wind down and we fall apart, our social network spreads thin as we flee, to the dissident corners of this fallen world, in my battered attempt to fix this battered language, we bum each other our entire lives, and my father entered rem sleep; and i forgot my closest friend’s name; and my mother flew to the afar north; to dance where the sumacs still grow. let us sing that truth whispered is truth betrayed, for an elephant never forgets: to arms! to arms! and we still fall apart. replication - repeating days - we are bloated and weak here in the states. tidal synths. royal timbral waves. a series of events leading up to a cataclysmic demise, microburst dreams, echoes from a standstill destiny, there is no death, only reorganization...</p>",
     credits: "<p>Connectedness Locus is Tyler Etters.</p>",
     project_slug: "connectedness-locus",
@@ -5036,6 +5043,13 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
         id: "c2e38201a8d56d8443d930b3fe00bc95"
       }
     ],
+    streams: [
+      {
+        platform: "Bandcamp",
+        url: "https://connectednesslocus.bandcamp.com/album/terraforms",
+        id: "31b6f3b993426b8cbb289836952e807e"
+      }
+    ],
     notes: "<p>Beyond the northern wastelands where dreams go to be forgotten, where the legendary high tension power lines march into tangled heaps of wreckage, where rusty salt barges sputter about and dissolve away, where billboards vomit dusky portents of express oil changes, where steadfast location engineering generates an inadvertent legacy, where lonely stands of pines filter incandescent and nuclear light, where time mirages dot the coast line, where we don poisonous armor to ward off strange flying creatures, where a crisis of destinies pulls us away and into the darkness yet again, where our hand made dream catchers from childhood clink-clank into one another and crumble apart, where words and worlds whisper, where owls still gather in schools and sing in 7/4 to an embryonic moon, where the past and the future, both forever ungrasped, are forfeited to the bigwigs and their brokers, where great oak trees are chainsawed into heaps of hallucinating sawdust, where hacking the akashic records is the only option to escape the crucible, where you awaken on warm and sparsely populated shores to find your initials carved into each piece of driftwood, where the violinist of the moon vanishes before the final note is bowed, where the cicada must sing before you can return home, where a truer form unfurls as the great wings of metamorphosis engulf the emerald skies, the dreams of Connectedness Locus are spun and Terraforms can be heard.</p>",
     credits: "<p>Connectedness Locus is Tyler Etters.</p>",
     project_slug: "connectedness-locus",
@@ -5059,6 +5073,13 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
         title: "When the Paint Peels",
         length: "00:20:03",
         id: "6ede0aa90253d96ad4ebe32cb1175415"
+      }
+    ],
+    streams: [
+      {
+        platform: "Bandcamp",
+        url: "https://connectednesslocus.bandcamp.com/album/when-the-paint-peels-2",
+        id: "8b5b86a1de9d96ce24c26ba8307a1b36"
       }
     ],
     notes: '<p>...was recorded on a rainy January afternoon in one of the back rooms of Swing State, a small art & music venue in the northern wastes of Illinois. The entire operation was executed on an analog reel-to-reel device.</p><p>"It makes you listen with your ears, rather than your eyes," Isaac said as he loaded the magnetic tapes. My jaw hit the floor. Somewhere, miles away, my computer was steadily collecting a fine layer of dust.</p>',
@@ -5308,6 +5329,13 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
         title: "Elephants, Veils, Stars",
         length: "00:02:27",
         id: "78b5fcae9f4417ac7a003b8d11aabf42"
+      }
+    ],
+    streams: [
+      {
+        platform: "Bandcamp",
+        url: "https://connectednesslocus.bandcamp.com/album/as-quippolous-codes-quietly-count",
+        id: "24363a88a254c3aca3bd791f9f5ffecb"
       }
     ],
     notes: "<p>As Quippolous Codes Quietly Count is a journey through prismatic mists of somnolence and destiny, gates of shimmering keyboard harmonics, mold-emblazoned percussives, and delerious, sludge-filled wastelands where only the foolish and the brave trek. Recorded over the course of 2 years, the album could easily be mistaken for an impressionistic account of a journey through space amidst a fleet of ghost ships.</p>",
