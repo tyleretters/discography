@@ -11,6 +11,7 @@ export interface Release {
     wav: boolean;
     wav_url?: string;
     tracks: Array<Track>;
+    trackIds?: string[];
     streams?: Array<Stream>;
     monospaceNotes?: boolean;
     notes: string;

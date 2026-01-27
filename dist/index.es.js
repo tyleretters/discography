@@ -9,6 +9,22 @@ const e = [
     label: "Intertext",
     mp3: !0,
     wav: !0,
+    trackIds: [
+      "Wicked Game by Chris Isaak",
+      "Tearn' Up My Heart (Original Radio Edit) by *NSYNC",
+      "Bother by Stone Sour",
+      "All Fucked Up by The Amity Affliction",
+      "Misery Business by Paramore",
+      "You Give Love a Bad Name by Bon Jovi",
+      "Hurt by Johnny Cash",
+      "Poison Girl by HIM",
+      "End of the World by Cold",
+      "Closer by Nine Inch Nails",
+      "Over Each Other by Linkin Park",
+      "Get Together by Madonna",
+      "Kiss from a Rose by Seal",
+      "Desert Rose by Sting"
+    ],
     tracks: [
       {
         number: 1,
@@ -50,6 +66,16 @@ const e = [
     label: "Intertext",
     mp3: !0,
     wav: !0,
+    trackIds: [
+      "The Angels Fell (2015 Remaster) by Dillinja",
+      "hung over as the queen in maida vale by Godspeed You! Black Emperor",
+      "Music for 18 Musicians by Steve Reich",
+      "Flower by HKE",
+      "Save and Sound by bvdub",
+      "Stay with Me by Clint Mansell",
+      "Treale by Autechre",
+      'Final Movement (feat. "Not At Home") by Clint Mansell, Peter Broderick'
+    ],
     tracks: [
       {
         number: 1,
@@ -91,6 +117,21 @@ const e = [
     label: "Intertext",
     mp3: !0,
     wav: !0,
+    trackIds: [
+      "Blade Runner Blues by Vangelis",
+      "Reprocessing by Fireground",
+      "The Blue Notebooks by Max Richter, Tilda Swinton",
+      "Fenix Funk 5 by Aphex Twin",
+      "Give It All by Rise Against",
+      "fullmoon by Ryuichi Sakamoto",
+      "CONCRETE JUNGLE by Bad Omens",
+      "Imaginary Festival by Burial",
+      "Hybrid by Gary Numan",
+      "Disorder by Chiasm",
+      "Severed by Crossbreed",
+      "Hydropolis by LSTNGT",
+      "トルキア by Yoko Kanno, Gabriela Robin"
+    ],
     tracks: [
       {
         number: 1,
@@ -196,6 +237,21 @@ const e = [
     label: "Intertext",
     mp3: !0,
     wav: !0,
+    trackIds: [
+      "Count On You by Tokyo Tears",
+      "3AM by araabMUZIK",
+      "Four Walls by Massive Attack vs Burial",
+      "Precious by Depeche Mode",
+      "You And Me by Skeler",
+      "Silence (John Summit Remix) by Delerium, Sara McLachlan, John Summit",
+      "Drown U Out by 4K & Conni",
+      "We Are Free by Tokyo Tears & SAGE",
+      "As The Rush Comes (Gabriel & Dresden Chillout Mix) by Motorcycle",
+      "In The End (Mellen Gi Remix) by Tommee Profitt, Mellen Gi & Fleurie",
+      "Strangers by Portishead",
+      "Sound in a Dark Room by Telefon Tel Aviv",
+      "Afterglow (feat. Soundmouse) by Phaeleh"
+    ],
     tracks: [
       {
         number: 1,
@@ -237,6 +293,19 @@ const e = [
     label: "Intertext",
     mp3: !0,
     wav: !0,
+    trackIds: [
+      "Serenity <Remake ver.> by Kota Suzuki,千本木操",
+      "Trade Winds, White Heat by Tim Hecker",
+      "And the Birds Are About to Bust Their Guts with Singing by Set Fire to Flames",
+      "(B) by mewithoutYou",
+      "VLetrmx by Autechre",
+      "Leaving Hope by Nine Inch Nails",
+      "Merry Christmas Mr. Lawrence by Ryuichi Sakamoto",
+      "True North by Hilyard",
+      "Shadow by Ernst Reijseger",
+      "Mandy Love Theme by Jóhann Jóhannsson",
+      "at another working gate by tyler etters & the northern information movement"
+    ],
     tracks: [
       {
         number: 1,
@@ -278,6 +347,23 @@ const e = [
     label: "Intertext",
     mp3: !0,
     wav: !0,
+    trackIds: [
+      "Numbered Days - feat. Jesse Leach of Killswitch Engage, by Heaven Shall Burn",
+      "Beneath A Lightless Star by Holy Fawn",
+      "Coffin Varnish by The Atlas Moth",
+      "Meaningless by Deadships",
+      "Instill by Humanity's Last Breath",
+      "Hostage by Fit For An Autopsy",
+      "Hum From The Hollow by After The Burial",
+      "Nerve by Soilwork",
+      "Rational Gaze by Meshuggah",
+      "Open Letter by The Amity Affliction",
+      "Feeding The Meatgrinder by Shadow of Intent, Corpsegrinder",
+      "The Laws of Time by Nik Nocturnal, Darkest Hour, John Henry",
+      "Dig by Mudvayne",
+      "Breaking Free by Ocean Sleeper",
+      "Memphis Will Be Laid To Waste by Norma Jean, Aaron Weiss"
+    ],
     tracks: [
       {
         number: 1,
@@ -319,6 +405,23 @@ const e = [
     label: "Intertext",
     mp3: !0,
     wav: !0,
+    trackIds: [
+      "Radioactive by Imagine Dragons, Kendrick Lamar",
+      "Breathless by The Corrs",
+      "vista by iamamiwhoami, ionnalee",
+      "The Taste of Ink by The Used",
+      "Stetson by Walker Hayes",
+      "Pretending by HIM",
+      "Everytime We Touch by Cascada",
+      "Gantz Graf by Autechre",
+      "Iris by The Goo Goo Dolls",
+      "Sweetness by Jimmy Eat World",
+      "Monochrome # 27 by TU M'",
+      "The Boys of Summer by Don Henley",
+      "17 Crimes by AFI",
+      "§1 by Opeth",
+      "Enjoy the Silence by Depeche Mode"
+    ],
     tracks: [
       {
         number: 1,
@@ -616,6 +719,22 @@ const e = [
     label: "Intertext",
     mp3: !0,
     wav: !0,
+    trackIds: [
+      "inner universe by Origa",
+      "Just Communication by TWO-MIX",
+      "Danzai no Hana: Guilty Sky by Riyu Kosaka",
+      "rise by Origa",
+      "Beautiful World by Hiraku Utada",
+      "Obsession by See-Saw",
+      "Simple And Clean by Hiraku Utada",
+      "Kiss me sunlights by Heart of Air",
+      "Beyond the Bounds by KONAMI, Maki Kimura",
+      "Making of a Cyborg by Kenji Kawai",
+      "Liberi Fatali by Nobuo Uematsu",
+      "Gustaberg by Kumi Tanioka",
+      "Broken Promise [Dreams] by Joe Boyd Vigil",
+      "Hiru no Tsuki by Akino Arai"
+    ],
     tracks: [
       {
         number: 1,
@@ -657,6 +776,22 @@ const e = [
     label: "Intertext",
     mp3: !0,
     wav: !0,
+    trackIds: [
+      "In Keeping Secrets of Silent Earth: 3 (cont.) by Coheed and Cambria",
+      "Love Rhymes with Hideous Car Wreck by The Blood Brothers",
+      "People ii: The Reckoning by AJJ",
+      "The Bad In Each Other by Feist",
+      "Hurt by Johnny Cash",
+      "Obsessive Compulsive by The Firebird Band",
+      "To a Friend by Alexisonfire",
+      "Eye by The Smashing Pumpkins",
+      "Sometimes by The Digital Kill",
+      "Skinny Love by Bon Iver",
+      "How to Disappear Completely by Radiohead",
+      "Weak And Powerless by A Perfect Circle",
+      "Soul Meets Body by Death Cab for Cutie",
+      "To Be Alone With You by Sufjan Stevens"
+    ],
     tracks: [
       {
         number: 1,
@@ -698,6 +833,22 @@ const e = [
     label: "Intertext",
     mp3: !0,
     wav: !0,
+    trackIds: [
+      "Fight Song by The Appleseed Cast",
+      "Gunpowder: A Ballet by Dr Manhattan",
+      "Our Holy Ghosts by The Felix Culpa",
+      "The Seer's Tower by Sufjan Stevens",
+      "Shiola by Murder by Death",
+      "Understanding in a Car Crash by Thursday",
+      "In Circles - Remastered by Sunny Day Real Estate",
+      "January 1979 by mewithoutYou",
+      "Your Death Makes Me Wish Heaven Was Real by Frail Body",
+      "Stare At The Sun by Thrice",
+      "Four Winds by Bright Eyes",
+      "Art is Hard by Cursive",
+      "Act Appalled by Circa Survive",
+      "In Keeping Secrets of Silent Earth: 3 by Coheed and Cambria"
+    ],
     tracks: [
       {
         number: 1,
@@ -739,6 +890,23 @@ const e = [
     label: "Intertext",
     mp3: !0,
     wav: !1,
+    trackIds: [
+      "Vengeance. (feat. Graham Sayle) by Rainy Miller",
+      "Poltergeist by Arjan Miranda",
+      "Penance by Uniform, The Body",
+      "Failed Future by Master Musicians of Bukkake",
+      "Aperic sers elel by Ernest Ogannesyan",
+      "Made by Jamie Isaac, Nosaj Thing",
+      "Jetset by Ojerime",
+      "Suits Maps And Guns by Tyler Bates, Joel J. Richard",
+      "A Glass Can Only Spill What It Contains by mewithoutYou",
+      "The Boxer by Simon and Garfunkel",
+      "Wat U Sed (feat. Doechii & Karl Banx) by Isaiah Rashad",
+      "Street Struck by Big L",
+      "Heart of the Devil by Danzig",
+      "Out of Touch by Fruit & Flowers",
+      "Requiem by Cade Diehm"
+    ],
     tracks: [
       {
         number: 1,
@@ -906,6 +1074,21 @@ const e = [
     label: "Intertext",
     mp3: !0,
     wav: !1,
+    trackIds: [
+      "Not Afraid by アンジェラ (Vo.Alisa)",
+      "In The Air Tonight by Phil Colins",
+      "Straight Up by Paula Abdul",
+      "Give It All - Redux by The Amity Affliction",
+      "Dead End by In Flames",
+      "Pete Standing Alone by Boards of Canada",
+      "Alberto Balsalm by Aphex Twin",
+      "Decode by Paramore",
+      "The World Engulfed In Flames by Darkest Hour",
+      "This Is What It Feels Like by BANKS",
+      "2•GOLDEN DAWN•7 by Die Antwoord",
+      "Goodbye by Ulrich Schnauss",
+      "Hiru no Tsuki by Akino Arai"
+    ],
     tracks: [
       {
         number: 1,
@@ -945,6 +1128,21 @@ const e = [
     label: "Intertext",
     mp3: !0,
     wav: !1,
+    trackIds: [
+      "Lips Like Morphine by Kill Hannah",
+      "Razorblade Kiss by HIM",
+      "Raindrops + Sunshowers by The Smashing Pumpkins",
+      "The Hollow by A Perfect Circle",
+      "Alibi by BANKS",
+      "Sell Your Soul by Hollywood Undead",
+      "sLeepwALkeR by The Pretty Wild",
+      "Circle With Me by Spiritbox",
+      "17 Crimes by AFI",
+      "Going Under by Evanescence",
+      "Chasing Ghosts by The Amity Affliction",
+      "Heaven's a Lie by Lacuna Coil",
+      "Another Love by bvdub"
+    ],
     tracks: [
       {
         number: 1,
@@ -985,6 +1183,21 @@ const e = [
     mp3: !0,
     wav: !0,
     notes: "<p>we are a special interest group. we have special interests. william basinski. and cathal. and are all geographically aligned with SF except me. and cathal. we are very normal.</p>",
+    trackIds: [
+      "Red Horizon by Fit For An Autoposy",
+      "Blue Dream by Dance Gavin Dance",
+      "KIssing Cousins by Closure in Moscow",
+      "Stronger by Britteny Spears",
+      "Last Resort by Papa Roach",
+      "It's My Life by Bon Jovi",
+      "Runnin' with the Devil by Van Halen",
+      "limerence by Nakedleisure, gwendear",
+      "09-15-00 by Godspeed You! Black Emperor",
+      "Hearing Things by Shoi Miyazawa",
+      "Ritual by 1000 Eyes, Tom Schley",
+      "Roundtable Hold by Tsukasa Saitoh",
+      "The Sky Is Black (OG YouTube Rip) by Telefon Tel Aviv"
+    ],
     tracks: [
       {
         number: 1,

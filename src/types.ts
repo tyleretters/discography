@@ -11,7 +11,8 @@ export interface Release {
   wav: boolean
   wav_url?: string
   tracks: Array<Track>
-  streams?: Array<Stream> 
+  trackIds?: string[]
+  streams?: Array<Stream>
   monospaceNotes?: boolean
   notes: string
   credits: string
