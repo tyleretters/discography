@@ -1,6 +1,7 @@
 const e = [
   {
-    title: "Hearts in Valencia Chapter 2",
+    title: "𝐻𝑒𝒶𝓇𝓉𝓈 𝒾𝓃 𝒱𝒶𝓁𝑒𝓃𝒸𝒾𝒶, 𝒞𝒽𝒶𝓅𝓉𝑒𝓇 𝟤",
+    slug: "hearts-in-valencia-chapter-2",
     project: "DJ STUXNET",
     released: "02025-11-18",
     type: "Mix",
@@ -28,23 +29,24 @@ const e = [
     tracks: [
       {
         number: 1,
-        title: "Hearts in Valencia Chapter 2",
+        title: "𝐻𝑒𝒶𝓇𝓉𝓈 𝒾𝓃 𝒱𝒶𝓁𝑒𝓃𝒸𝒾𝒶, 𝒞𝒽𝒶𝓅𝓉𝑒𝓇 𝟤",
+        slug: "hearts-in-valencia-chapter-2",
         length: "00:57:30",
         mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/hearts-in-valencia-chapter-2/01-hearts-in-valencia-chapter-2.mp3",
         wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/hearts-in-valencia-chapter-2/01-hearts-in-valencia-chapter-2.wav",
-        id: "57e886f160d85ed53856165fe7f419a2"
+        id: "5e265f045d917c14b9e76e89cc55e778"
       }
     ],
     streams: [
       {
         platform: "SoundCloud",
         url: "https://soundcloud.com/tyleretters/hearts-in-valencia-chapter-2-mixtape",
-        id: "fe9794e7e2b97745a33dace0de82eb86"
+        id: "49af07f41903fb14594bbcd24e8c5ad4"
       },
       {
         platform: "Untitled Stream",
         url: "https://untitled.stream/library/project/qeVIRbMFXSbeOK6L5x9mB",
-        id: "101f2fccab4620d60549abb6c5a417f1"
+        id: "4756c65e9e371bdf537826d953d8b346"
       }
     ],
     notes: "<p>Another mixtape about dating in 2025.</p>",
@@ -54,7 +56,7 @@ const e = [
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/hearts-in-valencia-chapter-2/hearts-in-valencia-chapter-2.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/hearts-in-valencia-chapter-2/hearts-in-valencia-chapter-2-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/hearts-in-valencia-chapter-2/hearts-in-valencia-chapter-2-wav.zip",
-    id: "eff5ce28f4e7f4805dd59ebab071ed3d"
+    id: "eb557f86ce28f11d7c76996c5c4d8c17"
   },
   {
     title: "In Abstraction, Part 2",
@@ -396,7 +398,8 @@ const e = [
     id: "1e2cbee76bf86acce1624550234a4ad3"
   },
   {
-    title: "Hearts in Valencia Chapter 1",
+    title: "𝐻𝑒𝒶𝓇𝓉𝓈 𝒾𝓃 𝒱𝒶𝓁𝑒𝓃𝒸𝒾𝒶, 𝒞𝒽𝒶𝓅𝓉𝑒𝓇 𝟣",
+    slug: "hearts-in-valencia-chapter-1",
     project: "DJ STUXNET",
     released: "02025-07-07",
     type: "Mix",
@@ -425,23 +428,24 @@ const e = [
     tracks: [
       {
         number: 1,
-        title: "Hearts in Valencia Chapter 1",
+        title: "𝐻𝑒𝒶𝓇𝓉𝓈 𝒾𝓃 𝒱𝒶𝓁𝑒𝓃𝒸𝒾𝒶, 𝒞𝒽𝒶𝓅𝓉𝑒𝓇 𝟣",
+        slug: "hearts-in-valencia-chapter-1",
         length: "00:59:14",
         mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/hearts-in-valencia-chapter-1/01-hearts-in-valencia-chapter-1.mp3",
         wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/hearts-in-valencia-chapter-1/01-hearts-in-valencia-chapter-1.wav",
-        id: "83aca3b35e1c8441fc7dbee79560ec0a"
+        id: "d3f2fdb5c02eeb7b44dbc3e6945e744e"
       }
     ],
     streams: [
       {
         platform: "SoundCloud",
         url: "https://soundcloud.com/tyleretters/hearts-in-valencia-chapter-1-mixtape",
-        id: "49f43ba81c350bb9069b3d3e91709a28"
+        id: "8d8e09e21423f02351cc8962611802a0"
       },
       {
         platform: "Untitled Stream",
         url: "https://untitled.stream/library/project/7KvW8MNtMgqGXy8HYiZOP",
-        id: "ba868f1502a22777cde4b7ab03d6398e"
+        id: "d78c75ced2442bb5fb57de8e335fee3b"
       }
     ],
     notes: "<p>A mixtape about dating in 2025.</p>",
@@ -451,7 +455,7 @@ const e = [
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/hearts-in-valencia-chapter-1/hearts-in-valencia-chapter-1.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/hearts-in-valencia-chapter-1/hearts-in-valencia-chapter-1-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/hearts-in-valencia-chapter-1/hearts-in-valencia-chapter-1-wav.zip",
-    id: "b9c25e94faed0f9c0eaf919d94b442e7"
+    id: "e80a064f7fb435dd11cd46f8b3b93fb5"
   },
   {
     title: "THE VULGAR FRACTIONS: WALKAWAY / HAILSTONE NUMBERS",
@@ -710,7 +714,8 @@ const e = [
     id: "a2a3770d62a93eb6f4c0c12f7a1ab291"
   },
   {
-    title: "Psalms",
+    title: "𝔓𝔰𝔞𝔩𝔪𝔰",
+    slug: "psalms",
     project: "DJ STUXNET",
     released: "02025-06-21",
     type: "Mix",
@@ -742,19 +747,19 @@ const e = [
         length: "00:59:05",
         mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/psalms/01-psalms.mp3",
         wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/psalms/01-psalms.wav",
-        id: "e3c6cb36bdc091126e04bec45adfffde"
+        id: "6fc9677bd0f3ab5075f893d474c37620"
       }
     ],
     streams: [
       {
         platform: "SoundCloud",
         url: "https://soundcloud.com/tyleretters/psalms-mixtape",
-        id: "d43630e61fc2d96caed8fc62d99ce4dc"
+        id: "1a6fd282f541330ab88549bd979763b6"
       },
       {
         platform: "Untitled Stream",
         url: "https://untitled.stream/library/project/fRlbR5AXIJx2koZdvkXAr",
-        id: "e006d2a7274d26292c433c0e97d71717"
+        id: "7f7e1b8528f6eb40249f3c125c36ce8a"
       }
     ],
     notes: "<p>Message of the blowing wind</p><p>Erasing memories</p><p>Stars are the witnesses of our existence</p><p>Change is what the world awaits</p><p>Could that be peace or war?</p><p>The answer no one knows</p><p>Trusting the break of dawn</p><p>The blue bird flies away</p><p></p><p>Summer solstice releases have long been a sacred tradition for me. And these are some of my most sacred psalms. I've been curating the candidates for roughly twenty years and on the finalizing the list for roughly five. It's all from JRPG & anime OSTs. May it inspire you as much as it does me.</p>",
@@ -764,10 +769,11 @@ const e = [
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/psalms/psalms.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/psalms/psalms-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/psalms/psalms-wav.zip",
-    id: "15cb263522d9660a57d73bf28c2ee0ac"
+    id: "75adcdc73d0a22661cb07e8cbeeed418"
   },
   {
-    title: "midwest sad, part 2",
+    title: "midwest_sad, part 2",
+    slug: "midwest-sad-part-2",
     project: "DJ STUXNET",
     released: "02025-06-14",
     type: "Mix",
@@ -795,23 +801,24 @@ const e = [
     tracks: [
       {
         number: 1,
-        title: "midwest sad, part 2",
+        title: "midwest_sad, part 2",
+        slug: "midwest-sad-part-2",
         length: "00:59:25",
         mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/midwest-sad-part-2/01-midwest-sad-part-2.mp3",
         wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/midwest-sad-part-2/01-midwest-sad-part-2.wav",
-        id: "7c9c502e4aff49266e56b6e2b7086cd3"
+        id: "923a29b1e326f3cd49589cf2a359ad8c"
       }
     ],
     streams: [
       {
         platform: "SoundCloud",
         url: "https://soundcloud.com/tyleretters/midwest-sad-part-2",
-        id: "e3be3101eb05432f74e708e5fa736f43"
+        id: "c2994374ee9c1a86c0bd620cf01e86b6"
       },
       {
         platform: "Untitled Stream",
         url: "https://untitled.stream/library/project/I1BQS4lOiZu2EUiKqXRPQ",
-        id: "4b5556fe09aab796f764609d54a8b50b"
+        id: "6fdb7bb917462e0a7e7c53fb2aa1b1b1"
       }
     ],
     notes: "<p>Woah-oh-oh-oh, oh-oh-oh, oh-oh-oh.</p><p>Woah-oh-oh-oh, oh-oh-oh, oh-oh-oh.</p><p>Woah-oh-oh-oh, oh-oh-oh, oh-oh-oh.</p><p>Woah-oh-oh-oh, oh-oh-oh, oh-oh-oh.</p><p>Now, we're coming home.</p>",
@@ -821,10 +828,11 @@ const e = [
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/midwest-sad-part-2/midwest-sad-part-2.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/midwest-sad-part-2/midwest-sad-part-2-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/midwest-sad-part-2/midwest-sad-part-2-wav.zip",
-    id: "e5475132c4f7e2e537edb2e2c94f48a3"
+    id: "4fc7ab2679a9ad08b467b9a440393dda"
   },
   {
-    title: "midwest sad, part 1",
+    title: "midwest_sad, part 1",
+    slug: "midwest-sad-part-1",
     project: "DJ STUXNET",
     released: "02025-06-14",
     type: "Mix",
@@ -852,23 +860,24 @@ const e = [
     tracks: [
       {
         number: 1,
-        title: "midwest sad, part 1",
+        title: "midwest_sad, part 1",
+        slug: "midwest-sad-part-1",
         length: "00:59:18",
         mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/midwest-sad-part-1/01-midwest-sad-part-1.mp3",
         wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/midwest-sad-part-1/01-midwest-sad-part-1.wav",
-        id: "5b5d2a4ba6d6ed1cadccb3ac93e55abc"
+        id: "192eb77b0c6277b9119b88d2ae48edd2"
       }
     ],
     streams: [
       {
         platform: "SoundCloud",
         url: "https://soundcloud.com/tyleretters/midwest-sad-part-1",
-        id: "bd4362f394639f4512929542909193db"
+        id: "6896b2c1ab7dda389468f320f1bf4118"
       },
       {
         platform: "Untitled Stream",
         url: "https://untitled.stream/library/project/lYBChFUYCuureLWbUKfye",
-        id: "86c2369981491c094d7e21915bd8a96a"
+        id: "54b0a90b7df6de62126bbdb962c04b8d"
       }
     ],
     notes: `<p>If "you had to be there" then I wouldn't have made this mixtape. It was a very specific time and place. But the music we played was just "music" to me. It would be years later until I learned that it was all actually emo, midwest-emo, screamo, hardcore, metalcore, progressive... It was folk music for us, right? So we start in the midwest. Appleseed Cast (Kansas) then over to Dr. Manhattan (Illinois), The Felix Culpa (also Illinois), and then a bit less underground when we climb the Seer's Tower with Mr. Stevens. It goes on from there. This is a time capsule. This is midwest sad, part 1. Man your own jackhammer.</p>`,
@@ -878,7 +887,7 @@ const e = [
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/midwest-sad-part-1/midwest-sad-part-1.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/midwest-sad-part-1/midwest-sad-part-1-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/midwest-sad-part-1/midwest-sad-part-1-wav.zip",
-    id: "4727ddb5945626312dac4e30a3ae5b45"
+    id: "f2ea2edfac50b70916a9e58cb68f7616"
   },
   {
     title: "Brooklyn Vengeance",

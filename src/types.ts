@@ -1,5 +1,6 @@
 export interface Release {
   title: string
+  slug?: string
   project: string
   released: string
   type: string
@@ -25,6 +26,7 @@ export interface Release {
 export interface Track {
   number: number
   title: string
+  slug?: string
   length: string
   mp3_url?: string
   wav_url?: string

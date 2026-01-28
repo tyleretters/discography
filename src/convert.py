@@ -87,8 +87,8 @@ def main():
     # generate a project slug
     release["project_slug"] = make_slug(release["project"])
 
-    # generate a release slug
-    release["release_slug"] = make_slug(release["title"])
+    # generate a release slug (use explicit slug if provided)
+    release["release_slug"] = release.get("slug") or make_slug(release["title"])
 
     # generate a cover
     release["cover_url"] = CDN_BASE_URL + release["project_slug"] + "/" + release["release_slug"] + "/" + release["release_slug"] + ".jpg"
@@ -123,7 +123,8 @@ def main():
 
         # generate a track slugs for available formats
         # outcome example: project-title/release-title/01-track-title.mp3
-        slug = make_slug(str(track["number"]).zfill(2) + "-" + track["title"]) # zero pad track number
+        track_title_slug = track.get("slug") or make_slug(track["title"])
+        slug = str(track["number"]).zfill(2) + "-" + track_title_slug
         track_slug = release["project_slug"] + "/" + release["release_slug"] + "/" + slug
         if release["mp3"]:
           track["mp3_url"] = CDN_BASE_URL + track_slug + ".mp3"
