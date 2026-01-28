@@ -1310,7 +1310,7 @@ const e = [
       {
         number: 1,
         title: "𝔡𝔞𝔲𝔫𝔱𝔩𝔢𝔰𝔰 𝔠𝔥𝔬𝔦𝔯",
-        slug: "01-dauntless-choir",
+        slug: "dauntless-choir",
         length: "00:58:19",
         trackIds: [
           "Ghosts of Garden City by Caspian",
@@ -1328,14 +1328,14 @@ const e = [
           "Let It Go by araabMUZIK",
           "Kowloon City by Bauernfiend"
         ],
-        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/01-01-dauntless-choir.mp3",
-        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/01-01-dauntless-choir.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/01-dauntless-choir.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/01-dauntless-choir.wav",
         id: "e5ace0be6623d7f5188e55bff59d560d"
       },
       {
         number: 2,
         title: "𝓀𝒶𝓉𝒶𝒷𝒶𝓉𝒾𝒸 𝓌𝒾𝓃𝒹",
-        slug: "02-katabatic-wind",
+        slug: "katabatic-wind",
         length: "00:59:59",
         trackIds: [
           "Deep Impact by Chris Veron",
@@ -1348,14 +1348,14 @@ const e = [
           "Dice by Lemna",
           "Hard to Say by DjRUM"
         ],
-        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/02-02-katabatic-wind.mp3",
-        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/02-02-katabatic-wind.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/02-katabatic-wind.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/02-katabatic-wind.wav",
         id: "c1b6d2b68a810650bbf46a0d63d1ccc7"
       },
       {
         number: 3,
         title: "𝙵𝚘𝚐 𝚆𝚊𝚕𝚕𝚜",
-        slug: "03-fog-walls",
+        slug: "fog-walls",
         length: "00:59:52",
         trackIds: [
           "Reminisence by Monolake",
@@ -1371,14 +1371,14 @@ const e = [
           "The Sound of Goodbye Above & Beyond US Edit by Armin van Buuren, Perpetuous Dreamer, Above & Beyond",
           "Inversion by Basic Channel"
         ],
-        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/03-03-fog-walls.mp3",
-        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/03-03-fog-walls.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/03-fog-walls.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/03-fog-walls.wav",
         id: "2ca9572309cbfb1ee4a4600a4317e98e"
       },
       {
         number: 4,
         title: "broken promise (for timm)",
-        slug: "04-broken-promise-for-timm",
+        slug: "broken-promise-for-timm",
         length: "00:59:06",
         trackIds: [
           "Elektrik by The Flying Steps",
@@ -1391,14 +1391,14 @@ const e = [
           "Broken Promise [Dreams] by Joe Boyd Vigil",
           "失落之地 by ESIAFI 1"
         ],
-        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/04-04-broken-promise-for-timm.mp3",
-        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/04-04-broken-promise-for-timm.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/04-broken-promise-for-timm.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/04-broken-promise-for-timm.wav",
         id: "7b1099bbf4803123bde89ce9f0128ab3"
       },
       {
         number: 5,
         title: "THE CONTINUANCE",
-        slug: "05-the-continuance",
+        slug: "the-continuance",
         length: "01:00:00",
         trackIds: [
           "Castles in the Sky Radio Mix by Ian Van Dahl, Marsha",
@@ -1415,14 +1415,14 @@ const e = [
           "Herabgehen Long Version by Morten B.",
           "Algorithmic Realtiy by LDS"
         ],
-        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/05-05-the-continuance.mp3",
-        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/05-05-the-continuance.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/05-the-continuance.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/05-the-continuance.wav",
         id: "60b3dac3741819e4c137f1cc51ce6b22"
       },
       {
         number: 6,
         title: "トランス",
-        slug: "06-トランス",
+        slug: "トランス",
         length: "00:59:29",
         trackIds: [
           "Cruel Summer by Ace of Base",
@@ -1443,14 +1443,14 @@ const e = [
           "Sweet Dreams by La Bouche",
           "Too Much of Heaven by Eiffel 65"
         ],
-        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/06-06-トランス.mp3",
-        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/06-06-トランス.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/06-トランス.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/06-トランス.wav",
         id: "26e3a7a503eb83c418e4753604fc940b"
       },
       {
         number: 7,
         title: "Elegies for Anja",
-        slug: "07-elegies-for-anja",
+        slug: "elegies-for-anja",
         length: "01:01:30",
         trackIds: [
           "SOLSTICE by dreamstation, Nedaj",
@@ -1466,14 +1466,14 @@ const e = [
           "MDMA by Emmure",
           "Emotion is Dead Pt. 2 by The Juliana Theory"
         ],
-        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/07-07-elegies-for-anja.mp3",
-        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/07-07-elegies-for-anja.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/07-elegies-for-anja.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/07-elegies-for-anja.wav",
         id: "1c8a682858ee69b92515a09dd03f76a8"
       },
       {
         number: 8,
         title: "ЯΣBЯӨΛDCΛƧƬ [1/2] 𝘍𝘭𝘢𝘴𝘩 𝘊𝘳𝘢𝘴𝘩 𝘗𝘪𝘳𝘢𝘵𝘦 𝘙𝘢𝘥𝘪𝘰 𝘔𝘪𝘹 + 𝘵𝘦𝘩𝘯",
-        slug: "08-rebroadcast-1-of-2-flash-crash-pirate-radio-mix-tehn",
+        slug: "rebroadcast-1-of-2-flash-crash-pirate-radio-mix-tehn",
         length: "00:58:39",
         trackIds: [
           "Be My Lover by La Bouche",
@@ -1488,14 +1488,14 @@ const e = [
           "Beauty by bvdub",
           "Kasvetli Kutlama by She Past Away"
         ],
-        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/08-08-rebroadcast-1-of-2-flash-crash-pirate-radio-mix-tehn.mp3",
-        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/08-08-rebroadcast-1-of-2-flash-crash-pirate-radio-mix-tehn.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/08-rebroadcast-1-of-2-flash-crash-pirate-radio-mix-tehn.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/08-rebroadcast-1-of-2-flash-crash-pirate-radio-mix-tehn.wav",
         id: "016e93c9da4b798ea72e654c198ccb6a"
       },
       {
         number: 9,
         title: "ЯΣBЯӨΛDCΛƧƬ [2/2] 𝘍𝘭𝘢𝘴𝘩 𝘊𝘳𝘢𝘴𝘩 𝘗𝘪𝘳𝘢𝘵𝘦 𝘙𝘢𝘥𝘪𝘰 𝘔𝘪𝘹 + 𝘵𝘦𝘩𝘯",
-        slug: "09-rebroadcast-2-of-2-flash-crash-pirate-radio-mix-tehn",
+        slug: "rebroadcast-2-of-2-flash-crash-pirate-radio-mix-tehn",
         length: "00:59:32",
         trackIds: [
           "What is Love by Haddaway",
@@ -1510,14 +1510,14 @@ const e = [
           "Aquatic Ambience by Dave Wise",
           "One More Time by Aliceffekt"
         ],
-        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/09-09-rebroadcast-2-of-2-flash-crash-pirate-radio-mix-tehn.mp3",
-        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/09-09-rebroadcast-2-of-2-flash-crash-pirate-radio-mix-tehn.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/09-rebroadcast-2-of-2-flash-crash-pirate-radio-mix-tehn.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/09-rebroadcast-2-of-2-flash-crash-pirate-radio-mix-tehn.wav",
         id: "74f4bd808a47f6c9b231f76afad25831"
       },
       {
         number: 10,
         title: "Kowloon City: Ｌｅｙｌｉｎｅ",
-        slug: "10-kowloon-city-leyline",
+        slug: "kowloon-city-leyline",
         length: "00:58:49",
         trackIds: [
           "Zucht 2 by Machinefabriek",
@@ -1532,8 +1532,8 @@ const e = [
           "North Port (remnant) by Sanchez is driven by demons",
           "r cazt by Autechre"
         ],
-        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/10-10-kowloon-city-leyline.mp3",
-        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/10-10-kowloon-city-leyline.wav",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/10-kowloon-city-leyline.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/10-kowloon-city-leyline.wav",
         id: "7d8b48eb0c7dd2c3cfedd81d88845cc2"
       }
     ],
