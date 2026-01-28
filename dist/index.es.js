@@ -1182,7 +1182,8 @@ const e = [
     id: "28a37f9d7721d8a41de460e993679e14"
   },
   {
-    title: "baysinski event ii world war iii",
+    title: "baysinski event ii: world war iii",
+    slug: "baysinski-event-ii-world-war-iii",
     project: "DJ STUXNET",
     released: "02025-02-12",
     type: "Mix",
@@ -1210,23 +1211,24 @@ const e = [
     tracks: [
       {
         number: 1,
-        title: "baysinski event ii world war iii",
+        title: "baysinski event ii: world war iii",
+        slug: "baysinski-event-ii-world-war-iii",
         length: "00:58:35",
         mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/baysinski-event-ii-world-war-iii/01-baysinski-event-ii-world-war-iii.mp3",
         wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/baysinski-event-ii-world-war-iii/01-baysinski-event-ii-world-war-iii.wav",
-        id: "cbd9dc0715c1062c3f622adfd4e6ee87"
+        id: "870feaaff80aadb9271ea8ab8024210d"
       }
     ],
     streams: [
       {
         platform: "SoundCloud",
         url: "https://soundcloud.com/tyleretters/dj-stuxnet-baysinski-event-ii-world-war-iii",
-        id: "ef298859c11eb64ee2682a97c7ecc1e9"
+        id: "350221fe2bae95900456ec93fa14833f"
       },
       {
         platform: "Untitled Stream",
         url: "https://untitled.stream/library/project/dLJcDbarlGPJQM1YmQ06Q",
-        id: "d27842fa950ca70871908f4bfa3d62f7"
+        id: "53536d13cac084386806b170b2f33e3c"
       }
     ],
     credits: "<p>STUXNET is Tyler Etters.</p>",
@@ -1235,7 +1237,7 @@ const e = [
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/baysinski-event-ii-world-war-iii/baysinski-event-ii-world-war-iii.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/baysinski-event-ii-world-war-iii/baysinski-event-ii-world-war-iii-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/baysinski-event-ii-world-war-iii/baysinski-event-ii-world-war-iii-wav.zip",
-    id: "da42e11aaee4006f8b48e9a385bcc126"
+    id: "c6f39b58c83b4c44337a02768cca3322"
   },
   {
     title: "FOXFIRES / KYBALION",
@@ -1302,67 +1304,236 @@ const e = [
     format: "Digital",
     role: "DJ",
     label: "Intertext",
-    mp3: !1,
-    wav: !1,
+    mp3: !0,
+    wav: !0,
     tracks: [
       {
         number: 1,
         title: "𝔡𝔞𝔲𝔫𝔱𝔩𝔢𝔰𝔰 𝔠𝔥𝔬𝔦𝔯",
+        slug: "01-dauntless-choir",
         length: "00:58:19",
+        trackIds: [
+          "Ghosts of Garden City by Caspian",
+          "Hymn of the Cherubim by USSR Ministry of Culture Chamber Choir",
+          "Plateau by Eden Aurelius",
+          "After Hours by Unreal",
+          "Ritual by 1000 Eyes, Tom Schley",
+          "Drove Through Ghosts to Get here by 65daysofstatic",
+          "You Will Be Mist by úna blue, Nailbeds",
+          "Come to Berlin (Telefon Tel Aviv Remix) by Barbara Morgenstern",
+          "I'll Be Loving You by Collage",
+          "Serenity by Capcom Sound Team",
+          "rise by Origa",
+          "Pale Light by Skeler",
+          "Let It Go by araabMUZIK",
+          "Kowloon City by Bauernfiend"
+        ],
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/01-01-dauntless-choir.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/01-01-dauntless-choir.wav",
         id: "e5ace0be6623d7f5188e55bff59d560d"
       },
       {
         number: 2,
         title: "𝓀𝒶𝓉𝒶𝒷𝒶𝓉𝒾𝒸 𝓌𝒾𝓃𝒹",
+        slug: "02-katabatic-wind",
         length: "00:59:59",
+        trackIds: [
+          "Deep Impact by Chris Veron",
+          "Nothing Stops Detroit by Robert Hood",
+          "On The Edge of Adhesion by Voiski, Hadone",
+          "The Age of Love by Charlotte de Witte, Enrico Sangiuliano",
+          "Think Twice by Claude Young, Takashi Nakajima, Different Worlds",
+          "Dash by Subjoi",
+          "Librarion by Substance, Vainqueur",
+          "Dice by Lemna",
+          "Hard to Say by DjRUM"
+        ],
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/02-02-katabatic-wind.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/02-02-katabatic-wind.wav",
         id: "c1b6d2b68a810650bbf46a0d63d1ccc7"
       },
       {
         number: 3,
         title: "𝙵𝚘𝚐 𝚆𝚊𝚕𝚕𝚜",
+        slug: "03-fog-walls",
         length: "00:59:52",
+        trackIds: [
+          "Reminisence by Monolake",
+          "Taken Effect by Shed",
+          "Monolith by Benjamin Damage",
+          "Votive by Dorisburg",
+          "In Cadence by Cameo Blush",
+          "Lil DB Tool by Skee Mask",
+          "Ready Steady Go Extended Mix by Paul Oakenfold, Asher D",
+          "First Plate 3 by Shinichi Atobe",
+          "Déjà Vu, in Reverse by Dedekind Cut",
+          "Escape Radio Edit by Airbase",
+          "The Sound of Goodbye Above & Beyond US Edit by Armin van Buuren, Perpetuous Dreamer, Above & Beyond",
+          "Inversion by Basic Channel"
+        ],
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/03-03-fog-walls.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/03-03-fog-walls.wav",
         id: "2ca9572309cbfb1ee4a4600a4317e98e"
       },
       {
         number: 4,
         title: "broken promise (for timm)",
+        slug: "04-broken-promise-for-timm",
         length: "00:59:06",
+        trackIds: [
+          "Elektrik by The Flying Steps",
+          "Stem / Long Stem / Transmission 2 by DJ Shadow",
+          "Carbon Date Piano by Ernst Reijseger",
+          "Autobahn by Kraftwerk",
+          "lines community stream 200509 by sunbeamer",
+          "Ending Days by LAKE R▲DIO, Sioum, Connectedness Locus, Lunar Day",
+          "Who Told You This Room Exists? by Belong",
+          "Broken Promise [Dreams] by Joe Boyd Vigil",
+          "失落之地 by ESIAFI 1"
+        ],
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/04-04-broken-promise-for-timm.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/04-04-broken-promise-for-timm.wav",
         id: "7b1099bbf4803123bde89ce9f0128ab3"
       },
       {
         number: 5,
         title: "THE CONTINUANCE",
+        slug: "05-the-continuance",
         length: "01:00:00",
+        trackIds: [
+          "Castles in the Sky Radio Mix by Ian Van Dahl, Marsha",
+          "Blue Monday by HEALTH",
+          "It Feels So Good by Sonique",
+          "Only Girl by Rihanna",
+          "This Is Always by 3KZ",
+          "Access Extortion by Tymotica, Stützpunkt",
+          "Oxygene IV by The Synthesizer",
+          "Calitana's Handshake by Ital Tek",
+          "Children by Robert Miles",
+          "We Control by Lilly Palmer",
+          "The Wolf by Rubidium",
+          "Herabgehen Long Version by Morten B.",
+          "Algorithmic Realtiy by LDS"
+        ],
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/05-05-the-continuance.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/05-05-the-continuance.wav",
         id: "60b3dac3741819e4c137f1cc51ce6b22"
       },
       {
         number: 6,
         title: "トランス",
+        slug: "06-トランス",
         length: "00:59:29",
+        trackIds: [
+          "Cruel Summer by Ace of Base",
+          "Summer Jam by Underdog Project",
+          "Damaged by Plummet",
+          "As the Rush Comes by Motorcycle",
+          "Turn the Tide by Sylver",
+          "My Head & My Heart by Ava Max",
+          "All Around the World by ATC",
+          "Herabgehen Long Version by Morten B.",
+          "Archetype Edit by Plasmatique",
+          "Violet by Ital Tek",
+          "Can't Get You Out My Head by Kylie Minogue",
+          "I See Right Through to You by DJ Encore, Engelina",
+          "The Sound of Goodbye by Perpetuous Dreamer, Elles De Graf",
+          "Above Broken Hearts by bvdub",
+          "Blinded by Hannah",
+          "Sweet Dreams by La Bouche",
+          "Too Much of Heaven by Eiffel 65"
+        ],
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/06-06-トランス.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/06-06-トランス.wav",
         id: "26e3a7a503eb83c418e4753604fc940b"
       },
       {
         number: 7,
         title: "Elegies for Anja",
+        slug: "07-elegies-for-anja",
         length: "01:01:30",
+        trackIds: [
+          "SOLSTICE by dreamstation, Nedaj",
+          "Innocente (Falling in Love) by Delerium, Lost Witness, Leigh Nash",
+          "Groove For Fantasy by Dancing Fantasy",
+          "Moments In Love by The Art of Noise",
+          "Scar by Dance with the Dead",
+          "Cry Out For A Hero by Beast In Black",
+          "Hotel Midi by Ronald Jenkees",
+          "Archetype Edit by Plasmatique",
+          "Better Off Alone by Purity Ring",
+          "La Résistance by Heaven Shall Burn",
+          "MDMA by Emmure",
+          "Emotion is Dead Pt. 2 by The Juliana Theory"
+        ],
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/07-07-elegies-for-anja.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/07-07-elegies-for-anja.wav",
         id: "1c8a682858ee69b92515a09dd03f76a8"
       },
       {
         number: 8,
         title: "ЯΣBЯӨΛDCΛƧƬ [1/2] 𝘍𝘭𝘢𝘴𝘩 𝘊𝘳𝘢𝘴𝘩 𝘗𝘪𝘳𝘢𝘵𝘦 𝘙𝘢𝘥𝘪𝘰 𝘔𝘪𝘹 + 𝘵𝘦𝘩𝘯",
+        slug: "08-rebroadcast-1-of-2-flash-crash-pirate-radio-mix-tehn",
         length: "00:58:39",
+        trackIds: [
+          "Be My Lover by La Bouche",
+          "3 a.m. Eternal by KLF",
+          "Halcyon And On And On by Orbital",
+          "Wish (Komm Zu Mir) by Thomas D, Franka Potente",
+          "Headhunter V1.0 by Front 242",
+          "Climbing Up the Walls by Radiohead",
+          "Strings of Life by Derrick May",
+          "Sonic 2 Chemical Plant Zone (Dance Remix) by JemenJ",
+          "Innocente (Falling in Love) by Delerium, Lost Witness, Leigh Nash",
+          "Beauty by bvdub",
+          "Kasvetli Kutlama by She Past Away"
+        ],
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/08-08-rebroadcast-1-of-2-flash-crash-pirate-radio-mix-tehn.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/08-08-rebroadcast-1-of-2-flash-crash-pirate-radio-mix-tehn.wav",
         id: "016e93c9da4b798ea72e654c198ccb6a"
       },
       {
         number: 9,
         title: "ЯΣBЯӨΛDCΛƧƬ [2/2] 𝘍𝘭𝘢𝘴𝘩 𝘊𝘳𝘢𝘴𝘩 𝘗𝘪𝘳𝘢𝘵𝘦 𝘙𝘢𝘥𝘪𝘰 𝘔𝘪𝘹 + 𝘵𝘦𝘩𝘯",
+        slug: "09-rebroadcast-2-of-2-flash-crash-pirate-radio-mix-tehn",
         length: "00:59:32",
+        trackIds: [
+          "What is Love by Haddaway",
+          "Disorder by Chiasm",
+          "Pearl's Girl by Underworld",
+          "Paradise Circus by Massive Attack, Burial",
+          "Discipline (live) by Throbbing Gristle",
+          "Only a Shadow by The Cleaners from Venus",
+          "One Love by The Prodigy",
+          "Electro Trance 7 Days by soundguru",
+          "I Woke Up and the Storm Was Over by Tropic of Cancer",
+          "Aquatic Ambience by Dave Wise",
+          "One More Time by Aliceffekt"
+        ],
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/09-09-rebroadcast-2-of-2-flash-crash-pirate-radio-mix-tehn.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/09-09-rebroadcast-2-of-2-flash-crash-pirate-radio-mix-tehn.wav",
         id: "74f4bd808a47f6c9b231f76afad25831"
       },
       {
         number: 10,
         title: "Kowloon City: Ｌｅｙｌｉｎｅ",
+        slug: "10-kowloon-city-leyline",
         length: "00:58:49",
+        trackIds: [
+          "Zucht 2 by Machinefabriek",
+          "Currents of Electrostaty by Tim Hecker",
+          "Rhubarb orc. 19.43 Rev by Aphex Twin",
+          "Temple Halls by Mountain Realm",
+          "Rough Sleeper by Burial",
+          "Aurora Terminalis (excerpt 1) by William Basinski, Richard Chartier",
+          "Swarming by Efterlkang",
+          "By the Wall by Thomas Dvorak",
+          "Jesus' Blood Never Failed Me Yet by Gavin Bryars",
+          "North Port (remnant) by Sanchez is driven by demons",
+          "r cazt by Autechre"
+        ],
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/10-10-kowloon-city-leyline.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/10-10-kowloon-city-leyline.wav",
         id: "7d8b48eb0c7dd2c3cfedd81d88845cc2"
       }
     ],
@@ -1383,6 +1554,8 @@ const e = [
     project_slug: "dj-stuxnet",
     release_slug: "kowloon-walled-city-giga-mix",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/kowloon-walled-city-giga-mix.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/kowloon-walled-city-giga-mix-mp3.zip",
+    wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/kowloon-walled-city-giga-mix-wav.zip",
     id: "e3ed2a5fa3fccc9539a7f073e37d1bd1"
   },
   {
