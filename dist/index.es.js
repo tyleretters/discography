@@ -22,7 +22,7 @@ const e = [
       "The Vonyich Manuscript by Legiac",
       "Sleepygirl 4 by Yagya",
       "Fr3sh by Kareem Lotfy",
-      "Pop 4 by gas"
+      "Pop 4 by Gas"
     ],
     tracks: [
       {
