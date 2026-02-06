@@ -35,6 +35,18 @@ const e = [
         id: "d7c642e6b7ed73d61eda7870f626d492"
       }
     ],
+    streams: [
+      {
+        platform: "SoundCloud",
+        url: "https://soundcloud.com/tyleretters/incendiary-nocturne-mixtape",
+        id: "d75f947fe0c197181b2df4b623ade4f6"
+      },
+      {
+        platform: "Untitled Stream",
+        url: "https://untitled.stream/library/project/MciXcZXLr9fhFCecBsRBV",
+        id: "5f5265fca85edf744bf2bcd67c827dcb"
+      }
+    ],
     notes: "<p>Dubbed signal flares by which to the illuminate darkness of an empty video rental parking lot ten thousand years in the future.</p>",
     credits: "<p>STUXNET is Tyler Etters.</p>",
     project_slug: "dj-stuxnet",

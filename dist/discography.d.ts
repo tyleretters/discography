@@ -19,37 +19,6 @@ export declare const discography: ({
         wav_url: string;
         id: string;
     }[];
-    notes: string;
-    credits: string;
-    project_slug: string;
-    release_slug: string;
-    cover_url: string;
-    mp3_url: string;
-    wav_url: string;
-    id: string;
-    streams?: undefined;
-    monospaceNotes?: undefined;
-} | {
-    title: string;
-    slug: string;
-    project: string;
-    released: string;
-    type: string;
-    format: string;
-    role: string;
-    label: string;
-    mp3: boolean;
-    wav: boolean;
-    trackIds: string[];
-    tracks: {
-        number: number;
-        title: string;
-        slug: string;
-        length: string;
-        mp3_url: string;
-        wav_url: string;
-        id: string;
-    }[];
     streams: {
         platform: string;
         url: string;
@@ -324,9 +293,9 @@ export declare const discography: ({
     id: string;
     slug?: undefined;
     trackIds?: undefined;
+    streams?: undefined;
     mp3_url?: undefined;
     wav_url?: undefined;
-    streams?: undefined;
     monospaceNotes?: undefined;
 } | {
     title: string;
