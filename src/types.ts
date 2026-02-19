@@ -25,6 +25,7 @@ export interface Release {
 
 export interface Track {
   number: number
+  artist?: string
   title: string
   slug?: string
   length: string

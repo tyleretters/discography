@@ -2506,6 +2506,50 @@
     Photographs from my trip to Petalying Jaya, Malaysia, 2017.
     Engineered by Tyler Etters, 2019.
 
+- title: Synergy Beat Music, Volume 1
+  project: Synergy Beat
+  released: 02018-10-31
+  type: Compilation
+  format: Digital
+  role: Principal Musician
+  label: Synergy Beat
+  mp3: false
+  wav: false
+  tracks:
+    - number: 1
+      artist: The Future World Neural Net
+      title: Synergy Beat Intro Credits
+      length: 00:00:50
+    - number: 2
+      artist: キル ナイト
+      title: Revenge Complex Lulu Theme
+      length: 00:02:12
+    - number: 3
+      artist: Lavender Stranger
+      title: Ambient Noir
+      length: 00:02:31
+    - number: 4
+      artist: Bio Mint
+      title: Peach Panic
+      length: 00:02:22
+    - number: 5
+      artist: The Infinity Tigers
+      title: Outpost UXB-1139
+      length: 00:01:04
+    - number: 6
+      artist: Shock Model Duo
+      title: ＤＲＥＡＭＲＯＡＤ
+      length: 00:10:32
+    - number: 7
+      artist: The Future World Neural Net
+      title: Synergy Beat Closing Credits
+      length: 00:00:58
+  streams:
+    - platform: Bandcamp
+      url: https://synergybeat.bandcamp.com/album/synergy-beat-music-volume-1
+  notes: null
+  credits: All music pasteurized by Tyler Etters.
+
 - title: reverence
   project: tyler etters & the northern information movement
   released: 02017-12-22

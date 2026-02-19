@@ -107,11 +107,12 @@ def main():
     release["id"] = make_id(release["project"] + release["title"])
 
     # handle monospaced notes if monospaceNotes is present
-    if "monospaceNotes" in release:
-      # preserve \n for monospace
-      release["notes"] = "<pre>" + release["notes"] + "</pre>"
-    else:
-      release["notes"] = make_html_paragraphs(release["notes"])
+    if release["notes"] is not None:
+      if "monospaceNotes" in release:
+        # preserve \n for monospace
+        release["notes"] = "<pre>" + release["notes"] + "</pre>"
+      else:
+        release["notes"] = make_html_paragraphs(release["notes"])
 
     # always turn turn \n into paragraphs on the credits
     release["credits"] = make_html_paragraphs(release["credits"])
