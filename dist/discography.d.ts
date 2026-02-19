@@ -376,6 +376,8 @@ export declare const discography: ({
         artist: string;
         title: string;
         length: string;
+        mp3_url: string;
+        wav_url: string;
         id: string;
     }[];
     streams: {
@@ -388,10 +390,10 @@ export declare const discography: ({
     project_slug: string;
     release_slug: string;
     cover_url: string;
+    mp3_url: string;
+    wav_url: string;
     id: string;
     slug?: undefined;
     trackIds?: undefined;
-    mp3_url?: undefined;
-    wav_url?: undefined;
     monospaceNotes?: undefined;
 })[];

@@ -4484,14 +4484,16 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     format: "Digital",
     role: "Principal Musician",
     label: "Synergy Beat",
-    mp3: !1,
-    wav: !1,
+    mp3: !0,
+    wav: !0,
     tracks: [
       {
         number: 1,
         artist: "The Future World Neural Net",
         title: "Synergy Beat Intro Credits",
         length: "00:00:50",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/synergy-beat/synergy-beat-music-volume-1/01-synergy-beat-intro-credits.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/synergy-beat/synergy-beat-music-volume-1/01-synergy-beat-intro-credits.wav",
         id: "94547d10d6c4474581e27608b88f7ff8"
       },
       {
@@ -4499,6 +4501,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
         artist: "キル ナイト",
         title: "Revenge Complex Lulu Theme",
         length: "00:02:12",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/synergy-beat/synergy-beat-music-volume-1/02-revenge-complex-lulu-theme.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/synergy-beat/synergy-beat-music-volume-1/02-revenge-complex-lulu-theme.wav",
         id: "cce32f501c3f30c385bc71373da667f3"
       },
       {
@@ -4506,6 +4510,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
         artist: "Lavender Stranger",
         title: "Ambient Noir",
         length: "00:02:31",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/synergy-beat/synergy-beat-music-volume-1/03-ambient-noir.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/synergy-beat/synergy-beat-music-volume-1/03-ambient-noir.wav",
         id: "155924e82647d15f1195c5aed890c132"
       },
       {
@@ -4513,6 +4519,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
         artist: "Bio Mint",
         title: "Peach Panic",
         length: "00:02:22",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/synergy-beat/synergy-beat-music-volume-1/04-peach-panic.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/synergy-beat/synergy-beat-music-volume-1/04-peach-panic.wav",
         id: "1d0dceb21c342b1b4eeb856e1be92517"
       },
       {
@@ -4520,6 +4528,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
         artist: "The Infinity Tigers",
         title: "Outpost UXB-1139",
         length: "00:01:04",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/synergy-beat/synergy-beat-music-volume-1/05-outpost-uxb-1139.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/synergy-beat/synergy-beat-music-volume-1/05-outpost-uxb-1139.wav",
         id: "db118ce6ac99879eb079afeed85dec1e"
       },
       {
@@ -4527,6 +4537,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
         artist: "Shock Model Duo",
         title: "ＤＲＥＡＭＲＯＡＤ",
         length: "00:10:32",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/synergy-beat/synergy-beat-music-volume-1/06-dreamroad.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/synergy-beat/synergy-beat-music-volume-1/06-dreamroad.wav",
         id: "1eff723cecddb4624f50ef21cfad0ca8"
       },
       {
@@ -4534,6 +4546,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
         artist: "The Future World Neural Net",
         title: "Synergy Beat Closing Credits",
         length: "00:00:58",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/synergy-beat/synergy-beat-music-volume-1/07-synergy-beat-closing-credits.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/synergy-beat/synergy-beat-music-volume-1/07-synergy-beat-closing-credits.wav",
         id: "21c9cbf68dc923fb81f736dfeb3f6d9a"
       }
     ],
@@ -4549,6 +4563,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     project_slug: "synergy-beat",
     release_slug: "synergy-beat-music-volume-1",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/synergy-beat/synergy-beat-music-volume-1/synergy-beat-music-volume-1.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/synergy-beat/synergy-beat-music-volume-1/synergy-beat-music-volume-1-mp3.zip",
+    wav_url: "https://d107e1o0dn11sc.cloudfront.net/synergy-beat/synergy-beat-music-volume-1/synergy-beat-music-volume-1-wav.zip",
     id: "65fd91f4f1d83bd06ecaa0d7d241dbdd"
   },
   {

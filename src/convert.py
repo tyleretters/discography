@@ -21,7 +21,8 @@ TS_PATH = os.path.join(DIR_PATH, "discography.ts")
 
 SPECIAL_SLUG_MAPS = {
   "ΑΙΓΑΙΙΣ": "AIGAIIS",
-  "nausicaä": "nausicaa"
+  "ＤＲＥＡＭＲＯＡＤ": "dreamroad",
+  "nausicaä": "nausicaa",
 }
 
 # there are some encoding issues with the # character

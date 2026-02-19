@@ -2513,8 +2513,8 @@
   format: Digital
   role: Principal Musician
   label: Synergy Beat
-  mp3: false
-  wav: false
+  mp3: true
+  wav: true
   tracks:
     - number: 1
       artist: The Future World Neural Net
