@@ -18,6 +18,19 @@
 - `source venv/bin/activate`
 - `pip install -r requirements.txt`
 
+## Adding a Compilation
+
+```zsh
+cd src && source venv/bin/activate
+python3 scrape_bandcamp.py <bandcamp_url> \
+  --my-artist "Your Artist Name" \
+  --project "Your Project Name" \
+  --role Artist \
+  --add
+```
+
+Review the prepended entry in `src/discography.yml`, then build and publish as normal.
+
 ## Updating & Publishing
 
 ### One Shot

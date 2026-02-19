@@ -5,3 +5,4 @@ src/venv
 my_env
 .claude
 .ruff_cache
+dist

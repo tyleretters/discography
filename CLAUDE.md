@@ -15,10 +15,17 @@ npm run build      # Full build: convert YAML → TS, compile, bundle
 npm run convert    # Just run the Python converter
 ```
 
+Python scripts require the venv (see README Setup):
+
+```zsh
+cd src && source venv/bin/activate
+```
+
 ## Project Structure
 
 - `src/discography.yml` - Source of truth for all release data
 - `src/convert.py` - Converts YAML to TypeScript, enriches data with slugs, URLs, and IDs
+- `src/scrape_bandcamp.py` - Scrapes a Bandcamp album page and generates a discography.yml entry
 - `src/types.ts` - TypeScript interfaces (Release, Track, Stream)
 - `src/index.ts` - Package entry point
 - `dist/` - Built output
@@ -39,11 +46,26 @@ Each release in `discography.yml` has:
 
 - `title`, `project`, `released`, `type`, `format`, `role`, `label`
 - `mp3`, `wav` (booleans for availability)
-- `tracks[]` with `number`, `title`, `length`
+- `tracks[]` with `number`, `title`, `length`; compilations also include per-track `artist`
 - `streams[]` with `platform`, `url`
 - `notes`, `credits`
 
 The converter enriches these with `*_slug`, `*_url`, and `id` fields.
+
+## Adding a Compilation
+
+Use `scrape_bandcamp.py` to pull data from a Bandcamp album page:
+
+```zsh
+cd src && source venv/bin/activate
+python3 scrape_bandcamp.py <bandcamp_url> \
+  --my-artist "Your Artist Name" \
+  --project "Your Project Name" \
+  --role Artist \
+  --add
+```
+
+`--add` prepends the generated entry to `discography.yml`. Review the entry before building. Compilations use `type: Compilation`, `mp3: false`, `wav: false`, and include all tracks with per-track `artist` fields.
 
 ## Publishing
 
