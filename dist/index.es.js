@@ -1,5 +1,62 @@
 const e = [
   {
+    title: "Incendiary Nocturne",
+    slug: "incendiary-nocturne",
+    project: "DJ STUXNET",
+    released: "02026-02-06",
+    type: "Mix",
+    format: "Digital",
+    role: "DJ",
+    label: "Intertext",
+    mp3: !0,
+    wav: !0,
+    trackIds: [
+      "Curvature by ASC",
+      "Soms by nthng",
+      "Crystalline Laura Jones",
+      "Radiance II by Basic Channel",
+      "Twelve Miles High by Burger/Ink",
+      "Emerald by Luke Hess",
+      "City Centre by Deep Chord",
+      "Dub for Cascadia by Loscil",
+      "The Vonyich Manuscript by Legiac",
+      "Sleepygirl 4 by Yagya",
+      "Fr3sh by Kareem Lotfy",
+      "Pop 4 by Gas"
+    ],
+    tracks: [
+      {
+        number: 1,
+        title: "Incendiary Nocturne",
+        slug: "incendiary-nocturne",
+        length: "00:59:43",
+        mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/incendiary-nocturne/01-incendiary-nocturne.mp3",
+        wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/incendiary-nocturne/01-incendiary-nocturne.wav",
+        id: "d7c642e6b7ed73d61eda7870f626d492"
+      }
+    ],
+    streams: [
+      {
+        platform: "SoundCloud",
+        url: "https://soundcloud.com/tyleretters/incendiary-nocturne-mixtape",
+        id: "d75f947fe0c197181b2df4b623ade4f6"
+      },
+      {
+        platform: "Untitled Stream",
+        url: "https://untitled.stream/library/project/MciXcZXLr9fhFCecBsRBV",
+        id: "5f5265fca85edf744bf2bcd67c827dcb"
+      }
+    ],
+    notes: "<p>Dubbed signal flares by which to the illuminate darkness of an empty video rental parking lot ten thousand years in the future.</p>",
+    credits: "<p>STUXNET is Tyler Etters.</p>",
+    project_slug: "dj-stuxnet",
+    release_slug: "incendiary-nocturne",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/incendiary-nocturne/incendiary-nocturne.jpg",
+    mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/incendiary-nocturne/incendiary-nocturne-mp3.zip",
+    wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/incendiary-nocturne/incendiary-nocturne-wav.zip",
+    id: "124ae28d8b618875d4f243298318bbc8"
+  },
+  {
     title: "𝐻𝑒𝒶𝓇𝓉𝓈 𝒾𝓃 𝒱𝒶𝓁𝑒𝓃𝒸𝒾𝒶, 𝒞𝒽𝒶𝓅𝓉𝑒𝓇 𝟤",
     slug: "hearts-in-valencia-chapter-2",
     project: "DJ STUXNET",
@@ -4418,6 +4475,81 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/ep1/ep1.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/ep1/ep1-mp3.zip",
     id: "427cc1165076ec9eaeb68f427ca0b04b"
+  },
+  {
+    title: "Synergy Beat Music, Volume 1",
+    project: "Synergy Beat",
+    released: "02018-10-31",
+    type: "Compilation",
+    format: "Digital",
+    role: "Principal Musician",
+    label: "Synergy Beat",
+    mp3: !1,
+    wav: !1,
+    tracks: [
+      {
+        number: 1,
+        artist: "The Future World Neural Net",
+        title: "Synergy Beat Intro Credits",
+        length: "00:00:50",
+        id: "94547d10d6c4474581e27608b88f7ff8"
+      },
+      {
+        number: 2,
+        artist: "キル ナイト",
+        title: "Revenge Complex Lulu Theme",
+        length: "00:02:12",
+        id: "cce32f501c3f30c385bc71373da667f3"
+      },
+      {
+        number: 3,
+        artist: "Lavender Stranger",
+        title: "Ambient Noir",
+        length: "00:02:31",
+        id: "155924e82647d15f1195c5aed890c132"
+      },
+      {
+        number: 4,
+        artist: "Bio Mint",
+        title: "Peach Panic",
+        length: "00:02:22",
+        id: "1d0dceb21c342b1b4eeb856e1be92517"
+      },
+      {
+        number: 5,
+        artist: "The Infinity Tigers",
+        title: "Outpost UXB-1139",
+        length: "00:01:04",
+        id: "db118ce6ac99879eb079afeed85dec1e"
+      },
+      {
+        number: 6,
+        artist: "Shock Model Duo",
+        title: "ＤＲＥＡＭＲＯＡＤ",
+        length: "00:10:32",
+        id: "1eff723cecddb4624f50ef21cfad0ca8"
+      },
+      {
+        number: 7,
+        artist: "The Future World Neural Net",
+        title: "Synergy Beat Closing Credits",
+        length: "00:00:58",
+        id: "21c9cbf68dc923fb81f736dfeb3f6d9a"
+      }
+    ],
+    streams: [
+      {
+        platform: "Bandcamp",
+        url: "https://synergybeat.bandcamp.com/album/synergy-beat-music-volume-1",
+        id: "e46ecf12a7c417d53bd286c6e81cbea3"
+      }
+    ],
+    notes: null,
+    credits: "<p>All music pasteurized by Tyler Etters.</p>",
+    project_slug: "synergy-beat",
+    release_slug: "synergy-beat-music-volume-1",
+    cover_url: "https://d107e1o0dn11sc.cloudfront.net/synergy-beat/synergy-beat-music-volume-1/synergy-beat-music-volume-1.jpg",
+    id: "65fd91f4f1d83bd06ecaa0d7d241dbdd"
   },
   {
     title: "reverence",

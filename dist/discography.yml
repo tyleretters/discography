@@ -1,3 +1,39 @@
+- title: Incendiary Nocturne
+  slug: incendiary-nocturne
+  project: DJ STUXNET
+  released: 02026-02-06
+  type: Mix
+  format: Digital
+  role: DJ
+  label: Intertext
+  mp3: true
+  wav: true
+  trackIds:
+    - "Curvature by ASC"
+    - "Soms by nthng"
+    - "Crystalline Laura Jones"
+    - "Radiance II by Basic Channel"
+    - "Twelve Miles High by Burger/Ink"
+    - "Emerald by Luke Hess"
+    - "City Centre by Deep Chord"
+    - "Dub for Cascadia by Loscil"
+    - "The Vonyich Manuscript by Legiac"
+    - "Sleepygirl 4 by Yagya"
+    - "Fr3sh by Kareem Lotfy"
+    - "Pop 4 by Gas"
+  tracks:
+    - number: 1
+      title: Incendiary Nocturne
+      slug: incendiary-nocturne
+      length: 00:59:43
+  streams:
+    - platform: SoundCloud
+      url: https://soundcloud.com/tyleretters/incendiary-nocturne-mixtape
+    - platform: Untitled Stream
+      url: https://untitled.stream/library/project/MciXcZXLr9fhFCecBsRBV
+  notes: Dubbed signal flares by which to the illuminate darkness of an empty video rental parking lot ten thousand years in the future.
+  credits: STUXNET is Tyler Etters.
+
 - title: 𝐻𝑒𝒶𝓇𝓉𝓈 𝒾𝓃 𝒱𝒶𝓁𝑒𝓃𝒸𝒾𝒶, 𝒞𝒽𝒶𝓅𝓉𝑒𝓇 𝟤
   slug: hearts-in-valencia-chapter-2
   project: DJ STUXNET
@@ -2469,6 +2505,50 @@
     Audio sourced from Shostakovich's Symphony No. 5, Op. 47 performed by Leonard Bernstein, New York Philharmonic, 1980.
     Photographs from my trip to Petalying Jaya, Malaysia, 2017.
     Engineered by Tyler Etters, 2019.
+
+- title: Synergy Beat Music, Volume 1
+  project: Synergy Beat
+  released: 02018-10-31
+  type: Compilation
+  format: Digital
+  role: Principal Musician
+  label: Synergy Beat
+  mp3: false
+  wav: false
+  tracks:
+    - number: 1
+      artist: The Future World Neural Net
+      title: Synergy Beat Intro Credits
+      length: 00:00:50
+    - number: 2
+      artist: キル ナイト
+      title: Revenge Complex Lulu Theme
+      length: 00:02:12
+    - number: 3
+      artist: Lavender Stranger
+      title: Ambient Noir
+      length: 00:02:31
+    - number: 4
+      artist: Bio Mint
+      title: Peach Panic
+      length: 00:02:22
+    - number: 5
+      artist: The Infinity Tigers
+      title: Outpost UXB-1139
+      length: 00:01:04
+    - number: 6
+      artist: Shock Model Duo
+      title: ＤＲＥＡＭＲＯＡＤ
+      length: 00:10:32
+    - number: 7
+      artist: The Future World Neural Net
+      title: Synergy Beat Closing Credits
+      length: 00:00:58
+  streams:
+    - platform: Bandcamp
+      url: https://synergybeat.bandcamp.com/album/synergy-beat-music-volume-1
+  notes: null
+  credits: All music pasteurized by Tyler Etters.
 
 - title: reverence
   project: tyler etters & the northern information movement
