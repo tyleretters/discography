@@ -1,11 +1,15 @@
+export type ReleaseType = 'Mix' | 'LP' | 'EP' | 'Single' | 'OST' | 'Compilation' | 'Triple LP' | 'Demo'
+export type ReleaseFormat = 'Digital' | 'CD-R' | 'Vinyl' | 'CD' | 'CD, Digital' | 'Cassette, Digital'
+export type ReleaseRole = 'DJ' | 'Artist' | 'Producer' | 'Musician' | 'Band Member' | 'Principal Musician' | 'Operator'
+
 export interface Release {
   title: string
   slug?: string
   project: string
   released: string
-  type: string
-  format: string
-  role: string
+  type: ReleaseType
+  format: ReleaseFormat
+  role: ReleaseRole
   label: string
   mp3: boolean
   mp3_url?: string

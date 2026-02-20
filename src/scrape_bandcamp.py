@@ -25,6 +25,7 @@ import json
 import os
 import re
 import sys
+import tempfile
 import urllib.request
 from datetime import datetime
 from typing import Optional
@@ -122,7 +123,7 @@ def main() -> None:
     print(f"  Released: {released}")
     if bandcamp_about:
         print(f"  About   : {bandcamp_about[:120]}{'...' if len(bandcamp_about) > 120 else ''}")
-    print(f"\n  Tracks:")
+    print("\n  Tracks:")
     for t in tracks:
         cleaned = clean_title(t["title"], t["artist"])
         dur = seconds_to_length(t["duration"])
@@ -136,7 +137,7 @@ def main() -> None:
             print(f"\n  Auto-detected your tracks: {my_track_nums}")
         else:
             print(f"\n  Warning: no tracks found for artist '{args.my_artist}'")
-            print(f"  Artists on this release: {sorted(set(t['artist'] for t in tracks))}")
+            print(f"  Artists on this release: {sorted({t['artist'] for t in tracks})}")
 
     if not my_track_nums:
         raw = prompt(
@@ -157,7 +158,6 @@ def main() -> None:
     project = args.project or prompt("Your project name")
     role = args.role or prompt("Your role", "Artist")
 
-    default_notes = bandcamp_about if bandcamp_about else None
     notes_prompt = "Notes (leave blank for null)"
     raw_notes = prompt(notes_prompt, bandcamp_about or "")
     notes = raw_notes.strip() if raw_notes.strip() else None
@@ -205,10 +205,13 @@ def main() -> None:
 
     if args.add:
         try:
-            with open(YML_PATH, "r") as f:
+            with open(YML_PATH) as f:
                 existing = f.read()
-            with open(YML_PATH, "w") as f:
-                f.write(yaml_str + existing)
+            with tempfile.NamedTemporaryFile(
+                mode="w", dir=DIR_PATH, delete=False, suffix=".yml"
+            ) as tmp:
+                tmp.write(yaml_str + existing)
+            os.replace(tmp.name, YML_PATH)
             print(f"Prepended to {YML_PATH}")
             print("Review the entry, then run: npm run build")
         except OSError as e:

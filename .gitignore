@@ -1,7 +1,10 @@
 src/discography.ts
+dist/
 .DS_Store
 node_modules
 src/venv
 my_env
 .claude
 .ruff_cache
+.pytest_cache
+__pycache__

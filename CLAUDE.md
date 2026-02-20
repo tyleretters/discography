@@ -13,6 +13,13 @@ This is an npm package containing a canonical discography of Tyler Etters's musi
 ```bash
 npm run build      # Full build: convert YAML → TS, compile, bundle
 npm run convert    # Just run the Python converter
+npm run lint       # ESLint (TypeScript) + Ruff (Python)
+npm publish        # Publish to npm (auto-builds via prepublishOnly)
+```
+
+```bash
+source src/venv/bin/activate
+pytest tests/      # Run Python test suite
 ```
 
 Python scripts require the venv (see README Setup):
@@ -26,19 +33,30 @@ cd src && source venv/bin/activate
 - `src/discography.yml` - Source of truth for all release data
 - `src/convert.py` - Converts YAML to TypeScript, enriches data with slugs, URLs, and IDs
 - `src/scrape_bandcamp.py` - Scrapes a Bandcamp album page and generates a discography.yml entry
-- `src/types.ts` - TypeScript interfaces (Release, Track, Stream)
+- `src/types.ts` - TypeScript types and interfaces (Release, Track, Stream, union types for type/format/role)
 - `src/index.ts` - Package entry point
-- `dist/` - Built output
+- `tests/test_convert.py` - Test suite for the converter
+- `dist/` - Built output (gitignored, included in npm tarball via `"files"` in package.json)
 
 ## Data Conventions
 
 - **Dates**: Use "Long Now" format with leading `0` (e.g., `02025-11-18` not `2025-11-18`). Incomplete dates (`02006-??-??`) are acceptable for historical releases.
 - **EPs**: Defined as releases ≤ 29:59 total length
-- **IDs**: Generated via MD5 hash of concatenated fields
+- **IDs**: Generated via SHA256 hash of concatenated fields
 - **Cover URLs**: Auto-generated from CDN base + project slug + release slug
 - **Notes**: `"None."` is a valid note (displayed to user), while `null` means no notes exist
 - **Streams**: Optional - not all releases have streaming platform URLs
 - **Artistic content**: Some releases contain SSH keys or other technical artifacts as art; these are intentional
+
+## Validation
+
+The converter validates each release at build time:
+
+- Required fields: `project`, `title`, `type`, `format`, `role`, `mp3`, `wav`, `notes`, `credits`
+- `type` must be one of: Mix, LP, EP, Single, OST, Compilation, Triple LP, Demo
+- `format` must be one of: Digital, CD-R, Vinyl, CD, CD Digital, Cassette Digital
+- `role` must be one of: DJ, Artist, Producer, Musician, Band Member, Principal Musician, Operator
+- `mp3` and `wav` must be booleans
 
 ## Release Schema
 
@@ -50,7 +68,7 @@ Each release in `discography.yml` has:
 - `streams[]` with `platform`, `url`
 - `notes`, `credits`
 
-The converter enriches these with `*_slug`, `*_url`, and `id` fields.
+The converter enriches these with `*_slug`, `*_url`, `runtime`, and `id` fields.
 
 ## Adding a Compilation
 
@@ -72,7 +90,8 @@ python3 scrape_bandcamp.py <bandcamp_url> \
 After updating `discography.yml`:
 
 ```zsh
-npm run build
 git add . && git commit -m "++"
 npm version patch && npm publish
 ```
+
+`npm publish` automatically runs `npm run build` via the `prepublishOnly` hook. No manual build step needed.
