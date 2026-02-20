@@ -1,7 +1,7 @@
 {
   "name": "@tyleretters/discography",
   "type": "module",
-  "version": "2.2.0",
+  "version": "3.0.0",
   "sideEffects": false,
   "description": "A canonical discography of the music of Tyler Etters.",
   "main": "dist/index.es.js",
