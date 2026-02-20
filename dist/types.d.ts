@@ -19,6 +19,7 @@ export interface Release {
     credits: string;
     release_slug: string;
     project_slug: string;
+    runtime: string;
     cover_url: string;
     id: string;
 }

@@ -54,6 +54,24 @@ def make_track_title(text):
     return SPECIAL_TITLE_MAPS[text]
   return text
 
+def parse_length_seconds(length_str):
+  """Parse a track length string (HH:MM:SS or MM:SS) into total seconds."""
+  parts = length_str.split(":")
+  if len(parts) == 3:
+    return int(parts[0]) * 3600 + int(parts[1]) * 60 + int(parts[2])
+  elif len(parts) == 2:
+    return int(parts[0]) * 60 + int(parts[1])
+  return 0
+
+def format_runtime(total_seconds):
+  """Format total seconds as HH:MM:SS, omitting hours if under one hour."""
+  hours = total_seconds // 3600
+  minutes = (total_seconds % 3600) // 60
+  seconds = total_seconds % 60
+  if hours > 0:
+    return f"{hours:02d}:{minutes:02d}:{seconds:02d}"
+  return f"{minutes:02d}:{seconds:02d}"
+
 def make_html_paragraphs(text):
   text = text.rstrip("\n")
   text = "<p>" + text + "</p>"
@@ -139,6 +157,11 @@ def main():
 
         # generate a track title
         track["title"] = make_track_title(track["title"])
+
+    # calculate runtime as sum of all track lengths
+    if "tracks" in release:
+      total_seconds = sum(parse_length_seconds(track["length"]) for track in release["tracks"])
+      release["runtime"] = format_runtime(total_seconds)
 
     # generate an id for each stream
     if "streams" in release:

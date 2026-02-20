@@ -54,7 +54,8 @@ const e = [
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/incendiary-nocturne/incendiary-nocturne.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/incendiary-nocturne/incendiary-nocturne-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/incendiary-nocturne/incendiary-nocturne-wav.zip",
-    id: "124ae28d8b618875d4f243298318bbc8"
+    id: "124ae28d8b618875d4f243298318bbc8",
+    runtime: "59:43"
   },
   {
     title: "𝐻𝑒𝒶𝓇𝓉𝓈 𝒾𝓃 𝒱𝒶𝓁𝑒𝓃𝒸𝒾𝒶, 𝒞𝒽𝒶𝓅𝓉𝑒𝓇 𝟤",
@@ -113,7 +114,8 @@ const e = [
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/hearts-in-valencia-chapter-2/hearts-in-valencia-chapter-2.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/hearts-in-valencia-chapter-2/hearts-in-valencia-chapter-2-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/hearts-in-valencia-chapter-2/hearts-in-valencia-chapter-2-wav.zip",
-    id: "eb557f86ce28f11d7c76996c5c4d8c17"
+    id: "eb557f86ce28f11d7c76996c5c4d8c17",
+    runtime: "57:30"
   },
   {
     title: "In Abstraction, Part 2",
@@ -164,7 +166,8 @@ const e = [
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-abstraction-part-2/in-abstraction-part-2.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-abstraction-part-2/in-abstraction-part-2-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-abstraction-part-2/in-abstraction-part-2-wav.zip",
-    id: "a09e140dd2145c36a6570abd7bc188c4"
+    id: "a09e140dd2145c36a6570abd7bc188c4",
+    runtime: "54:43"
   },
   {
     title: "In Abstraction, Part 1",
@@ -220,7 +223,8 @@ const e = [
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-abstraction-part-1/in-abstraction-part-1.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-abstraction-part-1/in-abstraction-part-1-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-abstraction-part-1/in-abstraction-part-1-wav.zip",
-    id: "7f321997063d319212495aade16bf21e"
+    id: "7f321997063d319212495aade16bf21e",
+    runtime: "59:43"
   },
   {
     title: "CONTINUUM HACK OST",
@@ -284,7 +288,8 @@ const e = [
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/continuum-hack-ost/continuum-hack-ost.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/continuum-hack-ost/continuum-hack-ost-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/continuum-hack-ost/continuum-hack-ost-wav.zip",
-    id: "ebaa4a0c472f0404f0a3fff55d04beed"
+    id: "ebaa4a0c472f0404f0a3fff55d04beed",
+    runtime: "17:27"
   },
   {
     title: "In Ecstasy",
@@ -340,7 +345,8 @@ const e = [
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-ecstasy/in-ecstasy.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-ecstasy/in-ecstasy-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-ecstasy/in-ecstasy-wav.zip",
-    id: "fabe4a655695bd87ce84c5d7c6af4796"
+    id: "fabe4a655695bd87ce84c5d7c6af4796",
+    runtime: "01:00:33"
   },
   {
     title: "In Entropy",
@@ -394,7 +400,8 @@ const e = [
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-entropy/in-entropy.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-entropy/in-entropy-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-entropy/in-entropy-wav.zip",
-    id: "895b0894247e6b67e7704819af4c7bd3"
+    id: "895b0894247e6b67e7704819af4c7bd3",
+    runtime: "59:50"
   },
   {
     title: "In Breakdowns",
@@ -452,7 +459,8 @@ const e = [
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-breakdowns/in-breakdowns.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-breakdowns/in-breakdowns-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/in-breakdowns/in-breakdowns-wav.zip",
-    id: "1e2cbee76bf86acce1624550234a4ad3"
+    id: "1e2cbee76bf86acce1624550234a4ad3",
+    runtime: "01:01:42"
   },
   {
     title: "𝐻𝑒𝒶𝓇𝓉𝓈 𝒾𝓃 𝒱𝒶𝓁𝑒𝓃𝒸𝒾𝒶, 𝒞𝒽𝒶𝓅𝓉𝑒𝓇 𝟣",
@@ -512,7 +520,8 @@ const e = [
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/hearts-in-valencia-chapter-1/hearts-in-valencia-chapter-1.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/hearts-in-valencia-chapter-1/hearts-in-valencia-chapter-1-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/hearts-in-valencia-chapter-1/hearts-in-valencia-chapter-1-wav.zip",
-    id: "e80a064f7fb435dd11cd46f8b3b93fb5"
+    id: "e80a064f7fb435dd11cd46f8b3b93fb5",
+    runtime: "59:14"
   },
   {
     title: "THE VULGAR FRACTIONS: WALKAWAY / HAILSTONE NUMBERS",
@@ -576,7 +585,8 @@ const e = [
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-walkaway-hailstone-numbers/the-vulgar-fractions-walkaway-hailstone-numbers.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-walkaway-hailstone-numbers/the-vulgar-fractions-walkaway-hailstone-numbers-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-walkaway-hailstone-numbers/the-vulgar-fractions-walkaway-hailstone-numbers-wav.zip",
-    id: "3dbf7f105be1c39583bc351bff5ed98e"
+    id: "3dbf7f105be1c39583bc351bff5ed98e",
+    runtime: "08:28"
   },
   {
     title: "THE VULGAR FRACTIONS: COLD WARS / HYPERSTITION",
@@ -640,7 +650,8 @@ const e = [
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-cold-wars-hyperstition/the-vulgar-fractions-cold-wars-hyperstition.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-cold-wars-hyperstition/the-vulgar-fractions-cold-wars-hyperstition-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-cold-wars-hyperstition/the-vulgar-fractions-cold-wars-hyperstition-wav.zip",
-    id: "5de1449b65eba77b6a403186b7a0369e"
+    id: "5de1449b65eba77b6a403186b7a0369e",
+    runtime: "06:34"
   },
   {
     title: "THE VULGAR FRACTIONS: ERROR BOUNDARY / INLAND EMPIRES",
@@ -704,7 +715,8 @@ const e = [
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-error-boundary-inland-empires/the-vulgar-fractions-error-boundary-inland-empires.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-error-boundary-inland-empires/the-vulgar-fractions-error-boundary-inland-empires-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-error-boundary-inland-empires/the-vulgar-fractions-error-boundary-inland-empires-wav.zip",
-    id: "98bc2421421d0ba5b5e5b9dc19ed592f"
+    id: "98bc2421421d0ba5b5e5b9dc19ed592f",
+    runtime: "08:10"
   },
   {
     title: "THE VULGAR FRACTIONS: PINNED IN TIME LIKE BUTTERFLIES BENEATH GLASS / APOTHECARY",
@@ -768,7 +780,8 @@ const e = [
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-pinned-in-time-like-butterflies-beneath-glass-apothecary/the-vulgar-fractions-pinned-in-time-like-butterflies-beneath-glass-apothecary.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-pinned-in-time-like-butterflies-beneath-glass-apothecary/the-vulgar-fractions-pinned-in-time-like-butterflies-beneath-glass-apothecary-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/the-vulgar-fractions-pinned-in-time-like-butterflies-beneath-glass-apothecary/the-vulgar-fractions-pinned-in-time-like-butterflies-beneath-glass-apothecary-wav.zip",
-    id: "a2a3770d62a93eb6f4c0c12f7a1ab291"
+    id: "a2a3770d62a93eb6f4c0c12f7a1ab291",
+    runtime: "07:10"
   },
   {
     title: "𝔓𝔰𝔞𝔩𝔪𝔰",
@@ -826,7 +839,8 @@ const e = [
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/psalms/psalms.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/psalms/psalms-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/psalms/psalms-wav.zip",
-    id: "75adcdc73d0a22661cb07e8cbeeed418"
+    id: "75adcdc73d0a22661cb07e8cbeeed418",
+    runtime: "59:05"
   },
   {
     title: "midwest_sad, part 2",
@@ -885,7 +899,8 @@ const e = [
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/midwest-sad-part-2/midwest-sad-part-2.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/midwest-sad-part-2/midwest-sad-part-2-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/midwest-sad-part-2/midwest-sad-part-2-wav.zip",
-    id: "4fc7ab2679a9ad08b467b9a440393dda"
+    id: "4fc7ab2679a9ad08b467b9a440393dda",
+    runtime: "59:25"
   },
   {
     title: "midwest_sad, part 1",
@@ -944,7 +959,8 @@ const e = [
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/midwest-sad-part-1/midwest-sad-part-1.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/midwest-sad-part-1/midwest-sad-part-1-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/midwest-sad-part-1/midwest-sad-part-1-wav.zip",
-    id: "f2ea2edfac50b70916a9e58cb68f7616"
+    id: "f2ea2edfac50b70916a9e58cb68f7616",
+    runtime: "59:18"
   },
   {
     title: "Brooklyn Vengeance",
@@ -1000,7 +1016,8 @@ const e = [
     release_slug: "brooklyn-vengeance",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/brooklyn-vengeance/brooklyn-vengeance.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/brooklyn-vengeance/brooklyn-vengeance-mp3.zip",
-    id: "8b88ef338d1415c1dbbf14888f1521cf"
+    id: "8b88ef338d1415c1dbbf14888f1521cf",
+    runtime: "01:00:01"
   },
   {
     title: "A report on our findings",
@@ -1128,7 +1145,8 @@ const e = [
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/northern-information/a-report-on-our-findings/a-report-on-our-findings.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/northern-information/a-report-on-our-findings/a-report-on-our-findings-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/northern-information/a-report-on-our-findings/a-report-on-our-findings-wav.zip",
-    id: "5408392f561c7758b446f0942e986a80"
+    id: "5408392f561c7758b446f0942e986a80",
+    runtime: "48:04"
   },
   {
     title: "DISSOLUTION",
@@ -1182,7 +1200,8 @@ const e = [
     release_slug: "dissolution",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/dissolution/dissolution.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/dissolution/dissolution-mp3.zip",
-    id: "d97b5a7b1f6912df2d48e6b3cbf5ee3b"
+    id: "d97b5a7b1f6912df2d48e6b3cbf5ee3b",
+    runtime: "01:01:44"
   },
   {
     title: "ELEGIES FOR ASHLEY",
@@ -1236,7 +1255,8 @@ const e = [
     release_slug: "elegies-for-ashley",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/elegies-for-ashley/elegies-for-ashley.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/elegies-for-ashley/elegies-for-ashley-mp3.zip",
-    id: "28a37f9d7721d8a41de460e993679e14"
+    id: "28a37f9d7721d8a41de460e993679e14",
+    runtime: "58:16"
   },
   {
     title: "baysinski event ii: world war iii",
@@ -1294,7 +1314,8 @@ const e = [
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/baysinski-event-ii-world-war-iii/baysinski-event-ii-world-war-iii.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/baysinski-event-ii-world-war-iii/baysinski-event-ii-world-war-iii-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/baysinski-event-ii-world-war-iii/baysinski-event-ii-world-war-iii-wav.zip",
-    id: "c6f39b58c83b4c44337a02768cca3322"
+    id: "c6f39b58c83b4c44337a02768cca3322",
+    runtime: "58:35"
   },
   {
     title: "FOXFIRES / KYBALION",
@@ -1351,7 +1372,8 @@ const e = [
     project_slug: "stuxnet",
     release_slug: "foxfires-kybalion",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/foxfires-kybalion/foxfires-kybalion.jpg",
-    id: "0e62e308856daf772abb74f2fbb9a181"
+    id: "0e62e308856daf772abb74f2fbb9a181",
+    runtime: "26:53"
   },
   {
     title: "KOWLOON WALLED CITY GIGA MIX",
@@ -1613,7 +1635,8 @@ const e = [
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/kowloon-walled-city-giga-mix.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/kowloon-walled-city-giga-mix-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/dj-stuxnet/kowloon-walled-city-giga-mix/kowloon-walled-city-giga-mix-wav.zip",
-    id: "e3ed2a5fa3fccc9539a7f073e37d1bd1"
+    id: "e3ed2a5fa3fccc9539a7f073e37d1bd1",
+    runtime: "09:55:15"
   },
   {
     title: "List of Stars in Cancer",
@@ -2981,7 +3004,8 @@ const e = [
     release_slug: "list-of-stars-in-cancer",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/list-of-stars-in-cancer.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/list-of-stars-in-cancer/list-of-stars-in-cancer-mp3.zip",
-    id: "e6f44232319b0dd9626e08ed278042dd"
+    id: "e6f44232319b0dd9626e08ed278042dd",
+    runtime: "01:52:48"
   },
   {
     title: "Distance",
@@ -3040,7 +3064,8 @@ const e = [
     release_slug: "distance",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/distance/distance.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/distance/distance-mp3.zip",
-    id: "8b3b872e9e763cdd2b0f1160d4d92c3e"
+    id: "8b3b872e9e763cdd2b0f1160d4d92c3e",
+    runtime: "19:28"
   },
   {
     title: "Radio Free Albemuth",
@@ -3120,7 +3145,8 @@ const e = [
     release_slug: "radio-free-albemuth",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/radio-free-albemuth/radio-free-albemuth.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/radio-free-albemuth/radio-free-albemuth-mp3.zip",
-    id: "98d9fdd5044c25d2156b67cc5ad582d0"
+    id: "98d9fdd5044c25d2156b67cc5ad582d0",
+    runtime: "47:38"
   },
   {
     title: "Rocket Summer",
@@ -3179,7 +3205,8 @@ const e = [
     release_slug: "rocket-summer",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/rocket-summer/rocket-summer.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/rocket-summer/rocket-summer-mp3.zip",
-    id: "1302633a2ff9e89c6f96bde5092ce75a"
+    id: "1302633a2ff9e89c6f96bde5092ce75a",
+    runtime: "30:42"
   },
   {
     title: "Respect for the Medium",
@@ -3238,7 +3265,8 @@ const e = [
     release_slug: "respect-for-the-medium",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/respect-for-the-medium/respect-for-the-medium.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/respect-for-the-medium/respect-for-the-medium-mp3.zip",
-    id: "2202436a6149d3349db14ee394af4605"
+    id: "2202436a6149d3349db14ee394af4605",
+    runtime: "22:49"
   },
   {
     title: "EP3",
@@ -3304,7 +3332,8 @@ const e = [
     release_slug: "ep3",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/ep3/ep3.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/ep3/ep3-mp3.zip",
-    id: "c7ee4757925b9b0c620503f1728b8921"
+    id: "c7ee4757925b9b0c620503f1728b8921",
+    runtime: "22:14"
   },
   {
     title: "IN DARKNESS RADIANT",
@@ -3400,7 +3429,8 @@ const e = [
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/in-darkness-radiant/in-darkness-radiant.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/in-darkness-radiant/in-darkness-radiant-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/in-darkness-radiant/in-darkness-radiant-wav.zip",
-    id: "fb698f2114760946e4fd0fc2576199a9"
+    id: "fb698f2114760946e4fd0fc2576199a9",
+    runtime: "18:31"
   },
   {
     title: "FADE SCATTER REPLICATE",
@@ -3488,7 +3518,8 @@ const e = [
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/fade-scatter-replicate/fade-scatter-replicate.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/fade-scatter-replicate/fade-scatter-replicate-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/fade-scatter-replicate/fade-scatter-replicate-wav.zip",
-    id: "f47f6e20ac3ac2097070539354fda463"
+    id: "f47f6e20ac3ac2097070539354fda463",
+    runtime: "22:40"
   },
   {
     title: "EP2",
@@ -3554,7 +3585,8 @@ const e = [
     release_slug: "ep2",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/ep2/ep2.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/ep2/ep2-mp3.zip",
-    id: "bc5996397e7215650926b7f7ccc90645"
+    id: "bc5996397e7215650926b7f7ccc90645",
+    runtime: "23:44"
   },
   {
     title: "Deep State Music",
@@ -3579,7 +3611,8 @@ const e = [
     project_slug: "sidereal-lobby",
     release_slug: "deep-state-music",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/sidereal-lobby/deep-state-music/deep-state-music.jpg",
-    id: "02cd98a73d97e2e915afc5da5d4eb7f3"
+    id: "02cd98a73d97e2e915afc5da5d4eb7f3",
+    runtime: "27:19"
   },
   {
     title: "FCIV",
@@ -3616,7 +3649,8 @@ const e = [
     project_slug: "sidereal-lobby",
     release_slug: "fciv",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/sidereal-lobby/fciv/fciv.jpg",
-    id: "059fb2cd3faa8fa9af2b1364c1190abe"
+    id: "059fb2cd3faa8fa9af2b1364c1190abe",
+    runtime: "12:48"
   },
   {
     title: "Beaches",
@@ -3659,7 +3693,8 @@ const e = [
     project_slug: "sidereal-lobby",
     release_slug: "beaches",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/sidereal-lobby/beaches/beaches.jpg",
-    id: "a1229abf8488160c3e3dbb02724a122b"
+    id: "a1229abf8488160c3e3dbb02724a122b",
+    runtime: "13:59"
   },
   {
     title: "HUMAN INTERFERENCE TASK FORCE",
@@ -3704,7 +3739,8 @@ const e = [
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/human-interference-task-force/human-interference-task-force.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/human-interference-task-force/human-interference-task-force-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/human-interference-task-force/human-interference-task-force-wav.zip",
-    id: "70d383f39cd6c320f14ae8f8112ab125"
+    id: "70d383f39cd6c320f14ae8f8112ab125",
+    runtime: "56:13"
   },
   {
     title: "COUNTERSURVEILLANCE",
@@ -3808,7 +3844,8 @@ const e = [
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/countersurveillance/countersurveillance.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/countersurveillance/countersurveillance-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/countersurveillance/countersurveillance-wav.zip",
-    id: "7339ec77045dfcc729a608f84b2cefa6"
+    id: "7339ec77045dfcc729a608f84b2cefa6",
+    runtime: "25:11"
   },
   {
     title: "LONG LIVE THE LOST ONES",
@@ -3928,7 +3965,8 @@ const e = [
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/long-live-the-lost-ones/long-live-the-lost-ones.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/long-live-the-lost-ones/long-live-the-lost-ones-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/long-live-the-lost-ones/long-live-the-lost-ones-wav.zip",
-    id: "7d8f67a125af6c412d1d5b08caa02412"
+    id: "7d8f67a125af6c412d1d5b08caa02412",
+    runtime: "39:17"
   },
   {
     title: "TIME'S FIREWALL (demo)",
@@ -3972,7 +4010,8 @@ const e = [
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/times-firewall-demo/times-firewall-demo.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/times-firewall-demo/times-firewall-demo-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/times-firewall-demo/times-firewall-demo-wav.zip",
-    id: "1b1c543e6914fcc678c4710c1ce600f4"
+    id: "1b1c543e6914fcc678c4710c1ce600f4",
+    runtime: "19:09"
   },
   {
     title: "MATRYOSHKA (demo)",
@@ -4088,7 +4127,8 @@ const e = [
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/matryoshka-demo/matryoshka-demo.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/matryoshka-demo/matryoshka-demo-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/matryoshka-demo/matryoshka-demo-wav.zip",
-    id: "008f7a37d4d2668958e8df4c2e2f1f77"
+    id: "008f7a37d4d2668958e8df4c2e2f1f77",
+    runtime: "26:05"
   },
   {
     title: "CIPHER SUITE (demo)",
@@ -4211,7 +4251,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/cipher-suite-demo/cipher-suite-demo.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/cipher-suite-demo/cipher-suite-demo-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/cipher-suite-demo/cipher-suite-demo-wav.zip",
-    id: "2324c584cb2ca86fba128a8e05d8fdd2"
+    id: "2324c584cb2ca86fba128a8e05d8fdd2",
+    runtime: "32:16"
   },
   {
     title: "CARRIER (demo)",
@@ -4303,7 +4344,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/carrier-demo/carrier-demo.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/carrier-demo/carrier-demo-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/stuxnet/carrier-demo/carrier-demo-wav.zip",
-    id: "e745f9e7855fd65dcdb2b682897def45"
+    id: "e745f9e7855fd65dcdb2b682897def45",
+    runtime: "40:08"
   },
   {
     title: "The Arecibo Lamentations",
@@ -4408,7 +4450,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     project_slug: "northern-information",
     release_slug: "the-arecibo-lamentations",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/northern-information/the-arecibo-lamentations/the-arecibo-lamentations.jpg",
-    id: "c2ebebb75e1854e07a28c58b790d07b6"
+    id: "c2ebebb75e1854e07a28c58b790d07b6",
+    runtime: "33:03"
   },
   {
     title: "EP1",
@@ -4474,7 +4517,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     release_slug: "ep1",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/ep1/ep1.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/they-became-what-they-beheld/ep1/ep1-mp3.zip",
-    id: "427cc1165076ec9eaeb68f427ca0b04b"
+    id: "427cc1165076ec9eaeb68f427ca0b04b",
+    runtime: "15:22"
   },
   {
     title: "Synergy Beat Music, Volume 1",
@@ -4565,7 +4609,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/synergy-beat/synergy-beat-music-volume-1/synergy-beat-music-volume-1.jpg",
     mp3_url: "https://d107e1o0dn11sc.cloudfront.net/synergy-beat/synergy-beat-music-volume-1/synergy-beat-music-volume-1-mp3.zip",
     wav_url: "https://d107e1o0dn11sc.cloudfront.net/synergy-beat/synergy-beat-music-volume-1/synergy-beat-music-volume-1-wav.zip",
-    id: "65fd91f4f1d83bd06ecaa0d7d241dbdd"
+    id: "65fd91f4f1d83bd06ecaa0d7d241dbdd",
+    runtime: "20:29"
   },
   {
     title: "reverence",
@@ -4682,7 +4727,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     project_slug: "tyler-etters-and-the-northern-information-movement",
     release_slug: "reverence",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/tyler-etters-and-the-northern-information-movement/reverence/reverence.jpg",
-    id: "ae5fd3fc099497038e2ce882fcd14959"
+    id: "ae5fd3fc099497038e2ce882fcd14959",
+    runtime: "49:46"
   },
   {
     title: "dispatches from the prime meridian",
@@ -4787,7 +4833,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     project_slug: "tyler-etters-and-the-northern-information-movement",
     release_slug: "dispatches-from-the-prime-meridian",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/tyler-etters-and-the-northern-information-movement/dispatches-from-the-prime-meridian/dispatches-from-the-prime-meridian.jpg",
-    id: "de4441b30b9342ace629d27eb493e311"
+    id: "de4441b30b9342ace629d27eb493e311",
+    runtime: "31:40"
   },
   {
     title: "the legacy of our lost cause",
@@ -4892,7 +4939,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     project_slug: "tyler-etters-and-the-northern-information-movement",
     release_slug: "the-legacy-of-our-lost-cause",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/tyler-etters-and-the-northern-information-movement/the-legacy-of-our-lost-cause/the-legacy-of-our-lost-cause.jpg",
-    id: "929ae24ecd6e72c6b4930203deeeaf44"
+    id: "929ae24ecd6e72c6b4930203deeeaf44",
+    runtime: "41:07"
   },
   {
     title: "and though the soft apocalypse may yet overtake",
@@ -5027,7 +5075,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     project_slug: "tyler-etters-and-the-northern-information-movement",
     release_slug: "and-though-the-soft-apocalypse-may-yet-overtake",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/tyler-etters-and-the-northern-information-movement/and-though-the-soft-apocalypse-may-yet-overtake/and-though-the-soft-apocalypse-may-yet-overtake.jpg",
-    id: "c3144c3c5ad6106cc1969496b91cd139"
+    id: "c3144c3c5ad6106cc1969496b91cd139",
+    runtime: "40:48"
   },
   {
     title: "zulu",
@@ -5102,7 +5151,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     project_slug: "tyler-etters-and-the-northern-information-movement",
     release_slug: "zulu",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/tyler-etters-and-the-northern-information-movement/zulu/zulu.jpg",
-    id: "31d14eaf9cf018baea6350db6162ad7d"
+    id: "31d14eaf9cf018baea6350db6162ad7d",
+    runtime: "13:24"
   },
   {
     title: "the phantoms of our lost cause",
@@ -5231,7 +5281,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     project_slug: "tyler-etters-and-the-northern-information-movement",
     release_slug: "the-phantoms-of-our-lost-cause",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/tyler-etters-and-the-northern-information-movement/the-phantoms-of-our-lost-cause/the-phantoms-of-our-lost-cause.jpg",
-    id: "fcf1f2058a03d49b8f29619d31c619f9"
+    id: "fcf1f2058a03d49b8f29619d31c619f9",
+    runtime: "47:42"
   },
   {
     title: "senescence",
@@ -5300,7 +5351,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     project_slug: "tyler-etters-and-the-northern-information-movement",
     release_slug: "senescence",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/tyler-etters-and-the-northern-information-movement/senescence/senescence.jpg",
-    id: "625b78aed26d0c5e3a26862346a1af79"
+    id: "625b78aed26d0c5e3a26862346a1af79",
+    runtime: "31:52"
   },
   {
     title: "blue, the most celestial color",
@@ -5399,7 +5451,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     project_slug: "tyler-etters-and-the-northern-information-movement",
     release_slug: "blue-the-most-celestial-color",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/tyler-etters-and-the-northern-information-movement/blue-the-most-celestial-color/blue-the-most-celestial-color.jpg",
-    id: "177d13192fa7eeb12a853bc0d6f9bf51"
+    id: "177d13192fa7eeb12a853bc0d6f9bf51",
+    runtime: "01:01:49"
   },
   {
     title: "the geometrie of our lost cause",
@@ -5462,7 +5515,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     project_slug: "tyler-etters-and-the-northern-information-movement",
     release_slug: "the-geometrie-of-our-lost-cause",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/tyler-etters-and-the-northern-information-movement/the-geometrie-of-our-lost-cause/the-geometrie-of-our-lost-cause.jpg",
-    id: "5b94665084e9383666494dd2aeee2517"
+    id: "5b94665084e9383666494dd2aeee2517",
+    runtime: "30:00"
   },
   {
     title: "Prolegomenon",
@@ -5512,7 +5566,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     project_slug: "connectedness-locus",
     release_slug: "prolegomenon",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/connectedness-locus/prolegomenon/prolegomenon.jpg",
-    id: "b81b68a8dbb48b92ef924c27b024503d"
+    id: "b81b68a8dbb48b92ef924c27b024503d",
+    runtime: "19:38"
   },
   {
     title: "Terraforms",
@@ -5598,7 +5653,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     project_slug: "connectedness-locus",
     release_slug: "terraforms",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/connectedness-locus/terraforms/terraforms.jpg",
-    id: "3fe45b5f7e852c3f57fc9e7d69df4942"
+    id: "3fe45b5f7e852c3f57fc9e7d69df4942",
+    runtime: "44:53"
   },
   {
     title: "When the Paint Peels",
@@ -5630,7 +5686,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     project_slug: "connectedness-locus",
     release_slug: "when-the-paint-peels",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/connectedness-locus/when-the-paint-peels/when-the-paint-peels.jpg",
-    id: "3e42cd3854a98c2ccdb67d6b00d094e2"
+    id: "3e42cd3854a98c2ccdb67d6b00d094e2",
+    runtime: "20:03"
   },
   {
     title: "Serial Index of Unclaimed Memories, File 1",
@@ -5703,7 +5760,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     project_slug: "everything-comes-in-cycles-everything-fades-in-shades",
     release_slug: "serial-index-of-unclaimed-memories-file-1",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/everything-comes-in-cycles-everything-fades-in-shades/serial-index-of-unclaimed-memories-file-1/serial-index-of-unclaimed-memories-file-1.jpg",
-    id: "7c17f9032a82f7d5b72bba8077e90632"
+    id: "7c17f9032a82f7d5b72bba8077e90632",
+    runtime: "55:31"
   },
   {
     title: "Serial Index of Unclaimed Memories, File 2",
@@ -5776,7 +5834,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     project_slug: "everything-comes-in-cycles-everything-fades-in-shades",
     release_slug: "serial-index-of-unclaimed-memories-file-2",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/everything-comes-in-cycles-everything-fades-in-shades/serial-index-of-unclaimed-memories-file-2/serial-index-of-unclaimed-memories-file-2.jpg",
-    id: "1c9c6115a870ac474cd94dddc0784176"
+    id: "1c9c6115a870ac474cd94dddc0784176",
+    runtime: "59:22"
   },
   {
     title: "As Quippolous Codes Quietly Count",
@@ -5886,7 +5945,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     project_slug: "connectedness-locus",
     release_slug: "as-quippolous-codes-quietly-count",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/connectedness-locus/as-quippolous-codes-quietly-count/as-quippolous-codes-quietly-count.jpg",
-    id: "5c035b2d74c9b91e8ee60dad6cb7ff48"
+    id: "5c035b2d74c9b91e8ee60dad6cb7ff48",
+    runtime: "47:14"
   },
   {
     title: "Gates E.P.",
@@ -5941,7 +6001,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     project_slug: "everything-comes-in-cycles-everything-fades-in-shades",
     release_slug: "gates-ep",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/everything-comes-in-cycles-everything-fades-in-shades/gates-ep/gates-ep.jpg",
-    id: "caf45dac76274be06727c7d56ac56c04"
+    id: "caf45dac76274be06727c7d56ac56c04",
+    runtime: "25:07"
   },
   {
     title: "Suntelia Aeon",
@@ -6032,7 +6093,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     project_slug: "inocula",
     release_slug: "suntelia-aeon",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/inocula/suntelia-aeon/suntelia-aeon.jpg",
-    id: "490f035adcb234345071bf11451a0bba"
+    id: "490f035adcb234345071bf11451a0bba",
+    runtime: "53:50"
   },
   {
     title: "Organica Lensing",
@@ -6057,7 +6119,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     project_slug: "lucid-end",
     release_slug: "organica-lensing",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/lucid-end/organica-lensing/organica-lensing.jpg",
-    id: "f40b8fab6a769b9fe83381804833ed09"
+    id: "f40b8fab6a769b9fe83381804833ed09",
+    runtime: "04:02"
   },
   {
     title: "The Killing Tree",
@@ -6082,7 +6145,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     project_slug: "lucid-end",
     release_slug: "the-killing-tree",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/lucid-end/the-killing-tree/the-killing-tree.jpg",
-    id: "613757a6f0f4979088bab8776e3f9def"
+    id: "613757a6f0f4979088bab8776e3f9def",
+    runtime: "04:08"
   },
   {
     title: "Time to Breathe; Time to Think",
@@ -6167,7 +6231,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     project_slug: "lucid-end",
     release_slug: "time-to-breathe-time-to-think",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/lucid-end/time-to-breathe-time-to-think/time-to-breathe-time-to-think.jpg",
-    id: "1e1da4b27d7e7d24fc3b1f0002ae2770"
+    id: "1e1da4b27d7e7d24fc3b1f0002ae2770",
+    runtime: "48:56"
   },
   {
     title: "Descent Into Dreams",
@@ -6270,7 +6335,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     project_slug: "ix",
     release_slug: "descent-into-dreams",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/ix/descent-into-dreams/descent-into-dreams.jpg",
-    id: "8f34ac41a602d8314011dbe313ca493b"
+    id: "8f34ac41a602d8314011dbe313ca493b",
+    runtime: "51:34"
   },
   {
     title: "Yet These Memories Isolated Us",
@@ -6307,7 +6373,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     project_slug: "ix",
     release_slug: "yet-these-memories-isolated-us",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/ix/yet-these-memories-isolated-us/yet-these-memories-isolated-us.jpg",
-    id: "ec265196f2f2313b847cea4a92ddddca"
+    id: "ec265196f2f2313b847cea4a92ddddca",
+    runtime: "11:46"
   },
   {
     title: "Files",
@@ -6368,7 +6435,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     project_slug: "lucid-end",
     release_slug: "files",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/lucid-end/files/files.jpg",
-    id: "39b60215e9fe359406cf4267c7204996"
+    id: "39b60215e9fe359406cf4267c7204996",
+    runtime: "34:59"
   },
   {
     title: "Ix E.P.",
@@ -6435,7 +6503,8 @@ watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/9644
     project_slug: "ix",
     release_slug: "ix-ep",
     cover_url: "https://d107e1o0dn11sc.cloudfront.net/ix/ix-ep/ix-ep.jpg",
-    id: "7b7481c3fb254d86c41ca3c27f8e0392"
+    id: "7b7481c3fb254d86c41ca3c27f8e0392",
+    runtime: "28:45"
   }
 ];
 export {

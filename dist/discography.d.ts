@@ -32,6 +32,7 @@ export declare const discography: ({
     mp3_url: string;
     wav_url: string;
     id: string;
+    runtime: string;
     monospaceNotes?: undefined;
 } | {
     title: string;
@@ -65,6 +66,7 @@ export declare const discography: ({
     mp3_url: string;
     wav_url: string;
     id: string;
+    runtime: string;
     slug?: undefined;
     monospaceNotes?: undefined;
 } | {
@@ -98,6 +100,7 @@ export declare const discography: ({
     mp3_url: string;
     wav_url: string;
     id: string;
+    runtime: string;
     slug?: undefined;
     trackIds?: undefined;
     monospaceNotes?: undefined;
@@ -134,6 +137,7 @@ export declare const discography: ({
     mp3_url: string;
     wav_url: string;
     id: string;
+    runtime: string;
     monospaceNotes?: undefined;
 } | {
     title: string;
@@ -165,6 +169,7 @@ export declare const discography: ({
     cover_url: string;
     mp3_url: string;
     id: string;
+    runtime: string;
     slug?: undefined;
     wav_url?: undefined;
     monospaceNotes?: undefined;
@@ -195,6 +200,7 @@ export declare const discography: ({
     release_slug: string;
     cover_url: string;
     id: string;
+    runtime: string;
     slug?: undefined;
     trackIds?: undefined;
     mp3_url?: undefined;
@@ -233,6 +239,7 @@ export declare const discography: ({
     mp3_url: string;
     wav_url: string;
     id: string;
+    runtime: string;
     slug?: undefined;
     trackIds?: undefined;
     monospaceNotes?: undefined;
@@ -265,6 +272,7 @@ export declare const discography: ({
     cover_url: string;
     mp3_url: string;
     id: string;
+    runtime: string;
     slug?: undefined;
     trackIds?: undefined;
     wav_url?: undefined;
@@ -291,6 +299,7 @@ export declare const discography: ({
     release_slug: string;
     cover_url: string;
     id: string;
+    runtime: string;
     slug?: undefined;
     trackIds?: undefined;
     streams?: undefined;
@@ -323,6 +332,7 @@ export declare const discography: ({
     mp3_url: string;
     wav_url: string;
     id: string;
+    runtime: string;
     slug?: undefined;
     trackIds?: undefined;
     streams?: undefined;
@@ -359,6 +369,7 @@ export declare const discography: ({
     mp3_url: string;
     wav_url: string;
     id: string;
+    runtime: string;
     slug?: undefined;
     trackIds?: undefined;
 } | {
@@ -393,6 +404,7 @@ export declare const discography: ({
     mp3_url: string;
     wav_url: string;
     id: string;
+    runtime: string;
     slug?: undefined;
     trackIds?: undefined;
     monospaceNotes?: undefined;
