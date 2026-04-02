@@ -1,3 +1,36 @@
+- title: SINGULARITY PROTOCOL
+  slug: singularity-protocol
+  project: DJ STUXNET
+  released: 02026-04-02
+  type: Mix
+  format: Digital
+  role: DJ
+  label: Intertext
+  mp3: true
+  wav: true
+  trackIds:
+    - "Meditation by Eduard Artemyev"
+    - "Gnosis by Russian Circles"
+    - "Берег моря (Из к/ф 'Красная палатка') by Aleksandr Zatsepin"
+    - "Slow Moving Trains / The Cowboy... / Drugs in Tokyo by Godspeed You! Black Emperor"
+    - "The Great Leap Forward Poured Down Upon Us One Day Like A Mighty Storm, Suddenly And Furiously Blinding Our Senses. by Red Sparowes"
+    - "Ataraxia by Hilyard"
+    - "Tablet III by Blood Incantation"
+    - "And Technological Advancements by SIOUM"
+  tracks:
+    - number: 1
+      title: SINGULARITY PROTOCOL
+      slug: singularity-protocol
+      length: 00:59:56
+  streams:
+    - platform: SoundCloud
+      url: https://soundcloud.com/tyleretters/singularity-protocol-mixtape
+    - platform: Untitled Stream
+      url: https://untitled.stream/library/project/Tl87IWEW1j4hbdPMI9cUU
+  notes: From everywhere and all at once.
+
+  credits: STUXNET is Tyler Etters.
+
 - title: Incendiary Nocturne
   slug: incendiary-nocturne
   project: DJ STUXNET
