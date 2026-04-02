@@ -62,7 +62,9 @@ After updating `src/discography.yml`:
 
 ```zsh
 git add . && git commit -m "++" && git push origin main
-npm version patch && npm publish
+npm login
+npm version patch
+npm publish
 ```
 
 `npm publish` automatically runs `npm run build` via the `prepublishOnly` hook, so there's no need to build manually before publishing.
@@ -74,5 +76,5 @@ npm i @tyleretters/discography
 ```
 
 ```typescript
-import discography from '@tyleretters/discography'
+import discography from "@tyleretters/discography";
 ```
