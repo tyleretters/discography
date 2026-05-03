@@ -1,3 +1,47 @@
+- title: 𝐻𝑒𝒶𝓇𝓉𝓈 𝒾𝓃 𝒱𝒶𝓁𝑒𝓃𝒸𝒾𝒶, 𝒞𝒽𝒶𝓅𝓉𝑒𝓇 𝟥
+  slug: hearts-in-valencia-chapter-3
+  project: DJ STUXNET
+  released: 02026-05-01
+  type: Mix
+  format: Digital
+  role: DJ
+  label: Intertext
+  mp3: true
+  wav: true
+  trackIds:
+    - "Boulevard of Broken Dreams by Green Day"
+    - "Nowhere To Go by Bad Omens"
+    - "Planets of the Universe by Stevie Nicks"
+    - "alife by Slowdive"
+    - "Hypnotized by Anyma & Ellie Goulding"
+    - "I See Right Through To You by DJ Encore & Engelina"
+    - "After All by Delerium & Jaël"
+    - "My Last Breath by Evanescence"
+    - "How You Remind Me by Nickelback"
+    - "INtro by The xx"
+    - "SexOnTheBeat by ADÉLA"
+    - "Crushcrushcrush by Paramore"
+    - "Days Go By by Dirty Vegas"
+    - "I Feel So Free by Madonna"
+    - "Forever by The Amity Affliction"
+  tracks:
+    - number: 1
+      title: 𝐻𝑒𝒶𝓇𝓉𝓈 𝒾𝓃 𝒱𝒶𝓁𝑒𝓃𝒸𝒾𝒶, 𝒞𝒽𝒶𝓅𝓉𝑒𝓇 𝟥
+      slug: hearts-in-valencia-chapter-3
+      length: 00:59:44
+  streams:
+    - platform: SoundCloud
+      url: https://soundcloud.com/tyleretters/hearts-in-valencia-chapter-3-mixtape
+    - platform: Untitled Stream
+      url: https://untitled.stream/library/project/8s6Ty4mznuL8GvCBKWszv
+  notes: |
+    We can't live forever
+    But our love will never die
+    Will you hold me in your heart?
+    Be the light when it gets dark?
+    We can't live forever
+  credits: STUXNET is Tyler Etters.
+
 - title: SINGULARITY PROTOCOL
   slug: singularity-protocol
   project: DJ STUXNET
