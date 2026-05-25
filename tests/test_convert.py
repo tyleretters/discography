@@ -151,7 +151,7 @@ class TestMakeTrackTitle:
 class TestCdnPath:
     def test_basic(self):
         result = cdn_path("my-project", "my-release")
-        assert result == "https://d107e1o0dn11sc.cloudfront.net/my-project/my-release"
+        assert result == "https://assets.the-rn.info/my-project/my-release"
 
 
 # --- validate_release ---
@@ -204,7 +204,7 @@ class TestEnrichRelease:
     def test_generates_cover_url(self):
         result = enrich_release(_make_release())
         assert result["cover_url"] == (
-            "https://d107e1o0dn11sc.cloudfront.net/"
+            "https://assets.the-rn.info/"
             "test-project/test-album/test-album.jpg"
         )
 

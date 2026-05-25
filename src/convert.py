@@ -15,7 +15,7 @@ from typing import Any
 
 import yaml
 
-CDN_BASE_URL = "https://d107e1o0dn11sc.cloudfront.net/"
+CDN_BASE_URL = "https://assets.the-rn.info/"
 DIR_PATH = os.path.dirname(os.path.realpath(__file__))
 YML_PATH = os.path.join(DIR_PATH, "discography.yml")
 TS_PATH = os.path.join(DIR_PATH, "discography.ts")
