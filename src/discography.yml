@@ -3338,8 +3338,8 @@
   format: Digital
   role: Band Member
   label: Endless Field Studios
-  mp3: false
-  wav: false
+  mp3: true
+  wav: true
   tracks:
     - number: 1
       title: Between Sunlight And Shadow
@@ -3380,8 +3380,8 @@
   format: Digital
   role: Band Member
   label: Endless Field Studios
-  mp3: false
-  wav: false
+  mp3: true
+  wav: true
   tracks:
     - number: 1
       title: Movement 802
