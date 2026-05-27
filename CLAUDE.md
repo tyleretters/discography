@@ -18,14 +18,14 @@ npm publish        # Publish to npm (auto-builds via prepublishOnly)
 ```
 
 ```bash
-source src/venv/bin/activate
+source venv/bin/activate
 pytest tests/      # Run Python test suite
 ```
 
 Python scripts require the venv (see README Setup):
 
 ```zsh
-cd src && source venv/bin/activate
+source venv/bin/activate
 ```
 
 ## Project Structure
@@ -75,8 +75,8 @@ The converter enriches these with `*_slug`, `*_url`, `runtime`, and `id` fields.
 Use `scrape_bandcamp.py` to pull data from a Bandcamp album page:
 
 ```zsh
-cd src && source venv/bin/activate
-python3 scrape_bandcamp.py <bandcamp_url> \
+source venv/bin/activate
+python3 src/scrape_bandcamp.py <bandcamp_url> \
   --my-artist "Your Artist Name" \
   --project "Your Project Name" \
   --role Artist \

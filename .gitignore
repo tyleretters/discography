@@ -2,7 +2,7 @@ src/discography.ts
 dist/
 .DS_Store
 node_modules
-src/venv
+venv
 my_env
 .claude
 .ruff_cache

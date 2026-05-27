@@ -14,17 +14,16 @@
 ```zsh
 cd discography
 npm i
-cd src
 python3 -m venv venv
 source venv/bin/activate
-pip install -r requirements.txt
+pip install -r src/requirements.txt
 ```
 
 ## Adding a Compilation
 
 ```zsh
-cd src && source venv/bin/activate
-python3 scrape_bandcamp.py <bandcamp_url> \
+source venv/bin/activate
+python3 src/scrape_bandcamp.py <bandcamp_url> \
   --my-artist "Your Artist Name" \
   --project "Your Project Name" \
   --role Artist \
@@ -46,7 +45,7 @@ This runs the full pipeline: Python converter (YAML to TS), Vite bundler (ESM + 
 ## Test
 
 ```zsh
-source src/venv/bin/activate
+source venv/bin/activate
 pytest tests/
 ```
 
