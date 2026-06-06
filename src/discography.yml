@@ -1,3 +1,39 @@
+- title: FORGOTTEN INDUSTRIES
+  slug: forgotten-industries
+  project: DJ STUXNET
+  released: 02026-06-06
+  type: Mix
+  format: Digital
+  role: DJ
+  label: Intertext
+  mp3: true
+  wav: true
+  trackIds:
+    - "Monster in Paradise (feat. Milkie Way, Dave Lombardo, Tyler Bates & Tim Cappello) by GUNSHIP"
+    - "Rhythm Is a Dancer (12'' Version) by Snap!"
+    - "Cities In Dust by Siouxsie & The Banshees"
+    - "That House by Dance With the Dead"
+    - "Halloween Theme by John Carpenter, Cody Carpenter & Daniel Davies"
+    - "Ruh by She Past Away"
+    - "Torukia by Gabriela Robin"
+    - "Future Club by Perturbator"
+    - "Maybe Someday (LP Version) by The Cure"
+    - "Maybe We Should / Non-Consent by The Black Queen"
+    - "Nose to the Grindstone (Skeler Remix) by Skeler & Devilish Trio"
+    - "When I Held Your Hand by DJ B"
+  tracks:
+    - number: 1
+      title: FORGOTTEN INDUSTRIES
+      slug: forgotten-industries
+      length: 00:58:01
+  streams:
+    - platform: SoundCloud
+      url: https://soundcloud.com/tyleretters/forgotten-industries-mixtape
+    - platform: Untitled Stream
+      url: https://untitled.stream/library/project/Yv5lWf2VRiGxvGqK1tkgf
+  notes: For Matthew.
+  credits: STUXNET is Tyler Etters.
+
 - title: 𝐻𝑒𝒶𝓇𝓉𝓈 𝒾𝓃 𝒱𝒶𝓁𝑒𝓃𝒸𝒾𝒶, 𝒞𝒽𝒶𝓅𝓉𝑒𝓇 𝟥
   slug: hearts-in-valencia-chapter-3
   project: DJ STUXNET
