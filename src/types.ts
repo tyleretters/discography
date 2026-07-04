@@ -1,4 +1,4 @@
-export type ReleaseType = 'Mix' | 'LP' | 'EP' | 'Single' | 'OST' | 'Compilation' | 'Triple LP' | 'Demo'
+export type ReleaseType = 'Mix' | 'LP' | 'EP' | 'Single' | 'OST' | 'Compilation' | 'Triple LP' | 'Demo' | 'Anthology'
 export type ReleaseFormat = 'Digital' | 'CD-R' | 'Vinyl' | 'CD' | 'CD, Digital' | 'Cassette, Digital'
 export type ReleaseRole = 'DJ' | 'Artist' | 'Producer' | 'Musician' | 'Band Member' | 'Principal Musician' | 'Operator'
 
