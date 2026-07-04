@@ -53,7 +53,7 @@ source venv/bin/activate
 The converter validates each release at build time:
 
 - Required fields: `project`, `title`, `type`, `format`, `role`, `mp3`, `wav`, `notes`, `credits`
-- `type` must be one of: Mix, LP, EP, Single, OST, Compilation, Triple LP, Demo
+- `type` must be one of: Mix, LP, EP, Single, OST, Compilation, Triple LP, Demo, Anthology
 - `format` must be one of: Digital, CD-R, Vinyl, CD, CD Digital, Cassette Digital
 - `role` must be one of: DJ, Artist, Producer, Musician, Band Member, Principal Musician, Operator
 - `mp3` and `wav` must be booleans

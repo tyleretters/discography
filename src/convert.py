@@ -31,7 +31,7 @@ SPECIAL_TITLE_MAPS = {
   'A White USB Drive With "HEXAGON" iStock Logo #1135496271': 'A White USB Drive With "HEXAGON" iStock Logo &num;1135496271'
 }
 
-VALID_TYPES = {"Mix", "LP", "EP", "Single", "OST", "Compilation", "Triple LP", "Demo"}
+VALID_TYPES = {"Mix", "LP", "EP", "Single", "OST", "Compilation", "Triple LP", "Demo", "Anthology"}
 VALID_FORMATS = {"Digital", "CD-R", "Vinyl", "CD", "CD, Digital", "Cassette, Digital"}
 VALID_ROLES = {"DJ", "Artist", "Producer", "Musician", "Band Member", "Principal Musician", "Operator"}
 
