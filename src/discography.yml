@@ -22,13 +22,13 @@
     - "Daytime Tv by Richie Culver"
     - "A Glass Can Only Spill What It Contains by mewithoutYou"
     - "Final Movement (Feat. \"Not At Home\") by Clint Mansell & Peter Broderick"
-    - "I'll Keep Coming by Low Roar"
+    - "Steal Compass / Drive North / Disappear by Set Fire to Flames"
     - "Where the Circle Ends by Thursday"
   tracks:
     - number: 1
       title: cd LOST_DIR && ./DISAPPEAR
       slug: lost-dir-disappear
-      length: 00:59:25
+      length: 00:59:24
   notes: |
     I have grown tired of the struggle
     And I've grown tired of making plans
