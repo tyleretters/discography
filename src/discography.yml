@@ -1,5 +1,5 @@
 - title: cd LOST_DIR && ./DISAPPEAR
-  slug: lost-dir-disappear
+  slug: cd-lost-dir-and-disappear
   project: DJ STUXNET
   released: 02026-08-11
   type: Mix
@@ -27,7 +27,7 @@
   tracks:
     - number: 1
       title: cd LOST_DIR && ./DISAPPEAR
-      slug: lost-dir-disappear
+      slug: cd-lost-dir-and-disappear
       length: 00:59:24
   notes: |
     I have grown tired of the struggle
