@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-"""Scrape a Bandcamp album page and generate a discography.yml entry.
+"""Scrape a Bandcamp album page and generate a discography.toml entry.
 
 Usage:
     python3 src/scrape_bandcamp.py <bandcamp_url> [options]
@@ -9,7 +9,7 @@ Options:
     --my-artist <name>   Your artist name on this release (auto-detects your tracks)
     --project <name>     Your project name for this release
     --role <role>        Your role (default: Artist)
-    --add                Prepend the generated entry to discography.yml
+    --add                Prepend the generated entry to discography.toml
 
 Example:
     python3 src/scrape_bandcamp.py https://synergybeat.bandcamp.com/album/synergy-beat-music-volume-1 \\
@@ -30,10 +30,10 @@ import urllib.request
 from datetime import datetime
 from typing import Optional
 
-import yaml
+import toml_emit
 
 DIR_PATH = os.path.dirname(os.path.realpath(__file__))
-YML_PATH = os.path.join(DIR_PATH, "discography.yml")
+TOML_PATH = os.path.join(DIR_PATH, "discography.toml")
 
 
 def fetch_page(url: str) -> str:
@@ -84,7 +84,7 @@ def prompt(message: str, default: Optional[str] = None) -> str:
 
 def main() -> None:
     parser = argparse.ArgumentParser(
-        description="Scrape a Bandcamp album and generate a discography.yml entry",
+        description="Scrape a Bandcamp album and generate a discography.toml entry",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog=__doc__,
     )
@@ -92,7 +92,7 @@ def main() -> None:
     parser.add_argument("--my-artist", help="Your artist name (auto-detects your tracks)")
     parser.add_argument("--project", help="Your project name for this release")
     parser.add_argument("--role", help="Your role on this release (e.g. Artist, Producer, Remixer)")
-    parser.add_argument("--add", action="store_true", help="Prepend the entry to discography.yml")
+    parser.add_argument("--add", action="store_true", help="Prepend the entry to discography.toml")
     args = parser.parse_args()
 
     print(f"Fetching {args.url} ...")
@@ -158,14 +158,15 @@ def main() -> None:
     project = args.project or prompt("Your project name")
     role = args.role or prompt("Your role", "Artist")
 
-    notes_prompt = "Notes (leave blank for null)"
+    # toml has no null, so a blank note becomes "None." per the data convention
+    notes_prompt = "Notes (leave blank for none)"
     raw_notes = prompt(notes_prompt, bandcamp_about or "")
-    notes = raw_notes.strip() if raw_notes.strip() else None
+    notes = raw_notes.strip() if raw_notes.strip() else "None."
 
     default_credits = bandcamp_credits or f"{project} is Tyler Etters."
     credits = prompt("Credits", default_credits)
 
-    # Build the entry dict — key order matches discography.yml conventions
+    # Build the entry dict — key order matches discography.toml conventions
     entry: dict = {
         "title": album_title,
         "project": project,
@@ -191,34 +192,29 @@ def main() -> None:
             "length": seconds_to_length(t["duration"]),
         })
 
-    # Serialize to YAML
-    # PyYAML doesn't support str | None type hints natively on older versions; cast to str for sort_keys
-    yaml_str = yaml.dump(
-        [entry],
-        allow_unicode=True,
-        default_flow_style=False,
-        sort_keys=False,
-    )
+    # Serialize to TOML
+    toml_str = toml_emit.dump_releases([entry])
 
-    print("\n--- Generated YAML ---\n")
-    print(yaml_str)
+    print("\n--- Generated TOML ---\n")
+    print(toml_str)
 
     if args.add:
         try:
-            with open(YML_PATH) as f:
+            with open(TOML_PATH, encoding="utf-8") as f:
                 existing = f.read()
             with tempfile.NamedTemporaryFile(
-                mode="w", dir=DIR_PATH, delete=False, suffix=".yml"
+                mode="w", dir=DIR_PATH, delete=False, suffix=".toml", encoding="utf-8"
             ) as tmp:
-                tmp.write(yaml_str + existing)
-            os.replace(tmp.name, YML_PATH)
-            print(f"Prepended to {YML_PATH}")
+                # a blank line keeps the new [[release]] clear of the next one
+                tmp.write(toml_str + "\n" + existing)
+            os.replace(tmp.name, TOML_PATH)
+            print(f"Prepended to {TOML_PATH}")
             print("Review the entry, then run: npm run build")
         except OSError as e:
-            print(f"Error writing to {YML_PATH}: {e}", file=sys.stderr)
+            print(f"Error writing to {TOML_PATH}: {e}", file=sys.stderr)
             sys.exit(1)
     else:
-        print("Run with --add to prepend directly to discography.yml")
+        print("Run with --add to prepend directly to discography.toml")
 
 
 if __name__ == "__main__":
