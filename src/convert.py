@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 '''
-convert the yml to json.
+convert the toml to json.
 
 see README.md for more information.
 '''
@@ -13,12 +13,22 @@ import re
 import sys
 from typing import Any
 
-import yaml
+try:
+  import tomllib
+except ModuleNotFoundError:
+  import tomli as tomllib
 
 CDN_BASE_URL = "https://assets.the-rn.info/"
 DIR_PATH = os.path.dirname(os.path.realpath(__file__))
-YML_PATH = os.path.join(DIR_PATH, "discography.yml")
+TOML_PATH = os.path.join(DIR_PATH, "discography.toml")
 TS_PATH = os.path.join(DIR_PATH, "discography.ts")
+
+# toml puts arrays of tables after every scalar key, so tracks and streams
+# always parse last. restore the source order to keep the output stable.
+KEY_ORDER = [
+  "title", "slug", "project", "released", "type", "format", "role", "label",
+  "mp3", "wav", "trackIds", "tracks", "streams", "monospaceNotes", "notes", "credits",
+]
 
 SPECIAL_SLUG_MAPS = {
   "ΑΙΓΑΙΙΣ": "AIGAIIS",
@@ -91,6 +101,14 @@ def make_html_paragraphs(text: str) -> str:
 def cdn_path(project_slug: str, release_slug: str) -> str:
   """Build the CDN base path for a release."""
   return f"{CDN_BASE_URL}{project_slug}/{release_slug}"
+
+
+def order_keys(release: dict[str, Any]) -> dict[str, Any]:
+  """Return the release with its keys in canonical source order."""
+  ordered = {key: release[key] for key in KEY_ORDER if key in release}
+  # keep any key not in the canonical list rather than dropping it
+  ordered.update({key: value for key, value in release.items() if key not in ordered})
+  return ordered
 
 
 def validate_release(release: dict[str, Any]) -> None:
@@ -178,24 +196,24 @@ def enrich_release(release: dict[str, Any]) -> dict[str, Any]:
 
 
 def main() -> None:
-  # load data
+  # load data. tomllib needs the file in binary mode
   try:
-    with open(YML_PATH) as yml_file:
-      data = yaml.safe_load(yml_file)
+    with open(TOML_PATH, "rb") as toml_file:
+      data = tomllib.load(toml_file).get("release")
   except FileNotFoundError:
-    print(f"Error: Could not find {YML_PATH}", file=sys.stderr)
+    print(f"Error: Could not find {TOML_PATH}", file=sys.stderr)
     sys.exit(1)
-  except yaml.YAMLError as e:
-    print(f"Error: Invalid YAML in {YML_PATH}: {e}", file=sys.stderr)
+  except tomllib.TOMLDecodeError as e:
+    print(f"Error: Invalid TOML in {TOML_PATH}: {e}", file=sys.stderr)
     sys.exit(1)
 
   if not data:
-    print("Error: No data found in YAML file", file=sys.stderr)
+    print("Error: No data found in TOML file", file=sys.stderr)
     sys.exit(1)
 
   # enrich data
   try:
-    enriched = [enrich_release(release) for release in data]
+    enriched = [enrich_release(order_keys(release)) for release in data]
   except ValueError as e:
     print(f"Error: {e}", file=sys.stderr)
     sys.exit(1)

@@ -1,10 +1,13 @@
-"""Tests for the YAML-to-TypeScript converter."""
+"""Tests for the TOML-to-TypeScript converter."""
 
 import hashlib
+import os
 
 import pytest
 
+import toml_emit
 from convert import (
+    TOML_PATH,
     cdn_path,
     enrich_release,
     format_runtime,
@@ -12,7 +15,9 @@ from convert import (
     make_id,
     make_slug,
     make_track_title,
+    order_keys,
     parse_length_seconds,
+    tomllib,
     validate_release,
 )
 
@@ -267,3 +272,72 @@ class TestEnrichRelease:
         result = enrich_release(release)
         assert "id" in result["streams"][0]
         assert len(result["streams"][0]["id"]) == 64
+
+
+# --- toml_emit ---
+
+
+class TestTomlEmit:
+    def test_round_trips_a_release(self):
+        release = _make_release(notes="Line one\nLine two\n")
+        release["streams"] = [{"platform": "Bandcamp", "url": "https://x.example/a?b=1&c=2"}]
+        parsed = tomllib.loads(toml_emit.dump_releases([release]))["release"][0]
+        assert order_keys(parsed) == order_keys(release)
+
+    def test_keeps_dates_and_lengths_as_strings(self):
+        # unquoted, toml reads these as a date and a local time, which would
+        # change the output types and silently churn every id
+        parsed = tomllib.loads(toml_emit.dump_releases([_make_release()]))["release"][0]
+        assert parsed["released"] == "02024-01-01"
+        assert isinstance(parsed["released"], str)
+        assert isinstance(parsed["tracks"][0]["length"], str)
+
+    def test_preserves_multiline_art(self):
+        art = "+--[ED25519]--+\n| o..         |\n+-------------+\n"
+        release = _make_release(notes=art, monospaceNotes=True)
+        parsed = tomllib.loads(toml_emit.dump_releases([release]))["release"][0]
+        assert parsed["notes"] == art
+
+    def test_handles_quotes_in_values(self):
+        release = _make_release(title="Song \"One\"", credits="Ix is Paul's band.")
+        parsed = tomllib.loads(toml_emit.dump_releases([release]))["release"][0]
+        assert parsed["title"] == 'Song "One"'
+        assert parsed["credits"] == "Ix is Paul's band."
+
+    def test_rejects_unrepresentable_values(self):
+        with pytest.raises(ValueError, match="control character"):
+            toml_emit.dump_releases([_make_release(notes="bad\x00value")])
+
+
+# --- the real data file ---
+
+
+class TestDiscographyToml:
+    """Regression net over the actual source of truth."""
+
+    @staticmethod
+    def _load():
+        with open(TOML_PATH, "rb") as f:
+            return tomllib.load(f)["release"]
+
+    def test_parses(self):
+        assert os.path.exists(TOML_PATH)
+        assert len(self._load()) > 0
+
+    def test_every_release_enriches(self):
+        for release in self._load():
+            enrich_release(order_keys(release))
+
+    def test_id_fingerprint_is_stable(self):
+        """Guards against silent hash churn from a type or string change."""
+        ids = []
+        for release in self._load():
+            enriched = enrich_release(order_keys(release))
+            ids.append(enriched["id"])
+            for track in enriched.get("tracks", []):
+                ids.append(track["id"])
+            for stream in enriched.get("streams", []):
+                ids.append(stream["id"])
+        fingerprint = hashlib.sha256("".join(ids).encode("utf-8")).hexdigest()
+        assert len(ids) == 897
+        assert fingerprint == "6747673c00da86c46688bebb26ea08c824ae2cb1a6cd4a33795edb1d7e25f8b4"
