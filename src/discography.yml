@@ -29,6 +29,11 @@
       title: cd LOST_DIR && ./DISAPPEAR
       slug: cd-lost-dir-and-disappear
       length: 00:59:24
+  streams:
+    - platform: SoundCloud
+      url: https://soundcloud.com/tyleretters/cd-lost-dir-and-disappear
+    - platform: Untitled Stream
+      url: https://untitled.stream/library/project/XxWnO2VL1fNG6QedAwsMQ
   notes: |
     I have grown tired of the struggle
     And I've grown tired of making plans
