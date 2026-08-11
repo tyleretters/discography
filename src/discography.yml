@@ -1,3 +1,46 @@
+- title: cd LOST_DIR && ./DISAPPEAR
+  slug: cd-lost-dir-and-disappear
+  project: DJ STUXNET
+  released: 02026-08-11
+  type: Mix
+  format: Digital
+  role: DJ
+  label: Intertext
+  mp3: true
+  wav: true
+  trackIds:
+    - "Circle by Slipknot"
+    - "The District Sleeps Alone Tonight by The Postal Service"
+    - "There's a river in the valley made of melting snow by Silver Mt. Zion"
+    - "This Could Be Heartbreak by The Amity Affliction"
+    - "Burning by King Buffalo"
+    - "Into the Fire (OP Version) by LEVEL NINE, Cosmograph & Victor Borba"
+    - "Nops by DJ Lag"
+    - "Midsummer Snooze by Hirotaka Shirotsubaki"
+    - "Reminder by Moderat"
+    - "Lost Memory by LEVEL NINE & Ryo Nakamura"
+    - "Daytime Tv by Richie Culver"
+    - "A Glass Can Only Spill What It Contains by mewithoutYou"
+    - "Final Movement (Feat. \"Not At Home\") by Clint Mansell & Peter Broderick"
+    - "Steal Compass / Drive North / Disappear by Set Fire to Flames"
+    - "Where the Circle Ends by Thursday"
+  tracks:
+    - number: 1
+      title: cd LOST_DIR && ./DISAPPEAR
+      slug: cd-lost-dir-and-disappear
+      length: 00:59:24
+  streams:
+    - platform: SoundCloud
+      url: https://soundcloud.com/tyleretters/cd-lost-dir-and-disappear
+    - platform: Untitled Stream
+      url: https://untitled.stream/library/project/XxWnO2VL1fNG6QedAwsMQ
+  notes: |
+    I have grown tired of the struggle
+    And I've grown tired of making plans
+    I think I'll quit to the valley
+    Regain my strength and start again
+  credits: STUXNET is Tyler Etters.
+
 - title: journal
   project: tyler etters & the northern information movement
   released: 02026-07-04
