@@ -1,4 +1,48 @@
 [[release]]
+title = 'REMEMBRANCER 1: "AMOR FATI"'
+project = 'DJ STUXNET'
+released = "02026-10-02"
+type = 'Mix'
+format = 'Digital'
+role = 'DJ'
+label = 'Intertext'
+mp3 = true
+wav = true
+trackIds = [
+  'Misty Mountains by Richard Armitage & The Dwarf Cast',
+  'Takedown by HUNTR/X, EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast',
+  'Whitewash by Buckethead',
+  'Save Theme (Remake Version) by 大本望美 & Shusaku Uchiyama',
+  "Cover the Moon When I'm Gone by Fernando Cabrera & Ella Norte",
+  'Breaking the Habit by LINKIN PARK',
+  'Ritual (feat. Tom Schley) by 1000 Eyes',
+  'Myst Theme by Robyn Miller',
+  'Corsetry by Rebecca Black',
+  "If I'm James Dean, You're Audrey Hepburn by Sleeping With Sirens",
+  'The Void by Parkway Drive',
+  'Event by Gábor Lázár',
+  'Seduction by Intrusion',
+  'Amanita by Of The Trees',
+  'Untitled by Rod Modell & Taka Noda',
+  'Warm Absence by Ayami Suzuki',
+]
+notes = 'None.'
+credits = 'STUXNET is Tyler Etters.'
+
+[[release.tracks]]
+number = 1
+title = 'REMEMBRANCER 1: "AMOR FATI"'
+length = "00:58:56"
+
+[[release.streams]]
+platform = 'SoundCloud'
+url = 'https://soundcloud.com/tyleretters/remembrancer-1-amor-fati'
+
+[[release.streams]]
+platform = 'Untitled Stream'
+url = 'https://untitled.stream/library/project/LQV36JzBsMGmAvKmebCzT'
+
+[[release]]
 title = 'cd LOST_DIR && ./DISAPPEAR'
 slug = 'cd-lost-dir-and-disappear'
 project = 'DJ STUXNET'
