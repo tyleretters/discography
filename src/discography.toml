@@ -1,4 +1,48 @@
 [[release]]
+title = 'REMEMBRANCER 2: "IMPERIUM IN IMPERIO"'
+project = 'DJ STUXNET'
+released = "02026-11-06"
+type = 'Mix'
+format = 'Digital'
+role = 'DJ'
+label = 'Intertext'
+mp3 = true
+wav = true
+trackIds = [
+  'Room-00 by Cosmograph',
+  'Salvation by Darkest Hour',
+  'Protection Glass (Love Is the Cure) by Internazionale',
+  'Fire Escape in the Sea by Sea Power',
+  'Draw Me by Pigeon John',
+  'Untitled by Rod Modell & Taka Noda',
+  'Nothing from No One by Bvdub',
+  'Around the World in a Tea Daze (Ott Remix) by Shpongle',
+  'Clear by Cybotron',
+  'Cold Light by LEVEL NINE & Cosmograph',
+  'Leopards, Pt. 2 by Vanessa Amara',
+  'Poison Tree by Grouper',
+  'Ecstatic Vibrations, Totally Transcendent by Sea Power',
+  'Survivor Guilt by Rise Against',
+  'Zero Parades by Fernando Cabrera',
+  'I Want to make you Smile by NieN'
+]
+notes = 'None.'
+credits = 'STUXNET is Tyler Etters.'
+
+[[release.tracks]]
+number = 1
+title = 'REMEMBRANCER 2: "IMPERIUM IN IMPERIO"'
+length = "01:02:21"
+
+[[release.streams]]
+platform = 'SoundCloud'
+url = 'https://soundcloud.com/tyleretters/remembrancer-2-imperium-in'
+
+[[release.streams]]
+platform = 'Untitled Stream'
+url = 'https://untitled.stream/library/project/N508HZ4Fi2Jggcjuoqmdc'
+
+[[release]]
 title = 'REMEMBRANCER 1: "AMOR FATI"'
 project = 'DJ STUXNET'
 released = "02026-10-02"
