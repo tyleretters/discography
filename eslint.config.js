@@ -12,13 +12,5 @@ export default tseslint.config(
     rules: {
       "@typescript-eslint/no-unused-vars": ["error", { argsIgnorePattern: "^_" }],
     },
-  },
-  {
-    files: ["vite.config.js"],
-    languageOptions: {
-      globals: {
-        __dirname: "readonly",
-      },
-    },
   }
 );

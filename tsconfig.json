@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "rootDir": "src",
     "outDir": "dist",
     "module": "esnext",
     "target": "esnext",
@@ -7,7 +8,7 @@
     "sourceMap": true,
     "declaration": true,
     "emitDeclarationOnly": true,
-    "moduleResolution": "node",
+    "moduleResolution": "bundler",
     "forceConsistentCasingInFileNames": true,
     "skipLibCheck": true
   },
