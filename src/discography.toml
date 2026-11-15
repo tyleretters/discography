@@ -1,4 +1,35 @@
 [[release]]
+title = 'REMEMBRANCER 3: "ATARAXIA"'
+project = 'DJ STUXNET'
+released = "02026-11-15"
+type = 'Mix'
+format = 'Digital'
+role = 'DJ'
+label = 'Intertext'
+mp3 = true
+wav = true
+trackIds = [
+  'Convalescence by Darkest Hour',
+  'Meaningless by Deadships',
+  'Fade Away by The Amity Affliction',
+  'Left Behind by Slipknot',
+  "We're Never giving up (Goddess of Victory: NIKKE Original Soundtrack) [ZxNX Remix] by LEVEL NINE & Cosmograph",
+  'The Element of One by Killswitch Engage',
+  'Functional Invisibility by Fernando Cabrera',
+  'On the Banks of the Old Kishwaukee by Ryley Walker',
+  "It's Been Awhile by Staind",
+  'Hung Over As The Oven In Maida by Godspeed You! Black Emperor',
+  'Damage Done by Bleeding Through',
+]
+notes = 'None.'
+credits = 'STUXNET is Tyler Etters.'
+
+[[release.tracks]]
+number = 1
+title = 'REMEMBRANCER 3: "ATARAXIA"'
+length = "00:00:00"
+
+[[release]]
 title = 'REMEMBRANCER 2: "IMPERIUM IN IMPERIO"'
 project = 'DJ STUXNET'
 released = "02026-11-06"
