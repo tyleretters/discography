@@ -28,7 +28,6 @@ import sys
 import tempfile
 import urllib.request
 from datetime import datetime
-from typing import Optional
 
 import toml_emit
 
@@ -75,7 +74,7 @@ def clean_title(title: str, artist: str) -> str:
     return title
 
 
-def prompt(message: str, default: Optional[str] = None) -> str:
+def prompt(message: str, default: str | None = None) -> str:
     if default is not None:
         raw = input(f"{message} [{default}]: ").strip()
         return raw if raw else default
