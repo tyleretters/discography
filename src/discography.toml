@@ -29,6 +29,14 @@ number = 1
 title = 'REMEMBRANCER 3: "ATARAXIA"'
 length = "00:57:54"
 
+[[release.streams]]
+platform = 'SoundCloud'
+url = 'https://soundcloud.com/tyleretters/remembrancer-3-ataraxia'
+
+[[release.streams]]
+platform = 'Untitled Stream'
+url = 'https://untitled.stream/library/project/jAlOZK9j3J0dSj80e1tXf'
+
 [[release]]
 title = 'REMEMBRANCER 2: "IMPERIUM IN IMPERIO"'
 project = 'DJ STUXNET'
