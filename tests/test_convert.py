@@ -340,4 +340,4 @@ class TestDiscographyToml:
                 ids.append(stream["id"])
         fingerprint = hashlib.sha256("".join(ids).encode("utf-8")).hexdigest()
         assert len(ids) == 909
-        assert fingerprint == "871464bde2d3ba1b4d6d103a7f53c846d1734f1a50e764d9ecd01e947cec7ca9"
+        assert fingerprint == "42323e5bb7f343bba0c0b856cc973bb7ea4960798424fef548a72c02419b257c"

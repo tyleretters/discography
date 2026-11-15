@@ -1592,6 +1592,7 @@ length = "00:07:02"
 [[release.tracks]]
 number = 3
 title = "Pod Song (Obibe's Tale) x helen_g"
+slug = 'pod-song-obibes-tale-x-helen-g'
 length = "00:03:46"
 
 [[release.tracks]]
@@ -1602,6 +1603,7 @@ length = "00:06:33"
 [[release.tracks]]
 number = 5
 title = 'Time Tunnel x Jano.987'
+slug = 'time-tunnel-x-jano-987'
 length = "00:03:03"
 
 [[release.tracks]]
@@ -1622,6 +1624,7 @@ length = "00:06:39"
 [[release.tracks]]
 number = 9
 title = 'Hempishere Sync x Tony MF'
+slug = 'hemisphere-sync-x-tony-mf'
 length = "00:03:17"
 
 [[release.tracks]]
@@ -3109,12 +3112,12 @@ title = 'Radio Free Albemuth'
 length = "00:01:34"
 
 [[release.tracks]]
-number = 1
+number = 2
 title = 'Exegesis'
 length = "00:12:15"
 
 [[release.tracks]]
-number = 1
+number = 3
 title = 'Ichthys'
 length = "00:02:31"
 
