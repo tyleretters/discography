@@ -17,6 +17,13 @@ without it:
 source venv/bin/activate
 ```
 
+On a fresh checkout, create it first. `src/requirements.txt` pins pytest and Ruff:
+
+```zsh
+python3 -m venv venv
+venv/bin/pip install -r src/requirements.txt
+```
+
 ```bash
 npm run build      # Full build: convert TOML → TS, compile, bundle
 npm run convert    # Just run the Python converter
@@ -65,6 +72,8 @@ The converter validates each release at build time:
 - `format` must be one of: Digital, CD-R, Vinyl, CD, `CD, Digital`, `Cassette, Digital`
 - `role` must be one of: DJ, Artist, Producer, Musician, Band Member, Principal Musician, Operator
 - `mp3` and `wav` must be booleans
+
+`test_id_fingerprint_is_stable` in `tests/test_convert.py` pins the count and a SHA256 of every generated ID. Any data change that adds or edits releases, tracks, or streams fails it on purpose. Confirm the change was intended, then update both values.
 
 ## Release Schema
 

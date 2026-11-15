@@ -3,7 +3,6 @@ dist/
 .DS_Store
 node_modules
 venv
-my_env
 .claude
 .ruff_cache
 .pytest_cache
