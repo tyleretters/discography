@@ -1,4 +1,37 @@
 [[release]]
+title = 'REMEMBRANCER 4: "FORTES FORTUNA ADIUVAT"'
+project = 'DJ STUXNET'
+released = "02026-11-21"
+type = 'Mix'
+format = 'Digital'
+role = 'DJ'
+label = 'Intertext'
+mp3 = true
+wav = true
+trackIds = [
+  'Starseeker by LEVEL NINE, Cosmograph & AKA',
+  'Lost to Apathy by Dark Tranquillity',
+  'Gravesite Plain by Yuka Kitamura',
+  "Hunter's Dream by Ryan Amon",
+  'Stranded by GOJIRA',
+  'Sorceress by Opeth',
+  'In Response to Stars by Misery Signals',
+  'Bleed by Meshuggah',
+  "I've Got Ten Friends and a Crowbar That Says You Ain't Gonna Do Jack by Underoath",
+  'Paralyzed by As I Lay Dying',
+  'Around The World by Skeler & Juche',
+  'Ashtray Wasp by Burial',
+  'Rusty Nails by Moderat',
+]
+notes = 'None.'
+credits = 'STUXNET is Tyler Etters.'
+
+[[release.tracks]]
+number = 1
+title = 'REMEMBRANCER 4: "FORTES FORTUNA ADIUVAT"'
+length = "01:02:27"
+
+[[release]]
 title = 'REMEMBRANCER 3: "ATARAXIA"'
 project = 'DJ STUXNET'
 released = "02026-11-15"
