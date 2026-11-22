@@ -1,7 +1,7 @@
 [[release]]
 title = 'REMEMBRANCER 4: "FORTES FORTUNA ADIUVAT"'
 project = 'DJ STUXNET'
-released = "02026-11-21"
+released = "02026-11-22"
 type = 'Mix'
 format = 'Digital'
 role = 'DJ'
@@ -11,25 +11,31 @@ wav = true
 trackIds = [
   'Starseeker by LEVEL NINE, Cosmograph & AKA',
   'Lost to Apathy by Dark Tranquillity',
-  'Gravesite Plain by Yuka Kitamura',
-  "Hunter's Dream by Ryan Amon",
-  'Stranded by GOJIRA',
-  'Sorceress by Opeth',
-  'In Response to Stars by Misery Signals',
-  'Bleed by Meshuggah',
-  "I've Got Ten Friends and a Crowbar That Says You Ain't Gonna Do Jack by Underoath",
-  'Paralyzed by As I Lay Dying',
+  'Old Snake (Metal Gear Solid 4: Guns of the Patriots) by Harry Gregson-Williams',
   'Around The World by Skeler & Juche',
-  'Ashtray Wasp by Burial',
+  'Stranded by GOJIRA',
+  'Bleed by Meshuggah',
+  "Hunter's Dream by Ryan Amon",
+  'Sorceress by Opeth',
+  "I've Got Ten Friends and a Crowbar That Says You Ain't Gonna Do Jack by Underoath",
   'Rusty Nails by Moderat',
+  'Gravesite Plain by Yuka Kitamura',
+  'Paralyzed by As I Lay Dying',
+  'Ashtray Wasp by Burial',
+  'In Response to Stars by Misery Signals',
 ]
-notes = 'None.'
+notes = '''
+"Heed," it commands
+"Heed my will"
+"Bleed," it says
+"Bleed you will"
+'''
 credits = 'STUXNET is Tyler Etters.'
 
 [[release.tracks]]
 number = 1
 title = 'REMEMBRANCER 4: "FORTES FORTUNA ADIUVAT"'
-length = "01:02:27"
+length = "00:57:38"
 
 [[release]]
 title = 'REMEMBRANCER 3: "ATARAXIA"'
